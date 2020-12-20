@@ -21,8 +21,6 @@ Meine Notizen sind geordnet, in **Domänen**.
 
 [[Chemie]]
 
-[[Informatik]]
-
 ## Setup und Workflows für meinen Zettelkasten und meine wissenschaftliche Arbeit
 
 ### Obsidian-Setup
