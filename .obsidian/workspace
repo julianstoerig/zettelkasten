@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🏡Home.md",
+            "file": "Zoonose.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏡Home.md",
+                "file": "Zoonose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏡Home.md"
+                "file": "Zoonose.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🏡Home.md",
+                "file": "Zoonose.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -161,15 +161,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "🏡Home.md",
+    "Zoonose.md",
     "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "🏡Home.md",
     "CSS snippets.md",
     "Exzerpte/undefined - Anmerkungen herauskopieren (20.12.2020, 150353)Accepted 4 August 2020 (Mulligan et al 2020589)Published online 1.md",
     "Exzerpte/undefined - Anmerkungen herauskopieren (20.12.2020, 144914).md",
     "Exzerpte/Untitled.md",
-    "test MDnotes.md",
-    "aaa attachments/undefined - Anmerkungen herauskopieren (20.12.2020, 144914).md",
-    "Elektronenkonfiguration.md",
-    "VSEPR-Strukturmodell.md"
+    "test MDnotes.md"
   ]
 }
