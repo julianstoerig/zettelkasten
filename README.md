@@ -41,4 +41,4 @@ Meine Notizen sind **nach Fachbereich geordnet**.
 
 ## Warum README?
 
-Diese
+Dieses Projekt ist nicht nur hier auf ["Obsidian publish"](https://publish.obsidian.md/julian)
