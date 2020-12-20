@@ -7,9 +7,9 @@ Dies sind meine persönlichen Aufzeichnungen und ich übernehme keine Garantie f
 
 ---
 
-Meine Notizen sind **nach Fachbereich geordnet**.
+Meine Notizen sind geordnet, in **Domänen**.
 
-## Fachbereiche:
+## Domänen:
 
 [[Physik]]
 
@@ -19,20 +19,20 @@ Meine Notizen sind **nach Fachbereich geordnet**.
 
 [[Botanik]]
 
-[[Allgemeine Chemie]]
+[[Chemie]]
 
-[[Anorganische Chemie]]
+[[Informatik]]
 
-[[Organische Chemie]]
+## Setup und Workflows für meinen Zettelkasten und meine wissenschaftliche Arbeit
 
-## Setup und Workflows
+### Obsidian-Setup
 
 [[CSS snippets]]
 
-### Workflows
+### Workflow-Dokumentation
 
 [[Zotero Paper workflow|Papers importieren]]
 
 ## Warum README?
 
-Dieses Projekt ist nicht nur hier auf ["Obsidian publish"](https://publish.obsidian.md/julian-storig), sondern auch auf ["github"](https://www.github.com/julianstoerig/zettelkasten).
+Dieses Projekt ist nicht nur hier auf ["Obsidian publish"](https://publish.obsidian.md/julian-storig), sondern auch auf ["github"](https://www.github.com/julianstoerig/zettelkasten) verfügbar. Dort kann man sich eine aktuelle .zip-Datei des Projektes herunterladen.

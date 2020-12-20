@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Informatik.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Fach-allgemeine-und-anorganische-Chemie",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +91,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Informatik.md"
+              }
             }
           },
           {
@@ -96,6 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Informatik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -150,15 +157,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Informatik.md",
     "README.md",
+    "Botanik.md",
+    "Zoologie.md",
+    "Mikrobiologie.md",
     "Untitled.md",
     "Chemie.md",
     "allg.-und-anorg.-Chemie/allg. und anorg. Chemie Notizen für Prüfung 18.12.md",
     "allg.-und-anorg.-Chemie/Anion.md",
-    "Zoologie/Systematik.md",
-    "Zoologie/Antatomische-Richtungs--und-Ebenenbezeichnungen.md",
-    "mikroaerophil.md",
-    "Untitled 1.md",
-    "🏡Home.md"
+    "Zoologie/Systematik.md"
   ]
 }
