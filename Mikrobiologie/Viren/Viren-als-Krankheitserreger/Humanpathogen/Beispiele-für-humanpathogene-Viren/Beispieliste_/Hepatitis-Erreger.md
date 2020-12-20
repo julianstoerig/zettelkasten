@@ -1,5 +1,0 @@
-- Hepatitis-Erreger
-    - ![](https://remnote-user-data.s3.amazonaws.com/BOlnMH4GnYfBqfEATo53j-j6-0KGiCrzyXOlqX9cusO3_4az5D1-tX0WM9yUprxCEG3vwza9HBbv93I57xfgNq-pPIIL5TgMJQ4X7RoRaNPae2hGSVVqpJJDy7C8VeZU)  Liste aller bekannten Hepatitis-Erreger
-    - Sonderform: Hepatitis Delta Virus**: **defektes Virus, dem das Replikationsgen fehlt, er ist daher von HBV abhängig   
-    - à bei Vermehrung auf Hilfe des HBV angewiesen, da keine eigenen Gene für Replikation
-    - ![](https://remnote-user-data.s3.amazonaws.com/eXFnTRuHSh9PRhQb48Gc0Xt-liwkz4tF-_gwfi5io4IRqgy-0bakVQfwZhcd-AxQnG59LQKy6BoaQEDGhTOG9SOPh1QszUxRoMi3WsocpHXcDgLOd1m_rOsB8XutYw-u)![](https://remnote-user-data.s3.amazonaws.com/R09fD4OT0VYw9MOi2GJx04sSp_LrIsXJofBYeGS29lqqL2A15D7Qlukg-l-IU4zq1BHzkIS1fRk0pAHfWAWqje6vtrRfy6aD808LfpRJZPwl-iES2Z_bq5pidkgTDCFI)![](https://remnote-user-data.s3.amazonaws.com/ntiqT1VNQsiIvTuRwmWImR1X4rIoejgkmKOwRGCEkSnN9ulArqw36NszLEUrDX6QhdAszcmSjicaGemK0UMpNZeLur-8S79wnfxKNntXKxopaqHQ8A2wl0BefLcy049v) __                                                                                              von links nach rechts: __ Hepatitis-A-Virus; Hepatitis-B-Virus; Hepatitis-C-Virus 
