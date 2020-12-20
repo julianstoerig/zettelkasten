@@ -7,14 +7,12 @@ Dies sind meine persönlichen Aufzeichnungen und ich übernehme keine Garantie f
 
 Sollte allerdings jemand einen **Fehler** finden, der auch auf dem Niveau der Aufzeichnungen schon relevant ist, wäre ich dankbar wenn mir über diesen berichtet würde:
 
-![[julian.stoerig@gmail.com captcha style.png]]
-(ignore the '-' between g and mail)
-
 ---
 
 Meine Notizen sind **nach Fachbereich geordnet**.
 
 ## Fachbereiche:
+
 [[Physik]]
 
 [[Mikrobiologie]]
@@ -28,8 +26,6 @@ Meine Notizen sind **nach Fachbereich geordnet**.
 [[Anorganische Chemie]]
 
 [[Organische Chemie]]
-
-## Notizen
 
 ## Setup und Workflows
 
