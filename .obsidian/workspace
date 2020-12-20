@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zoonose.md",
+            "file": "fdfdfdfdfd.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zoonose.md",
+                "file": "fdfdfdfdfd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zoonose.md"
+                "file": "fdfdfdfdfd.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zoonose.md",
+                "file": "fdfdfdfdfd.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -136,11 +136,8 @@
             "id": "d1634155e62c21e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratchpad.md",
-                "mode": "source"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -161,15 +158,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "fdfdfdfdfd.md",
+    "Extra-Card-Detail.md",
+    "McJmTBJymGRh2bAgb.md",
+    "scratchpad.md",
+    "RexOx Reaktionen.md",
+    "Stub.md",
+    "Test.md",
+    "Summenformel.md",
     "Zoonose.md",
-    "Untitled.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "🏡Home.md",
-    "CSS snippets.md",
-    "Exzerpte/undefined - Anmerkungen herauskopieren (20.12.2020, 150353)Accepted 4 August 2020 (Mulligan et al 2020589)Published online 1.md",
-    "Exzerpte/undefined - Anmerkungen herauskopieren (20.12.2020, 144914).md",
-    "Exzerpte/Untitled.md",
-    "test MDnotes.md"
+    "Untitled.md"
   ]
 }

@@ -1,1 +1,0 @@
-- Extra Card Detail
