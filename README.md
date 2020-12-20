@@ -38,3 +38,7 @@ Meine Notizen sind **nach Fachbereich geordnet**.
 ### Workflows
 
 [[Zotero Paper workflow|Papers importieren]]
+
+## Warum README?
+
+Diese

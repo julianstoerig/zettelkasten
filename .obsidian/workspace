@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🏡Home.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏡Home.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏡Home.md"
+                "file": "README.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🏡Home.md",
+                "file": "README.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
