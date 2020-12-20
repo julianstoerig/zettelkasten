@@ -41,4 +41,4 @@ Meine Notizen sind **nach Fachbereich geordnet**.
 
 ## Warum README?
 
-Dieses Projekt ist nicht nur hier auf ["Obsidian publish"](https://publish.obsidian.md/julian)
+Dieses Projekt ist nicht nur hier auf ["Obsidian publish"](https://publish.obsidian.md/julian-storig), sondern auch auf ["github"](https://www.github.com/julianstoerig/zettelkasten)
