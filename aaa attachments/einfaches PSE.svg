@@ -1,0 +1,5030 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Do not edit with Inkscape! This destroys easy editing with a plaintext editor with blockmarking. -->
+
+<!-- Bitte nicht mit Inkscape oder einer anderen SVG-Software editieren!
+ Das Layout dieser Datei ist so ausgewählt, dass man mit einem Plaintext-Editor, welcher Blockauswahl beherrscht,
+ die Daten und Koordinaten leicht mittels C&P (z. B. von Excel) ändern kann. -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="2100px"
+   height="1100px"
+   viewBox="0 0 2100 1100"
+   xml:space="preserve"
+   style="stroke-linecap:square;"
+   id="svg1522"
+   sodipodi:docname="Periodensystem_Einfach.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata1526"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1137"
+   id="namedview1524"
+   showgrid="false"
+   inkscape:zoom="0.85090909"
+   inkscape:cx="1050"
+   inkscape:cy="173.93162"
+   inkscape:window-x="-4"
+   inkscape:window-y="-4"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg1522" />
+	<defs
+   id="defs90">
+		<!-- Two overlaid rectangles instead of stroke to workaround the nonnegative limit of x-link.
+		The outer border of the tables needs to be repaint later to prevent half strokewidth. -->
+		<symbol
+   id="Farbe01"> <!-- Alkalimetall -->
+			<rect
+   x="0"
+   y="0"
+   width="100"
+   height="100"
+   style="stroke :none; fill :#000000"
+   id="rect10" />
+			<rect
+   x="1"
+   y="1"
+   width="98"
+   height="98"
+   style="stroke :none; fill :#FF8888"
+   id="rect12" />
+		</symbol>
+		<symbol
+   id="Farbe02"> <!-- ErdAlkalimetall -->
+			<rect
+   x="0"
+   y="0"
+   width="100"
+   height="100"
+   style="stroke :none; fill :#000000"
+   id="rect15" />
+			<rect
+   x="1"
+   y="1"
+   width="98"
+   height="98"
+   style="stroke :none; fill :#FFAADD"
+   id="rect17" />
+		</symbol>
+		<symbol
+   id="Farbe03"> <!-- Übergangsmetall -->
+			<rect
+   x="0"
+   y="0"
+   width="100"
+   height="100"
+   style="stroke :none; fill :#000000"
+   id="rect20" />
+			<rect
+   x="1"
+   y="1"
+   width="98"
+   height="98"
+   style="stroke :none; fill :#BBFFFF"
+   id="rect22" />
+		</symbol>
+		<symbol
+   id="Farbe04"> <!-- Lanthanoid -->
+			<rect
+   x="0"
+   y="0"
+   width="100"
+   height="100"
+   style="stroke :none; fill :#000000"
+   id="rect25" />
+			<rect
+   x="1"
+   y="1"
+   width="98"
+   height="98"
+   style="stroke :none; fill :#FFCC99"
+   id="rect27" />
+		</symbol>
+		<symbol
+   id="Farbe05"> <!-- Actinoid -->
+			<rect
+   x="0"
+   y="0"
+   width="100"
+   height="100"
+   style="stroke :none; fill :#000000"
+   id="rect30" />
+			<rect
+   x="1"
+   y="1"
+   width="98"
+   height="98"
+   style="stroke :none; fill :#FFBB77"
+   id="rect32" />
+		</symbol>
+		<symbol
+   id="Farbe06"> <!-- Metall -->
+			<rect
+   x="0"
+   y="0"
+   width="100"
+   height="100"
+   style="stroke :none; fill :#000000"
+   id="rect35" />
+			<rect
+   x="1"
+   y="1"
+   width="98"
+   height="98"
+   style="stroke :none; fill :#CCCCCC"
+   id="rect37" />
+		</symbol>
+		<symbol
+   id="Farbe07"> <!-- Halbmetall -->
+			<rect
+   x="0"
+   y="0"
+   width="100"
+   height="100"
+   style="stroke :none; fill :#000000"
+   id="rect40" />
+			<rect
+   x="1"
+   y="1"
+   width="98"
+   height="98"
+   style="stroke :none; fill :#DDDDBB"
+   id="rect42" />
+		</symbol>
+		<symbol
+   id="Farbe08"> <!-- Nichtmetall -->
+			<rect
+   x="0"
+   y="0"
+   width="100"
+   height="100"
+   style="stroke :none; fill :#000000"
+   id="rect45" />
+			<rect
+   x="1"
+   y="1"
+   width="98"
+   height="98"
+   style="stroke :none; fill :#99FF99"
+   id="rect47" />
+		</symbol>
+		<symbol
+   id="Farbe09"> <!-- Halogen -->
+			<rect
+   x="0"
+   y="0"
+   width="100"
+   height="100"
+   style="stroke :none; fill :#000000"
+   id="rect50" />
+			<rect
+   x="1"
+   y="1"
+   width="98"
+   height="98"
+   style="stroke :none; fill :#FFFF99"
+   id="rect52" />
+		</symbol>
+		<symbol
+   id="Farbe10"> <!-- Edelgas -->
+			<rect
+   x="0"
+   y="0"
+   width="100"
+   height="100"
+   style="stroke :none; fill :#000000"
+   id="rect55" />
+			<rect
+   x="1"
+   y="1"
+   width="98"
+   height="98"
+   style="stroke :none; fill :#BBBBFF"
+   id="rect57" />
+		</symbol>
+		<symbol
+   id="Farbe11"> <!-- Platzhalter und unbekannt -->
+			<rect
+   x="0"
+   y="0"
+   width="100"
+   height="100"
+   style="stroke :none; fill :#000000"
+   id="rect60" />
+			<rect
+   x="1"
+   y="1"
+   width="98"
+   height="98"
+   style="stroke :none; fill :#FFFFFF"
+   id="rect62" />
+		</symbol>
+		<symbol
+   id="Schraffur"><!-- Overlay Schraffur: weiße senkrechte Streifen -->
+			<clipPath
+   id="myClip">
+				<rect
+   width="98"
+   height="98"
+   x="1"
+   y="1"
+   id="rect65" />
+			</clipPath>
+			<g
+   style="stroke :none; fill :#FFFFFF; stroke :none; clip-path :url(#myClip);"
+   clip-path="url(#myClip)"
+   id="g84">
+				<rect
+   x="5"
+   y="1"
+   width="6"
+   height="98"
+   id="rect68" />
+				<rect
+   x="17"
+   y="1"
+   width="6"
+   height="98"
+   id="rect70" />
+				<rect
+   x="29"
+   y="1"
+   width="6"
+   height="98"
+   id="rect72" />
+				<rect
+   x="41"
+   y="1"
+   width="6"
+   height="98"
+   id="rect74" />
+				<rect
+   x="53"
+   y="1"
+   width="6"
+   height="98"
+   id="rect76" />
+				<rect
+   x="65"
+   y="1"
+   width="6"
+   height="98"
+   id="rect78" />
+				<rect
+   x="77"
+   y="1"
+   width="6"
+   height="98"
+   id="rect80" />
+				<rect
+   x="89"
+   y="1"
+   width="6"
+   height="98"
+   id="rect82" />
+			</g>
+		</symbol>
+		<!-- Overlay Dreieck: Dreiecke oben rechts. Die Farbe wird bei der Einbindung festgelegt. -->
+		<symbol
+   id="Dreieck">
+				<polygon
+   points="1,1 99,1 99,99"
+   id="polygon87" />
+		</symbol>
+	</defs>
+	<rect
+   id="Papier"
+   x="0"
+   y="0"
+   width="2000"
+   height="1000"
+   style="stroke :none; fill :#FFFFFF" />
+	<g
+   id="Tabelle"
+   transform="translate(100,50)">
+		<!-- Koordinaten, relativ in Bezug auf die Transformation:
+		Gruppe:  1   2    3   xx   4    5    6    7    8    9   10    11    12    13    14    15    16    17    18   Ende
+		X-Wert:  0, 100, 200,300,400, 500, 600, 700, 800, 900, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1700, 1800, 1900
+
+		Periode: 1   2    3    4    5    6    7  Ende         Lan  Act  Ende
+		Y-Wert:  0, 100, 200, 300, 400, 500, 600, 700, sowie  800, 900, 1000
+		-->
+		<g
+   id="Rechtecke">
+			<!-- Periode 1 -->
+			<use
+   id="UseOz001"
+   x="0"
+   y="0"
+   xlink:href="#Farbe08" /><!-- Hier hinten Schraffur oder Dreiecke -->
+			<use
+   id="UseOz002"
+   x="1800"
+   y="0"
+   xlink:href="#Farbe10" />
+			<!-- Periode 2 -->
+			<use
+   id="UseOz003"
+   x="0"
+   y="100"
+   xlink:href="#Farbe01" />
+			<use
+   id="UseOz004"
+   x="100"
+   y="100"
+   xlink:href="#Farbe02" />
+			<use
+   id="UseOz005"
+   x="1300"
+   y="100"
+   xlink:href="#Farbe07" />
+			<use
+   id="UseOz006"
+   x="1400"
+   y="100"
+   xlink:href="#Farbe08" />
+			<use
+   id="UseOz007"
+   x="1500"
+   y="100"
+   xlink:href="#Farbe08" />
+			<use
+   id="UseOz008"
+   x="1600"
+   y="100"
+   xlink:href="#Farbe08" />
+			<use
+   id="UseOz009"
+   x="1700"
+   y="100"
+   xlink:href="#Farbe09" />
+			<use
+   id="UseOz010"
+   x="1800"
+   y="100"
+   xlink:href="#Farbe10" />
+			<!-- Periode 3 -->
+			<use
+   id="UseOz011"
+   x="0"
+   y="200"
+   xlink:href="#Farbe01" />
+			<use
+   id="UseOz012"
+   x="100"
+   y="200"
+   xlink:href="#Farbe02" />
+			<use
+   id="UseOz013"
+   x="1300"
+   y="200"
+   xlink:href="#Farbe06" />
+			<use
+   id="UseOz014"
+   x="1400"
+   y="200"
+   xlink:href="#Farbe07" />
+			<use
+   id="UseOz015"
+   x="1500"
+   y="200"
+   xlink:href="#Farbe08" />
+			<use
+   id="UseOz016"
+   x="1600"
+   y="200"
+   xlink:href="#Farbe08" />
+			<use
+   id="UseOz017"
+   x="1700"
+   y="200"
+   xlink:href="#Farbe09" />
+			<use
+   id="UseOz018"
+   x="1800"
+   y="200"
+   xlink:href="#Farbe10" />
+			<!-- Periode 4 -->
+			<use
+   id="UseOz019"
+   x="0"
+   y="300"
+   xlink:href="#Farbe01" />
+			<use
+   id="UseOz020"
+   x="100"
+   y="300"
+   xlink:href="#Farbe02" />
+			<use
+   id="UseOz021"
+   x="200"
+   y="300"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz022"
+   x="400"
+   y="300"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz023"
+   x="500"
+   y="300"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz024"
+   x="600"
+   y="300"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz025"
+   x="700"
+   y="300"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz026"
+   x="800"
+   y="300"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz027"
+   x="900"
+   y="300"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz028"
+   x="1000"
+   y="300"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz029"
+   x="1100"
+   y="300"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz030"
+   x="1200"
+   y="300"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz031"
+   x="1300"
+   y="300"
+   xlink:href="#Farbe06" />
+			<use
+   id="UseOz032"
+   x="1400"
+   y="300"
+   xlink:href="#Farbe06" /><use
+   id="TrigOZ032"
+   x="1400"
+   y="300"
+   xlink:href="#Dreieck"
+   style="fill:#DDDDBB; stroke:none;" /><!-- Farbe07 -->
+			<use
+   id="UseOz033"
+   x="1500"
+   y="300"
+   xlink:href="#Farbe07" />
+			<use
+   id="UseOz034"
+   x="1600"
+   y="300"
+   xlink:href="#Farbe07" /><use
+   id="TrigOZ034"
+   x="1600"
+   y="300"
+   xlink:href="#Dreieck"
+   style="fill:#99FF99; stroke:none;" /><!-- Farbe08 -->
+			<use
+   id="UseOz035"
+   x="1700"
+   y="300"
+   xlink:href="#Farbe09" />
+			<use
+   id="UseOz036"
+   x="1800"
+   y="300"
+   xlink:href="#Farbe10" />
+			<!-- Periode 5 -->
+			<use
+   id="UseOz037"
+   x="0"
+   y="400"
+   xlink:href="#Farbe01" />
+			<use
+   id="UseOz038"
+   x="100"
+   y="400"
+   xlink:href="#Farbe02" />
+			<use
+   id="UseOz039"
+   x="200"
+   y="400"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz040"
+   x="400"
+   y="400"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz041"
+   x="500"
+   y="400"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz042"
+   x="600"
+   y="400"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz043"
+   x="700"
+   y="400"
+   xlink:href="#Farbe03" /><use
+   id="UseOz043s"
+   x="700"
+   y="400"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz044"
+   x="800"
+   y="400"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz045"
+   x="900"
+   y="400"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz046"
+   x="1000"
+   y="400"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz047"
+   x="1100"
+   y="400"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz048"
+   x="1200"
+   y="400"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz049"
+   x="1300"
+   y="400"
+   xlink:href="#Farbe06" />
+			<use
+   id="UseOz050"
+   x="1400"
+   y="400"
+   xlink:href="#Farbe06" />
+			<use
+   id="UseOz051"
+   x="1500"
+   y="400"
+   xlink:href="#Farbe06" /><use
+   id="TrigOZ051"
+   x="1500"
+   y="400"
+   xlink:href="#Dreieck"
+   style="fill:#DDDDBB; stroke:none;" /><!-- Farbe07 -->
+			<use
+   id="UseOz052"
+   x="1600"
+   y="400"
+   xlink:href="#Farbe07" />
+			<use
+   id="UseOz053"
+   x="1700"
+   y="400"
+   xlink:href="#Farbe09" />
+			<use
+   id="UseOz054"
+   x="1800"
+   y="400"
+   xlink:href="#Farbe10" />
+			<!-- Periode 6 -->
+			<use
+   id="UseOz055"
+   x="0"
+   y="500"
+   xlink:href="#Farbe01" />
+			<use
+   id="UseOz056"
+   x="100"
+   y="500"
+   xlink:href="#Farbe02" />
+			<use
+   id="UseOz057"
+   x="200"
+   y="500"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz072"
+   x="400"
+   y="500"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz073"
+   x="500"
+   y="500"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz074"
+   x="600"
+   y="500"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz075"
+   x="700"
+   y="500"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz076"
+   x="800"
+   y="500"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz077"
+   x="900"
+   y="500"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz078"
+   x="1000"
+   y="500"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz079"
+   x="1100"
+   y="500"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz080"
+   x="1200"
+   y="500"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz081"
+   x="1300"
+   y="500"
+   xlink:href="#Farbe06" />
+			<use
+   id="UseOz082"
+   x="1400"
+   y="500"
+   xlink:href="#Farbe06" />
+			<use
+   id="UseOz083"
+   x="1500"
+   y="500"
+   xlink:href="#Farbe06" />
+			<use
+   id="UseOz084"
+   x="1600"
+   y="500"
+   xlink:href="#Farbe06" /><use
+   id="TrigOz084"
+   x="1600"
+   y="500"
+   xlink:href="#Dreieck"
+   style="fill:#DDDDBB; stroke:none;" /><!-- Farbe07 -->
+			<use
+   id="UseOz085"
+   x="1700"
+   y="500"
+   xlink:href="#Farbe07" /><use
+   id="TrigOz085"
+   x="1700"
+   y="500"
+   xlink:href="#Dreieck"
+   style="fill:#FFFF99; stroke:none;" /><!-- Farbe09 -->
+			<use
+   id="UseOz086"
+   x="1800"
+   y="500"
+   xlink:href="#Farbe10" />
+			<!-- Periode 7 -->
+			<use
+   id="UseOz087"
+   x="0"
+   y="600"
+   xlink:href="#Farbe01" />
+			<use
+   id="UseOz088"
+   x="100"
+   y="600"
+   xlink:href="#Farbe02" />
+			<use
+   id="UseOz089"
+   x="200"
+   y="600"
+   xlink:href="#Farbe03" />
+			<use
+   id="UseOz104"
+   x="400"
+   y="600"
+   xlink:href="#Farbe03" /><use
+   id="UseOz104s"
+   x="400"
+   y="600"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz105"
+   x="500"
+   y="600"
+   xlink:href="#Farbe03" /><use
+   id="UseOz105s"
+   x="500"
+   y="600"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz106"
+   x="600"
+   y="600"
+   xlink:href="#Farbe03" /><use
+   id="UseOz106s"
+   x="600"
+   y="600"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz107"
+   x="700"
+   y="600"
+   xlink:href="#Farbe03" /><use
+   id="UseOz107s"
+   x="700"
+   y="600"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz108"
+   x="800"
+   y="600"
+   xlink:href="#Farbe03" /><use
+   id="UseOz108s"
+   x="800"
+   y="600"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz109"
+   x="900"
+   y="600"
+   xlink:href="#Farbe03" /><use
+   id="UseOz109s"
+   x="900"
+   y="600"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz110"
+   x="1000"
+   y="600"
+   xlink:href="#Farbe03" /><use
+   id="UseOz110s"
+   x="1000"
+   y="600"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz111"
+   x="1100"
+   y="600"
+   xlink:href="#Farbe03" /><use
+   id="UseOz111s"
+   x="1100"
+   y="600"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz112"
+   x="1200"
+   y="600"
+   xlink:href="#Farbe03" /><use
+   id="UseOz112s"
+   x="1200"
+   y="600"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz113"
+   x="1300"
+   y="600"
+   xlink:href="#Farbe11" />
+			<use
+   id="UseOz114"
+   x="1400"
+   y="600"
+   xlink:href="#Farbe11" />
+			<use
+   id="UseOz115"
+   x="1500"
+   y="600"
+   xlink:href="#Farbe11" />
+			<use
+   id="UseOz116"
+   x="1600"
+   y="600"
+   xlink:href="#Farbe11" />
+			<use
+   id="UseOz117"
+   x="1700"
+   y="600"
+   xlink:href="#Farbe11" />
+			<use
+   id="UseOz118"
+   x="1800"
+   y="600"
+   xlink:href="#Farbe11" />
+			<!-- Lanthanoide -->
+			<use
+   id="UseOz058"
+   x="300"
+   y="800"
+   xlink:href="#Farbe04" />
+			<use
+   id="UseOz059"
+   x="400"
+   y="800"
+   xlink:href="#Farbe04" />
+			<use
+   id="UseOz060"
+   x="500"
+   y="800"
+   xlink:href="#Farbe04" />
+			<use
+   id="UseOz061"
+   x="600"
+   y="800"
+   xlink:href="#Farbe04" /><use
+   id="UseOz061s"
+   x="600"
+   y="800"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz062"
+   x="700"
+   y="800"
+   xlink:href="#Farbe04" />
+			<use
+   id="UseOz063"
+   x="800"
+   y="800"
+   xlink:href="#Farbe04" />
+			<use
+   id="UseOz064"
+   x="900"
+   y="800"
+   xlink:href="#Farbe04" />
+			<use
+   id="UseOz065"
+   x="1000"
+   y="800"
+   xlink:href="#Farbe04" />
+			<use
+   id="UseOz066"
+   x="1100"
+   y="800"
+   xlink:href="#Farbe04" />
+			<use
+   id="UseOz067"
+   x="1200"
+   y="800"
+   xlink:href="#Farbe04" />
+			<use
+   id="UseOz068"
+   x="1300"
+   y="800"
+   xlink:href="#Farbe04" />
+			<use
+   id="UseOz069"
+   x="1400"
+   y="800"
+   xlink:href="#Farbe04" />
+			<use
+   id="UseOz070"
+   x="1500"
+   y="800"
+   xlink:href="#Farbe04" />
+			<use
+   id="UseOz071"
+   x="1600"
+   y="800"
+   xlink:href="#Farbe04" />
+			<!-- Actinoide -->
+			<use
+   id="UseOz090"
+   x="300"
+   y="900"
+   xlink:href="#Farbe05" />
+			<use
+   id="UseOz091"
+   x="400"
+   y="900"
+   xlink:href="#Farbe05" />
+			<use
+   id="UseOz092"
+   x="500"
+   y="900"
+   xlink:href="#Farbe05" />
+			<use
+   id="UseOz093"
+   x="600"
+   y="900"
+   xlink:href="#Farbe05" /><use
+   id="UseOz093s"
+   x="600"
+   y="900"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz094"
+   x="700"
+   y="900"
+   xlink:href="#Farbe05" />
+			<use
+   id="UseOz095"
+   x="800"
+   y="900"
+   xlink:href="#Farbe05" /><use
+   id="UseOz095s"
+   x="800"
+   y="900"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz096"
+   x="900"
+   y="900"
+   xlink:href="#Farbe05" /><use
+   id="UseOz096s"
+   x="900"
+   y="900"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz097"
+   x="1000"
+   y="900"
+   xlink:href="#Farbe05" /><use
+   id="UseOz097s"
+   x="1000"
+   y="900"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz098"
+   x="1100"
+   y="900"
+   xlink:href="#Farbe05" /><use
+   id="UseOz098s"
+   x="1100"
+   y="900"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz099"
+   x="1200"
+   y="900"
+   xlink:href="#Farbe05" /><use
+   id="UseOz099s"
+   x="1200"
+   y="900"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz100"
+   x="1300"
+   y="900"
+   xlink:href="#Farbe05" /><use
+   id="UseOz100s"
+   x="1300"
+   y="900"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz101"
+   x="1400"
+   y="900"
+   xlink:href="#Farbe05" /><use
+   id="UseOz101s"
+   x="1400"
+   y="900"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz102"
+   x="1500"
+   y="900"
+   xlink:href="#Farbe05" /><use
+   id="UseOz102s"
+   x="1500"
+   y="900"
+   xlink:href="#Schraffur" />
+			<use
+   id="UseOz103"
+   x="1600"
+   y="900"
+   xlink:href="#Farbe05" /><use
+   id="UseOz103s"
+   x="1600"
+   y="900"
+   xlink:href="#Schraffur" />
+			<!-- Platzhalter -->
+			<use
+   id="UseOz_La"
+   x="300"
+   y="500"
+   xlink:href="#Farbe11" />
+			<use
+   id="UseOz_Ac"
+   x="300"
+   y="600"
+   xlink:href="#Farbe11" />
+		</g>
+		<!-- Nachzeichnen der Außenränder der beiden Tabellen -->
+		<g
+   style="fill :none; stroke :#000000; stroke-width :2;  stroke-linejoin :round;"
+   id="g244">
+			<polygon
+   points="0,0 100,0 100,100 200,100 200,300 300,300 300,500 400,500 400,300 1300,300 1300,100 1800,100 1800,0 1900,0 1900,700 0,700"
+   id="polygon240" />
+			<polygon
+   points="300,800 1700,800 1700,1000 300,1000"
+   id="polygon242" />
+		</g>
+		<!-- Pfeil von der oberen zur unteren Tabelle -->
+		<polygon
+   transform="translate(350,710)"
+   points="-4,2 -4,65 -8,65 0,78 8,65 4,65 4,2"
+   id="Pfeil" />
+		<!-- Hier sind die Gittergrafiken fertig.-->
+		<!-- Texte. Zuerst die Bezeichnungen für Periode und Gruppe -->
+		<g
+   id="Gridtext"
+   style="font-size :9px; stroke :none; fill :#000000; font-family :Arial, sans-serif">
+			<g
+   style="font-size :30px; text-anchor :middle; font-weight :bold;"
+   transform="translate(-15,5)"
+   id="g258">
+				<text
+   transform="matrix(0,-1,1,0,-15,350)"
+   style="font-size :40px; font-weight :bold;"
+   id="text247">Periode</text>
+
+				<text
+   x="0"
+   y="50"
+   id="TextPer01">1</text>
+
+				<text
+   x="0"
+   y="150"
+   id="TextPer02">2</text>
+
+				<text
+   x="0"
+   y="250"
+   id="TextPer03">3</text>
+
+				<text
+   x="0"
+   y="350"
+   id="TextPer04">4</text>
+
+				<text
+   x="0"
+   y="450"
+   id="TextPer05">5</text>
+
+				<text
+   x="0"
+   y="550"
+   id="TextPer06">6</text>
+
+				<text
+   x="0"
+   y="650"
+   id="TextPer07">7</text>
+
+				<text
+   x="300"
+   y="850"
+   id="TextLa"
+   style="text-anchor :end;">Lanthanoide</text>
+
+				<text
+   x="300"
+   y="950"
+   id="TextAc"
+   style="text-anchor :end;">Actinoide</text>
+
+			</g>
+			<!-- Y-Werte:  20, 80, 200 -->
+			<g
+   style="font-size :30px;text-anchor :middle; font-weight :bold;"
+   transform="translate(50,-5)"
+   id="g279">
+				<text
+   x="1450"
+   y="50"
+   id="TextGrup"
+   style="font-size :40px; font-weight :bold;">Gruppe</text>
+
+				<text
+   x="0"
+   y="0"
+   id="TextGr01">1</text>
+
+				<text
+   x="100"
+   y="100"
+   id="TextGr02">2</text>
+
+				<text
+   x="200"
+   y="300"
+   id="TextGr03">3</text>
+
+				<text
+   x="400"
+   y="300"
+   id="TextGr04">4</text>
+
+				<text
+   x="500"
+   y="300"
+   id="TextGr05">5</text>
+
+				<text
+   x="600"
+   y="300"
+   id="TextGr06">6</text>
+
+				<text
+   x="700"
+   y="300"
+   id="TextGr07">7</text>
+
+				<text
+   x="800"
+   y="300"
+   id="TextGr08">8</text>
+
+				<text
+   x="900"
+   y="300"
+   id="TextGr09">9</text>
+
+				<text
+   x="1000"
+   y="300"
+   id="TextGr10">10</text>
+
+				<text
+   x="1100"
+   y="300"
+   id="TextGr11">11</text>
+
+				<text
+   x="1200"
+   y="300"
+   id="TextGr12">12</text>
+
+				<text
+   x="1300"
+   y="100"
+   id="TextGr13">13</text>
+
+				<text
+   x="1400"
+   y="100"
+   id="TextGr14">14</text>
+
+				<text
+   x="1500"
+   y="100"
+   id="TextGr15">15</text>
+
+				<text
+   x="1600"
+   y="100"
+   id="TextGr16">16</text>
+
+				<text
+   x="1700"
+   y="100"
+   id="TextGr17">17</text>
+
+				<text
+   x="1800"
+   y="0"
+   id="TextGr18">18</text>
+
+			</g>
+			<!-- Füllen des Gitters, sortiert nach Größe und Ausrichtung -->
+			<!-- Ordnungszahl -->
+			<g
+   transform="translate(4,18)"
+   id="OZ"
+   style="fill:#000000; font-size :16px; font-weight :bold; text-anchor :start;">
+				<!-- Periode 1 -->
+				<text
+   transform="translate(   0,0  )"
+   id="TextOz001">1</text>
+
+				<text
+   transform="translate(1800,0  )"
+   id="TextOz002">2</text>
+
+				<!-- Periode 2 -->
+				<text
+   transform="translate(   0,100)"
+   id="TextOz003">3</text>
+
+				<text
+   transform="translate( 100,100)"
+   id="TextOz004">4</text>
+
+				<text
+   transform="translate(1300,100)"
+   id="TextOz005">5</text>
+
+				<text
+   transform="translate(1400,100)"
+   id="TextOz006">6</text>
+
+				<text
+   transform="translate(1500,100)"
+   id="TextOz007">7</text>
+
+				<text
+   transform="translate(1600,100)"
+   id="TextOz008">8</text>
+
+				<text
+   transform="translate(1700,100)"
+   id="TextOz009">9</text>
+
+				<text
+   transform="translate(1800,100)"
+   id="TextOz010">10</text>
+
+				<!-- Periode 3 -->
+				<text
+   transform="translate(   0,200)"
+   id="TextOz011">11</text>
+
+				<text
+   transform="translate( 100,200)"
+   id="TextOz012">12</text>
+
+				<text
+   transform="translate(1300,200)"
+   id="TextOz013">13</text>
+
+				<text
+   transform="translate(1400,200)"
+   id="TextOz014">14</text>
+
+				<text
+   transform="translate(1500,200)"
+   id="TextOz015">15</text>
+
+				<text
+   transform="translate(1600,200)"
+   id="TextOz016">16</text>
+
+				<text
+   transform="translate(1700,200)"
+   id="TextOz017">17</text>
+
+				<text
+   transform="translate(1800,200)"
+   id="TextOz018">18</text>
+
+				<!-- Periode 4 -->
+				<text
+   transform="translate(   0,300)"
+   id="TextOz019">19</text>
+
+				<text
+   transform="translate( 100,300)"
+   id="TextOz020">20</text>
+
+				<text
+   transform="translate( 200,300)"
+   id="TextOz021">21</text>
+
+				<text
+   transform="translate( 400,300)"
+   id="TextOz022">22</text>
+
+				<text
+   transform="translate( 500,300)"
+   id="TextOz023">23</text>
+
+				<text
+   transform="translate( 600,300)"
+   id="TextOz024">24</text>
+
+				<text
+   transform="translate( 700,300)"
+   id="TextOz025">25</text>
+
+				<text
+   transform="translate( 800,300)"
+   id="TextOz026">26</text>
+
+				<text
+   transform="translate( 900,300)"
+   id="TextOz027">27</text>
+
+				<text
+   transform="translate(1000,300)"
+   id="TextOz028">28</text>
+
+				<text
+   transform="translate(1100,300)"
+   id="TextOz029">29</text>
+
+				<text
+   transform="translate(1200,300)"
+   id="TextOz030">30</text>
+
+				<text
+   transform="translate(1300,300)"
+   id="TextOz031">31</text>
+
+				<text
+   transform="translate(1400,300)"
+   id="TextOz032">32</text>
+
+				<text
+   transform="translate(1500,300)"
+   id="TextOz033">33</text>
+
+				<text
+   transform="translate(1600,300)"
+   id="TextOz034">34</text>
+
+				<text
+   transform="translate(1700,300)"
+   id="TextOz035">35</text>
+
+				<text
+   transform="translate(1800,300)"
+   id="TextOz036">36</text>
+
+				<!-- Periode 5 -->
+				<text
+   transform="translate(   0,400)"
+   id="TextOz037">37</text>
+
+				<text
+   transform="translate( 100,400)"
+   id="TextOz038">38</text>
+
+				<text
+   transform="translate( 200,400)"
+   id="TextOz039">39</text>
+
+				<text
+   transform="translate( 400,400)"
+   id="TextOz040">40</text>
+
+				<text
+   transform="translate( 500,400)"
+   id="TextOz041">41</text>
+
+				<text
+   transform="translate( 600,400)"
+   id="TextOz042">42</text>
+
+				<text
+   transform="translate( 700,400)"
+   id="TextOz043">43</text>
+
+				<text
+   transform="translate( 800,400)"
+   id="TextOz044">44</text>
+
+				<text
+   transform="translate( 900,400)"
+   id="TextOz045">45</text>
+
+				<text
+   transform="translate(1000,400)"
+   id="TextOz046">46</text>
+
+				<text
+   transform="translate(1100,400)"
+   id="TextOz047">47</text>
+
+				<text
+   transform="translate(1200,400)"
+   id="TextOz048">48</text>
+
+				<text
+   transform="translate(1300,400)"
+   id="TextOz049">49</text>
+
+				<text
+   transform="translate(1400,400)"
+   id="TextOz050">50</text>
+
+				<text
+   transform="translate(1500,400)"
+   id="TextOz051">51</text>
+
+				<text
+   transform="translate(1600,400)"
+   id="TextOz052">52</text>
+
+				<text
+   transform="translate(1700,400)"
+   id="TextOz053">53</text>
+
+				<text
+   transform="translate(1800,400)"
+   id="TextOz054">54</text>
+
+				<!-- Periode 6 -->
+				<text
+   transform="translate(   0,500)"
+   id="TextOz055">55</text>
+
+				<text
+   transform="translate( 100,500)"
+   id="TextOz056">56</text>
+
+				<text
+   transform="translate( 200,500)"
+   id="TextOz057">57</text>
+
+				<text
+   transform="translate( 400,500)"
+   id="TextOz072">72</text>
+
+				<text
+   transform="translate( 500,500)"
+   id="TextOz073">73</text>
+
+				<text
+   transform="translate( 600,500)"
+   id="TextOz074">74</text>
+
+				<text
+   transform="translate( 700,500)"
+   id="TextOz075">75</text>
+
+				<text
+   transform="translate( 800,500)"
+   id="TextOz076">76</text>
+
+				<text
+   transform="translate( 900,500)"
+   id="TextOz077">77</text>
+
+				<text
+   transform="translate(1000,500)"
+   id="TextOz078">78</text>
+
+				<text
+   transform="translate(1100,500)"
+   id="TextOz079">79</text>
+
+				<text
+   transform="translate(1200,500)"
+   id="TextOz080">80</text>
+
+				<text
+   transform="translate(1300,500)"
+   id="TextOz081">81</text>
+
+				<text
+   transform="translate(1400,500)"
+   id="TextOz082">82</text>
+
+				<text
+   transform="translate(1500,500)"
+   id="TextOz083">83</text>
+
+				<text
+   transform="translate(1600,500)"
+   id="TextOz084">84</text>
+
+				<text
+   transform="translate(1700,500)"
+   id="TextOz085">85</text>
+
+				<text
+   transform="translate(1800,500)"
+   id="TextOz086">86</text>
+
+				<!-- Periode 7 -->
+				<text
+   transform="translate(   0,600)"
+   id="TextOz087">87</text>
+
+				<text
+   transform="translate( 100,600)"
+   id="TextOz088">88</text>
+
+				<text
+   transform="translate( 200,600)"
+   id="TextOz089">89</text>
+
+				<text
+   transform="translate( 400,600)"
+   id="TextOz104">104</text>
+
+				<text
+   transform="translate( 500,600)"
+   id="TextOz105">105</text>
+
+				<text
+   transform="translate( 600,600)"
+   id="TextOz106">106</text>
+
+				<text
+   transform="translate( 700,600)"
+   id="TextOz107">107</text>
+
+				<text
+   transform="translate( 800,600)"
+   id="TextOz108">108</text>
+
+				<text
+   transform="translate( 900,600)"
+   id="TextOz109">109</text>
+
+				<text
+   transform="translate(1000,600)"
+   id="TextOz110">110</text>
+
+				<text
+   transform="translate(1100,600)"
+   id="TextOz111">111</text>
+
+				<text
+   transform="translate(1200,600)"
+   id="TextOz112">112</text>
+
+				<text
+   transform="translate(1300,600)"
+   id="TextOz113">113</text>
+
+				<text
+   transform="translate(1400,600)"
+   id="TextOz114">114</text>
+
+				<text
+   transform="translate(1500,600)"
+   id="TextOz115">115</text>
+
+				<text
+   transform="translate(1600,600)"
+   id="TextOz116">116</text>
+
+				<text
+   transform="translate(1700,600)"
+   id="TextOz117">117</text>
+
+				<text
+   transform="translate(1800,600)"
+   id="TextOz118">118</text>
+
+				<!-- Lanthanoide -->
+				<text
+   transform="translate( 300,800)"
+   id="TextOz058">58</text>
+
+				<text
+   transform="translate( 400,800)"
+   id="TextOz059">59</text>
+
+				<text
+   transform="translate( 500,800)"
+   id="TextOz060">60</text>
+
+				<text
+   transform="translate( 600,800)"
+   id="TextOz061">61</text>
+
+				<text
+   transform="translate( 700,800)"
+   id="TextOz062">62</text>
+
+				<text
+   transform="translate( 800,800)"
+   id="TextOz063">63</text>
+
+				<text
+   transform="translate( 900,800)"
+   id="TextOz064">64</text>
+
+				<text
+   transform="translate(1000,800)"
+   id="TextOz065">65</text>
+
+				<text
+   transform="translate(1100,800)"
+   id="TextOz066">66</text>
+
+				<text
+   transform="translate(1200,800)"
+   id="TextOz067">67</text>
+
+				<text
+   transform="translate(1300,800)"
+   id="TextOz068">68</text>
+
+				<text
+   transform="translate(1400,800)"
+   id="TextOz069">69</text>
+
+				<text
+   transform="translate(1500,800)"
+   id="TextOz070">70</text>
+
+				<text
+   transform="translate(1600,800)"
+   id="TextOz071">71</text>
+
+				<!-- Actinoide -->
+				<text
+   transform="translate( 300,900)"
+   id="TextOz090">90</text>
+
+				<text
+   transform="translate( 400,900)"
+   id="TextOz091">91</text>
+
+				<text
+   transform="translate( 500,900)"
+   id="TextOz092">92</text>
+
+				<text
+   transform="translate( 600,900)"
+   id="TextOz093">93</text>
+
+				<text
+   transform="translate( 700,900)"
+   id="TextOz094">94</text>
+
+				<text
+   transform="translate( 800,900)"
+   id="TextOz095">95</text>
+
+				<text
+   transform="translate( 900,900)"
+   id="TextOz096">96</text>
+
+				<text
+   transform="translate(1000,900)"
+   id="TextOz097">97</text>
+
+				<text
+   transform="translate(1100,900)"
+   id="TextOz098">98</text>
+
+				<text
+   transform="translate(1200,900)"
+   id="TextOz099">99</text>
+
+				<text
+   transform="translate(1300,900)"
+   id="TextOz100">100</text>
+
+				<text
+   transform="translate(1400,900)"
+   id="TextOz101">101</text>
+
+				<text
+   transform="translate(1500,900)"
+   id="TextOz102">102</text>
+
+				<text
+   transform="translate(1600,900)"
+   id="TextOz103">103</text>
+
+				<!-- Platzhalter -->
+				<text
+   transform="translate( 300,500)"
+   id="TextOz_La">58 - 71</text>
+
+				<text
+   transform="translate( 300,600)"
+   id="TextOz_Ac">90 - 103</text>
+
+			</g>
+			<!-- Atommasse -->
+			<g
+   style="font-size :16px; font-weight :bold; text-anchor :end;"
+   transform="translate(96,18)"
+   id="g638">
+				<!-- Periode 1 -->
+				<text
+   transform="translate(   0,0  )"
+   id="text402">1,0079</text>
+
+				<text
+   transform="translate(1800,0  )"
+   id="text404">4,0026</text>
+
+				<!-- Periode 2 -->
+				<text
+   transform="translate(   0,100)"
+   id="text406">6,9675</text>
+
+				<text
+   transform="translate( 100,100)"
+   id="text408">9,0122</text>
+
+				<text
+   transform="translate(1300,100)"
+   id="text410">10,813</text>
+
+				<text
+   transform="translate(1400,100)"
+   id="text412">12,011</text>
+
+				<text
+   transform="translate(1500,100)"
+   id="text414">14,007</text>
+
+				<text
+   transform="translate(1600,100)"
+   id="text416">15,999</text>
+
+				<text
+   transform="translate(1700,100)"
+   id="text418">18,998</text>
+
+				<text
+   transform="translate(1800,100)"
+   id="text420">20,180</text>
+
+				<!-- Periode 3 -->
+				<text
+   transform="translate(   0,200)"
+   id="text422">22,990</text>
+
+				<text
+   transform="translate( 100,200)"
+   id="text424">24,305</text>
+
+				<text
+   transform="translate(1300,200)"
+   id="text426">26,981</text>
+
+				<text
+   transform="translate(1400,200)"
+   id="text428">28,085</text>
+
+				<text
+   transform="translate(1500,200)"
+   id="text430">30,974</text>
+
+				<text
+   transform="translate(1600,200)"
+   id="text432">32,067</text>
+
+				<text
+   transform="translate(1700,200)"
+   id="text434">35,451</text>
+
+				<text
+   transform="translate(1800,200)"
+   id="text436">39,948</text>
+
+				<!-- Periode 4 -->
+				<text
+   transform="translate(   0,300)"
+   id="text438">39,098</text>
+
+				<text
+   transform="translate( 100,300)"
+   id="text440">40,078</text>
+
+				<text
+   transform="translate( 200,300)"
+   id="text442">44,956</text>
+
+				<text
+   transform="translate( 400,300)"
+   id="text444">47,867</text>
+
+				<text
+   transform="translate( 500,300)"
+   id="text446">50,941</text>
+
+				<text
+   transform="translate( 600,300)"
+   id="text448">51,996</text>
+
+				<text
+   transform="translate( 700,300)"
+   id="text450">54,938</text>
+
+				<text
+   transform="translate( 800,300)"
+   id="text452">55,845</text>
+
+				<text
+   transform="translate( 900,300)"
+   id="text454">58,933</text>
+
+				<text
+   transform="translate(1000,300)"
+   id="text456">58,693</text>
+
+				<text
+   transform="translate(1100,300)"
+   id="text458">63,546</text>
+
+				<text
+   transform="translate(1200,300)"
+   id="text460">65,380</text>
+
+				<text
+   transform="translate(1300,300)"
+   id="text462">69,723</text>
+
+				<text
+   transform="translate(1400,300)"
+   id="text464">72,631</text>
+
+				<text
+   transform="translate(1500,300)"
+   id="text466">74,922</text>
+
+				<text
+   transform="translate(1600,300)"
+   id="text468">78,972</text>
+
+				<text
+   transform="translate(1700,300)"
+   id="text470">79,904</text>
+
+				<text
+   transform="translate(1800,300)"
+   id="text472">83,798</text>
+
+				<!-- Periode 5 -->
+				<text
+   transform="translate(   0,400)"
+   id="text474">85,468</text>
+
+				<text
+   transform="translate( 100,400)"
+   id="text476">87,620</text>
+
+				<text
+   transform="translate( 200,400)"
+   id="text478">88,906</text>
+
+				<text
+   transform="translate( 400,400)"
+   id="text480">91,224</text>
+
+				<text
+   transform="translate( 500,400)"
+   id="text482">92,906</text>
+
+				<text
+   transform="translate( 600,400)"
+   id="text484">95,95</text>
+
+				<text
+   transform="translate( 700,400)"
+   id="text486">(97)</text>
+
+				<text
+   transform="translate( 800,400)"
+   id="text488">101,07</text>
+
+				<text
+   transform="translate( 900,400)"
+   id="text490">102,905</text>
+
+				<text
+   transform="translate(1000,400)"
+   id="text492">106,42</text>
+
+				<text
+   transform="translate(1100,400)"
+   id="text494">107,868</text>
+
+				<text
+   transform="translate(1200,400)"
+   id="text496">112,414</text>
+
+				<text
+   transform="translate(1300,400)"
+   id="text498">114,818</text>
+
+				<text
+   transform="translate(1400,400)"
+   id="text500">118,711</text>
+
+				<text
+   transform="translate(1500,400)"
+   id="text502">121,760</text>
+
+				<text
+   transform="translate(1600,400)"
+   id="text504">127,60</text>
+
+				<text
+   transform="translate(1700,400)"
+   id="text506">126,904</text>
+
+				<text
+   transform="translate(1800,400)"
+   id="text508">131,294</text>
+
+				<!-- Periode 6 -->
+				<text
+   transform="translate(   0,500)"
+   id="text510">132,906</text>
+
+				<text
+   transform="translate( 100,500)"
+   id="text512">137,328</text>
+
+				<text
+   transform="translate( 200,500)"
+   id="text514">138,906</text>
+
+				<text
+   transform="translate( 400,500)"
+   id="text516">178,49</text>
+
+				<text
+   transform="translate( 500,500)"
+   id="text518">180,948</text>
+
+				<text
+   transform="translate( 600,500)"
+   id="text520">183,84</text>
+
+				<text
+   transform="translate( 700,500)"
+   id="text522">186,207</text>
+
+				<text
+   transform="translate( 800,500)"
+   id="text524">190,23</text>
+
+				<text
+   transform="translate( 900,500)"
+   id="text526">192,217</text>
+
+				<text
+   transform="translate(1000,500)"
+   id="text528">195,085</text>
+
+				<text
+   transform="translate(1100,500)"
+   id="text530">196,967</text>
+
+				<text
+   transform="translate(1200,500)"
+   id="text532">200,592</text>
+
+				<text
+   transform="translate(1300,500)"
+   id="text534">204,384</text>
+
+				<text
+   transform="translate(1400,500)"
+   id="text536">207,2</text>
+
+				<text
+   transform="translate(1500,500)"
+   id="text538">208,980</text>
+
+				<text
+   transform="translate(1600,500)"
+   id="text540">209,98</text>
+
+				<text
+   transform="translate(1700,500)"
+   id="text542">(210)</text>
+
+				<text
+   transform="translate(1800,500)"
+   id="text544">(222)</text>
+
+				<!-- Periode 7 -->
+				<text
+   transform="translate(   0,600)"
+   id="text546">(223)</text>
+
+				<text
+   transform="translate( 100,600)"
+   id="text548">(226)</text>
+
+				<text
+   transform="translate( 200,600)"
+   id="text550">(227)</text>
+
+				<text
+   transform="translate( 400,600)"
+   id="text552">(267)</text>
+
+				<text
+   transform="translate( 500,600)"
+   id="text554">(269)</text>
+
+				<text
+   transform="translate( 600,600)"
+   id="text556">(270)</text>
+
+				<text
+   transform="translate( 700,600)"
+   id="text558">(272)</text>
+
+				<text
+   transform="translate( 800,600)"
+   id="text560">(273)</text>
+
+				<text
+   transform="translate( 900,600)"
+   id="text562">(277)</text>
+
+				<text
+   transform="translate(1000,600)"
+   id="text564">(281)</text>
+
+				<text
+   transform="translate(1100,600)"
+   id="text566">(281)</text>
+
+				<text
+   transform="translate(1200,600)"
+   id="text568">(285)</text>
+
+				<text
+   transform="translate(1300,600)"
+   id="text570">(286)</text>
+
+				<text
+   transform="translate(1400,600)"
+   id="text572">(289)</text>
+
+				<text
+   transform="translate(1500,600)"
+   id="text574">(288)</text>
+
+				<text
+   transform="translate(1600,600)"
+   id="text576">(293)</text>
+
+				<text
+   transform="translate(1700,600)"
+   id="text578">(294)</text>
+
+				<text
+   transform="translate(1800,600)"
+   id="text580">(294)</text>
+
+				<!-- Lanthanoide -->
+				<text
+   transform="translate( 300,800)"
+   id="text582">140,116</text>
+
+				<text
+   transform="translate( 400,800)"
+   id="text584">140,908</text>
+
+				<text
+   transform="translate( 500,800)"
+   id="text586">144,242</text>
+
+				<text
+   transform="translate( 600,800)"
+   id="text588">(145)</text>
+
+				<text
+   transform="translate( 700,800)"
+   id="text590">150,360</text>
+
+				<text
+   transform="translate( 800,800)"
+   id="text592">151,964</text>
+
+				<text
+   transform="translate( 900,800)"
+   id="text594">157,25</text>
+
+				<text
+   transform="translate(1000,800)"
+   id="text596">158,925</text>
+
+				<text
+   transform="translate(1100,800)"
+   id="text598">162,500</text>
+
+				<text
+   transform="translate(1200,800)"
+   id="text600">164,930</text>
+
+				<text
+   transform="translate(1300,800)"
+   id="text602">167,259</text>
+
+				<text
+   transform="translate(1400,800)"
+   id="text604">168,934</text>
+
+				<text
+   transform="translate(1500,800)"
+   id="text606">173,045</text>
+
+				<text
+   transform="translate(1600,800)"
+   id="text608">174,967</text>
+
+				<!-- Actinoide -->
+				<text
+   transform="translate( 300,900)"
+   id="text610">232,038</text>
+
+				<text
+   transform="translate( 400,900)"
+   id="text612">231,036</text>
+
+				<text
+   transform="translate( 500,900)"
+   id="text614">238,029</text>
+
+				<text
+   transform="translate( 600,900)"
+   id="text616">(237)</text>
+
+				<text
+   transform="translate( 700,900)"
+   id="text618">(244)</text>
+
+				<text
+   transform="translate( 800,900)"
+   id="text620">(243)</text>
+
+				<text
+   transform="translate( 900,900)"
+   id="text622">(247)</text>
+
+				<text
+   transform="translate(1000,900)"
+   id="text624">(247)</text>
+
+				<text
+   transform="translate(1100,900)"
+   id="text626">(251)</text>
+
+				<text
+   transform="translate(1200,900)"
+   id="text628">(252)</text>
+
+				<text
+   transform="translate(1300,900)"
+   id="text630">(257)</text>
+
+				<text
+   transform="translate(1400,900)"
+   id="text632">(258)</text>
+
+				<text
+   transform="translate(1500,900)"
+   id="text634">(259)</text>
+
+				<text
+   transform="translate(1600,900)"
+   id="text636">(262)</text>
+
+			</g>
+			<!-- Symbol -->
+			<g
+   transform="translate(50,60)"
+   style="text-anchor :middle; font-size :40px; font-weight :bold;"
+   id="g758">
+				<!-- Periode 1 -->
+				<text
+   transform="translate(   0,0  )"
+   id="TextSym001"
+   style="fill :#ff0000">H</text>
+ 
+				<text
+   transform="translate(1800,0  )"
+   id="TextSym002"
+   style="fill :#ff0000">He</text>
+
+				<!-- Periode 2 -->
+				<text
+   transform="translate(   0,100)"
+   id="TextSym003"
+   style="fill :#000000">Li</text>
+
+				<text
+   transform="translate( 100,100)"
+   id="TextSym004"
+   style="fill :#000000">Be</text>
+
+				<text
+   transform="translate(1300,100)"
+   id="TextSym005"
+   style="fill :#000000">B</text>
+ 
+				<text
+   transform="translate(1400,100)"
+   id="TextSym006"
+   style="fill :#000000">C</text>
+ 
+				<text
+   transform="translate(1500,100)"
+   id="TextSym007"
+   style="fill :#FF0000">N</text>
+ 
+				<text
+   transform="translate(1600,100)"
+   id="TextSym008"
+   style="fill :#FF0000">O</text>
+ 
+				<text
+   transform="translate(1700,100)"
+   id="TextSym009"
+   style="fill :#FF0000">F</text>
+ 
+				<text
+   transform="translate(1800,100)"
+   id="TextSym010"
+   style="fill :#ff0000">Ne</text>
+
+				<!-- Periode 3 -->
+				<text
+   transform="translate(   0,200)"
+   id="TextSym011"
+   style="fill :#000000">Na</text>
+
+				<text
+   transform="translate( 100,200)"
+   id="TextSym012"
+   style="fill :#000000">Mg</text>
+
+				<text
+   transform="translate(1300,200)"
+   id="TextSym013"
+   style="fill :#000000">Al</text>
+
+				<text
+   transform="translate(1400,200)"
+   id="TextSym014"
+   style="fill :#000000">Si</text>
+
+				<text
+   transform="translate(1500,200)"
+   id="TextSym015"
+   style="fill :#000000">P</text>
+ 
+				<text
+   transform="translate(1600,200)"
+   id="TextSym016"
+   style="fill :#000000">S</text>
+ 
+				<text
+   transform="translate(1700,200)"
+   id="TextSym017"
+   style="fill :#ff0000">Cl</text>
+
+				<text
+   transform="translate(1800,200)"
+   id="TextSym018"
+   style="fill :#ff0000">Ar</text>
+
+				<!-- Periode 4 -->
+				<text
+   transform="translate(   0,300)"
+   id="TextSym019"
+   style="fill :#000000">K</text>
+ 
+				<text
+   transform="translate( 100,300)"
+   id="TextSym020"
+   style="fill :#000000">Ca</text>
+
+				<text
+   transform="translate( 200,300)"
+   id="TextSym021"
+   style="fill :#000000">Sc</text>
+
+				<text
+   transform="translate( 400,300)"
+   id="TextSym022"
+   style="fill :#000000">Ti</text>
+
+				<text
+   transform="translate( 500,300)"
+   id="TextSym023"
+   style="fill :#000000">V</text>
+ 
+				<text
+   transform="translate( 600,300)"
+   id="TextSym024"
+   style="fill :#000000">Cr</text>
+
+				<text
+   transform="translate( 700,300)"
+   id="TextSym025"
+   style="fill :#000000">Mn</text>
+
+				<text
+   transform="translate( 800,300)"
+   id="TextSym026"
+   style="fill :#000000">Fe</text>
+
+				<text
+   transform="translate( 900,300)"
+   id="TextSym027"
+   style="fill :#000000">Co</text>
+
+				<text
+   transform="translate(1000,300)"
+   id="TextSym028"
+   style="fill :#000000">Ni</text>
+
+				<text
+   transform="translate(1100,300)"
+   id="TextSym029"
+   style="fill :#000000">Cu</text>
+
+				<text
+   transform="translate(1200,300)"
+   id="TextSym030"
+   style="fill :#000000">Zn</text>
+
+				<text
+   transform="translate(1300,300)"
+   id="TextSym031"
+   style="fill :#000000">Ga</text>
+
+				<text
+   transform="translate(1400,300)"
+   id="TextSym032"
+   style="fill :#000000">Ge</text>
+
+				<text
+   transform="translate(1500,300)"
+   id="TextSym033"
+   style="fill :#000000">As</text>
+
+				<text
+   transform="translate(1600,300)"
+   id="TextSym034"
+   style="fill :#000000">Se</text>
+
+				<text
+   transform="translate(1700,300)"
+   id="TextSym035"
+   style="fill :#0000ff">Br</text>
+
+				<text
+   transform="translate(1800,300)"
+   id="TextSym036"
+   style="fill :#ff0000">Kr</text>
+
+				<!-- Periode 5 -->
+				<text
+   transform="translate(   0,400)"
+   id="TextSym037"
+   style="fill :#000000">Rb</text>
+
+				<text
+   transform="translate( 100,400)"
+   id="TextSym038"
+   style="fill :#000000">Sr</text>
+
+				<text
+   transform="translate( 200,400)"
+   id="TextSym039"
+   style="fill :#000000">Y</text>
+ 
+				<text
+   transform="translate( 400,400)"
+   id="TextSym040"
+   style="fill :#000000">Zr</text>
+
+				<text
+   transform="translate( 500,400)"
+   id="TextSym041"
+   style="fill :#000000">Nb</text>
+
+				<text
+   transform="translate( 600,400)"
+   id="TextSym042"
+   style="fill :#000000">Mo</text>
+
+				<text
+   transform="translate( 700,400)"
+   id="TextSym043"
+   style="fill :#000000; text-decoration :underline;">Tc</text>
+
+				<text
+   transform="translate( 800,400)"
+   id="TextSym044"
+   style="fill :#000000">Ru</text>
+
+				<text
+   transform="translate( 900,400)"
+   id="TextSym045"
+   style="fill :#000000">Rh</text>
+
+				<text
+   transform="translate(1000,400)"
+   id="TextSym046"
+   style="fill :#000000">Pd</text>
+
+				<text
+   transform="translate(1100,400)"
+   id="TextSym047"
+   style="fill :#000000">Ag</text>
+
+				<text
+   transform="translate(1200,400)"
+   id="TextSym048"
+   style="fill :#000000">Cd</text>
+
+				<text
+   transform="translate(1300,400)"
+   id="TextSym049"
+   style="fill :#000000">In</text>
+
+				<text
+   transform="translate(1400,400)"
+   id="TextSym050"
+   style="fill :#000000">Sn</text>
+
+				<text
+   transform="translate(1500,400)"
+   id="TextSym051"
+   style="fill :#000000">Sb</text>
+
+				<text
+   transform="translate(1600,400)"
+   id="TextSym052"
+   style="fill :#000000">Te</text>
+
+				<text
+   transform="translate(1700,400)"
+   id="TextSym053"
+   style="fill :#000000">I</text>
+ 
+				<text
+   transform="translate(1800,400)"
+   id="TextSym054"
+   style="fill :#ff0000">Xe</text>
+
+				<!-- Periode 6 -->
+				<text
+   transform="translate(   0,500)"
+   id="TextSym055"
+   style="fill :#000000">Cs</text>
+
+				<text
+   transform="translate( 100,500)"
+   id="TextSym056"
+   style="fill :#000000">Ba</text>
+
+				<text
+   transform="translate( 200,500)"
+   id="TextSym057"
+   style="fill :#000000">La</text>
+
+				<text
+   transform="translate( 400,500)"
+   id="TextSym072"
+   style="fill :#000000">Hf</text>
+
+				<text
+   transform="translate( 500,500)"
+   id="TextSym073"
+   style="fill :#000000">Ta</text>
+
+				<text
+   transform="translate( 600,500)"
+   id="TextSym074"
+   style="fill :#000000">W</text>
+ 
+				<text
+   transform="translate( 700,500)"
+   id="TextSym075"
+   style="fill :#000000">Re</text>
+
+				<text
+   transform="translate( 800,500)"
+   id="TextSym076"
+   style="fill :#000000">Os</text>
+
+				<text
+   transform="translate( 900,500)"
+   id="TextSym077"
+   style="fill :#000000">Ir</text>
+
+				<text
+   transform="translate(1000,500)"
+   id="TextSym078"
+   style="fill :#000000">Pt</text>
+
+				<text
+   transform="translate(1100,500)"
+   id="TextSym079"
+   style="fill :#000000">Au</text>
+
+				<text
+   transform="translate(1200,500)"
+   id="TextSym080"
+   style="fill :#0000FF">Hg</text>
+
+				<text
+   transform="translate(1300,500)"
+   id="TextSym081"
+   style="fill :#000000">Tl</text>
+
+				<text
+   transform="translate(1400,500)"
+   id="TextSym082"
+   style="fill :#000000">Pb</text>
+
+				<text
+   transform="translate(1500,500)"
+   id="TextSym083"
+   style="fill :#000000; text-decoration :underline;">Bi</text>
+
+				<text
+   transform="translate(1600,500)"
+   id="TextSym084"
+   style="fill :#000000; text-decoration :underline;">Po</text>
+
+				<text
+   transform="translate(1700,500)"
+   id="TextSym085"
+   style="fill :#000000; text-decoration :underline;">At</text>
+
+				<text
+   transform="translate(1800,500)"
+   id="TextSym086"
+   style="fill :#FF0000; text-decoration :underline;">Rn</text>
+
+				<!-- Periode 7 -->
+				<text
+   transform="translate(   0,600)"
+   id="TextSym087"
+   style="fill :#000000; text-decoration :underline;">Fr</text>
+
+				<text
+   transform="translate( 100,600)"
+   id="TextSym088"
+   style="fill :#000000; text-decoration :underline;">Ra</text>
+
+				<text
+   transform="translate( 200,600)"
+   id="TextSym089"
+   style="fill :#000000; text-decoration :underline;">Ac</text>
+
+				<text
+   transform="translate( 400,600)"
+   id="TextSym104"
+   style="fill :#000000; text-decoration :underline;">Rf</text>
+
+				<text
+   transform="translate( 500,600)"
+   id="TextSym105"
+   style="fill :#000000; text-decoration :underline;">Db</text>
+
+				<text
+   transform="translate( 600,600)"
+   id="TextSym106"
+   style="fill :#000000; text-decoration :underline;">Sg</text>
+
+				<text
+   transform="translate( 700,600)"
+   id="TextSym107"
+   style="fill :#000000; text-decoration :underline;">Bh</text>
+
+				<text
+   transform="translate( 800,600)"
+   id="TextSym108"
+   style="fill :#000000; text-decoration :underline;">Hs</text>
+
+				<text
+   transform="translate( 900,600)"
+   id="TextSym109"
+   style="fill :#000000; text-decoration :underline;">Mt</text>
+
+				<text
+   transform="translate(1000,600)"
+   id="TextSym110"
+   style="fill :#000000; text-decoration :underline;">Ds</text>
+
+				<text
+   transform="translate(1100,600)"
+   id="TextSym111"
+   style="fill :#000000; text-decoration :underline;">Rg</text>
+
+				<text
+   transform="translate(1200,600)"
+   id="TextSym112"
+   style="fill :#999999; text-decoration :underline;">Cn</text>
+
+				<text
+   transform="translate(1300,600)"
+   id="TextSym113"
+   style="fill :#999999; text-decoration :underline;">Nh</text>
+
+				<text
+   transform="translate(1400,600)"
+   id="TextSym114"
+   style="fill :#999999; text-decoration :underline;">Fl</text>
+
+				<text
+   transform="translate(1500,600)"
+   id="TextSym115"
+   style="fill :#999999; text-decoration :underline;">Mc</text>
+
+				<text
+   transform="translate(1600,600)"
+   id="TextSym116"
+   style="fill :#999999; text-decoration :underline;">Lv</text>
+
+				<text
+   transform="translate(1700,600)"
+   id="TextSym117"
+   style="fill :#999999; text-decoration :underline;">Ts</text>
+
+				<text
+   transform="translate(1800,600)"
+   id="TextSym118"
+   style="fill :#999999; text-decoration :underline;">Og</text>
+
+				<!-- Lanthanoide -->
+				<text
+   transform="translate( 300,800)"
+   id="TextSym058"
+   style="fill :#000000">Ce</text>
+
+				<text
+   transform="translate( 400,800)"
+   id="TextSym059"
+   style="fill :#000000">Pr</text>
+
+				<text
+   transform="translate( 500,800)"
+   id="TextSym060"
+   style="fill :#000000">Nd</text>
+
+				<text
+   transform="translate( 600,800)"
+   id="TextSym061"
+   style="fill :#000000; text-decoration :underline;">Pm</text>
+
+				<text
+   transform="translate( 700,800)"
+   id="TextSym062"
+   style="fill :#000000">Sm</text>
+
+				<text
+   transform="translate( 800,800)"
+   id="TextSym063"
+   style="fill :#000000">Eu</text>
+
+				<text
+   transform="translate( 900,800)"
+   id="TextSym064"
+   style="fill :#000000">Gd</text>
+
+				<text
+   transform="translate(1000,800)"
+   id="TextSym065"
+   style="fill :#000000">Tb</text>
+
+				<text
+   transform="translate(1100,800)"
+   id="TextSym066"
+   style="fill :#000000">Dy</text>
+
+				<text
+   transform="translate(1200,800)"
+   id="TextSym067"
+   style="fill :#000000">Ho</text>
+
+				<text
+   transform="translate(1300,800)"
+   id="TextSym068"
+   style="fill :#000000">Er</text>
+
+				<text
+   transform="translate(1400,800)"
+   id="TextSym069"
+   style="fill :#000000">Tm</text>
+
+				<text
+   transform="translate(1500,800)"
+   id="TextSym070"
+   style="fill :#000000">Yb</text>
+
+				<text
+   transform="translate(1600,800)"
+   id="TextSym071"
+   style="fill :#000000">Lu</text>
+
+				<!-- Actinoide -->
+				<text
+   transform="translate( 300,900)"
+   id="TextSym090"
+   style="fill :#000000; text-decoration :underline;">Th</text>
+
+				<text
+   transform="translate( 400,900)"
+   id="TextSym091"
+   style="fill :#000000; text-decoration :underline;">Pa</text>
+
+				<text
+   transform="translate( 500,900)"
+   id="TextSym092"
+   style="fill :#000000; text-decoration :underline;">U</text>
+
+				<text
+   transform="translate( 600,900)"
+   id="TextSym093"
+   style="fill :#000000; text-decoration :underline;">Np</text>
+
+				<text
+   transform="translate( 700,900)"
+   id="TextSym094"
+   style="fill :#000000; text-decoration :underline;">Pu</text>
+
+				<text
+   transform="translate( 800,900)"
+   id="TextSym095"
+   style="fill :#000000; text-decoration :underline;">Am</text>
+
+				<text
+   transform="translate( 900,900)"
+   id="TextSym096"
+   style="fill :#000000; text-decoration :underline;">Cm</text>
+
+				<text
+   transform="translate(1000,900)"
+   id="TextSym097"
+   style="fill :#000000; text-decoration :underline;">Bk</text>
+
+				<text
+   transform="translate(1100,900)"
+   id="TextSym098"
+   style="fill :#000000; text-decoration :underline;">Cf</text>
+
+				<text
+   transform="translate(1200,900)"
+   id="TextSym099"
+   style="fill :#000000; text-decoration :underline;">Es</text>
+
+				<text
+   transform="translate(1300,900)"
+   id="TextSym100"
+   style="fill :#000000; text-decoration :underline;">Fm</text>
+
+				<text
+   transform="translate(1400,900)"
+   id="TextSym101"
+   style="fill :#000000; text-decoration :underline;">Md</text>
+
+				<text
+   transform="translate(1500,900)"
+   id="TextSym102"
+   style="fill :#000000; text-decoration :underline;">No</text>
+
+				<text
+   transform="translate(1600,900)"
+   id="TextSym103"
+   style="fill :#000000; text-decoration :underline;">Lr</text>
+
+			</g>
+			<!-- Name -->
+			<g
+   transform="translate(50,80)"
+   style="text-anchor :middle; font-size :14px; font-weight :normal;"
+   id="g1010">
+				<!-- Periode 1 -->
+				<text
+   transform="translate(   0,0  )"
+   id="text760">Wasserstoff</text>
+<!--   -->
+				<text
+   transform="translate(1800,0  )"
+   id="text762">Helium</text>
+<!--        -->
+				<!-- Periode 2 -->
+				<text
+   transform="translate(   0,100)"
+   id="text764">Lithium</text>
+<!--       -->
+				<text
+   transform="translate( 100,100)"
+   id="text766">Beryllium</text>
+<!--     -->
+				<text
+   transform="translate(1300,100)"
+   id="text768">Bor</text>
+<!--           -->
+				<text
+   transform="translate(1400,100)"
+   id="text770">Kohlenstoff</text>
+<!--   -->
+				<text
+   transform="translate(1500,100)"
+   id="text772">Stickstoff</text>
+<!--    -->
+				<text
+   transform="translate(1600,100)"
+   id="text774">Sauerstoff</text>
+<!--    -->
+				<text
+   transform="translate(1700,100)"
+   id="text776">Fluor</text>
+<!--         -->
+				<text
+   transform="translate(1800,100)"
+   id="text778">Neon</text>
+<!--          -->
+				<!-- Periode 3 -->
+				<text
+   transform="translate(   0,200)"
+   id="text780">Natrium</text>
+<!--       -->
+				<text
+   transform="translate( 100,200)"
+   id="text782">Magnesium</text>
+<!--     -->
+				<text
+   transform="translate(1300,200)"
+   id="text784">Aluminium</text>
+<!--     -->
+				<text
+   transform="translate(1400,200)"
+   id="text786">Silicium</text>
+<!--      -->
+				<text
+   transform="translate(1500,200)"
+   id="text788">Phosphor</text>
+<!--      -->
+				<text
+   transform="translate(1600,200)"
+   id="text790">Schwefel</text>
+<!--      -->
+				<text
+   transform="translate(1700,200)"
+   id="text792">Chlor</text>
+<!--         -->
+				<text
+   transform="translate(1800,200)"
+   id="text794">Argon</text>
+<!--         -->
+				<!-- Periode 4 -->
+				<text
+   transform="translate(   0,300)"
+   id="text796">Kalium</text>
+<!--        -->
+				<text
+   transform="translate( 100,300)"
+   id="text798">Calcium</text>
+<!--       -->
+				<text
+   transform="translate( 200,300)"
+   id="text800">Scandium</text>
+<!--      -->
+				<text
+   transform="translate( 400,300)"
+   id="text802">Titan</text>
+<!--         -->
+				<text
+   transform="translate( 500,300)"
+   id="text804">Vanadium</text>
+<!--      -->
+				<text
+   transform="translate( 600,300)"
+   id="text806">Chrom</text>
+<!--         -->
+				<text
+   transform="translate( 700,300)"
+   id="text808">Mangan</text>
+<!--        -->
+				<text
+   transform="translate( 800,300)"
+   id="text810">Eisen</text>
+<!--         -->
+				<text
+   transform="translate( 900,300)"
+   id="text812">Cobalt</text>
+<!--        -->
+				<text
+   transform="translate(1000,300)"
+   id="text814">Nickel</text>
+<!--        -->
+				<text
+   transform="translate(1100,300)"
+   id="text816">Kupfer</text>
+<!--        -->
+				<text
+   transform="translate(1200,300)"
+   id="text818">Zink</text>
+<!--          -->
+				<text
+   transform="translate(1300,300)"
+   id="text820">Gallium</text>
+<!--       -->
+				<text
+   transform="translate(1400,300)"
+   id="text822">Germanium</text>
+<!--     -->
+				<text
+   transform="translate(1500,300)"
+   id="text824">Arsen</text>
+<!--         -->
+				<text
+   transform="translate(1600,300)"
+   id="text826">Selen</text>
+<!--         -->
+				<text
+   transform="translate(1700,300)"
+   id="text828">Brom</text>
+<!--          -->
+				<text
+   transform="translate(1800,300)"
+   id="text830">Krypton</text>
+<!--       -->
+				<!-- Periode 5 -->
+				<text
+   transform="translate(   0,400)"
+   id="text832">Rubidium</text>
+<!--      -->
+				<text
+   transform="translate( 100,400)"
+   id="text834">Strontium</text>
+<!--     -->
+				<text
+   transform="translate( 200,400)"
+   id="text836">Yttrium</text>
+<!--       -->
+				<text
+   transform="translate( 400,400)"
+   id="text838">Zirconium</text>
+<!--     -->
+				<text
+   transform="translate( 500,400)"
+   id="text840">Niob</text>
+<!--          -->
+				<text
+   transform="translate( 600,400)"
+   id="text842">Molybdän</text>
+<!--      -->
+				<text
+   transform="translate( 700,400)"
+   id="text844">Technetium</text>
+<!--    -->
+				<text
+   transform="translate( 800,400)"
+   id="text846">Ruthenium</text>
+<!--     -->
+				<text
+   transform="translate( 900,400)"
+   id="text848">Rhodium</text>
+<!--       -->
+				<text
+   transform="translate(1000,400)"
+   id="text850">Palladium</text>
+<!--     -->
+				<text
+   transform="translate(1100,400)"
+   id="text852">Silber</text>
+<!--        -->
+				<text
+   transform="translate(1200,400)"
+   id="text854">Cadmium</text>
+<!--       -->
+				<text
+   transform="translate(1300,400)"
+   id="text856">Indium</text>
+<!--        -->
+				<text
+   transform="translate(1400,400)"
+   id="text858">Zinn</text>
+<!--          -->
+				<text
+   transform="translate(1500,400)"
+   id="text860">Antimon</text>
+<!--       -->
+				<text
+   transform="translate(1600,400)"
+   id="text862">Tellur</text>
+<!--        -->
+				<text
+   transform="translate(1700,400)"
+   id="text864">Iod</text>
+<!--           -->
+				<text
+   transform="translate(1800,400)"
+   id="text866">Xenon</text>
+<!--         -->
+				<!-- Periode 6 -->
+				<text
+   transform="translate(   0,500)"
+   id="text868">Caesium</text>
+<!--       -->
+				<text
+   transform="translate( 100,500)"
+   id="text870">Barium</text>
+<!--        -->
+				<text
+   transform="translate( 200,500)"
+   id="text872">Lanthan</text>
+<!--       -->
+				<text
+   transform="translate( 400,500)"
+   id="text874">Hafnium</text>
+<!--       -->
+				<text
+   transform="translate( 500,500)"
+   id="text876">Tantal</text>
+<!--        -->
+				<text
+   transform="translate( 600,500)"
+   id="text878">Wolfram</text>
+<!--       -->
+				<text
+   transform="translate( 700,500)"
+   id="text880">Rhenium</text>
+<!--       -->
+				<text
+   transform="translate( 800,500)"
+   id="text882">Osmium</text>
+<!--        -->
+				<text
+   transform="translate( 900,500)"
+   id="text884">Iridium</text>
+<!--       -->
+				<text
+   transform="translate(1000,500)"
+   id="text886">Platin</text>
+<!--        -->
+				<text
+   transform="translate(1100,500)"
+   id="text888">Gold</text>
+<!--          -->
+				<text
+   transform="translate(1200,500)"
+   id="text890">Quecksilber</text>
+<!--   -->
+				<text
+   transform="translate(1300,500)"
+   id="text892">Thallium</text>
+<!--      -->
+				<text
+   transform="translate(1400,500)"
+   id="text894">Blei</text>
+<!--          -->
+				<text
+   transform="translate(1500,500)"
+   id="text896">Bismut</text>
+<!--        -->
+				<text
+   transform="translate(1600,500)"
+   id="text898">Polonium</text>
+<!--      -->
+				<text
+   transform="translate(1700,500)"
+   id="text900">Astat</text>
+<!--         -->
+				<text
+   transform="translate(1800,500)"
+   id="text902">Radon</text>
+<!--         -->
+				<!-- Periode 7 -->
+				<text
+   transform="translate(   0,600)"
+   id="text904">Francium</text>
+<!--      -->
+				<text
+   transform="translate( 100,600)"
+   id="text906">Radium</text>
+<!--        -->
+				<text
+   transform="translate( 200,600)"
+   id="text908">Actinium</text>
+<!--      -->
+				<text
+   transform="translate( 400,600)"
+   id="text910">Rutherfordium</text>
+<!-- -->
+				<text
+   transform="translate( 500,600)"
+   id="text912">Dubnium</text>
+<!--       -->
+				<text
+   transform="translate( 600,600)"
+   id="text914">Seaborgium</text>
+<!--    -->
+				<text
+   transform="translate( 700,600)"
+   id="text916">Bohrium</text>
+<!--       -->
+				<text
+   transform="translate( 800,600)"
+   id="text918">Hassium</text>
+<!--       -->
+				<text
+   transform="translate( 900,600)"
+   id="text920">Meitnerium</text>
+<!--    -->
+				<text
+   transform="translate(1000,600)"
+   id="text922">Darmstadtium</text>
+<!--  -->
+				<text
+   transform="translate(1100,600)"
+   id="text924">Roentgenium</text>
+<!--   -->
+				<text
+   transform="translate(1200,600)"
+   id="text926">Copernicium</text>
+<!--   -->
+				<text
+   transform="translate(1300,600)"
+   id="text928">Nihonium</text>
+<!--      -->
+				<text
+   transform="translate(1400,600)"
+   id="text930">Flerovium</text>
+<!--     -->
+				<text
+   transform="translate(1500,600)"
+   id="text932">Moscovium</text>
+<!--     -->
+				<text
+   transform="translate(1600,600)"
+   id="text934">Livermorium</text>
+<!--   -->
+				<text
+   transform="translate(1700,600)"
+   id="text936">Tenness</text>
+<!--       -->
+				<text
+   transform="translate(1800,600)"
+   id="text938">Oganesson</text>
+<!--     -->
+				<!-- Lanthe -->
+				<text
+   transform="translate( 300,800)"
+   id="text940">Cer</text>
+<!--           -->
+				<text
+   transform="translate( 400,800)"
+   id="text942">Praseodym</text>
+<!--     -->
+				<text
+   transform="translate( 500,800)"
+   id="text944">Neodym</text>
+<!--        -->
+				<text
+   transform="translate( 600,800)"
+   id="text946">Promethium</text>
+<!--    -->
+				<text
+   transform="translate( 700,800)"
+   id="text948">Samarium</text>
+<!--      -->
+				<text
+   transform="translate( 800,800)"
+   id="text950">Europium</text>
+<!--      -->
+				<text
+   transform="translate( 900,800)"
+   id="text952">Gadolinium</text>
+<!--    -->
+				<text
+   transform="translate(1000,800)"
+   id="text954">Terbium</text>
+<!--       -->
+				<text
+   transform="translate(1100,800)"
+   id="text956">Dysprosium</text>
+<!--    -->
+				<text
+   transform="translate(1200,800)"
+   id="text958">Holmium</text>
+<!--       -->
+				<text
+   transform="translate(1300,800)"
+   id="text960">Erbium</text>
+<!--        -->
+				<text
+   transform="translate(1400,800)"
+   id="text962">Thulium</text>
+<!--       -->
+				<text
+   transform="translate(1500,800)"
+   id="text964">Ytterbium</text>
+<!--     -->
+				<text
+   transform="translate(1600,800)"
+   id="text966">Lutetium</text>
+<!--      -->
+				<!-- Actin -->
+				<text
+   transform="translate( 300,900)"
+   id="text968">Thorium</text>
+<!--       -->
+				<text
+   transform="translate( 400,900)"
+   id="text970">Protactinium</text>
+<!--  -->
+				<text
+   transform="translate( 500,900)"
+   id="text972">Uran</text>
+<!--          -->
+				<text
+   transform="translate( 600,900)"
+   id="text974">Neptunium</text>
+<!--     -->
+				<text
+   transform="translate( 700,900)"
+   id="text976">Plutonium</text>
+<!--     -->
+				<text
+   transform="translate( 800,900)"
+   id="text978">Americium</text>
+<!--     -->
+				<text
+   transform="translate( 900,900)"
+   id="text980">Curium</text>
+<!--        -->
+				<text
+   transform="translate(1000,900)"
+   id="text982">Berkelium</text>
+<!--     -->
+				<text
+   transform="translate(1100,900)"
+   id="text984">Californium</text>
+<!--   -->
+				<text
+   transform="translate(1200,900)"
+   id="text986">Einsteinium</text>
+<!--   -->
+				<text
+   transform="translate(1300,900)"
+   id="text988">Fermium</text>
+<!--       -->
+				<text
+   transform="translate(1400,900)"
+   id="text990">Mendelevium</text>
+<!--   -->
+				<text
+   transform="translate(1500,900)"
+   id="text992">Nobelium</text>
+<!--      -->
+				<text
+   transform="translate(1600,900)"
+   id="text994">Lawrencium</text>
+<!--    -->
+				<!-- Hinweis -->
+				<g
+   id="gName_La"
+   transform="translate( 300,500)"><text
+     style="font-size :24px"
+     id="text1000"><tspan
+       x="0"
+       y="-30"
+       id="tspan996">siehe</tspan><tspan
+       x="0"
+       y="0"
+       id="tspan998">unten</tspan></text>
+<!--   --></g>
+				<g
+   id="gName_Ac"
+   transform="translate( 300,600)"><text
+     style="font-size :24px"
+     id="text1007"><tspan
+       x="0"
+       y="-30"
+       id="tspan1003">siehe</tspan><tspan
+       x="0"
+       y="0"
+       id="tspan1005">unten</tspan></text>
+<!--   --></g>
+			</g>
+			<!-- Elektronegativität -->
+			<g
+   transform="translate(4,96)"
+   id="EL"
+   style="font-size :16px; font-weight :bold; text-anchor :start;fill :#000000;">
+				<!-- Periode 1 -->
+				<text
+   transform="translate(   0,0  )"
+   id="TextEl001">2,2</text>
+<!--  -->
+				<text
+   transform="translate(1800,0  )"
+   id="TextEl002">—</text>
+<!--    -->
+				<!-- Periode 2 -->
+				<text
+   transform="translate(   0,100)"
+   id="TextEl003">0,98</text>
+<!-- -->
+				<text
+   transform="translate( 100,100)"
+   id="TextEl004">1,57</text>
+<!-- -->
+				<text
+   transform="translate(1300,100)"
+   id="TextEl005">2,04</text>
+<!-- -->
+				<text
+   transform="translate(1400,100)"
+   id="TextEl006">2,55</text>
+<!-- -->
+				<text
+   transform="translate(1500,100)"
+   id="TextEl007">3,04</text>
+<!-- -->
+				<text
+   transform="translate(1600,100)"
+   id="TextEl008">3,44</text>
+<!-- -->
+				<text
+   transform="translate(1700,100)"
+   id="TextEl009">3,98</text>
+<!-- -->
+				<text
+   transform="translate(1800,100)"
+   id="TextEl010">—</text>
+<!--    -->
+				<!-- Periode 3 -->
+				<text
+   transform="translate(   0,200)"
+   id="TextEl011">0,93</text>
+<!-- -->
+				<text
+   transform="translate( 100,200)"
+   id="TextEl012">1,31</text>
+<!-- -->
+				<text
+   transform="translate(1300,200)"
+   id="TextEl013">1,61</text>
+<!-- -->
+				<text
+   transform="translate(1400,200)"
+   id="TextEl014">1,9</text>
+<!--  -->
+				<text
+   transform="translate(1500,200)"
+   id="TextEl015">2,19</text>
+<!-- -->
+				<text
+   transform="translate(1600,200)"
+   id="TextEl016">2,58</text>
+<!-- -->
+				<text
+   transform="translate(1700,200)"
+   id="TextEl017">3,16</text>
+<!-- -->
+				<text
+   transform="translate(1800,200)"
+   id="TextEl018">0,82</text>
+<!-- -->
+				<!-- Periode 4 -->
+				<text
+   transform="translate(   0,300)"
+   id="TextEl019">0,82</text>
+<!-- -->
+				<text
+   transform="translate( 100,300)"
+   id="TextEl020">1,0</text>
+<!--  -->
+				<text
+   transform="translate( 200,300)"
+   id="TextEl021">1,36</text>
+<!-- -->
+				<text
+   transform="translate( 400,300)"
+   id="TextEl022">1,54</text>
+<!-- -->
+				<text
+   transform="translate( 500,300)"
+   id="TextEl023">1,63</text>
+<!-- -->
+				<text
+   transform="translate( 600,300)"
+   id="TextEl024">1,66</text>
+<!-- -->
+				<text
+   transform="translate( 700,300)"
+   id="TextEl025">1,55</text>
+<!-- -->
+				<text
+   transform="translate( 800,300)"
+   id="TextEl026">1,83</text>
+<!-- -->
+				<text
+   transform="translate( 900,300)"
+   id="TextEl027">1,91</text>
+<!-- -->
+				<text
+   transform="translate(1000,300)"
+   id="TextEl028">1,88</text>
+<!-- -->
+				<text
+   transform="translate(1100,300)"
+   id="TextEl029">1,9</text>
+<!--  -->
+				<text
+   transform="translate(1200,300)"
+   id="TextEl030">1,65</text>
+<!-- -->
+				<text
+   transform="translate(1300,300)"
+   id="TextEl031">1,81</text>
+<!-- -->
+				<text
+   transform="translate(1400,300)"
+   id="TextEl032">2,01</text>
+<!-- -->
+				<text
+   transform="translate(1500,300)"
+   id="TextEl033">2,18</text>
+<!-- -->
+				<text
+   transform="translate(1600,300)"
+   id="TextEl034">2,55</text>
+<!-- -->
+				<text
+   transform="translate(1700,300)"
+   id="TextEl035">2,96</text>
+<!-- -->
+				<text
+   transform="translate(1800,300)"
+   id="TextEl036">—</text>
+<!--    -->
+				<!-- Periode 5 -->
+				<text
+   transform="translate(   0,400)"
+   id="TextEl037">0,82</text>
+<!-- -->
+				<text
+   transform="translate( 100,400)"
+   id="TextEl038">0,95</text>
+<!-- -->
+				<text
+   transform="translate( 200,400)"
+   id="TextEl039">1,22</text>
+<!-- -->
+				<text
+   transform="translate( 400,400)"
+   id="TextEl040">1,33</text>
+<!-- -->
+				<text
+   transform="translate( 500,400)"
+   id="TextEl041">1,6</text>
+<!--  -->
+				<text
+   transform="translate( 600,400)"
+   id="TextEl042">2,16</text>
+<!-- -->
+				<text
+   transform="translate( 700,400)"
+   id="TextEl043">1,9</text>
+<!--  -->
+				<text
+   transform="translate( 800,400)"
+   id="TextEl044">2,2</text>
+<!--  -->
+				<text
+   transform="translate( 900,400)"
+   id="TextEl045">2,28</text>
+<!-- -->
+				<text
+   transform="translate(1000,400)"
+   id="TextEl046">2,2</text>
+<!--  -->
+				<text
+   transform="translate(1100,400)"
+   id="TextEl047">1,93</text>
+<!-- -->
+				<text
+   transform="translate(1200,400)"
+   id="TextEl048">1,69</text>
+<!-- -->
+				<text
+   transform="translate(1300,400)"
+   id="TextEl049">1,78</text>
+<!-- -->
+				<text
+   transform="translate(1400,400)"
+   id="TextEl050">1,96</text>
+<!-- -->
+				<text
+   transform="translate(1500,400)"
+   id="TextEl051">2,05</text>
+<!-- -->
+				<text
+   transform="translate(1600,400)"
+   id="TextEl052">2,66</text>
+<!-- -->
+				<text
+   transform="translate(1700,400)"
+   id="TextEl053">2,1</text>
+<!--  -->
+				<text
+   transform="translate(1800,400)"
+   id="TextEl054">2,6</text>
+<!--  -->
+				<!-- Periode 6 -->
+				<text
+   transform="translate(   0,500)"
+   id="TextEl055">0,79</text>
+<!-- -->
+				<text
+   transform="translate( 100,500)"
+   id="TextEl056">0,89</text>
+<!-- -->
+				<text
+   transform="translate( 200,500)"
+   id="TextEl057">1,1</text>
+<!--  -->
+				<text
+   transform="translate( 400,500)"
+   id="TextEl072">1,3</text>
+<!--  -->
+				<text
+   transform="translate( 500,500)"
+   id="TextEl073">1,5</text>
+<!--  -->
+				<text
+   transform="translate( 600,500)"
+   id="TextEl074">2,36</text>
+<!-- -->
+				<text
+   transform="translate( 700,500)"
+   id="TextEl075">1,9</text>
+<!--  -->
+				<text
+   transform="translate( 800,500)"
+   id="TextEl076">2,2</text>
+<!--  -->
+				<text
+   transform="translate( 900,500)"
+   id="TextEl077">2,2</text>
+<!--  -->
+				<text
+   transform="translate(1000,500)"
+   id="TextEl078">2,28</text>
+<!-- -->
+				<text
+   transform="translate(1100,500)"
+   id="TextEl079">2,54</text>
+<!-- -->
+				<text
+   transform="translate(1200,500)"
+   id="TextEl080">1,9</text>
+<!--  -->
+				<text
+   transform="translate(1300,500)"
+   id="TextEl081">1,62</text>
+<!-- -->
+				<text
+   transform="translate(1400,500)"
+   id="TextEl082">2,33</text>
+<!-- -->
+				<text
+   transform="translate(1500,500)"
+   id="TextEl083">2,02</text>
+<!-- -->
+				<text
+   transform="translate(1600,500)"
+   id="TextEl084">2,0</text>
+<!--  -->
+				<text
+   transform="translate(1700,500)"
+   id="TextEl085">2,2</text>
+<!--  -->
+				<text
+   transform="translate(1800,500)"
+   id="TextEl086">—</text>
+<!--    -->
+				<!-- Periode 7 -->
+				<text
+   transform="translate(   0,600)"
+   id="TextEl087">0,7</text>
+<!--  -->
+				<text
+   transform="translate( 100,600)"
+   id="TextEl088">0,89</text>
+<!-- -->
+				<text
+   transform="translate( 200,600)"
+   id="TextEl089">1,1</text>
+<!--  -->
+				<text
+   transform="translate( 400,600)"
+   id="TextEl104">?</text>
+<!--    -->
+				<text
+   transform="translate( 500,600)"
+   id="TextEl105">?</text>
+<!--    -->
+				<text
+   transform="translate( 600,600)"
+   id="TextEl106">?</text>
+<!--    -->
+				<text
+   transform="translate( 700,600)"
+   id="TextEl107">?</text>
+<!--    -->
+				<text
+   transform="translate( 800,600)"
+   id="TextEl108">?</text>
+<!--    -->
+				<text
+   transform="translate( 900,600)"
+   id="TextEl109">?</text>
+<!--    -->
+				<text
+   transform="translate(1000,600)"
+   id="TextEl110">?</text>
+<!--    -->
+				<text
+   transform="translate(1100,600)"
+   id="TextEl111">?</text>
+<!--    -->
+				<text
+   transform="translate(1200,600)"
+   id="TextEl112">?</text>
+<!--    -->
+				<text
+   transform="translate(1300,600)"
+   id="TextEl113">?</text>
+<!--    -->
+				<text
+   transform="translate(1400,600)"
+   id="TextEl114">?</text>
+<!--    -->
+				<text
+   transform="translate(1500,600)"
+   id="TextEl115">?</text>
+<!--    -->
+				<text
+   transform="translate(1600,600)"
+   id="TextEl116">?</text>
+<!--    -->
+				<text
+   transform="translate(1700,600)"
+   id="TextEl117">?</text>
+<!--    -->
+				<text
+   transform="translate(1800,600)"
+   id="TextEl118">?</text>
+<!--    -->
+				<!-- Lanthanoide -->
+				<text
+   transform="translate( 300,800)"
+   id="TextEl058">1,12</text>
+<!-- -->
+				<text
+   transform="translate( 400,800)"
+   id="TextEl059">1,13</text>
+<!-- -->
+				<text
+   transform="translate( 500,800)"
+   id="TextEl060">1,14</text>
+<!-- -->
+				<text
+   transform="translate( 600,800)"
+   id="TextEl061">1,13</text>
+<!-- -->
+				<text
+   transform="translate( 700,800)"
+   id="TextEl062">1,17</text>
+<!-- -->
+				<text
+   transform="translate( 800,800)"
+   id="TextEl063">1,2</text>
+<!--  -->
+				<text
+   transform="translate( 900,800)"
+   id="TextEl064">1,2</text>
+<!--  -->
+				<text
+   transform="translate(1000,800)"
+   id="TextEl065">1,1</text>
+<!--  -->
+				<text
+   transform="translate(1100,800)"
+   id="TextEl066">1,22</text>
+<!-- -->
+				<text
+   transform="translate(1200,800)"
+   id="TextEl067">1,23</text>
+<!-- -->
+				<text
+   transform="translate(1300,800)"
+   id="TextEl068">1,24</text>
+<!-- -->
+				<text
+   transform="translate(1400,800)"
+   id="TextEl069">1,25</text>
+<!-- -->
+				<text
+   transform="translate(1500,800)"
+   id="TextEl070">1,1</text>
+<!--  -->
+				<text
+   transform="translate(1600,800)"
+   id="TextEl071">1,27</text>
+<!-- -->
+				<!-- Actinide -->
+				<text
+   transform="translate( 300,900)"
+   id="TextEl090">1,5</text>
+<!--  -->
+				<text
+   transform="translate( 400,900)"
+   id="TextEl091">1,3</text>
+<!--  -->
+				<text
+   transform="translate( 500,900)"
+   id="TextEl092">1,36</text>
+<!-- -->
+				<text
+   transform="translate( 600,900)"
+   id="TextEl093">1,38</text>
+<!-- -->
+				<text
+   transform="translate( 700,900)"
+   id="TextEl094">1,3</text>
+<!--  -->
+				<text
+   transform="translate( 800,900)"
+   id="TextEl095">1,28</text>
+<!-- -->
+				<text
+   transform="translate( 900,900)"
+   id="TextEl096">1,3</text>
+<!--  -->
+				<text
+   transform="translate(1000,900)"
+   id="TextEl097">1,3</text>
+<!--  -->
+				<text
+   transform="translate(1100,900)"
+   id="TextEl098">1,3</text>
+<!--  -->
+				<text
+   transform="translate(1200,900)"
+   id="TextEl099">1,3</text>
+<!--  -->
+				<text
+   transform="translate(1300,900)"
+   id="TextEl100">1,3</text>
+<!--  -->
+				<text
+   transform="translate(1400,900)"
+   id="TextEl101">1,3</text>
+<!--  -->
+				<text
+   transform="translate(1500,900)"
+   id="TextEl102">1,3</text>
+<!--  -->
+				<text
+   transform="translate(1600,900)"
+   id="TextEl103">1,3</text>
+<!--  -->
+			</g>
+			<!-- Dichte -->
+			<g
+   transform="translate(96,96)"
+   id="Dichte"
+   style="font-size :16px; font-weight :bold; text-anchor :end;">
+				<!-- Periode 1 -->
+				<g
+   id="gDichte001"><text
+     transform="translate(   0,0  )"
+     id="TextDichte001"
+     style="fill:#FF0000;">0,09</text>
+<!--  --></g>
+				<g
+   id="gDichte002"><text
+     transform="translate(1800,0  )"
+     id="TextDichte002"
+     style="fill:#FF0000;">0,18</text>
+<!--  --></g>
+				<!-- Periode 2 -->
+				<g
+   id="gDichte003"><text
+     transform="translate(   0,100)"
+     id="TextDichte003"
+     style="fill:#000000;">0,53</text>
+<!--  --></g>
+				<g
+   id="gDichte004"><text
+     transform="translate( 100,100)"
+     id="TextDichte004"
+     style="fill:#000000;">1,85</text>
+<!--  --></g>
+				<g
+   id="gDichte005"><text
+     transform="translate(1300,100)"
+     id="TextDichte005"
+     style="fill:#000000;">2,46</text>
+<!--  --></g>
+				<g
+   id="gDichte006"><text
+     transform="translate(1400,100)"
+     id="TextDichte006"
+     style="fill:#000000;">2,26</text>
+<!--  --></g>
+				<g
+   id="gDichte007"><text
+     transform="translate(1500,100)"
+     id="TextDichte007"
+     style="fill:#FF0000;">1,25</text>
+<!--  --></g>
+				<g
+   id="gDichte008"><text
+     transform="translate(1600,100)"
+     id="TextDichte008"
+     style="fill:#FF0000;">1,43</text>
+<!--  --></g>
+				<g
+   id="gDichte009"><text
+     transform="translate(1700,100)"
+     id="TextDichte009"
+     style="fill:#FF0000;">1,70</text>
+<!--  --></g>
+				<g
+   id="gDichte010"><text
+     transform="translate(1800,100)"
+     id="TextDichte010"
+     style="fill:#FF0000;">0,90</text>
+<!--  --></g>
+				<!-- Periode 3 -->
+				<g
+   id="gDichte011"><text
+     transform="translate(   0,200)"
+     id="TextDichte011"
+     style="fill:#000000;">0,97</text>
+<!--  --></g>
+				<g
+   id="gDichte012"><text
+     transform="translate( 100,200)"
+     id="TextDichte012"
+     style="fill:#000000;">1,74</text>
+<!--  --></g>
+				<g
+   id="gDichte013"><text
+     transform="translate(1300,200)"
+     id="TextDichte013"
+     style="fill:#000000;">2,70</text>
+<!--  --></g>
+				<g
+   id="gDichte014"><text
+     transform="translate(1400,200)"
+     id="TextDichte014"
+     style="fill:#000000;">2,34</text>
+<!--  --></g>
+				<g
+   id="gDichte015"><text
+     transform="translate(1500,200)"
+     id="TextDichte015"
+     style="fill:#000000;">2,69</text>
+<!--  --></g>
+				<g
+   id="gDichte016"><text
+     transform="translate(1600,200)"
+     id="TextDichte016"
+     style="fill:#000000;">2,07</text>
+<!--  --></g>
+				<g
+   id="gDichte017"><text
+     transform="translate(1700,200)"
+     id="TextDichte017"
+     style="fill:#FF0000;">3,21</text>
+<!--  --></g>
+				<g
+   id="gDichte018"><text
+     transform="translate(1800,200)"
+     id="TextDichte018"
+     style="fill:#FF0000;">1,78</text>
+<!--  --></g>
+				<!-- Periode 4 -->
+				<g
+   id="gDichte019"><text
+     transform="translate(   0,300)"
+     id="TextDichte019"
+     style="fill:#000000;">0,86</text>
+<!--  --></g>
+				<g
+   id="gDichte020"><text
+     transform="translate( 100,300)"
+     id="TextDichte020"
+     style="fill:#000000;">1,55</text>
+<!--  --></g>
+				<g
+   id="gDichte021"><text
+     transform="translate( 200,300)"
+     id="TextDichte021"
+     style="fill:#000000;">2,98</text>
+<!--  --></g>
+				<g
+   id="gDichte022"><text
+     transform="translate( 400,300)"
+     id="TextDichte022"
+     style="fill:#000000;">4,50</text>
+<!--  --></g>
+				<g
+   id="gDichte023"><text
+     transform="translate( 500,300)"
+     id="TextDichte023"
+     style="fill:#000000;">6,11</text>
+<!--  --></g>
+				<g
+   id="gDichte024"><text
+     transform="translate( 600,300)"
+     id="TextDichte024"
+     style="fill:#000000;">7,14</text>
+<!--  --></g>
+				<g
+   id="gDichte025"><text
+     transform="translate( 700,300)"
+     id="TextDichte025"
+     style="fill:#000000;">7,43</text>
+<!--  --></g>
+				<g
+   id="gDichte026"><text
+     transform="translate( 800,300)"
+     id="TextDichte026"
+     style="fill:#000000;">7,87</text>
+<!--  --></g>
+				<g
+   id="gDichte027"><text
+     transform="translate( 900,300)"
+     id="TextDichte027"
+     style="fill:#000000;">8,90</text>
+<!--  --></g>
+				<g
+   id="gDichte028"><text
+     transform="translate(1000,300)"
+     id="TextDichte028"
+     style="fill:#000000;">8,91</text>
+<!--  --></g>
+				<g
+   id="gDichte029"><text
+     transform="translate(1100,300)"
+     id="TextDichte029"
+     style="fill:#000000;">8,92</text>
+<!--  --></g>
+				<g
+   id="gDichte030"><text
+     transform="translate(1200,300)"
+     id="TextDichte030"
+     style="fill:#000000;">7,14</text>
+<!--  --></g>
+				<g
+   id="gDichte031"><text
+     transform="translate(1300,300)"
+     id="TextDichte031"
+     style="fill:#000000;">5,90</text>
+<!--  --></g>
+				<g
+   id="gDichte032"><text
+     transform="translate(1400,300)"
+     id="TextDichte032"
+     style="fill:#000000;">5,32</text>
+<!--  --></g>
+				<g
+   id="gDichte033"><text
+     transform="translate(1500,300)"
+     id="TextDichte033"
+     style="fill:#000000;">5,73</text>
+<!--  --></g>
+				<g
+   id="gDichte034"><text
+     transform="translate(1600,300)"
+     id="TextDichte034"
+     style="fill:#000000;">4,82</text>
+<!--  --></g>
+				<g
+   id="gDichte035"><text
+     transform="translate(1700,300)"
+     id="TextDichte035"
+     style="fill:#000000;">3,12</text>
+<!--  --></g>
+				<g
+   id="gDichte036"><text
+     transform="translate(1800,300)"
+     id="TextDichte036"
+     style="fill:#FF0000;">3,75</text>
+<!--  --></g>
+				<!-- Periode 5 -->
+				<g
+   id="gDichte037"><text
+     transform="translate(   0,400)"
+     id="TextDichte037"
+     style="fill:#000000;">1,53</text>
+<!--  --></g>
+				<g
+   id="gDichte038"><text
+     transform="translate( 100,400)"
+     id="TextDichte038"
+     style="fill:#000000;">2,63</text>
+<!--  --></g>
+				<g
+   id="gDichte039"><text
+     transform="translate( 200,400)"
+     id="TextDichte039"
+     style="fill:#000000;">4,47</text>
+<!--  --></g>
+				<g
+   id="gDichte040"><text
+     transform="translate( 400,400)"
+     id="TextDichte040"
+     style="fill:#000000;">6,50</text>
+<!--  --></g>
+				<g
+   id="gDichte041"><text
+     transform="translate( 500,400)"
+     id="TextDichte041"
+     style="fill:#000000;">8,57</text>
+<!--  --></g>
+				<g
+   id="gDichte042"><text
+     transform="translate( 600,400)"
+     id="TextDichte042"
+     style="fill:#000000;">10,28</text>
+<!-- --></g>
+				<g
+   id="gDichte043"><text
+     transform="translate( 700,400)"
+     id="TextDichte043"
+     style="fill:#000000;">11,50</text>
+<!-- --></g>
+				<g
+   id="gDichte044"><text
+     transform="translate( 800,400)"
+     id="TextDichte044"
+     style="fill:#000000;">12,37</text>
+<!-- --></g>
+				<g
+   id="gDichte045"><text
+     transform="translate( 900,400)"
+     id="TextDichte045"
+     style="fill:#000000;">12,45</text>
+<!-- --></g>
+				<g
+   id="gDichte046"><text
+     transform="translate(1000,400)"
+     id="TextDichte046"
+     style="fill:#000000;">12,02</text>
+<!-- --></g>
+				<g
+   id="gDichte047"><text
+     transform="translate(1100,400)"
+     id="TextDichte047"
+     style="fill:#000000;">10,49</text>
+<!-- --></g>
+				<g
+   id="gDichte048"><text
+     transform="translate(1200,400)"
+     id="TextDichte048"
+     style="fill:#000000;">8,64</text>
+<!--  --></g>
+				<g
+   id="gDichte049"><text
+     transform="translate(1300,400)"
+     id="TextDichte049"
+     style="fill:#000000;">7,31</text>
+<!--  --></g>
+				<g
+   id="gDichte050"><text
+     transform="translate(1400,400)"
+     id="TextDichte050"
+     style="fill:#000000;">7,26</text>
+<!--  --></g>
+				<g
+   id="gDichte051"><text
+     transform="translate(1500,400)"
+     id="TextDichte051"
+     style="fill:#000000;">6,70</text>
+<!--  --></g>
+				<g
+   id="gDichte052"><text
+     transform="translate(1600,400)"
+     id="TextDichte052"
+     style="fill:#000000;">6,25</text>
+<!--  --></g>
+				<g
+   id="gDichte053"><text
+     transform="translate(1700,400)"
+     id="TextDichte053"
+     style="fill:#000000;">4,94</text>
+<!--  --></g>
+				<g
+   id="gDichte054"><text
+     transform="translate(1800,400)"
+     id="TextDichte054"
+     style="fill:#FF0000;">5,90</text>
+<!--  --></g>
+				<!-- Periode 6 -->
+				<g
+   id="gDichte055"><text
+     transform="translate(   0,500)"
+     id="TextDichte055"
+     style="fill:#000000;">1,90</text>
+<!--  --></g>
+				<g
+   id="gDichte056"><text
+     transform="translate( 100,500)"
+     id="TextDichte056"
+     style="fill:#000000;">3,59</text>
+<!--  --></g>
+				<g
+   id="gDichte057"><text
+     transform="translate( 200,500)"
+     id="TextDichte057"
+     style="fill:#000000;">6,15</text>
+<!--  --></g>
+
+				<g
+   id="gDichte072"><text
+     transform="translate( 400,500)"
+     id="TextDichte072"
+     style="fill:#000000;">13,3</text>
+<!--  --></g>
+				<g
+   id="gDichte073"><text
+     transform="translate( 500,500)"
+     id="TextDichte073"
+     style="fill:#000000;">16,65</text>
+<!-- --></g>
+				<g
+   id="gDichte074"><text
+     transform="translate( 600,500)"
+     id="TextDichte074"
+     style="fill:#000000;">19,25</text>
+<!-- --></g>
+				<g
+   id="gDichte075"><text
+     transform="translate( 700,500)"
+     id="TextDichte075"
+     style="fill:#000000;">21,0</text>
+<!--  --></g>
+				<g
+   id="gDichte076"><text
+     transform="translate( 800,500)"
+     id="TextDichte076"
+     style="fill:#000000;">22,6</text>
+<!--  --></g>
+				<g
+   id="gDichte077"><text
+     transform="translate( 900,500)"
+     id="TextDichte077"
+     style="fill:#000000;">22,56</text>
+<!-- --></g>
+				<g
+   id="gDichte078"><text
+     transform="translate(1000,500)"
+     id="TextDichte078"
+     style="fill:#000000;">21,45</text>
+<!-- --></g>
+				<g
+   id="gDichte079"><text
+     transform="translate(1100,500)"
+     id="TextDichte079"
+     style="fill:#000000;">19,32</text>
+<!-- --></g>
+				<g
+   id="gDichte080"><text
+     transform="translate(1200,500)"
+     id="TextDichte080"
+     style="fill:#000000;">13,55</text>
+<!-- --></g>
+				<g
+   id="gDichte081"><text
+     transform="translate(1300,500)"
+     id="TextDichte081"
+     style="fill:#000000;">11,85</text>
+<!-- --></g>
+				<g
+   id="gDichte082"><text
+     transform="translate(1400,500)"
+     id="TextDichte082"
+     style="fill:#000000;">11,35</text>
+<!-- --></g>
+				<g
+   id="gDichte083"><text
+     transform="translate(1500,500)"
+     id="TextDichte083"
+     style="fill:#000000;">9,75</text>
+<!--  --></g>
+				<g
+   id="gDichte084"><text
+     transform="translate(1600,500)"
+     id="TextDichte084"
+     style="fill:#000000;">9,20</text>
+<!--  --></g>
+				<g
+   id="gDichte085"><text
+     transform="translate(1700,500)"
+     id="TextDichte085"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte086"><text
+     transform="translate(1800,500)"
+     id="TextDichte086"
+     style="fill:#FF0000;">9,73</text>
+<!--  --></g>
+				<!-- Periode 7 -->
+				<g
+   id="gDichte087"><text
+     transform="translate(   0,600)"
+     id="TextDichte087"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte088"><text
+     transform="translate( 100,600)"
+     id="TextDichte088"
+     style="fill:#000000;">5,5</text>
+<!--   --></g>
+				<g
+   id="gDichte089"><text
+     transform="translate( 200,600)"
+     id="TextDichte089"
+     style="fill:#000000;">10,1</text>
+<!--  --></g>
+				<g
+   id="gDichte104"><text
+     transform="translate( 400,600)"
+     id="TextDichte104"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte105"><text
+     transform="translate( 500,600)"
+     id="TextDichte105"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte106"><text
+     transform="translate( 600,600)"
+     id="TextDichte106"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte107"><text
+     transform="translate( 700,600)"
+     id="TextDichte107"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte108"><text
+     transform="translate( 800,600)"
+     id="TextDichte108"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte109"><text
+     transform="translate( 900,600)"
+     id="TextDichte109"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte110"><text
+     transform="translate(1000,600)"
+     id="TextDichte110"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte111"><text
+     transform="translate(1100,600)"
+     id="TextDichte111"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte112"><text
+     transform="translate(1200,600)"
+     id="TextDichte112"
+     style="fill:#999999;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte113"><text
+     transform="translate(1300,600)"
+     id="TextDichte113"
+     style="fill:#999999;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte114"><text
+     transform="translate(1400,600)"
+     id="TextDichte114"
+     style="fill:#999999;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte115"><text
+     transform="translate(1500,600)"
+     id="TextDichte115"
+     style="fill:#999999;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte116"><text
+     transform="translate(1600,600)"
+     id="TextDichte116"
+     style="fill:#999999;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte117"><text
+     transform="translate(1700,600)"
+     id="TextDichte117"
+     style="fill:#999999;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte118"><text
+     transform="translate(1800,600)"
+     id="TextDichte118"
+     style="fill:#999999;">?</text>
+<!--     --></g>
+				<!-- Lanthanoide -->
+				<g
+   id="gDichte058"><text
+     transform="translate( 300,800)"
+     id="TextDichte058"
+     style="fill:#000000;">6,77</text>
+<!--  --></g>
+				<g
+   id="gDichte059"><text
+     transform="translate( 400,800)"
+     id="TextDichte059"
+     style="fill:#000000;">6,48</text>
+<!--  --></g>
+				<g
+   id="gDichte060"><text
+     transform="translate( 500,800)"
+     id="TextDichte060"
+     style="fill:#000000;">7,01</text>
+<!--  --></g>
+				<g
+   id="gDichte061"><text
+     transform="translate( 600,800)"
+     id="TextDichte061"
+     style="fill:#000000;">7,22</text>
+<!--  --></g>
+				<g
+   id="gDichte062"><text
+     transform="translate( 700,800)"
+     id="TextDichte062"
+     style="fill:#000000;">7,54</text>
+<!--  --></g>
+				<g
+   id="gDichte063"><text
+     transform="translate( 800,800)"
+     id="TextDichte063"
+     style="fill:#000000;">5,25</text>
+<!--  --></g>
+				<g
+   id="gDichte064"><text
+     transform="translate( 900,800)"
+     id="TextDichte064"
+     style="fill:#000000;">7,89</text>
+<!--  --></g>
+				<g
+   id="gDichte065"><text
+     transform="translate(1000,800)"
+     id="TextDichte065"
+     style="fill:#000000;">8,25</text>
+<!--  --></g>
+				<g
+   id="gDichte066"><text
+     transform="translate(1100,800)"
+     id="TextDichte066"
+     style="fill:#000000;">8,55</text>
+<!--  --></g>
+				<g
+   id="gDichte067"><text
+     transform="translate(1200,800)"
+     id="TextDichte067"
+     style="fill:#000000;">8,78</text>
+<!--  --></g>
+				<g
+   id="gDichte068"><text
+     transform="translate(1300,800)"
+     id="TextDichte068"
+     style="fill:#000000;">9,05</text>
+<!--  --></g>
+				<g
+   id="gDichte069"><text
+     transform="translate(1400,800)"
+     id="TextDichte069"
+     style="fill:#000000;">9,32</text>
+<!--  --></g>
+				<g
+   id="gDichte070"><text
+     transform="translate(1500,800)"
+     id="TextDichte070"
+     style="fill:#000000;">6,97</text>
+<!--  --></g>
+				<g
+   id="gDichte071"><text
+     transform="translate(1600,800)"
+     id="TextDichte071"
+     style="fill:#000000;">9,84</text>
+<!--  --></g>
+				<!-- Actinoide -->
+				<g
+   id="gDichte090"><text
+     transform="translate( 300,900)"
+     id="TextDichte090"
+     style="fill:#000000;">11,72</text>
+<!-- --></g>
+				<g
+   id="gDichte091"><text
+     transform="translate( 400,900)"
+     id="TextDichte091"
+     style="fill:#000000;">15,4</text>
+<!--  --></g>
+				<g
+   id="gDichte092"><text
+     transform="translate( 500,900)"
+     id="TextDichte092"
+     style="fill:#000000;">18,95</text>
+<!-- --></g>
+				<g
+   id="gDichte093"><text
+     transform="translate( 600,900)"
+     id="TextDichte093"
+     style="fill:#000000;">20,45</text>
+<!-- --></g>
+				<g
+   id="gDichte094"><text
+     transform="translate( 700,900)"
+     id="TextDichte094"
+     style="fill:#000000;">19,82</text>
+<!-- --></g>
+				<g
+   id="gDichte095"><text
+     transform="translate( 800,900)"
+     id="TextDichte095"
+     style="fill:#000000;">13,67</text>
+<!-- --></g>
+				<g
+   id="gDichte096"><text
+     transform="translate( 900,900)"
+     id="TextDichte096"
+     style="fill:#000000;">13,51</text>
+<!-- --></g>
+				<g
+   id="gDichte097"><text
+     transform="translate(1000,900)"
+     id="TextDichte097"
+     style="fill:#000000;">14,78</text>
+<!-- --></g>
+				<g
+   id="gDichte098"><text
+     transform="translate(1100,900)"
+     id="TextDichte098"
+     style="fill:#000000;">15,1</text>
+<!--  --></g>
+				<g
+   id="gDichte099"><text
+     transform="translate(1200,900)"
+     id="TextDichte099"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte100"><text
+     transform="translate(1300,900)"
+     id="TextDichte100"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte101"><text
+     transform="translate(1400,900)"
+     id="TextDichte101"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte102"><text
+     transform="translate(1500,900)"
+     id="TextDichte102"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+				<g
+   id="gDichte103"><text
+     transform="translate(1600,900)"
+     id="TextDichte103"
+     style="fill:#000000;">?</text>
+<!--     --></g>
+			</g>
+		</g>
+		<!-- Legende -->
+		<g
+   id="Legende"
+   transform="translate(250,0)">
+			<rect
+   id="LegHintergrund"
+   x="0"
+   y="0"
+   width="1000"
+   height="250"
+   style="fill :#EEEEEE; stroke :#000000; stroke-width :2;" />
+			<g
+   id="LegTitel"
+   transform="translate(10,5)"
+   style="stroke :none; fill :#000000; font-size :40px;font-weight :bold; text-decoration :underline; font-family :Arial, sans-serif">
+				<text
+   x="20"
+   y="40"
+   style="text-anchor :start;"
+   id="text1370">Legende</text>
+
+			</g>
+			<g
+   id="LegBeispielBox"
+   transform="translate(120,100)"
+   style="stroke :#000000; stroke-width :1;">
+				<use
+   id="LegBox"
+   x="0"
+   y="0"
+   xlink:href="#Farbe09" />
+				<rect
+   id="LegBoxRand"
+   x="0"
+   y="0"
+   width="100"
+   height="100"
+   style="fill :none; stroke :#000000; stroke-width :2;" />
+				<g
+   transform="translate(0,0)"
+   style="stroke-width :2;"
+   id="g1382">
+					<path
+   id="LegLinieO_Zahl"
+   d="M -30,-10  L  3,10" />
+					<path
+   id="LegLinieAtomgw"
+   d="M  90,-10  L 70,3" />
+					<path
+   id="LegLinieSymbol"
+   d="M -10,45   L 25,45" />
+					<path
+   id="LegLinieName"
+   d="M -10,70   L 25,75" />
+					<path
+   id="LegLinieElNega"
+   d="M -30,110  L  3,97" />
+					<path
+   id="LegLinieDichte"
+   d="M  90,110  L 90,97" />
+					<path
+   id="LegLinieSerie"
+   d="M 110,80   L 95,50" />
+				</g>
+				<g
+   id="LegBeispielText"
+   style="stroke :none; fill :#000000; font-size :16px; font-family :Arial, sans-serif;">
+					<text
+   id="LegOz"
+   transform="translate(  4,18 )"
+   style="font-size :16px; text-anchor :start ; font-weight :bold;">17</text>
+
+					<text
+   id="LegAw"
+   transform="translate( 96,18 )"
+   style="font-size :16px; text-anchor :end   ;">35,451</text>
+
+					<text
+   id="LegSym"
+   transform="translate( 50,60 )"
+   style="font-size :40px; text-anchor :middle; font-weight :bold; fill :#FF0000">Cl</text>
+
+					<text
+   id="LegName"
+   transform="translate( 50,80 )"
+   style="font-size :14px; text-anchor :middle; font-weight :bold;">Chlor</text>
+
+					<text
+   id="LegElN"
+   transform="translate(  4,96 )"
+   style="font-size :16px; text-anchor :start ;">3,16</text>
+
+					<text
+   id="LegDi"
+   transform="translate( 96,96 )"
+   style="font-size :16px; text-anchor :end   ;">3,21</text>
+
+					<text
+   transform="translate(-30,-15)"
+   style="text-anchor :middle;"
+   id="text1390">Ordnungszahl</text>
+
+					<text
+   transform="translate( 90,-15)"
+   style="text-anchor :middle;"
+   id="text1392">Atommasse</text>
+
+					<text
+   transform="translate(-15,50 )"
+   style="text-anchor :end;"
+   id="text1394">Symbol</text>
+
+					<text
+   transform="translate(-15,75 )"
+   style="text-anchor :end;"
+   id="text1396">Name</text>
+
+					<text
+   transform="translate(-30,125 )"
+   style="text-anchor :middle;"
+   id="text1398">Elektronegativität</text>
+
+					<text
+   transform="translate( 90,125 )"
+   style="text-anchor :middle;"
+   id="text1400">Dichte</text>
+
+					<text
+   transform="translate(130,100 )"
+   style="text-anchor :middle;"
+   id="text1402">Serie</text>
+
+				</g>
+			</g>
+			<g
+   id="legendetext"
+   transform="translate(310,8)"
+   style="stroke :none; fill :#000000; font-size :18px; font-family :Arial, sans-serif;">
+				<g
+   id="Block1"
+   transform="translate(5,5)">
+					<text
+   x="0"
+   y="18"
+   style="fill :#000000;"
+   id="text1406">Symbol</text>
+
+					<line
+   x1="0"
+   y1="20"
+   x2="210"
+   y2="20"
+   style="fill :none; stroke :#000000; stroke-width :2;"
+   id="line1408" />
+					<text
+   style="fill :#000000;"
+   id="text1414"><!--
+					--><tspan
+     x="120"
+     y="40"
+     style="text-anchor :end;"
+     id="tspan1410">schwarz = </tspan><!--
+					--><tspan
+     x="120"
+     y="40"
+     style="text-anchor :start;"
+     id="tspan1412">Feststoff</tspan><!--
+					--></text>
+
+					<text
+   style="fill :#0000ff;"
+   id="text1420"><!--
+					--><tspan
+     x="120"
+     y="60"
+     style="text-anchor :end;"
+     id="tspan1416">blau = </tspan><!--
+					--><tspan
+     x="120"
+     y="60"
+     style="text-anchor :start;"
+     id="tspan1418">Flüssigkeit</tspan><!--
+					--></text>
+
+					<text
+   style="fill :#ff0000;"
+   id="text1426"><!--
+					--><tspan
+     x="120"
+     y="80"
+     style="text-anchor :end;"
+     id="tspan1422">rot = </tspan><!--
+					--><tspan
+     x="120"
+     y="80"
+     style="text-anchor :start;"
+     id="tspan1424">Gas</tspan><!--
+					--></text>
+
+					<text
+   style="fill :#999999;"
+   id="text1432"><!--
+					--><tspan
+     x="120"
+     y="100"
+     style="text-anchor :end;"
+     id="tspan1428">grau = </tspan><!--
+					--><tspan
+     x="120"
+     y="100"
+     style="text-anchor :start;"
+     id="tspan1430">unbekannt</tspan><!--
+					--></text>
+
+					<text
+   style="fill :#000000; text-decoration :underline;"
+   id="text1438"><!--
+					--><tspan
+     x="120"
+     y="120"
+     style="text-anchor :end;"
+     id="tspan1434">unterstrichen = </tspan><!--
+					--><tspan
+     x="120"
+     y="120"
+     style="text-anchor :start;"
+     id="tspan1436">radioaktiv</tspan><!--
+					--></text>
+
+				</g>
+				<g
+   id="Block2"
+   transform="translate(5,150)">
+					<text
+   x="0"
+   y="18"
+   style="fill :#000000;"
+   id="text1441">Dichte</text>
+
+					<line
+   x1="0"
+   y1="20"
+   x2="210"
+   y2="20"
+   style="fill :none; stroke :#000000; stroke-width :2;"
+   id="line1443" />
+					<text
+   style="fill :#FF0000;"
+   id="text1449"><!--
+					--><tspan
+     x="120"
+     y="40"
+     style="text-anchor :end;"
+     id="tspan1445">rot = </tspan><!--
+					--><tspan
+     x="120"
+     y="40"
+     style="text-anchor :start;"
+     id="tspan1447">kg / m³</tspan><!--
+					--></text>
+
+					<text
+   style="fill :#000000;"
+   id="text1455"><!--
+					--><tspan
+     x="120"
+     y="60"
+     style="text-anchor :end;"
+     id="tspan1451">schwarz = </tspan><!--
+					--><tspan
+     x="120"
+     y="60"
+     style="text-anchor :start;"
+     id="tspan1453">kg / dm³</tspan><!--
+					--></text>
+
+					<text
+   style="fill :#999999;"
+   id="text1461"><!--
+					--><tspan
+     x="120"
+     y="80"
+     style="text-anchor :end;"
+     id="tspan1457">grau = </tspan><!--
+					--><tspan
+     x="120"
+     y="80"
+     style="text-anchor :start;"
+     id="tspan1459">unbestimmt</tspan><!--
+					--></text>
+
+				</g>
+				<g
+   id="Block3"
+   transform="translate(270,5)"
+   style="fill:#000000;">
+					<text
+   x="0"
+   y="18"
+   id="text1464">Serie (Flächenfarbe)</text>
+
+					<line
+   x1="0"
+   y1="20"
+   x2="210"
+   y2="20"
+   style="fill :none; stroke :#000000; stroke-width :2;"
+   id="line1466" />
+					<rect
+   x="0"
+   y="25"
+   width="16"
+   height="16"
+   id="SmallFarbe01"
+   style="fill :#FF8888" />
+					<rect
+   x="0"
+   y="45"
+   width="16"
+   height="16"
+   id="SmallFarbe02"
+   style="fill :#FFAADD" />
+					<rect
+   x="0"
+   y="65"
+   width="16"
+   height="16"
+   id="SmallFarbe03"
+   style="fill :#BBFFFF" />
+					<rect
+   x="0"
+   y="85"
+   width="16"
+   height="16"
+   id="SmallFarbe04"
+   style="fill :#FFCC99" />
+					<rect
+   x="0"
+   y="105"
+   width="16"
+   height="16"
+   id="SmallFarbe05"
+   style="fill :#FFBB77" />
+					<rect
+   x="180"
+   y="25"
+   width="16"
+   height="16"
+   id="SmallFarbe06"
+   style="fill :#CCCCCC" />
+					<rect
+   x="180"
+   y="45"
+   width="16"
+   height="16"
+   id="SmallFarbe07"
+   style="fill :#DDDDBB" />
+					<rect
+   x="180"
+   y="65"
+   width="16"
+   height="16"
+   id="SmallFarbe08"
+   style="fill :#99FF99" />
+					<rect
+   x="180"
+   y="85"
+   width="16"
+   height="16"
+   id="SmallFarbe09"
+   style="fill :#FFFF99" />
+					<rect
+   x="180"
+   y="105"
+   width="16"
+   height="16"
+   id="SmallFarbe10"
+   style="fill :#BBBBFF" />
+					<rect
+   x="180"
+   y="126"
+   width="15"
+   height="15"
+   id="SmallFarbe11"
+   style="fill :#FFFFFF; stroke :#999999; stroke-width :1; stroke-dasharray :1 1; stroke-linecap:butt;" />
+
+					<text
+   x="20"
+   y="40"
+   id="text1479">Alkalimetalle</text>
+
+					<text
+   x="20"
+   y="60"
+   id="text1481">Erdalkalimetalle</text>
+
+					<text
+   x="20"
+   y="80"
+   id="text1483">Übergangsmetalle</text>
+
+					<text
+   x="20"
+   y="100"
+   id="text1485">Lanthanoide</text>
+
+					<text
+   x="20"
+   y="120"
+   id="text1487">Actinoide</text>
+
+					<text
+   x="200"
+   y="40"
+   id="text1489">Metalle</text>
+
+					<text
+   x="200"
+   y="60"
+   id="text1491">Halbmetalle</text>
+
+					<text
+   x="200"
+   y="80"
+   id="text1493">Nichtmetalle</text>
+
+					<text
+   x="200"
+   y="100"
+   id="text1495">Halogene</text>
+
+					<text
+   x="200"
+   y="120"
+   id="text1497">Edelgase</text>
+
+					<text
+   x="200"
+   y="140"
+   id="text1499">unbekannt</text>
+
+				</g>
+				<g
+   id="Block4"
+   transform="translate(270,150)">
+					<text
+   x="0"
+   y="18"
+   style="fill :#000000;"
+   id="text1502">Schraffur</text>
+
+					<line
+   x1="0"
+   y1="20"
+   x2="250"
+   y2="20"
+   style="fill :none; stroke :#000000; stroke-width :2:"
+   id="line1504" />
+					<text
+   style="fill :#000000;"
+   id="text1510"><tspan
+     x="120"
+     y="40"
+     style="text-anchor :end;"
+     id="tspan1506">durchgehend = </tspan><tspan
+     x="120"
+     y="40"
+     style="text-anchor :start;"
+     id="tspan1508">natürliches Element</tspan></text>
+
+					<text
+   style="fill :#000000;"
+   id="text1516"><tspan
+     x="120"
+     y="60"
+     style="text-anchor :end;"
+     id="tspan1512">schraffiert = </tspan><tspan
+     x="120"
+     y="60"
+     style="text-anchor :start;"
+     id="tspan1514">künstliches Element</tspan></text>
+
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

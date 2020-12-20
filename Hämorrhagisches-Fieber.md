@@ -1,0 +1,2 @@
+- Hämorrhagisches Fieber #Stub
+    - Infektion, die mit starken Blutungen einhergehen

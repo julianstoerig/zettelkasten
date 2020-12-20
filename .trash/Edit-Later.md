@@ -1,0 +1,18 @@
+- Edit Later
+    - Message
+        - Restructure #Message
+        - Add Connection #Message
+        - Add Mnemonic #Message
+        - Typo #Message
+        - Correct Content #Message
+    - 
+    --------------------- Portal ---------------------
+    --------------------- Portal ---------------------
+        - Biologie Bachelor
+            - Mikrobiologie
+                - Eukaryoten
+                    - Pilze ( __Fungi__ ,  __Mycota__ )
+                        - Pathogene Pilze
+                            - Phytopatogene Pilze
+                                - Beispiele:
+                                    -  __Synchytrium endobioticum__ (Kartoffelkrebs)

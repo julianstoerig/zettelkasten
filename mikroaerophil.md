@@ -1,0 +1,5 @@
+- mikroaerophil #Stub
+    - bevorzugt sehr geringe Sauerstoffkonzentrationen
+    --------------------- Portal ---------------------
+        -  __Helicobacter pylori__  #Stub
+            - [mikroaerophil](mikroaerophil.md)

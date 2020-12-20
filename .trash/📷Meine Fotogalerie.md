@@ -1,0 +1,1 @@
+Neben meinem  Biologiestudium bin ich leidenschaftlicher Hobbyfotograf, Makrofotograf um genauer zu sein. Ich fotografiere also gerne die Dinge, die uns sonst verborgen bleiben, weil sie zu klein sind sie mit bloßem Auge bewundern zu können.

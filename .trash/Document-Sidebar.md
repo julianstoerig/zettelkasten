@@ -1,0 +1,55 @@
+- Document Sidebar
+    --------------------- Portal ---------------------
+    --------------------- Portal ---------------------
+    --------------------- Portal ---------------------
+        - Logbuch
+            - 2020-10-06 Tue
+            - 2020-10-05 Mon
+            - 2020-10-04 Sun
+        - Biologie Bachelor
+            - Literatur, die ich besorgen muss
+            - allg. und Organisatorisches
+                - Grundlegende Einheiten und Konstanten
+                    - Naturkonstanten
+            - allg. und anorg. Chemie
+                - 1. Definition der Chemie
+                    - Was sind Stoffe/Materie?
+                        - Stoff/Materie:: Alles, das eine Raumausdehnung und eine Masse hat
+                - Orbitale
+                - Welle-Teilchen-Dualismus
+            - Botanik
+            - Mikrobiologie
+                - Was ist Mikrobiologie? Was sind Mikroorganismen?
+                - Viren
+                    - Struktur
+                        - Struktur:
+                            - Symmetrie
+                    - Replikation
+                    - Viren als Krankheitserreger
+                        - Phytopathogen
+                        - Tierische Viren: Wirkung auf die Wirtszellen
+                        - Humanpathogen
+                            - Beispiele für humanpathogene Viren
+                                - Beispieliste:
+                                    - ss RNA Viren
+                                        - Filoviridae
+                                        - Flaviviridae:
+                                    - Hepatitis-Erreger
+                                - Orthomyxoviridae
+                                    - Influenza A Viren
+                                - Coronaviridae
+                                    - Humanpathogene Coronaviren:
+                                        - Beispiele:
+                                            - SARS-CoV-2
+                - Prokaryoten
+                    - Bakterien
+                    - Archaea
+                - Eukaryoten
+                    - Die Eukaryotische Zelle
+                    - Pilze ( __Fungi__ ,  __Mycota__ )
+                    - Schleimpilze( __Mycetozoa__ )
+            - Physik
+            - Zoologie
+                - Antatomische Richtungs- und Ebenenbezeichnungen
+                - Systematik
+ -- Avoided infinite recursion --         - Thought Queue

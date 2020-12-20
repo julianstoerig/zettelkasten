@@ -1,0 +1,24 @@
+- SARS-CoV-2
+    - Pandemie ab 2019 (Erreger von COVID-19(Coronavirus Disease 2019)):
+    - Genom:: (-)ssRNA
+    - Struktur
+        - ![](0.15777427917920583)
+        - Lipidhülle mit Spikes:  
+            - ca. 10 Oberflächenproteine
+                - Oberflächenprotein S$$\rightarrow $$kronenartige Struktur
+                    - Funktion: Rezeptor-Bindung zur Anhaftung an die Wirtszelle
+                    - Fusionsprotein ist für die Verschmelzung von Virusmembran und Zellmembran zuständig, sodass der Virus in die Zelle eindringen kann
+                    - Hüllenprotein E
+                    - Membranprotein M
+    - Übertragungswege:
+        - Tröpfcheninfektion, Aerosole$$ \rightarrow $$schnelle Ausbreitung $$  $$  
+        - (vermutete) Schmierinfektion
+    - Replikation
+        - Glykoprotein S (Spikes des Virions) heftet sich an ACE2-Rezeptor der Wirtszelle an
+        - Aktivierung: Glykoprotein S wird gespalten und als Fusionsprotein aktiviert
+        - Eindringen: des Virions in die Zelle
+        - virale RNA (ist mRNA) wird aus Kapsid freigesetzt
+        - Translation: der viralen mRNA durch Wirtszelleneigene Ribosomen
+        - RNA-Replikation durch virale RNA-Polymerase
+        - Selfassambly: Konstruktion neuer Viren
+        - Ausschleußung: der Viren (außerhalb der Zelle Virionen)

@@ -1,0 +1,42 @@
+tags: #Mikrobiologie
+
+# Bakteriengeißeln
+    - ![](https://www.spektrum.de/lexika/images/bio/fff657.jpg)
+    - in der Oberfläche der [Zellmembran](Biologie-Bachelor/Mikrobiologie/Prokaryoten/Bakterien/Zellmembran.md) verankertes Fortbewegungsorgan der meisten Bakterien
+    - dünne, filamentöse Zellanhänge
+    - $$ 5\cdot10^{-6}m $$ bis $$ 2\cdot10^{-5}m $$  lang
+    - 
+    - Generell geißellose Bakteriengruppen:
+        - [zellwandlose Bakterien: Mykoplasmen](Biologie-Bachelor/Mikrobiologie/Prokaryoten/Bakterien/Zellwand/zellwandlose-Bakterien:-Mykoplasmen.md)
+        - Myxobakterien
+        - Spirochäten
+        - Cyanobakterien
+        - geißellose Fortbewegung:
+            - auf festen Oberflächen durch 
+                - Bewegungsproteine oder Schleimbildung
+    - Struktur
+        - ![](https://remnote-user-data.s3.amazonaws.com/r8L0M6SmwbtZxWSXfIE5qY_Vakm95m0Y_GgWjsUlScra_tfnQdnDpGwN0Xmm2-6k79RkIeO9dALCjFt1KH90NjlNPjTm4ywAOBfHwHPULhNn1ydSJXD312FIEzwQGMq2)  ![](https://remnote-user-data.s3.amazonaws.com/va6v5PvClROHnW7dxXE1x5FQjz2JT_Ec9yUt4404Pnz_0YUlSHwKDhKzLgf65tCkt6Rv3ZkxpeCj-DZXBBv-R_2-xejHJb9fLJnAaMoPO5DQm18f1tBHNEw8iY7Vj7yf)  
+        - Filament: Flaggelin (Protein)
+        - Haken (Protein)
+        - Basalkörper:
+            - mehrere Ringe
+            - Mot-Proteine ("mot" für "motility") zwischen MS & C Ring dienen als Geißelmotor
+            - Fli-Proteine dienen als Schalter
+        - Bewegung erfolgt mittels Rotation
+    - Nomenklatur
+        - Eine Geißel: monotrich
+        - Mehrere Geißeln: polytrich
+        - Geißeln an einem Ende des Bakteriums: monopolar
+        - Geißeln an beidem Enden des Bakteriums: bipolar
+        - Geißeln über die Zelle verteilt: peritrich
+    --------------------- Portal ---------------------
+        - Biologie Bachelor
+            - Mikrobiologie
+                - Prokaryoten
+                    - Bakterien
+                        - Zelleinschlüsse
+                            - [Bakteriengeißeln](Bakteriengeißeln.md)
+                    - Archaea
+                        - Bewegung
+                            - Geißeln
+                                - anderer Geißelmotor als [Bakteriengeißeln](Bakteriengeißeln.md) (protonenmotorische Kraft): Energie kommt direkt von [ATP](ATP.md)

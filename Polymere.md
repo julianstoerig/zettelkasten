@@ -1,0 +1,11 @@
+- Polymere #Stub
+    - Ketten, die sich aus mehreren Monomereinheiten zusammensetzen
+    --------------------- Portal ---------------------
+        - Biologie Bachelor
+            - Mikrobiologie
+                - Prokaryoten
+                    - Bakterien
+                        - Zelleinschlüsse
+                            - Energiereserven bei [Bakterien](Bakterien.md), [Archaea](Archaea.md):
+                                - [Polymere](Polymere.md)  als Kohlenstoff-Speicher (C-Speicher):
+                                    - bei C-Überschuss werden [Polymere](Polymere.md) synthetisiert & für die Energiegewinnung u. Biosynthesen genutzt, z. B. Poly-β-hydroxybuttersäure (PHB), Polyhydroxyalkanoat (PHA)&  Glykogen

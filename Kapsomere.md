@@ -1,0 +1,4 @@
+- Kapsomere #Stub
+    - 
+    - aus Proteinen bestehend
+    - Grundbaustein für das virale [Kapsid](Biologie-Bachelor/Mikrobiologie/Viren/Struktur/Struktur:/Kapsid.md)

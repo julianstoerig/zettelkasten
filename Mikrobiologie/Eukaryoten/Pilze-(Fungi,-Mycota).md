@@ -1,0 +1,162 @@
+- Pilze ( __Fungi__ ,  __Mycota__ )
+    - Größe
+        -  __Saccharomyces cerevisiae__  (Bäckerhefe): $$ \approx5.5\cdot10^{-6}m $$ lang
+        -  __Armillaria bulbosa __ (Hallimasch):
+            - größte Lebewesen der Welt
+            - Mycel bedeckt ca. 15 Hektar ($$ \approx 10\cdot10^3kg $$)
+    - Wuchsformen
+        - Hefen (einzellig)
+            - Sprosshefen
+                - Vermehrung durch Knospung (Sprossung) an Mutterzelle
+                - bspw.  __Saccharomyces cerevisiae__ 
+            - Spalthefen
+                - Zweiteilung der Mutterzelle
+                - bspw.  __Schizosaccharomyces__ 
+        - Filamentöse Pilze
+            - bilden Mycel.
+                - besteht aus Hyphen
+                - Wachstum durch Verlängerung der Hyphenspitze
+                - Substratmycel (z.B. Hausschwamm dringt direkt ins Holz ein)****
+                - Luftmycel wächst in den Luftraum (z.B. Schimmelpilze)
+    - Zellmembran wird von Ergosterol stabilisiert
+    - Zellwand
+        - $$ 80\%-90\% $$ Polysaccharide
+            - Hauptkomponente [Chitin](Chitin.md)
+        - restliche $$ 10\%-20\% $$ sind Proteine, Lipide, Polyphosphate, anorganische Ionen (verleihen Chitingerüst Stütze)
+        - häufig Melanin als Pigment eingelagert
+    - Vermehrung
+        - Asexuelle Vermehrung (vegetativ, anamorph)
+            - dient der Massenproduktion
+            - verläuft schnell
+            - Genmaterial ist identisch
+            - Sporen werden gebildet, sind widerstandsfähig gegen Austrocknung
+            - Sprossung
+                - bei Sprosshefen
+                - 
+            - filamentöse Pilzen
+                - ** **Hyphenteilung  
+                - Sporenbildung
+                    - Am Beispiel  __ Fungi imperfecti __  ( __ Penicillium, Aspergillus __ )
+                        - an Grenzflächen entstehen unter Lichteinfluss Sporenträger ( __Konidiophoren__ )
+                        - diese produzieren Sporen ( __Konidiosporen__ )
+                        - widerstandsfähige Sporen können jetzt mögliche ungünstige Bedingungen überdauern, sofort sprießen oder werden vom Wind davon getragen und verbreiten so den Pilz
+                        - Dieser Prozess kann sehr schnell geschehen, da die Sporenbildung über Mitose erfolgt
+                        - zum Beispiel:
+                            -  __Fungi imperfecti __ hat keinen sexuellen Fortpflanzungszyklus
+                            - Gesundheitsrisiko bei Befall von z.B. Wänden mit  __Aspergillus__  im Haus, da Aflatoxine gebildet werden
+        - Sexuelle Vermehrung (teleomorph)
+            - ![](https://remnote-user-data.s3.amazonaws.com/YIykDBR0xpHLWl-DfPJJlLBDr7qDWTemP5sU3xuJ0hwk0XvhtDZABwRoPVOJbAROVA0Aa36KGZ-px-DeVldLT4v6qz-8cGETiAEV5cfUBuoh6eRExKnumEh_QLPPctAA)  
+            - Genetische Rekombination durch Meiose$$ \rightarrow $$ Erhöhung der genetischen Vielfalt$$ \rightarrow $$ Anpassung an neue Umweltbedingungen 
+            - Am Beispiel  __Neurospora crassa __ ( __Ascomytes__ )
+                - Entwicklung  geschlechtlich verschiedener Gametangien (Zellen) aus Mycel:
+                    - Weiblich: Ascogonien:
+                        - rund
+                        - mehrkernig
+                        - mit Trichogyne (Empfängnis Hyphen)
+                    - Männlich: Antheridien:
+                        - keulenförmig
+                        - mehrkernig
+                - Trichogyne umschlingt Antheridium und überführt dessen Zellkern und Plasma in Ascogon
+                - Cytoplasmaverschmelzung
+                - Kernverschmelzung
+                - Meiose in Asci (liegen in Fruchtkörpern)
+                - Mitose  
+                - Ascus mit 8(16, 32) Ascosporen, die auskeimen können (geschl. Zellen)
+    - Metabolismus
+        - Pilze sind [Chemoorganotroph](Autotrophie/Chemoorganotroph.md):
+            - meist aerob
+            - Energiequellen:
+                - Kohlenhydrate
+                - Fette
+                - Aminosäuren
+            - Reservestoffe: Glycogen, Lipide, Trehalose
+            - Produktion von Exoenzymen:
+                - bauen komplexe Substanzen ab**:** 
+                    - Braunfäule Pilze: Celluloseabbau
+                    - Weißfäulepilz: Ligninabbau
+            - Sekundärstoffwechsel:
+                - Bildung von Antibiotika (Penicillin, Cehalosporin…)
+                - Bildung von Aflatoxinen u.a. Pilzgiften
+        - Saprotroph (saprophytisch):: Abbau von totem organischen Material
+        - Symbiontisch:
+            - [Flechten](Flechten.md)
+            - [Mykorrhiza](Mykorrhiza.md) __ 
+        - Parasitär
+            - z.B.: [Nemathophage Pilze](Nemathophage-Pilze.md)
+    - Pathogene Pilze
+        - Phytopatogene Pilze
+            - große Wirtschaftliche Bedeutung: $$ 15\%-25\% $$ Ertragsverlust
+            - Infektion:
+                - Oberfläche, Stomata, Wunden
+                - aktiv über inaktive Blattoberflächen in der Pflanze: Apressorium (Penetrationshyphe)
+                - Eindringen durch inaktive Zellwand:
+                    - Enzyme:
+                        - Pektinasen
+                        - Cellulasen
+            - Ausbreitung in der Pflanze:
+                - Aktives Wachstum zwischen den Zellen (interzellulär), in den Zellen (intrazellulär) & in Leitbahnen
+                - zur Nahrungsaufnahme werden Haustorien (einzelne Hyphen, die durch die Zellwand eindringen und Nährstoffe und Wasser aus der Pflanze aufnehmen) in angrenzenden Zellen entsandt 
+            - Übertragung:
+                - Von Pflanze zu Pflanze:
+                    - durch aktives Wachstum (Wurzelpilze)
+                    - durch Vehikel:
+                        - Wasser (Regen, Bewässerung)
+                        - Wind
+                - Überwinterung der Pflanze
+                - Überdauerndes Mycel: auf Pflanzenrückständen im Boden (Fußkrankheiten des Getreides)
+                - Sporen in und an Saat- und Pflanzgut (Getreidesteinbrand)
+                - [Sklerotien](Sklerotien.md) (z. B. Mutterkorn)
+                - Dauersporen (z. B. Kartoffelkrebs)
+            - Symptome:
+                - Äußerlich sichtbar
+                    - Welkeerscheinungen (Wurzelbefall: Fußkrankheiten)
+                    - Blattverfärbungen, Flecken (Blattfleckenkrankheit der Rübe)
+                    - Absterbe-Erscheinungen, Fäulnis (Knollenfäule der Kartoffel)
+                    - Formveränderungen (Kartoffelkrebs)
+                    - Ausscheidungen („Honigtau“: Mutterkorn)
+                - Äußerlich nicht sichtbar (= gefährlicher)
+                    - Mycel in Gefäßen der Pflanze
+                    - [Sklerotien](Sklerotien.md) im Inneren von Stängeln
+                    - Physiologische Veränderungen
+            - Bekämpfung:
+                - Resistenzzüchtung
+                - Einsatz von Fungiziden
+            - Beispiele:
+                -  __Phytophthora infestans __ (Kraut- und Knollenfäule)
+                    - ![](https://remnote-user-data.s3.amazonaws.com/NnMC4D-bXHHtnZu8PlfzMHW551nZx1YJXPzBBU5t8p2jHhWnYCSoq_JfQFa2b687vwASJYn6bZMkCa71PetAeuT46RRIhSuIWM-Q9sEueCOm3japLd8ezzASCTQYlmOL)![](https://remnote-user-data.s3.amazonaws.com/6XSZAX7vdmX_mipvWiYqJEhWh-CaHffekRqouT92Bl_iMS-udLx7j2q_ctwNwJD5BU7LRKddIId7NMMpEo1m_nwDXzJTdI6rYor6Jt-F_SEPdRSVnhW-LYVPSvgeuvbt)![](https://remnote-user-data.s3.amazonaws.com/CYTTXfSJzd9LljF5-D-xUsOBN_9y7fRzs8ZgvQ1GNnmTD40bquMsTNEDJ07UVoQY_39mtAhMY5Xl5vrVEkMqvos8n5KJBxvHioq3YHNWWtdeGDw57m-EdFwlx90EHXMc)
+                -  __Synchytrium endobioticum__ (Kartoffelkrebs)
+                    - ![](https://remnote-user-data.s3.amazonaws.com/p-PN-Gz8I7xXoGiX3zRe5zkMGrpjdckSOhtqaaZsEZXzudcvDmO958B7JcggEO0qrb4uQvz85UJfkM8RU3Fd6ukS2gV1ZR-mPhmZdNxIYx9MTPBaGQHezG16myS8ZdOV)![](https://remnote-user-data.s3.amazonaws.com/_VZz5ypP-OhIiXugo4hWYMX73dRPER9mLr8NTrMG8MyIKUs6HAaZFjRXT2SfYoWgauB_3CQQ_ajDeLU7ZhaERgNTV6TqB_riN_cO19IsIOIxXzrkxIFCbAhkExhcM7bk)
+                -  __Blumeria graminis __ (Echter Mehltau)
+                    - ![](https://remnote-user-data.s3.amazonaws.com/YXair001SX3v9-7SjiU9u_lYsI7JkrjxzL3iS3JMblENaOodfirPXgkrOijhG9Zn5NW-lEzD73Ogha4uOwuAxFcuVYzNip5J1G5dfR6vlXgIyyEeXlxyu44d4K0NtUTj)![](https://remnote-user-data.s3.amazonaws.com/EV9Ecm1Dx40gp_CpBqGFBcgdgz0nrMrPTzPAO7wTvgLYDqNq7bnaBZsNXQjebWInnZwuHPWbNiCEnFUgMCCauRE7qydj5u9ToSsOIGg1TTSLcGT2GpkB1-8vmhwRRqFj)![](https://remnote-user-data.s3.amazonaws.com/3Ds2H0GK7kE2j03i4WAENJTwZ8p31fT1QfPggTC54bw346UiTndIax91ew5UNvZmv6xyI5taxbse8YCdGPGIBDFgeFYP2Y5LUK1eBwAQOWJ1MQ6b_Dv3VJLy8tV76IeP)
+                -  __Botrytis cinerea __ (Grauschimmelfäule)
+                    - „Edelfäulepilz“
+                    - über 200 Wirtspflanzen
+                    - besondere Bedeutung im **Weinbau** durch **Edelfäule **  
+                    - Übertragung über Konidien mit Wind
+                    - Überwinterung als Mycel im Boden in der faulenden Pflanze
+                    - löst **Apoptose in befallenem Gewebe aus** à **Fäulnisbildung**  
+                    - Parasit
+                -  __Venturia inaequalis __ (Apfelschorf)
+                    - ![](https://remnote-user-data.s3.amazonaws.com/XyKbvp7a-qea4Fb30aSVG6HnkwS0Yz6VgQatG6EZt6gwvK_PIbkWzCe_49kAIO17Ii0lc66SLgYPTrMV-pd3_DPxFFKts2fSI-7p-MSJwnzsisEVYhBQlPKM9a4yr-5d)![](https://remnote-user-data.s3.amazonaws.com/cQ7c8oQJ0t0Bc1B5B92aRfp_5xUJtSY_zTsrFv7X9sV1jWmK10kQict63fuVzWS9imrDuqruYmFbIx9Ps12vhLS3yNHeKtBPqBGNgLTRAch1Rt3BQk12ck-dLSaQUpmh) 
+                -  __Claviceps purpurea __ (Mutternkorn)
+                    - ![](https://remnote-user-data.s3.amazonaws.com/Ql6wR6ekMXir36T6powuLSHpaKT_m1Mc3LbbbvWNP2zxCQ6TAhPLYXXHrcSeww4k-yRdWkvhnkFeB85TMd0M0sTTCwRX-3EpGHyoZCtjSV4B9I4_-J77Fz3yuilZ4pqc)![](https://remnote-user-data.s3.amazonaws.com/c1yL2BzoncST9FcE-d_hcJADEZxOODAVaX5cVzcJqip3cHPt55RNDx1FfaIQWijt3zW14tr6VDXAhRTddzOsiJ04GiYTeimE52RdslcApDLE5PSkG5n89bfHPTavC5xw)![](https://remnote-user-data.s3.amazonaws.com/saLjTvf-j4UWouCFcRFm3M6f_tCS6Pu4rfPWvAwhq4d8FQAORsyoeBAl2nHxDxuXTw1ICDv_JIrKeB5s4yntP4VkpbDU1oCMSesHgEqeOO_t8MsqpclRQrrnNwNmPN9A) 
+        - Entomopathogene Pilze
+            - Befallen Insekten
+            - werden für biologische Schädlingsbekämpfung verwendet:
+                -  __Beauveria brongnartii: __ Maikäfer
+                -  __Beauveria bassiana: __ Weiße Fliege
+                -  __Verticillium:__  Weiße Fliege
+                -  __Metharhizium anisopliae: __ Käfer
+        - Humanpathogene Pilze
+            - Mykosen
+                - Primäre Mykosen
+                    - direkte Infektion mit pathogenen Pilzen
+                    - selten
+                    - z.B. Lungenmykose
+                - Opportunistische Mykosen
+                    - als Sekundärinfektion
+                    - bei bestimmten Antibiotikatherapien
+                    - häufig
+                    - Erreger:
+                        - Hefen ( __Candida__ , __ Cryptococcus__ )
+                        - Filamentöse Pilze ( __Aspergillus fumigatus__ )

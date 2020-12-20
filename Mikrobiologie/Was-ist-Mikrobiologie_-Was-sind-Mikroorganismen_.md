@@ -1,0 +1,53 @@
+- Was ist Mikrobiologie? Was sind Mikroorganismen?
+    - ![](https://remnote-user-data.s3.amazonaws.com/7So3p--EjApQcOqe8WpEv7mFFcKRxEVdNDtpYnG2_pvMRmbiFsenmcaHNIpu1b4hwE2kvayvB4CpgZGoPOZaTdvhYX4vtLQW5mIXpEteGWu1VjN_ZeeMY66EcaUpaEtO)  
+    - Mikrobiologie:: Der Teil der Biologie, der sich mit Mikroorganismen beschäftigt
+    - Mikroorganismien vs Makroorganismen:
+        - ![](https://remnote-user-data.s3.amazonaws.com/7Su3_KvL1i67BtJRkAZaTHw5HejTYVeFKm-Xa_OQEjBqvjbqXjUYOtOdu35AAt-oqPC9B6JSDh18ez35WxRL2bw_PhfQc_8QfQA3i7SVMjkUmOm3z_RCx3vFkph-x44X)
+        - Makroorganismen
+            - sind nur als vielzellige Strukturen überlebensfähig
+            - haben verschiedene Gewebe/Organe für verschiedene Leistungen
+            - bis mehrere Meter groß
+            - bsp.: Pflanze, Tiere
+        - Mikroorganismen
+            - ![](https://remnote-user-data.s3.amazonaws.com/yuZ__uYqXfIHve6EHqepSBEq2w24_GndR9sVyHYUvSonFLvBniSbqFerrvdEtC-qmj11VlklHdjYamCIv9mJi7xIGZEsUrPwyIuGIvxSogcIa5UxiD2lz3Ntz9zVr1X3)  Tabellarischer Kurzvergleich![](https://remnote-user-data.s3.amazonaws.com/wL3jmAPNqhHcHfOWB6FSmJwAmERqXkAmhsIl9VZgR9SnoZx29ZKZMVnUlNshRfM-tdmTu3UJNb8PBKaASGV8ePVOzkeQ2uDprzgRLbqbnRh99x6hPQ1k0mXN_m7B7g58)  
+            - Einzellige und diejenigen Organismen, deren Zellen autonom überlebensfähig sind
+            - eigenschaften
+                - sehr klein, z.B.: [Bakterien](Bakterien.md): zwischen$$0,03\cdot10^{-6}m $$ und $$10\cdot10^{-6}m $$
+                - hohes Oberflächen/Volumenverhältnis $$ \rightarrow $$ hohe Stoffwechselleistung:
+                    - ![](https://remnote-user-data.s3.amazonaws.com/yKBO-ZNllQ2Ddfg8z6X-MxeKagABphq6k6nD8jSshAVguXRz6mWSOUBsCESJwWx24i-02m9ft4fPxkpEq8QzV5UnynBU3KV2AC-D-C7W5fDKzwGZl1SrBlKVfrfPiAxe)  
+                    - hohe Atmungsrate
+                    - effiziente Aufnahme und Umsatz von Stoffen und Stoffwechselprodukten
+                    - hohe Zuwachsraten
+            - verschiedene Arten von Mikroorganismen
+                - [Bakterien](Bakterien.md)
+                - [Pilze (Fungi, Mycota)](Pilze-(Fungi,-Mycota).md)
+                - [Schleimpilze(Mycetozoa)](Schleimpilze(Mycetozoa).md)  
+                - [Viren](Viren.md)
+    - Mikroorganismen: Bedeutung
+        - Mikroorganismen machen den größten Teil der Biomasse aus
+        - Mikrobiologie im Alltag: Beispiele:
+            - Ökologie, Landwirtschaft
+                - Streuabbau, d.h. Abbau org. Substanz $$ \rightarrow $$ Nährstoffe, Spurenelemente
+                - Stoffkreisläufe
+                - Symbiosepartner
+                    - Stickstoffbindung für Pflanzen
+                    - Cellulose-Verdauung für Wiederkäuer
+            - Lebensmittel
+                - Produktion von Lebensmitteln
+                    - Milchprodukte
+                    - Sauergemüse
+                    - Backwaren
+                    - Alkohol
+                - Produktion von Lebensmittelzusätzen
+                    - Glutamat
+                    - Zitronensäure
+                - Lebensmittelkonservierung
+                    - Hemmung von Mikroorganismen
+                - Lebensmittelverderbnis
+                - Umweltschutz
+                    - Biologische Sanierung
+                    - Kompostierung
+                    - Bergbau (bioleaching)
+                - Energieproduktion
+                    - Biogas $$ \rightarrow $$ Methan
+                    - Biokraftstoff Bioethanol

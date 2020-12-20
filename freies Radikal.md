@@ -1,0 +1,17 @@
+#Fach-allgemeine-und-anorganische-Chemie  #Semester-1 #2020-12-16 #Stub 
+
+---
+
+**Freie Radikale** sind [[Atom|Atome]] oder [[Molekül|Moleküle]] mit ungepaarten Elektronen. Die Elektronen sind also weder an einer [[chemische Bindung|Bindung]] beteiligt, noch sind sie in einem [[freies Elektronenpaar|freien Elektronenpaar]]. Diesem Effekt wirken [[Antioxidans|Antioxidantien]] entgegen.
+
+Da dies energetisch sehr ungünstig ist, sind diese Elektronen extrem reaktiv.
+
+## Beispiele
+
+### $\ce{Cl}$ Radikal
+
+![[Pasted image 20201217133004.png]]
+
+### Biradikaler $\ce{O2}$
+
+![[Pasted image 20201217133224.png]]

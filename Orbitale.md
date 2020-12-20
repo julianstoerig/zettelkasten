@@ -1,0 +1,34 @@
+#Fach-allgemeine-und-anorganische-Chemie  #Semester-1 #2020-12-13
+
+---
+
+- Orbitale
+    - Elektronen befinden sich um den Atomkern in sog. Orbitalen
+    - Orbital
+        - Wahrscheinlichkeitsraum für den Aufenthalt von Elektronen um den Atomkern
+        - verschiedene Formen von Orbitalen:
+            - S-Orbitale
+                - Kugelförmig
+                - ![](https://remnote-user-data.s3.amazonaws.com/T0nDuKUFS4LPaQORIwiFgesSD5X8TF9cGRikgREpceO87hR9zZE2NqPKN6h30O7m0FD9q0sz4U_F6N2cqFQT9vN2mErqy7wf5ZIkT8vJw36wMDrnhGqs1Rg6_6Pk9CJX)  
+            - P-Orbitale
+                - "Hantel"-förmig
+                - in drei verschiedenen Orientierungen:
+                - $$ p_x $$: ![](https://remnote-user-data.s3.amazonaws.com/YnOS4v-bfibOW2by094SFnxj1QrBhaXicDI5zb1fMZJ990-Ri2jV4l-1tal5DDG1kLewfvcL8stMfc3JgNBkHhq66Yb6u7c3RsJUzIxCOC3D-FgGQpa6S5pDlHBp0vsL)  
+                - $$ p_y $$: ![](https://remnote-user-data.s3.amazonaws.com/L9WU8eRnWMoRsJtzzCoiembLanjGwrD-HwPNqNf98h_C042iZ3nDT1tho1XYIr0yo8gVcdGEEZ7RZz_WmlMzeHASCHF46qWlkMhCiTY7g6L_5KIATzh3f34z1_p3thI0)  
+                - $$ p_z $$: ![](https://remnote-user-data.s3.amazonaws.com/5cirW1as8xsEkbFrGLbNERe1qmYcXCYxQPlLnK5977e72S3ga_5n6SKQzR36cNiDKV9eG9JG_zkuWMbg1r9XiEiHDI5bfDAMuurbQwO88ASSEjN7GCbWm5lwODvUefQh)  
+            - Legende:
+                - x,y,z: Raumdimensionen
+                - orange: positiver Teil der Wellenfunktion
+                - blau: negativer Teil der Wellenfunktion
+            - D-Orbitale
+                - "Doppel-Hantel"-förmig
+                - $$ $$$$ d_{xy} $$: ![](https://remnote-user-data.s3.amazonaws.com/6oQwAuUmtDbNg8IBRjqV1zDpygCfFy9_LZVqI-ULEnbRFnGAyXPLyhf4fWq10UkkKYK-N3zOAYv8tB-36pXAtnWaJgUzfbjg5wPuhq_cyvDP_bgh3RZ-mK4lknxF_a0Z)  
+                - $$d_{xz}$$: ![](https://remnote-user-data.s3.amazonaws.com/nMUSmcVZyAAuV-LGYw_UDiVOYygclqwMQPeK4SJqOJNNc_gN16zShIiruOBJ2tbzrphtjwrfq2GGLprsDOR60LqKbT-79brHvf4NocgYwevLUGbJZ6KelN8sj2gBmr0L)  
+                - $$d_{yz}$$: ![](https://remnote-user-data.s3.amazonaws.com/7efd-1UDII6AmYd4wzXpLTXF7Av47Hc-Poy2e05fjm67Xo3FM5gKKCM3lzcv8-mXzpnHZjcJKNBrBPecxjyIztkqJ94w7XSTFFsv_se6L6XIZAz66ACAkv__1AgU7BnZ)  
+                - $$d_{x^2-y^2}$$: ![](https://remnote-user-data.s3.amazonaws.com/3FdRQRKYJ-EuHHbCby7znRMd6AODXWWbS7CE9eUAbqZQkLJOQwIsnvxq_AVV9or-X81N6khKp2pfHvsx_SkARX17lJk2as4dD9QCuE3eRZUav6uK6Tb8hyYaRgUL44Bo)  
+                - $$d_{z^2}$$: ![](https://remnote-user-data.s3.amazonaws.com/jlbHFyD3ij5r2eoIsWgbN32NVG9w-y44rKWOiapIminJ_2JUdM2609Pka9YdEdOyXGKT2b9aDuVl17YEM_sx9h8xehiDPnCQtBHKNMIRKVRN1rNztAMMnF0KKEfFBLrj)
+                - Legende:
+                    - x,y,z: Raumdimensionen
+                    - orange: positiver Teil der Wellenfunktion
+                    - blau: negativer Teil der Wellenfunktion
+            - Weitere Orbitale: auch komplexere Orbitale gibt es, die müssen wir aber nicht können

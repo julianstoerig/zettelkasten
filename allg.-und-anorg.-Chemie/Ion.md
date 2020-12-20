@@ -1,0 +1,1 @@
+**Ionen** sind [[Atom|Atome]], die durch Elektronenabgabe oder Elektronenaufnahme geladen werden. Die Energie die benötigt wird, um diese zu erreichen ist die [[Ionisierungsenergie]], bzw. die [[Elektronenaffinität]]

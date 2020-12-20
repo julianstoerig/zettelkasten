@@ -1,0 +1,112 @@
+- Archaea
+    - ![](https://remnote-user-data.s3.amazonaws.com/ph0ieJoPe6rjj-OJsdj6EjqYz63FhmHGeWq7zONQi_Y3aCtOj3NtvJwOcsN6RvhUQzZdLRj9k7kE1F0jujcaOZzDmlweG7SOTjuwVwdrlJnI1xT5CjfwWFBmKhv4VJGY)  ![](https://remnote-user-data.s3.amazonaws.com/n736a_HDeBTkheA9POKlyd0x75abtSt-NfINpfBiNgNgbYrW9mjRtCT9KhE0ULi0A0Nt6MIPUSlCWCDX7khPYDYBHBkxGWXtLsxn3f9RykONSUce-yUQnwtIKmGfNu6b)                        Tabellarischer Kurzvergleich                                                                                                                                                                                                                                                                                                                                von Bakterien mit Archaea  
+    - einzellige Mikroorganismen
+    - neben Bacterien und Eukaryoten eine der drei Domänen, in die alles celluläres Leben kategorisiert wird
+    - Prokaryoten
+    - Untersuchung und Entdeckung
+        - Verwandschaftsermittlung via Vergleich vollständig sequenzierter Genome
+        - Unterteilung der Archaea aus phylogenetischer Sicht in Euryarchaeota & Crenarchaeota
+    - Struktur
+        - Zellmembran
+            - Etherbindungen zwischen Glycerin und Seitenketten $$ \rightarrow $$ Höhere Stabilität als Esterbindungen (Bakterien)
+            - Seitenketten: Isopropen$$C_5 $$$$ \rightarrow $$ Kohlenwasserstoffe (Bakterien: Fettsäuren)
+        - Zellwand
+            - Pseudopeptidoglykan = Pseudomurein
+                - besteht aus:
+                    - N-Acetylglucosamin
+                    - N-Acetyltalosaminuronsäure  
+                    - verbunden über eine β-1,3-glykosidische Bindung = Lysozym-resistent
+            - ** **Pseudopeptidoglykanstränge sind über Peptide miteinander quervernetzt  NAT   
+            - hohe Festigkeit der ZW durch stabile ß-1,3-glykosidische Bindungen & hoher Grad an Quervernetzungen zwischen mehreren Schichten
+            - oft nur S-Layer (Surface-Layer)
+            - besteht aus einem einzelnen Protein oder Glykoproteintyp
+            - Proteinmonomere bilden Schichten aus symmetrischem Gitter zu kristalliner Schicht aus
+            - kann äußerster oder einzigster Zellwandbestandteil sein
+            - unterschiedliche Funktionen: Formbildung, Schutz vor schädigenden Umwelteinflüssen oder Phagozytose
+            - Archaea ohne Zellwand:
+                - Zellmembran: besteht aus **Lipoglykan** & ein Monolayer$$ \rightarrow $$ hohe Stabilität
+                - Ferroplasma
+                - Thermoplasma
+    - Bewegung
+        - Geißeln
+            - Bewegung durch** Rotation**
+            - dünner als bakterielle Geißeln
+            - keine Verwandtschaft  mit bakteriellem Flagellin
+            - anderer Geißelmotor als [Bakteriengeißeln](Bakteriengeißeln.md) (protonenmotorische Kraft): Energie kommt direkt von [ATP](ATP.md)
+    - Viren der Archaea
+        - DNA-Viren (meist ds DNA)
+        - enorme Diversität
+        - spindelförmig (**SSV**= Sulfolobus spindelförmiges Virus)
+        - stäbchenförmig/filamentös (**SIFV **= Sulfolobus islandicus filamentöses Virus)
+        - Viren mit „Köpfchen“ &  „Schwänzen“ wie Bakterophagen
+        - wenig über Replikation und Evolution bekannt 
+    - Extreme Habitate:
+        - Archaea besiedeln oft extreme Habitate ( _ Extremophile _ )
+        - Wegen ihrer Zellwand (enthalten Pseudopeptidoglycan) können sie die extremen Verhältnisse überleben
+        - Aquatische und terrestrische Ökosysteme
+        - Extreme Lebensräume (zumeist, aber nicht nur):
+            - Hyperthermophil, Psychrophil (Heiß bzw. Kälteliebend)
+            - Extrem Halophil
+            - Acidophil, Alkaliphil
+            - Methanogen (anaerob)
+        - Hyperthermophile Archaea
+            - meist anaerob
+            - optimale Wachstumstemperatur: $$ >80°C $$, oft $$ >100°C $$
+            - Oft [Chemolitotroph](Autotrophie/Chemolitotroph.md)
+            - Habitate:
+                - Thermalquellen
+                - heiße Meeresströmungen
+                - Hydrothermale Schloten
+            - ·  Proteine mit spezieller Struktur$$ \rightarrow $$ Schutz vor Hitzedenaturierung, Industrielle Bedeutung  
+        - Acidophile Archaea
+            - Habitate:
+                - Extrem sauere Lebensräume: Minenabwässer, …
+                -  __Sulfolobus:__  Wachstum bei 50-60 °C, pH 2-3, oxidiert $$ Fe^{2+} $$ zu $$ Fe^{3+} $$  
+                -  __Picrophilus torridus__ : Wachstum bei 60 °C, pH 0.7 (kein Wachstum > pH 4)
+            - zellwandfreie Archaea: (acidophile)
+            - Thermoplasma: thermophil (55°C)
+            - Oft[Chemoorganotroph](Autotrophie/Chemoorganotroph.md)  
+            - in Kohlehalden zu finden
+            - Ferroplasma:
+                - mesophil (35°C)
+                - Oft[Chemoautotroph](Autotrophie/Chemoautotroph.md)  
+                - aufzufinden in Bergwerken mit Pyrit (auch „Katzengold“), weil es $$ Fe^{2+} $$ zu $$ Fe^{3+} $$   oxidieren kann
+        - Extrem Halophile Archaea: Haloarchaea
+            - meist aerob
+            - hoher Salzbedarf: $$ 9\%-32\% $$ (Meer: $$ \approx 2.7\% $$)
+            - häufig  zusätzlich  alkalophil: __ __  pH-Optimum $$ \approx10 $$
+            - Wassergleichgewicht:
+                - Anhäufung von Kalium in der Zelle$$\rightarrow $$ Ionen werden aus Umgebung ins Zytoplasma gepumpt und bilden zum Natriumchlorid außerhalb der Zelle einen Gegenpol (z. B. Gattung  __** **__  __Halobacterium__  __** **__ (Kein Bakterium, sondern gehört zu den Archaea!))
+                - Bildung  __kompatibler Solute__ : gelöste Stoffe werden in der Zelle angehäuft/gebildet und der Dehydrierung der Zelle bei hohem Salzgehalt entgegenwirken****
+                - Bakteriorhodopsin:
+                    - [ATP](ATP.md) kann über die Nutzung von Licht gebildet werden; bei geringem Sauerstoffgehalt wird ein Membranprotein (Bakteriorhodopsin) gebildet – aber keine Photosynthese, weil kein Chlorophyll involviert ist
+            - Habitate:
+                - hypersalin:
+                    - Salzseen
+                    - Salinen
+                    - …
+        - Methanogene Archaea
+            - obligat anaerob
+            - Methanogenese
+                - Bildung von Methan durch Reduktion
+                - Nur Archaea können Methan bilden (Bakterien können nur das entstehende Methan nutzen ([Methanotroph](Autotrophie/Methanotroph.md)))
+                - Acetoklastisch: heterotroph:$$CH_3COOH \longrightarrow CO_2+CH_4 $$  
+                - Methylotroph: heterotroph: methylierte / methoxylierte Verbindungen
+                - Hydrogenotroph: autotroph: $$ CO_2 + 4\space H_2 \longrightarrow CH_4+2\space H_2O $$ + 4 $$$$$$ \longrightarrow $$ $$ CH_4 $$ + $$ 2\space H_2O $$
+                - Nickel für Methanbildung erforderlich (vermutlich zur Aktivierung von Enzymen)
+            - Habitate:
+            - Faultürme, anaerobe Sümpfe
+            - symbiontisch im Verdauungstrakt von Wiederkäuern und anderen Tieren (Termiten)
+            - Methanogenese: __**   **__ $$> 80\%$$ des Treibhausgases
+            - wird z. B. in der Biogasgewinnung genutzt
+    - Pathogene** **Archaea
+        - Kein Hinzweis auf humanpathogene Arten
+        - Vorkommen:
+            - Haut
+            - Darm
+            - Mund
+            - Bauchnabel
+            - Vagina
+        - Korrelation zw. Erkrankung & Anzahl methanogener Archaea
+            - Zahnfleisch (Parodontitis)
+            - Darmkrebs (erhöhte Menge an Archaea)

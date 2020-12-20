@@ -1,0 +1,320 @@
+- Bakterien
+    - ![](http://www.heynkes.de/biologie/Bilder/Average_prokaryote_cell496x404.svg)  
+    - ![](https://remnote-user-data.s3.amazonaws.com/EWjreAx9vBxqQfAkSrwx75wmotieuwvP96Suh7DbHcu3aaXCciKgFwuXKSoOzYjcq7Iw0wsAVRFlpuGsiDwOuWbRIHhwLlzhWQPnO0jaxpud9yCUvtllOFkdxX_TWmSk)  chemische Zusammensetzung von Bakterienzellen
+    - Morphologie
+        - Größe
+            - durchschnittlich zwischen$$ 2\cdot10^{-7}m $$ und $$ 1\cdot10^{-5} $$, größte bekannte Bakterie  __Thiomargarita namibiensis ist__ $$7,5\cdot10^{-4}m $$$$$$,  __E.coli__  : $$ 3\cdot10^{-6}m $$  groß
+            - Optische Darstellung
+                - Mikroskopie:
+                    - Lebendbeobachtung von Zellen
+                    - Färbungen (abgetötete Zellen):
+                        - Einfachfärbungen: z. B. Methylenblau
+                        - Differenzierungsfärbung:
+                            - ![](https://remnote-user-data.s3.amazonaws.com/Ub7H_2hFDtXHDuauJZ_Off6yy2BmIC55SEN6GRCz8e0xtQsCCZPHjTeZqEV_oKzaxsgilbcGfzQj0eYTfrRzs9ZC4AItCvHLYNob5F_jb6HIFFZHfCXQUP_Z5qdZVE4G)
+                            - zwei Farbstoffe mit unterschiedlicher Affinität zu verschiedenen [Bakterien](Bakterien.md); z. B. Gram-Färbung: g+: violett, g-: rot
+            - Form
+                - ![](https://remnote-user-data.s3.amazonaws.com/_p66sEx2BxS8ciBo4FKae449OnEeWABhK2pD3cY-zPtwIvK26HjnRKLg9g8O33k4s8VerG7nYW6Gjzsl3aAyOQkhbDbavMuqr6UC8RnWIKWOX83V2zi23bre0C7NTRsT)Schematische Darstellung der verschiedenen Formen von [Bakterien](Bakterien.md)
+                - Kugel: Kokken
+                - Zylinder:
+                    - chen
+                    - gerade: Stäbchen
+                    - einfach gekrümmt: Vibrionen
+                    - helixartig:
+                        - flexibel, dünn: Spirochaeten
+                        - starr, dick: Spirillen
+                - Zellverbände aus selbstständigen Einzelzellen
+                    - Ketten:
+                        - Diplokokken
+                        - Streptokokken
+                    - Zellpakete:
+                        - Staphylokokken
+                        - Sarcinen
+                - Prosthekate (hyphenartige Auswüchse) und gestielte [Bakterien](Bakterien.md)
+                    - Mycelbildende [Bakterien](Bakterien.md) (nicht mit Pilzmycel zu verwechseln!)
+    - Zellmembran
+        - funktion
+            - begrenzt Cytoplasma aller Zellen
+            - Permeabilitätsgrenze (selektive Permeabilität)
+            - Gezielte Aufnahme/Abgabe von Verbindungen:
+                - Aufnahmen: Metaboliten
+                - Abgabe: Abfallprodukte
+            - Proteinverankerung:
+                - Membranproteine:
+                    - Transport
+                    - Fortbewegung
+            - Energiespeicherung:
+                - Protonenmotorische Kraft: ATP Synthese
+        - Struktur
+            - ![](https://remnote-user-data.s3.amazonaws.com/k1yWWNT8eHI3OXA3oPSZgjhxTEd6A9oMcKSjJXK7rsUq2nqyfCBxvnHNGW94Zr39utYkU0eE2ljyE0FCqxIPWjlFzyYfuDh-FNSz2m0p_8hesdHSVqXJstLkhY8WX4dr)  ![](https://remnote-user-data.s3.amazonaws.com/BKIeTteXlBGKm8V24mHLRxNGBjoFfaMp4dsWg1ertf57-VYoSCf3M4zq56r6QM13lNhmHSISRVcxs_FdQ27ltbCELW6GLpnhtRGl7FSa87DDTya8DfjTpjD0VtsghaE8)  
+            - [Phospholipid](Phospholipid.md)-Doppelschicht (Bilayer) mit eingelagerten Molekülen:
+            - Membranproteinen:
+                - integrale Membranproteine: 
+                    - durchdringen die Membran komplett
+                    - dienen dem Transport von Stoffen durch die Membran
+                - periphere Membranproteine:
+                    - sind an entweder Intra- oder Extrazelluläre Seite der Membran angelagert
+                    - verschiedene Aufgaben
+            - Stabilisierung
+                - Hydrophobe Einlagerungen:
+                    - Prokaryoten: [Hopanoide](Hopanoide.md)
+                    - Eukaryoten: echte Sterole
+                        - ![](https://remnote-user-data.s3.amazonaws.com/r32EhUJTTqvSprPO_glhlcY60yVpf-PDcqVogrdDIku93kNaXMp9xFxdqKMffMuHI2-Li4MvYpOzhY4WIWtJtozn-NRZicqjr1oopNoLrntmv_hs_BDPDMRVqdxENr2d)
+                        - Pilze: Ergosterol
+                        - Tierische Zellen: Cholesterol
+                        - Pflanzen: Stigmasterol
+    - Zellwand
+        - zellwandlose [Bakterien](Bakterien.md): Mykoplasmen
+        - funktion
+            - Form, Stabilität
+            - Widerstand gegen Innendruck des Cytoplasmas ( __Turgor__ )
+        - Gramfärbung Zellwandstruktur: _ _   
+            - Gramnegativ: rot
+            - Grampositiv: violett
+        - Struktur
+            - Peptidoglykan (Murein)
+                - [Heteropolymer](Heteropolymer.md) aus Polysaccharid und Peptid
+                - Polysaccharid besteht alternierend aus zwei Zuckern:
+                    - N-Acetylglucosamin
+                    - N-Acetylmuraminsäure
+                    - verbunden durch 1,4-β-glykosydische Bindung
+                - Polysaccharidketten sind vertikal durch 4 Peptide vernetzt $$ \rightarrow $$ „ __Tetrapeptid__ “:  __Quervernetzung__ ** **(netzartiges Polymer)
+                - Anzahl der Mureinschichten:
+                    - Gramnegative [Bakterien](Bakterien.md): bis zu 5
+                    - Grampositive [Bakterien](Bakterien.md): bis zu 40
+            - Spaltung der 1,4-β-glykosydischen Bindung durch:
+                - Lysierung der Zelle$$ \rightarrow $$ Zelle platzt
+                - Entstehung eines [Protoplasten](Protoplasten.md)
+    - Oberflächenstruktur
+        - Kapseln, Schleime:
+            - ![](http://www.heynkes.de/biologie/Bilder/Average_prokaryote_cell496x404.svg)  
+            - zusätzliche äußere Schicht aus Exopolymeren (meist Polysaccharide)
+            - Kapseln
+                - fest
+                - geordnete Strukturen
+                - Diffusionsbarriere
+            - Schleime
+                - weniger geordnet
+                - keine Diffusionsbarriere
+        - Funktion
+            - Schutzschicht um die Zelle
+            - Anheftung an Oberflächen
+            - Anheftung pathogener [Bakterien](Bakterien.md) an Zielzelle
+            - Biofilmbildung
+            - Resistenz gegen Abwehrmechanismen der Wirtszelle
+        - Fimbrien, Pili:
+            - Fädige, filamentöse Strukturen
+            - auf der Zelloberfläche nach außen gerichtet
+            - bestehen aus Proteinen
+            - Fimbrien
+                - ![](https://remnote-user-data.s3.amazonaws.com/-f9qnGw1CA1SncZVHDM3ScJmS8sesIXtGKGPgy4PlNPfn3Zu7sXWFfB-KnOxJa2KNzsemnGRT-2mFr7DQ8nPXL4-93cqfzIiynWQy_3oGR91rwSW3dz-nnjmw1SgQ7Od)  
+                - $$ 2\cdot10^{-6}m $$  bis $$ 5\cdot10^{-6}m $$ lang
+                - bis zu$$1\cdot10^3 $$ pro Zelle
+                - Anheftung an Oberflächen
+                - Bildung von Biofilmen
+            - Pili
+                - ![](https://www.quia.com/files/quia/users/lmcgee/Bacteria/9AP_ch27/conjugation.gif)  
+                - länger als [Fimbrien](Biologie-Bachelor/Mikrobiologie/Prokaryoten/Bakterien/Oberflächenstruktur/Fimbrien,-Pili:/Fimbrien.md) (bis zu $$ 1\cdot10^{-5}m $$ lang
+                - $$ 1 $$ bis$$ 2 $$ pro Zelle
+                - [Konjugation](Konjugation.md): Herstellung Zell-Zell-Kontakte
+    - Unterschiede zwischen gram+ und gram- [Bakterien](Bakterien.md) #Bakterien
+        - Gram+
+            - ![](https://remnote-user-data.s3.amazonaws.com/mMSg4ksBK17zBUo1P4OO0yloF2_lYP27HTNpO3W2V-PpYotJsl7sq1M3WhiTPfdANzYl5k_6-g9pXm8C6nycR26c4vdLBHDfq8GA7D2Z8yVbbyI4hRVoixBefuH2VFy9)  
+            - zusätzliche Teichonsäuren
+            - Saure Polysaccharide (z. B. Ribitol)
+            - Negative Ladung: Bindung bivalenter Kationen (z.B. Calcium, Magnesium)
+            - Lipoteichonsäuren: Teichonsäuren, die kovalent an Membranlipide gebunden sind
+            - auch Proteine können an Zellwand gebunden sein
+        - Gram-
+            - zusätzliche Membran außerhalb der Zellwand:
+                - Lipopolysaccharide (Endotoxine)
+                - Proteine
+                - Lipoproteine
+            - [Porine](Porine.md)
+            - [Periplasma](Periplasma.md)
+    - Zelleinschlüsse
+        - Energiereserven bei [Bakterien](Bakterien.md), [Archaea](Archaea.md):
+            - [Polymere](Polymere.md)  als Kohlenstoff-Speicher (C-Speicher):
+                - bei C-Überschuss werden [Polymere](Polymere.md) synthetisiert & für die Energiegewinnung u. Biosynthesen genutzt, z. B. Poly-β-hydroxybuttersäure (PHB), Polyhydroxyalkanoat (PHA)&  Glykogen
+            - Polyphosphate:
+                - werden bei Phosphatüberschuss synthetisiert & sind Phosphatquelle für Nukleinsäuren oder für Pospholipidbiosynthesen
+        - [Magnetosomen](Magnetosomen.md):
+            - Funktion: Bewegung abwärts zu Sedimentschichten mit geringerer $$ O_2 $$-Konzentration
+            - vor allem bei aquatischen MO (Bsp.:  __Magnetospirillum magnetotactium__ )
+        - [Bakteriengeißeln](Bakteriengeißeln.md)
+    - Ökologische Bedeutung der Beweglichkeit von Zellen:
+        - ermöglicht Kontakt mit anderen Zellen
+        - rasche & dichte Besiedelung der Umgebung
+        - Reaktion auf Umweltreize:
+            - Chemotaxis:: Bewegung als Reaktion auf Lock- oder Schreckstoffe
+            - Phototaxis:: Bewegung als Reaktion auf Licht
+            - Aerotaxis:: Bewegung als Reaktion auf Sauerstoff
+            - Osmotaxis:: Bewegung als Reaktion auf hohe Ionenstärke
+            - Hydrotaxis:: Bewegung als Reaktion auf Wasser
+    - Zelldifferenzierung (spezielle Formen von Zellen):
+        - [Endosporen](Endosporen.md) als Dauerform gram+ Bakterien
+        - [Heterocysten](Heterocysten.md) als Dauerform von Cyanobakterien
+    - Nährstoffaufnahme:
+        - ![](https://remnote-user-data.s3.amazonaws.com/jjUMlFdGacsRkaZU4dKiOTU7phSYBSdauZoTOF_HH-0WC6gDrHokZsUj-m1tTUHgvOgr6sP8CqZfeMuHC8N7i8aAWFA_b3Fm23AFf5yOVcAYDgqCPdRbYpA7zASiCqSR)  
+        - Exoenzyme: werden aus er Zelle ausgeschieden
+        - Können zb. Proteine, Stärke hydrolysieren
+        - Ein Polymer wird so zerkleinert und bildet ein Monomer, dann Aminosäure und können aufgenommen und verwertet werden
+    - Pathogene Bakterien:
+        - Phytopathogene Bakterien:
+            - Bakterien als Erreger von Pflanzenkrankheiten: 
+                - Wirtschaftliche Bedeutung:
+                    - algemein untergeordnete Rolle
+                    - Ausnahmen:
+                        - z. B. Knollennassfäule - Kartoffel
+                - Infektionsvorgang:
+                    - Unbewegliche Bakterien: Wunden (Frostschäden, Insektenstiche...)
+                    - Bewegliche Bakterien: Stomata, Lentizellen (natürliche Öffnungen)
+                - Ausbreitung in der Pflanze:
+                    - kurze Strecken: enzymatische Auflösung der Mittellamelle & Zellwände
+                    - längere Strecken: passiv durch Verschleppung im Gefäßteil der Pflanze
+            - Übertragung** **phytopathogener Bakterien:
+                - Von Pflanze zu Pflanze:
+                    - Vektoren (Tiere, Menschen): v.a. Schmierinfektionen (passiv)
+                    - Boden, Pflanzenreste
+                    - Bearbeitungsgeräte, Wind, Wasser
+                    - Bakterienexsudate __ 
+                - Von einer Vegetationsperiode zur anderen:
+                    - Saat- und Pflanzgut (z. B. Knollennassfäule bei Kartoffeln)
+                    - Pflanzenreste
+                    - Gallen (Wurzelkropf)
+            - Sichtbare Symptome:
+                - Welkeerscheinungen (Tomatenwelke)
+                - Verfärbungen, Fleckenbildung durch Toxine (Wildfeuer an Tabak)
+                - Absterbeerscheinungen, Fäulnis (Knollennassfäule der Kartoffel)
+                - Ausscheidungen von Bakterienexsudaten (Blattfleckenkrankheit des Salats)
+                - Formveränderungen: Gallen, Tumore. Z. B. Wurzelkropf an Obstgehölzen
+            - einige Beispiele phytopathogener Bakterien:
+                - Wurzelkropf
+                    - Erreger:  __Rhizobium radiobacter__  (früher:  __Agrobacetrium tumefaciens__ )
+                    - Modellorganismus
+                    - kann DNA in pflanzliche Zellen übertragen
+                    - Wirtspflanzen (dikotyl=zweikeimbl.): zahlreiche Obstarten, Weinrebe, Zierpflanzen
+                    - Hauptsymptome: kropfartige Gallen, Tumore an Wurzeln, Wurzelhals
+                    - Übertragung: durch abgelöste Gallen (Reservoir für Bakterienzellen) im Boden
+                    - Infektionsvorgang:
+                        - Kontaktaufnahme über komplementäre Rezeptoren auf Bakterien- und Pflanzenzelle
+                        -  __A. tumefaciens __ enthält Ti-Plasmid (Ti = Tumorinduzierend), von welchem ein Teil (T-DNA bzw. Transfer-DNA) in die Wirtszelle eingeschleust und ins Genom der Pflanze integriert wird
+                            - natürlicher Gentransfer:
+                                - VirA (Protein auf Oberfläche des Bakteriums) bindet pflanzliche Signalmoleküle
+                                - VirG wird aktiviert, welches Expression weiterer Gene (z.B. Endonukleasen) aktiviert  T-DNA wird ausgeschnitten und in die Pflanzenzelle integriert
+                                - in der Pflanze beginnt die Produktion von Opinen, von denen sich die Bakterien ernähren
+                                - Zellen, welche die Opine produzieren,  teilen sich und bilden einen Tumor  Ernährung des Bakteriums ist gesichert
+                            - industrieller Gentransfer:
+                            - Eigenschaft des Bakteriums kann für industriellen Gentransfer genutzt werden, indem in die T-DNA ein gewünschtes Gen (z. B. für Herbizidresistenz) eingeschleust wird, sodass dieses ins Genom der Pflanzenzelle integriert wird und die gewünschten rekombinanten Proteine synthetisiert werden
+                        - T-DNA enthält die Gene für die Tumorbildung und für Produktion bestimmter Aminosäuren          $$ \rightarrow $$ Opine = Argininderivate, welche als Kohlenstoff- und Stickstoffquelle für den Erreger dienen
+                        - Genetische Veränderung von Pflanzen durch A. tumefaciens: z. B. Herbizidresistenz
+                        - Infektion führt zumeist nicht zum Tod der Pflanze, kann diese jedoch schwächen & für andere Erkrankungen empfänglich machen
+                        - Bekämpfung: vorbeugende Maßnahmen (Vermeidung von Wunden)
+                - Feuerbrand:
+                    - Erreger:  __Erwinia amylovora__ 
+                    - Hauptwirtspflanzen (Rosaceae)
+                    - Obst: Birne, Apfel, Quitte
+                    - Ziergehölze: Felsenbirne, Zwergmispel (Cotoneaster), Feuerdorn…
+                    - Hauptsymptome:
+                    - Verfärbung (braun bis schwarz) von Blättern, Blüten, Früchten
+                    - hakenartiges Abkrümmen der erkrankten Triebspitzen
+                    - Übertragung: im Frühjahr über Triebspitzen oder Blüten v.a. durch Bienen
+                    - Überwinterung: an infizierten Pflanzenteilen
+                    - Bekämpfung: Auslichtung befallener Äste, Rodung der befallenen Bäume oder Pflanzen; Streptomycin (Antibiotikum$$ \rightarrow $$ Gefahr der Resistenzentwicklung)!
+                    - Kälteresistent bei Temp. unter 18°C keine Vermehrung, aber Bakterium stirbt nicht ab
+                - „Feuerbakterium“:  __Xylella fastidiosa__ 
+                    - eingeschleppt aus Südamerika nach Südeuropa
+                    - Wirtspflanzen:
+                        - Rebstöcke
+                        - Kartoffelpflanzen
+                        - Zitronen-,
+                        - Mandel-,
+                        - Pflaumen-,
+                        - Olivenbäume
+                    - Hauptsymptome:
+                        - Blockade des Wasser- und Nährstoffhaushaltung der Pflanze  verfärbte Blattspitzen
+                        - Absterben der Pflanze nach 2-3 Jahren
+                    - Übertragung:
+                        - Vektor = Zikaden (Zwergzikade)  saugen Flüssigkeit aus Blättern
+                    - Bekämpfung: derzeit nicht möglich
+                    - Rodung nötig
+                - Candidatus Phytoplasma
+                    - Zellwandfreie Bakterien (haben also nur Zellmembran)
+                        - Parasiten im Phloem (Gefäßsystem) der Pflanzen, reduziertes Genom
+                        - außerhalb Pflanzen/ Insekten nicht lebensfähig, im Labor nicht kultivierbar
+                        - enormer wirtschaftlicher Schaden
+                        - Veränderung pflanzl. Hormonhaushalt Wuchsveränderungen?
+                        - produzieren (höchstwahrscheinlich)  Proteine, welche auch an Krankheit beteiligt sein könnten
+                        - nehmen Phytoplasmen aus Wirtszelle auf $$ \rightarrow $$ Änderung des physiologischen Gleichgewichts
+                    - Summe aller Symptome = Phytoplasmose  
+                    - Wirtspflanzen > 700; Bsp.:
+                        - Apfelbaum: Apfeltriebsucht (Forschung: Laimburg)
+                        - Weinrebe:** **Schwarzholzkrankheit  
+                        - Ulme, Palme, Zuckerrohr: Vergilbung  
+                    - Übertragung: Vektor  
+                    - phloemsaugende Insekten (Zikaden)
+                    - Bekämpfung = noch unklar Züchtung resistenter Sorten? Bekämpfung der Vektoren? Antibiotika?
+        - Humanpathogene Bakterien:
+            - Gesundes [Humanes Mikrobiom](Humanes-Mikrobiom.md)
+            - Phasen der Besiedlung:
+                - 
+            - Ausgewählte Vertreter: 
+                - Gram-negativ:
+                    - [Legionella pneumoniae](Legionella-pneumoniae.md)
+                    - [Helicobacter pylori](Helicobacter-pylori.md) __ __ 
+            - Gram-positiv: ____ 
+                - [Bacillus anthracis](Bacillus%20anthracis.md)
+                - Gattung __ __ [Clostridium](Clostridium.md)
+                - Antibiotikaresistenz
+                    - Mikrobielle Antibiotikabildung in der Natur
+                        - als Abwehrmechanismus
+                        - Resistenzgene:
+                            - oft auf R-Plasmide lokalisiert:
+                                - horizontaler Gentransfer der Resistenzplasmide möglich
+                                - ausgedehnter Einsatz von Antibiotika (in Humanmedizin, Landwirtschaft, …) fördert die Ausbreitung von R-Plasmiden mit Antibiotikaresistenz
+                            - z. B. β-Lactamasen
+                            - 
+                        - manche Mikroorganismen sind bereits gegenüber allen bereits bekannten Wirkstoffen resistent, sog. "superbugs":
+                            - Staphylococcus aureus:
+                                - MRSE: Methicillin-resistent
+                                - ORSA: Oxacillin-resistent
+                                - VISA: Vancomycin-intermediär
+                            - weitere Beispiele:
+                                - Enterococcus faecalis
+                                - Mycobacterium tuberculosis
+                                - Pseudomonas aeruginosa
+                                - Klebsiella pneumoniae
+    --------------------- Portal ---------------------
+        - Biologie Bachelor
+            - Mikrobiologie
+                - Was ist Mikrobiologie? Was sind Mikroorganismen?
+                    - Mikroorganismien vs Makroorganismen:
+                        - Mikroorganismen
+                            - eigenschaften
+                                - sehr klein, z.B.: [Bakterien](Bakterien.md): zwischen$$0,03\cdot10^{-6}m $$ und $$10\cdot10^{-6}m $$
+                            - verschiedene Arten von Mikroorganismen
+                                - [Bakterien](Bakterien.md)
+                - Prokaryoten
+ -- Avoided infinite recursion --         - Porine #Stub
+            - Spezielle integrale Membranproteine gramnegativer[Bakterien](Bakterien.md), die deren äußere Membran permeabel machen
+        - Periplasma #Stub
+            - Raum zwischen Zellmembran und äußerer Membran bei gramnegativen [Bakterien](Bakterien.md)
+        - Konjugation #Stub
+            - Genaustausch von [Bakterien](Bakterien.md) über Plasmid
+        - Protoplasten #Stub
+            - Bezeichnung für den von der Zellwand eingeschlossenen Teil der Zelle bei [Bakterien](Bakterien.md), [Pflanzen](Pflanzen.md) und [Pilze (Fungi, Mycota)](Pilze-(Fungi,-Mycota).md)n
+    --------------------- Portal ---------------------
+        - Konjugation #Stub
+            - Genaustausch von [Bakterien](Bakterien.md) über Plasmid
+        - Periplasma #Stub
+            - Raum zwischen Zellmembran und äußerer Membran bei gramnegativen [Bakterien](Bakterien.md)
+        - Porine #Stub
+            - Spezielle integrale Membranproteine gramnegativer[Bakterien](Bakterien.md), die deren äußere Membran permeabel machen
+        - Biologie Bachelor
+            - Mikrobiologie
+                - Was ist Mikrobiologie? Was sind Mikroorganismen?
+                    - Mikroorganismien vs Makroorganismen:
+                        - Mikroorganismen
+                            - eigenschaften
+                                - sehr klein, z.B.: [Bakterien](Bakterien.md): zwischen$$0,03\cdot10^{-6}m $$ und $$10\cdot10^{-6}m $$
+                - Prokaryoten
+ -- Avoided infinite recursion --     - 

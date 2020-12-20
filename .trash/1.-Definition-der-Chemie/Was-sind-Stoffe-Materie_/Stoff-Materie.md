@@ -1,0 +1,32 @@
+- Stoff/Materie:: Alles, das eine Raumausdehnung und eine Masse hat
+    - Man untercheidet grundsätzlich zwischen zwei Arten von Stoffen:
+    - Reinstoffe:: Stoffe, die einheitlich nur aus einem chemischen Element oder einer einheitlichen chemischen Verbindung bestehen
+    - Stoffgemische:: Stoffe, die aus mehr als einem Reinstoff bestehen
+        - Homogene Stoffgemische:: Stoffgemische deren Bestandteile nicht in verschiedene Phasen getrennt sind
+            - Lösung
+            - Legierung
+            - 
+            - Arten homogener Stoffgemische
+                - Lösung (fest/flüssig)
+                - Legierung (fest/fest)
+            - Trennverfahren für homogene Stoffgemische
+                - Extraktion
+                - Destillation
+                - Kristallisation
+                - Chromatographie
+        - Heterogene Stoffgemische:: Stoffgemische deren Bestandteile in verschiedene Phasen getrennt sind
+            - Suspension
+            - Emulsion
+            - Arten heterogener Stoffgemische
+                - Gemenge (fest/fest)
+                - Suspension (fest/flüssig)
+                - Emulsion (flüssig/flüssig)
+                - Aerosol ((fest/flüssig)/gasförmig)
+            - Trennverfahren für heterogene Stoffgemische
+                - Sortieren
+                - Sedimentation
+                - Dekantieren
+                - Filtrieren
+                - Extraktion
+                - "trocknen"
+                - "elektrostatische Trennung"

@@ -1,0 +1,10 @@
+- Autotrophie #Stub
+    - Chemolitotroph
+        - Energiegewinnung durch Verwertung anorganischer Verbindungen zur Gewinnung von $$ CO_2 $$ als Energiequelle
+        - 
+    - Chemoorganotroph
+        - Energiegewinnung durch Verwertung organischer Verbindungen zur Gewinnung von $$ CO_2 $$ als Energiequelle
+    - Chemoautotroph
+        - Energiegewinnung durch Nutzung vorhandenen $$ CO_2 $$s als Energiequelle
+    - Methanotroph
+        - Energiegewinnung durch Verwertung Methans zur Gewinnung von $$ CO_2 $$ als Energiequelle

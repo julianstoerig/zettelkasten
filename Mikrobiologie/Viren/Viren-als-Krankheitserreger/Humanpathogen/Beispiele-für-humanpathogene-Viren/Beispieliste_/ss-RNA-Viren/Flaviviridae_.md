@@ -1,0 +1,22 @@
+- Flaviviridae:
+    - Genom
+        - (+)ss mRNA
+    - Struktur
+        - ![](https://remnote-user-data.s3.amazonaws.com/BFfrKCgUWtqVQJ_HbryVfoS-glw1sySXz2PpzhRRw8Mv_VTO5C2-xkEwOj0-niIX6Auv69QhXLl0qG01bOYe135R0rbYbx79ZpD2aN59ppu9X4pbguse7MKkhR1-vQ93)                                       __links:__  Querschnitt ;  __mitte: __ Draufsicht;  __rechts: __ Abbildung unter dem Mikroskop
+        - Viruspartikel bestehen aus einem mit einer Hülle mit Spikes umschlossenen Nukleoapsid
+    - Übertragung:
+        - Vektoren:
+            - Arthropoda:
+                - Arboviren:
+                    - Denguevirus  
+                    - FSME-Virus
+                    - Gelbfiebervirus  
+                    - Zika-Virus  
+        - Blut:
+            - Hepatitis-C-Virus
+    - Beispiele:
+        - Denguevirus
+        - FSME-Virus
+        - Gelbfiebervirus
+        - Hepatitis-C-Virus
+        - Zika-Virus

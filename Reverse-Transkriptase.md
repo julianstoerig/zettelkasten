@@ -1,0 +1,23 @@
+- Reverse Transkriptase #Stub
+    - Enzymkomplex aus RNA-Polymerase, Integrase und Protease
+    - `Reverse Transkriptase`
+    --------------------- Portal ---------------------
+        - Biologie Bachelor
+            - Mikrobiologie
+                - Viren
+                    - Replikation
+                        - Reverse-Transkriptase-Replikation (Ausnahme)
+                            - RT (=Reverse Transkriptase) bildet durch reverse  __Transkription __ aus der ss(+)RNA (ss(+)RNA$$ \rightarrow$$  cDNA $$ \rightarrow $$ dsDNA) eine dsDNA
+        - HIV
+            - Probleme**:**  
+                - hohe Mutationsrate des Virus aufgrund der hohen Fehlerrate von RT([Reverse Transkriptase](Reverse-Transkriptase.md))
+    --------------------- Portal ---------------------
+        - HIV
+            - Probleme**:**  
+                - hohe Mutationsrate des Virus aufgrund der hohen Fehlerrate von RT([Reverse Transkriptase](Reverse-Transkriptase.md))
+            - Struktur
+                - NS besteht aus zwei (+)ssRNA Strängen, welche jeweils über eine RT([Reverse Transkriptase](Reverse-Transkriptase.md))
+            - AIDS
+                - Therapie:
+                    - Wirkweise:
+                        - Hemmung der [Reverse Transkriptase](Reverse-Transkriptase.md)  stoppt virale NS-Synthese  

@@ -1,0 +1,84 @@
+- Systematik
+    - Benennung (Nomenklatur)
+        - Binominale Nomenklatur
+            - Artnamen sind zusammen gesetzt aus Gattungsname + Artbezeichnung
+            - schreibweise Gattungsname:: kursiv, immer großgeschrieben
+            - schreibweise Artbezeichnung:: kursiv, immer kleingeschrieben
+            - Gattungsname und Artname dürfen identisch sein
+        - 
+    - Einteilung (Taxonomie)
+        - Die Tiere sind hierarchisch folgend eingeteilt:
+            - Diesem Graphen werden Taxa fortlaufend, ihrem Auftreten in Lerninhalten nach eingefügt
+            - 
+            - Metazoa (Regnum/Reich) (Vielzellige Tiere)
+                - Eumetazoa (hypothetisches Taxon)
+                    - Bilateria (Stamm) (Zweiseitentiere)
+                        - Protostomia (Stammgruppe) (Urmünder)
+                            - Plathelminthes (Stamm) (Plattwürmer)
+                            - Lophotrochozoa (Überstamm) (Lophotrochozoen)
+                                - Annelida (Stamm) (Ringelwürmer)
+                        - Körperhöhlen
+                            - Formen
+                                - Acelomat
+                                    - Keine Körperhöhle, Mesoderm vollständig mit Zellen gefüllt (Parenchym)
+                                    - Vorkommen
+                                        - [Plathelminthes (Stamm) (Plattwürmer)](Biologie-Bachelor/Zoologie/Systematik/Einteilung-(Taxonomie)/Die-Tiere-sind-hierarchisch-folgend-eingeteilt:/Metazoa-(Regnum-Reich)-(Vielzellige-Tiere)/Eumetazoa-(hypothetisches-Taxon)/Bilateria-(Stamm)-(Zweiseitentiere)/Protostomia-(Stammgruppe)-(Urmünder)/Plathelminthes-(Stamm)-(Plattwürmer).md)
+                                - Pseudocoelomat
+                                    - Vorkommen
+                                        - Nematoda
+                                - Eucoelomat
+                                    - Vorkommen
+                                        - 
+                            - Bildung
+                                - 
+        - 
+    - Grundlagen der Systematik
+        - Erstbeschreibung
+            - Die erste Beschreibung eines neuen Organismus
+            - Bestandteile
+                - Type material:: Erklärung über die Art des untersuchten Materials (Holotyp und Paratyp, weiteres Material) und deren jetziger Aufbewahrungsort (z.B. Naturhistorisches Museum Wien)
+                - Holotyp:: Material (z.B. eingefärbter Sagittalschnitt des Organismus), an dem die Beschreibung d. Organismus angefertigt wurde
+                - Paratyp:: Zweitmaterial, das als Probe für die Validität des Holotypen genutzt wird, oft gleicher Typ eines anderen Individuums gleicher Art
+                - Type locality:: Fundort des Holotypen
+                - Etymology:: Namensherkunft des vergebenen Namen (z.B.  __Homo sapiens sapiens: __ vernunftbegabter Mensch, da großes Gehirn spezielle Knochenstrukturen am Cranium)
+        - Verschiedene Artdefinitionen
+            - Biologischer Artbegriff
+        - Verschiedene Systematische Systeme
+            - Phylogenetische Systematik
+                - ![](https://remnote-user-data.s3.amazonaws.com/W7etvYGRT7zvJqKwZDavu7Fno5gYKg3wqr9eGx_lRRbxWsxeKX0uZzh9ovPqXZ03NkDMvaa0qropFQtNxj2Wz_Lu7FZDK9eSRoPeVNfhnWHXDkyGjcfBseT8qfsYtT2b)  
+                - Ermittlung der Verwandschaftsverhältnisse über Vergleich rRNA (ribosomaler RNA)
+                - Systematik, die die Entstehungsgeschichte der Arten in den Artbegriff miteinbezieht
+                - Apomorphie
+                    - in der Phylogenese eines Taxons neu entstandenes Merkmal
+                    - Um Apomorphien von nicht apomorphen Strukturen mit gleicher Funktion (z.B. Flügel bei Fledermäusen und Vögeln, die sich unabhängig voneinander entwickelt haben) zu unterscheiden, verwendet man die sog. [ Homologiekriterien](Homologiekriterien.md)
+                    - Autapomorphie:: Bezeichnung im ranghöchsten, sie aufweisenden Taxon
+                    - Synapomorphie:: Bezeichnung für eine Apomorphie in den Taxa, die gemeinsam das Taxon mit der Autapomorphie bilden
+                    - (Sym-)Plesiomorphie:: auch  __primitives Merkmal__ , Bezeichnung in den Taxa, mindestens zwei Ränge unter dem ranghöchsten die Apomorphie aufweisenden Taxon
+                    - ![](https://remnote-user-data.s3.amazonaws.com/RFqSjm5u3z8orcn5DWVrSqlkus_nrNOHizg17jXQOXsVtl4wz393tK_uCaOhXGtR9pW69pNKqt4CaYAdkKOnqSw9j8Prd5FDrFY_DCXOxvlF3COXf26xPEUS3LCArhFI)
+                - Formen der Phylogenese
+                    - Anagenese:: auch Transformative Evolution, bezeichnet die Veränderung innerhalb einer Art im Laufe der Zeit
+                    - Stasigenese:: auch  __Stabilisierende Evolution__ , bezeichnet die Stabilisierung hin auf einen Phänotypen innerhalb einer Art im Laufe der Zeit
+                    - Cladogenese:: auch  __Divergente Evolution__ , bezeichnet die Entwicklung einer bestehenden Art, sich in mehrere neue Art aufzuteilen, die sog.  __Speziation__ 
+                    - ![](https://remnote-user-data.s3.amazonaws.com/mwnwMevOPPBlQHkxUnH4GRMhHPMy9cVasRZQPwudAJP_Ws3WS8dwGnTpkRBjZsA2yr7WcDepElnkT7VkweIpJxbE1KnWXDbUGYd_ZGudzXoRdkN3iWYljhhiIc7FYo3y)  
+                - Monophyletische Gruppe
+                    - Aktuell gültige Nomenklatur für Taxonerstbeschreibung
+                    - beinhaltet einen Borfahren und alle seine Nachkommen (z.B.  __DE __  und  __CDE__ )
+                    - ![](https://remnote-user-data.s3.amazonaws.com/HexYJx4DZofJ_M3bwEhJT_ephlHtmouUSldosBbqrg1jhWNI-DLg3aYy5HNHSAyVkcSFIhZYNBPNwjaWKZRXtTTkJ2U9N7o0yh4n1eD_vdvq3n3shlm6GgnHls3ng-cf)
+                - Paraphyletische Gruppe
+                    - umfasst einen Vorfahren, aber nur einen Teil seiner Nachkommen.
+                    - ![](https://remnote-user-data.s3.amazonaws.com/_EMBTD9OJ3H8fBcITm5PJoOU6p3pstzpPJyun-tudGg5I2d7N1T-fACbDrL4SJ1QQI5EwzTUDEDwEWHZ6tSqci-svYe4MofYWJPIhwbztJrF25H8dcjHvg3e7Nq2uPsi)
+                    - Veraltete Nomenklatur für Taxonerstbeschreibung, da hier ein Taxon in der Gruppe (hier D) näher mit einem Taxon außerhalb der Gruppe verwandt ist (hier E), als einer Seitenlinie innerhalb seiner Gruppe (hier C).
+                    - Beispiel:
+                        - ![](https://remnote-user-data.s3.amazonaws.com/Sa9iCY8RYL0xXGmfQmG4E6GCVHuXxYMtYDkV3M8u03kTjQzAo2p_K5cowfFigHCiWyI35N3YJMewSdc2HHc4Ujs2t0J8qo_nsWEtwB_jt9DsBMcn-v7QkLnogDYlSud0)
+                        - Taxon  __Pan __ und  __Homo __ sind näher verwandt, als  __Pongo __ und  __Pan__ , dennoch gehören  __Pongo __ und  __Pan __ zum Taxon  __Pongidae__ , während  __Homo __ zu den  __Hominidae__  gerechnet wird
+                        - 
+                - Polyphyletische Gruppe
+                    - hat Mitglieder (hier B, D), die keinen gemeinsamen Vorfahren in dieser Gruppe haben
+                    - ![](https://remnote-user-data.s3.amazonaws.com/gNZj2v7rfb0UEDfSwcRIup-9wcA0Y2rXK49j2WL326bA12B4peVOcTHsyEB0gpjqTcyQCDGoPRKyFKgk9u-fen8pYDa5y82liD1xKMDq_uDKBf4iTFY7suZFJo9CdVc-)
+                    - Tritt meistens auf, wenn vorher als monophyletisch betrachtete Verwandschaften durch neue Erkentnisse revidiert werden, z.B. die Klassifikation von Vögeln und Säugetieren als "Warmblüter", da beide gleichwarm sind. Später wurde jedoch klar, dass diese Eigenschaft von beiden Gruppen unabhängig voneinander erworben wurde
+                - Stammbaumdarstellung der Systematik
+                - [Monophyletische Gruppe](Biologie-Bachelor/Zoologie/Systematik/Grundlagen-der-Systematik/Verschiedene-Systematische-Systeme/Phylogenetische-Systematik/Monophyletische-Gruppe.md)n zeichnen sich durch ein oder mehrere [Apomorphie](Biologie-Bachelor/Zoologie/Systematik/Grundlagen-der-Systematik/Verschiedene-Systematische-Systeme/Phylogenetische-Systematik/Apomorphie.md)n aus
+            - LUCA
+                - **L**ast **U**niversal **C**ommon **A**nsestor
+                - Der letzte gemeinsame Vorfahre allen modernen Lebens
+                - dieser deckte seinen Energiebedarf aus einfachen chemischen Reaktionen ohne Hilfe von Sonnenlicht 

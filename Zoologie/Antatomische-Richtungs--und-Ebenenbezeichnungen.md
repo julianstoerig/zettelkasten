@@ -1,0 +1,9 @@
+- Antatomische Richtungs- und Ebenenbezeichnungen
+    - Anatomische Richtungen
+        - Anterior:: vorne, Kopf, Hauptsinnesorgane
+        - Posterior:: gegenüber Anterior
+        - Dorsal
+            - Bei Wirbeltieren: Saite mit Wirbelsäule / Nervenmark
+        - Ventral
+            - Dem Boden zugewandt
+            - Bei Wirbeltieren: gegenüber Dorsal

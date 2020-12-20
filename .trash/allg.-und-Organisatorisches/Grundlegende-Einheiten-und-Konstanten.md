@@ -1,0 +1,29 @@
+- Grundlegende Einheiten und Konstanten
+    - SI-Einheiten
+        - SI-System
+            - name:: Systeme international d'unite
+            - Basiseinheiten
+                - Länge:: Meter
+                    - symbol:: m
+                    - Definition:: Die Zeit, die Licht im Vakuum in $$ \frac{1}{299792458} $$ Sekunden zurücklegt
+                - Masse:: Kilogramm
+                    - symbol:: kg
+                    - Definition:: Masse des sog. "Urkilogramms", eines in Paris gelagerten Platin-Iridium Zylinders
+                - Zeit:: Sekunde
+                    - symbol:: s
+                    - Definition:: 9192631770 mal die Dauer einer Schwingung der Strahlung, die beim Übergang zwischen den Hyperfein-Niveaus in einem $$ ^{133}_{55}Cs $$  Atom entspricht
+                - Elektrischer Strom:: Ampère
+                    - symbol:: A
+                    - Definition:: Stromstärke, die zwischen zwei im Vakuum im Abstand von einem Meter verlaufenden elektrischen Leiterlänge eine Kraft von $$ 2\cdot10^{-9}N $$ hervorruft
+                - Temperatur:: Kelvin
+                    - symbol:: K
+                    - Definition:: $$ \frac{1}{273,16} $$  mal die absolute Temperatur des Tripelpunkts von Wasser
+                - Stoffmenge:: Mol
+                    - symbol:: mol
+                    - Definition:: Stoffmenge, die aus genauso vielen Atomen besteht, wie in 12 Gramm des Kohlenstoff-Isotops $$ ^{12}_6C $$  enthalten sind
+                - Leuchtstärke:: Candela
+                    - symbol:: cd
+            - 
+        - 
+    - Naturkonstanten
+        - Avogadro-Zahl 

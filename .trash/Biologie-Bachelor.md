@@ -1,0 +1,1316 @@
+
+- Chemische Elemente
+- Es gibt 118 verschiedene Elemente
+- Bestehen aus Atomen "gleicher Sorte"
+- Charakteristisch für Elemente ist ihre spezifische Zahl an Protonen im Atomkern (= Kernladungszahl = Ordnungszahl = Z)  und (im neutralen Atom) gleich vielen Elektronen wie Protonen
+	-  ist ihre spezifische Zahl an Protonen im Atomkern, daher gleiche Kernladungszahl Z und (im neutralen Atom) Elektronen = Z
+- Isotope
+	- gleiche Anzahl an Protonen und Elektronen
+	- unterschiedliche Neutronenzahl $$ \rightarrow $$ unterschiedliche Masse
+	- gleiche chemische Eigenschaften
+	- unterschiedliche physikalische Eigenschaften (Masseneffekte, Radioaktivität, Spektroskopie)
+- Periodensystem der Elemente (PSE)
+	- Liste aller bekannten Elemente und einer Vielzahl ihrer Eigenschaften
+	- Die Elemente sind im PSE nach ihrer Ordnungszahl geordnet
+	- Elemente werden mit ihrem sog. Elementsymbol z.B. **Au **für Gold bezeichnet
+	- Die angegebene [[Massenzahl]] **A** gibt die Masse eines Mol des Elementes bei durchschnittlicher Isotopenhäufigkeit an
+	- Allg.: $$^{A}_{Z}E$$
+	- Bsp.: Darstellung eines Elementes in einem Periodensystem![](https://remnote-user-data.s3.amazonaws.com/eb1O1d8rKPg88tZlUJEJSxNqNnGneiRr1zRaztSdapEV62ihMoPYOYQ60aLRL-W4VbJmgZveRVV2AfLKPmP2R00-PrDgL9DS99cUQqLT4syB8StoFbVF24Uq0P6dUz6_)  
+- Orbitale
+- Elektronen befinden sich um den Atomkern in sog. Orbitalen
+- Orbital
+	- Wahrscheinlichkeitsraum für den Aufenthalt von Elektronen um den Atomkern
+	- verschiedene Formen von Orbitalen:
+		- S-Orbitale
+			- Kugelförmig
+			- ![](https://remnote-user-data.s3.amazonaws.com/T0nDuKUFS4LPaQORIwiFgesSD5X8TF9cGRikgREpceO87hR9zZE2NqPKN6h30O7m0FD9q0sz4U_F6N2cqFQT9vN2mErqy7wf5ZIkT8vJw36wMDrnhGqs1Rg6_6Pk9CJX)  
+		- P-Orbitale
+			- "Hantel"-förmig
+			- in drei verschiedenen Orientierungen:
+			- $$ p_x $$: ![](https://remnote-user-data.s3.amazonaws.com/YnOS4v-bfibOW2by094SFnxj1QrBhaXicDI5zb1fMZJ990-Ri2jV4l-1tal5DDG1kLewfvcL8stMfc3JgNBkHhq66Yb6u7c3RsJUzIxCOC3D-FgGQpa6S5pDlHBp0vsL)  
+			- $$ p_y $$: ![](https://remnote-user-data.s3.amazonaws.com/L9WU8eRnWMoRsJtzzCoiembLanjGwrD-HwPNqNf98h_C042iZ3nDT1tho1XYIr0yo8gVcdGEEZ7RZz_WmlMzeHASCHF46qWlkMhCiTY7g6L_5KIATzh3f34z1_p3thI0)  
+			- $$ p_z $$: ![](https://remnote-user-data.s3.amazonaws.com/5cirW1as8xsEkbFrGLbNERe1qmYcXCYxQPlLnK5977e72S3ga_5n6SKQzR36cNiDKV9eG9JG_zkuWMbg1r9XiEiHDI5bfDAMuurbQwO88ASSEjN7GCbWm5lwODvUefQh)  
+		- Legende:
+			- x,y,z: Raumdimensionen
+			- orange: positiver Teil der Wellenfunktion
+			- blau: negativer Teil der Wellenfunktion
+		- D-Orbitale
+			- "Doppel-Hantel"-förmig
+			- $$ $$$$ d_{xy} $$: ![](https://remnote-user-data.s3.amazonaws.com/6oQwAuUmtDbNg8IBRjqV1zDpygCfFy9_LZVqI-ULEnbRFnGAyXPLyhf4fWq10UkkKYK-N3zOAYv8tB-36pXAtnWaJgUzfbjg5wPuhq_cyvDP_bgh3RZ-mK4lknxF_a0Z)  
+			- $$d_{xz}$$: ![](https://remnote-user-data.s3.amazonaws.com/nMUSmcVZyAAuV-LGYw_UDiVOYygclqwMQPeK4SJqOJNNc_gN16zShIiruOBJ2tbzrphtjwrfq2GGLprsDOR60LqKbT-79brHvf4NocgYwevLUGbJZ6KelN8sj2gBmr0L)  
+			- $$d_{yz}$$: ![](https://remnote-user-data.s3.amazonaws.com/7efd-1UDII6AmYd4wzXpLTXF7Av47Hc-Poy2e05fjm67Xo3FM5gKKCM3lzcv8-mXzpnHZjcJKNBrBPecxjyIztkqJ94w7XSTFFsv_se6L6XIZAz66ACAkv__1AgU7BnZ)  
+			- $$d_{x^2-y^2}$$: ![](https://remnote-user-data.s3.amazonaws.com/3FdRQRKYJ-EuHHbCby7znRMd6AODXWWbS7CE9eUAbqZQkLJOQwIsnvxq_AVV9or-X81N6khKp2pfHvsx_SkARX17lJk2as4dD9QCuE3eRZUav6uK6Tb8hyYaRgUL44Bo)  
+			- $$d_{z^2}$$: ![](https://remnote-user-data.s3.amazonaws.com/jlbHFyD3ij5r2eoIsWgbN32NVG9w-y44rKWOiapIminJ_2JUdM2609Pka9YdEdOyXGKT2b9aDuVl17YEM_sx9h8xehiDPnCQtBHKNMIRKVRN1rNztAMMnF0KKEfFBLrj)
+			- Legende:
+				- x,y,z: Raumdimensionen
+				- orange: positiver Teil der Wellenfunktion
+				- blau: negativer Teil der Wellenfunktion
+		- Weitere Orbitale: auch komplexere Orbitale gibt es, die müssen wir aber nicht können
+- Welle-Teilchen-Dualismus
+- Doppelspalt-Experiment([ Video)](https://youtu.be/ip8cmyitHss)
+- Relaxation von Elektronen aus einem angeregten in den Grundzustand (nach Bohr'schem Atommodel) führt zu Emission definierter Energiemengen (Formel: $$ E=h\cdot\nu $$)
+- Bestimmung der Wellenlänge eines Körpers nach  __de Broglie, Louis__ :
+	- ![](https://remnote-user-data.s3.amazonaws.com/LPpV4VkWiYjZ1cN2GD5hk-zavdtNRUY2iYZkQ4SUhYzD0M26Jgv_eIyeZRwCnb6VODWFsb4ZwjkejSd8A3tJXiat_ssrMzEAEPbJO_eaXlLbo9cMKF873hDPKzncfbXz)
+	- fds
+	- Berechnung: $$ \lambda ={h\over{9,11\cdot 10^{-31}kg}\cdot2,19\cdot10^6{m\over{s}}}\approx332\cdot10^{-12}m $$
+	- Die Wellenlänge eines Elektrons:: $$\approx332\cdot10^{-12}m$$
+- Heisenbergsche Unschärferelation
+	- Sowohl um den Impuls, als auch um den Ort eines Teilchens zu bestimmen, muss dieses bestrahlt werden
+	- kurzwellige Strahlung (hochenergetisch):
+		- man kann man den Impuls des Teilchens nicht genau bestimmen, da die Übertragung der Energie der Strahlung auf das Teilchen und somit die Verfälschung der Messung, hoch ist.
+		- man kann den Ort des Teilchens genau bestimmen, da die Varianz der Messung gleich der kleinen Wellenlänge der Strahlung ist
+	- langwellige Strahlung (niederenergetisch):
+		- man kann man den Impuls des Teilchens genau bestimmen, da die Übertragung der Energie der Strahlung auf das Teilchen und somit die Verfälschung der Messung, gering ist.
+		- man kann den Ort des Teilchens nicht genau bestimmen, da die Varianz der Messung gleich der großen Wellenlänge der Strahlung ist
+- 
+- Botanik
+- Mikrobiologie
+- Was ist Mikrobiologie? Was sind Mikroorganismen?
+- ![](https://remnote-user-data.s3.amazonaws.com/7So3p--EjApQcOqe8WpEv7mFFcKRxEVdNDtpYnG2_pvMRmbiFsenmcaHNIpu1b4hwE2kvayvB4CpgZGoPOZaTdvhYX4vtLQW5mIXpEteGWu1VjN_ZeeMY66EcaUpaEtO)  
+- Mikrobiologie:: Der Teil der Biologie, der sich mit Mikroorganismen beschäftigt
+- Mikroorganismien vs Makroorganismen:
+	- ![](https://remnote-user-data.s3.amazonaws.com/7Su3_KvL1i67BtJRkAZaTHw5HejTYVeFKm-Xa_OQEjBqvjbqXjUYOtOdu35AAt-oqPC9B6JSDh18ez35WxRL2bw_PhfQc_8QfQA3i7SVMjkUmOm3z_RCx3vFkph-x44X)
+	- Makroorganismen
+		- sind nur als vielzellige Strukturen überlebensfähig
+		- haben verschiedene Gewebe/Organe für verschiedene Leistungen
+		- bis mehrere Meter groß
+		- bsp.: Pflanze, Tiere
+	- Mikroorganismen
+		- ![](https://remnote-user-data.s3.amazonaws.com/yuZ__uYqXfIHve6EHqepSBEq2w24_GndR9sVyHYUvSonFLvBniSbqFerrvdEtC-qmj11VlklHdjYamCIv9mJi7xIGZEsUrPwyIuGIvxSogcIa5UxiD2lz3Ntz9zVr1X3)  Tabellarischer Kurzvergleich![](https://remnote-user-data.s3.amazonaws.com/wL3jmAPNqhHcHfOWB6FSmJwAmERqXkAmhsIl9VZgR9SnoZx29ZKZMVnUlNshRfM-tdmTu3UJNb8PBKaASGV8ePVOzkeQ2uDprzgRLbqbnRh99x6hPQ1k0mXN_m7B7g58)  
+		- Einzellige und diejenigen Organismen, deren Zellen autonom überlebensfähig sind
+		- eigenschaften
+			- sehr klein, z.B.: [Bakterien](Bakterien.md): zwischen$$0,03\cdot10^{-6}m $$ und $$10\cdot10^{-6}m $$
+			- hohes Oberflächen/Volumenverhältnis $$ \rightarrow $$ hohe Stoffwechselleistung:
+				- ![](https://remnote-user-data.s3.amazonaws.com/yKBO-ZNllQ2Ddfg8z6X-MxeKagABphq6k6nD8jSshAVguXRz6mWSOUBsCESJwWx24i-02m9ft4fPxkpEq8QzV5UnynBU3KV2AC-D-C7W5fDKzwGZl1SrBlKVfrfPiAxe)  
+				- hohe Atmungsrate
+				- effiziente Aufnahme und Umsatz von Stoffen und Stoffwechselprodukten
+				- hohe Zuwachsraten
+		- verschiedene Arten von Mikroorganismen
+			- [Bakterien](Bakterien.md)
+			- [Pilze (Fungi, Mycota)](Pilze-(Fungi,-Mycota).md)
+			- [Schleimpilze(Mycetozoa)](Schleimpilze(Mycetozoa).md)  
+			- [Viren](Viren.md)
+- Mikroorganismen: Bedeutung
+	- Mikroorganismen machen den größten Teil der Biomasse aus
+	- Mikrobiologie im Alltag: Beispiele:
+		- Ökologie, Landwirtschaft
+			- Streuabbau, d.h. Abbau org. Substanz $$ \rightarrow $$ Nährstoffe, Spurenelemente
+			- Stoffkreisläufe
+			- Symbiosepartner
+				- Stickstoffbindung für Pflanzen
+				- Cellulose-Verdauung für Wiederkäuer
+		- Lebensmittel
+			- Produktion von Lebensmitteln
+				- Milchprodukte
+				- Sauergemüse
+				- Backwaren
+				- Alkohol
+			- Produktion von Lebensmittelzusätzen
+				- Glutamat
+				- Zitronensäure
+			- Lebensmittelkonservierung
+				- Hemmung von Mikroorganismen
+			- Lebensmittelverderbnis
+			- Umweltschutz
+				- Biologische Sanierung
+				- Kompostierung
+				- Bergbau (bioleaching)
+			- Energieproduktion
+				- Biogas $$ \rightarrow $$ Methan
+				- Biokraftstoff Bioethanol
+- Viren
+- Virus vs Virion
+	- Virus
+		- Als Nukleinsäure in den Zellen des Wirts
+	- Virion
+		- besteht aus Nukleinsäure + Kapsid (= Nukleokapsid) (+ evtl. Virushülle)
+		- Viruspartikel **außerhalb** von Zellen
+		- elementare Funktionseinheit des infektiösen Virus
+		- wird zur Verbreitung des Virus aus den Wirtszellen ausgeschleust
+- Struktur
+	- zwischen $$ 2,4 \cdot 10^{-8}m $$ bis $$ 2 \cdot 10^{-7}m $$  groß
+	- Struktur:
+		- ![](https://remnote-user-data.s3.amazonaws.com/dYW4dXFjlqbRiZ7wy-AvkqvGB4Lm7-v67q5_mTAwsq6J-7KyVeenHy_32MjPwA7dPdWy-kCyJdE8yI1A05kOQ-lPd4LySJd1ul1AP7QOjC4U9Cf5C0nIS6kHPoCYt8ty)
+		- Nukleinsäure: RNA oder DNA
+		- Kapsid
+			- a.k.a.  __Protein Coat__ / __Protein Shell__  
+			- aus [Kapsomere](Kapsomere.md)n bestehender Schutzmantel für die Nukleinsäure
+			- Antigen
+		- Hülle
+			- Lipid-Doppelmembran der ursprünglichen Wirtszelle und den darin eingelagerten (Glyko-)Proteinen
+			- umgibt das Kapsid
+			- Antigen
+			- Funktion:
+				- Schutz vor Umwelteinflüssen
+				- Schutz vor Immunsystem des Wirts
+				- Bindung an die Rezeptoren der Wirtszelle
+				- Bildung neuer Virusvarianten durch mutierte Proteinhülle
+		- Symmetrie
+			- Die verschiedenen Strukturen der Kapside bezeichnet man als Symmetrien, man unterscheidet zwischen
+			- Einfach Symmetrie
+				- Ikosaedrische Symmetrie:: :
+					- ![](https://remnote-user-data.s3.amazonaws.com/cwZPlo7gV3k3ZvqLVpsfvl3R9KNE2VjScQfR9lMS0UpJ0eFWWvaIe_WSfc05VIlfT3G8PlrMOIINeIMQYdO4UHyhc63i7VhBhYEPmh2KRyljvUm8r6FK0_inmQPH7JfK)
+					- Kapsid bildet regelmäßiges zwanzigflächiges Polyeder, da dies bei gegebener Kantenlänge die größte Oberfläche hat
+					- Bspw.: Adeno-Virus, Herpes-Virus
+				- Helikale Symmetrie:: :
+					- ![](https://remnote-user-data.s3.amazonaws.com/O9Xo2IrkH73ewA1_GmlmufNdKFlwOqHTrkmJ1MQp8iDyF5SvwYPnpshem8opc7DwgU3DQSsLNH-Yc8ZWAYjwDqSYGx67yzrROy43NLvlZv7b66XNyXmnKVAu4OjuHb6y)
+					- [Kapsomere](Kapsomere.md) lagern sich schraubenförmig zu helikaler Quartärstruktur zusammen, der Durchmesser des dabei entstehenden Zylinders ist abhängig von der Kapsomergröße, die Länge von der zu verpackenden Nukleinsäure
+					- unbehüllte helikale Kapsidsymmetrie kommt nur bei einigen Pflanzenviren vor (z. B. Tabakmosaikvirus) und Bakteriophagen (Fam.  __Inoviridae__ ) vor, während Viren mit behülltem helikalem Kapsid bei Tierviren häufig sind
+			- Komplexe Symmetrie
+				- ist eine Virusstruktur regelmäßig, jedoch weder ikosaedrisch noch helikal, bezeichnet man sie als komplex symmetrisch
+				- Bspw.: T4-Phagen
+					- ![](https://remnote-user-data.s3.amazonaws.com/y6nGfIMDDv7gzN7OiJqSX7EizooIrGyuG8KQ31E1iJel4uPn0PaOVWa3NP0xyqUjZ4alkxiblLkm9SvnQhb_m3kGNSmB6FKIq8xFxLsnISYYa6uYMp37YdHDqxRkwhlg)
+					- spezifischer Wirt (in diesem Fall  __E. coli__ )
+- Replikation
+	- Adsorption:: Virion heftet sich an Wirtszelle an
+	- Penetration:: Einschleusung des genetischen Materials in die Wirtszelle
+	- Synthese
+		- Nukleinsäure und Proteine werden unter Anleitung der viralen NS durch Wirtszellmetabolismus synthetisiert
+		- auch **Eklipse** genannt, da in diesem Zeitraum keine Viruspartikel in der Wirtszelle nachgewiesen werden können
+	- Strukturaufbau:: Die synthetisierten NS und Proteine werden zum Nukleokapsid zusammengebaut
+	- Lyse (Freisetzung):: Die Viruspartikel werden aus der Wirtszelle freigesetzt
+	- besonderheit mancher Phagen
+		- Lytischer Zyklus:: sog.  __virulente Viren __ (z. B. T4-Phage), durchlaufen die[Replikation](Replikation.md) ganz normal
+		- Lysogener Zyklus
+			- sog.  __temperente Viren __ (z. B. λ-Phage)
+			- [Adsorption](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/Adsorption.md)
+			- [Penetration](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/Penetration.md)
+			- Virusgenom ( __Provirus__ ) wird in Wirtsgenom eingebaut
+			- ↻Wirtszelle teil sich
+			- durch  __Induktion__  (bestimmte Bedingungen; Aufhebung der Reprimierung) wird das Virusgenom aus dem Wirtsgenom ausgegliedert, wodurch ein lytischer Zyklus beginnt
+	- Reverse-Transkriptase-Replikation (Ausnahme)
+		- Adsorption (Virus beinhaltet virale RNA und  __Reverse Transkriptase__ , bspw. HIV)
+		- Penetration
+		- RT (=Reverse Transkriptase) bildet durch reverse  __Transkription __ aus der ss(+)RNA (ss(+)RNA$$ \rightarrow$$  cDNA $$ \rightarrow $$ dsDNA) eine dsDNA
+		- dsDNAwird durch die  __Integrase__  in das Wirtszellengenom integriert
+		- ↻Wirtseigene Proteinbiosynthese und DNA Replikationsmechanismen bilden neue Virionen  
+	- besonderheit mancher Bakteriophagen
+		- ![](https://remnote-user-data.s3.amazonaws.com/Gyd_kmugmmWrXzmMJiFARN-Bk5W_wJAZyzeY3SupUcNYmRx5Ox6AmrQRD97eLpKRfrV_mBdJtsJMK_mV2QKjSRAYIMYGXy_KYXraKZ3niu1hXVTP1jVh2db10rNNPpXe)
+		- Lytischer Zyklus:: Die Phagen, sog.  __virulenten Viren__  (z.B. T4-Phage), vollziehen den vollen, normalen Ablauf der [Replikation](Replikation.md)
+		- Lysogener Zyklus
+			- Die Phagen, sog.  __temperente Viren__  (z.B. λ-Phage), vollziehen Adsorption und Penetration der [Replikation](Replikation.md)
+			- Virusgenom( __Provirus__ ) wird ins Wirtsgenom integriert
+			- Wirtszelle , teilt sich und dupliziert damit auch das Virusgenom
+			- Bestimmte Bedingungen ( __Induktion__ ; Aufheben der Reprimierung) führt zur Trennung des Virusgenoms aus dem Wirtsgenom   und leitet einen [Lytischer Zyklus](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/besonderheit-mancher-Bakteriophagen/Lytischer-Zyklus.md) ein
+- Klassifikation
+	- Baltimore Schema
+		- ![](https://remnote-user-data.s3.amazonaws.com/oFs4HXoDO80VHMqMaV31JQhkhPX6McITxy1hz9KaQyuJUAqI0L17L_x5CNfOQfhc66SYg3aJNNwjjsgD6VNiPegCID_HFhl-8wlIDDSTeDEEepQlRPNx_tIxNptNYV1k)
+		- verschiedene Arten viraler NS und ihrer Genexpression
+- Evolution der Viren
+	- Entstehung ist unbekannt, da Viren zu klein sind, um fossile Spuren zu hinterlassen
+	- durch starken horizontalen Gentransfer sind Abstammungslinien nicht verfolgbar
+	- Drei Theorien:
+		- Reduktive Evolution (Degeneration):: durch degenerative Evolution aus intrazellulären parasitischen Zellen
+		- Intrazellulärer Ursprung:: aus funktionellen Bestandteilen mit Fähigkeit zur eigener (von der Zelle nicht regulierten) Replikation
+		- Unabhängiger Ursprung:: Bildung viroider NS außerhalb der Zelle - Fähigkeit zur Infektion von Zellen, dies ist die wahrscheinlichste Theorie
+- Viren als Krankheitserreger
+	- Phytopathogen
+		- Namen der Viren setzen sich aus Hauptwirtspflanze und Hauptsymptom zusammen
+		- Erreger von Pflanznekrankheiten:
+			- Beispiele:
+				- abakmosaik-Virus TMV - Hauptwirt   Tabakpflanze, Symptom Mosaikbildung
+				- Kartoffelblattroll-Virus - Hauptwirt Kartoffelpflanze, Symptom eingerollte Blätter
+				- Gurkenmosaik-Virus CMV
+			- Große Wirtschaftliche Verluste: 25%-50% im Kartoffelanbau
+			- Einsatz für Zierpflanzen:
+				- gestreifte, gefleckte Blüten (Tulpen) durch Mosaikvirus
+		- Übertragungswege
+			- Tiere: 
+				- Blattläuse
+				- Milben
+				- Nematodae
+				- … (stechende und saugende Mundwerkzeuge)
+			- Mechanisch: z. B. Bearbeitungswerkzeuge
+			- Pfropfung:
+				- viruskranke Unterlage
+				- viruskranker Reis
+			- Parasitische höhere Pflanzen, Pilze, Pollen
+		- Symptome
+			- Wachstumshemmung
+			- Anomalien des Chlorophyllapparates:
+				- Mosaikcheckung: TMV
+				- Vergilbung
+				- Rübe
+			- Nekrosen:
+				- Kartoffel-Y-Virus
+			- Formveränderungen:
+				- Blattrollen:
+					- Kartoffel
+				- Kräuselung:
+					- Kartoffel
+				- Fruchtfleischverhärtung:
+					- Birne
+				- Verzweigungen
+	- Tierische Viren: Wirkung auf die Wirtszellen
+		- Transformation:: von diesen seltenen o __nkogenen Viren__  befallene Zellen können zur Tumorzelle transformiert werden
+		- Lyse:: Tod der Zelle und Freisetzung des Virus
+		- Persistenz:: langsame Freisetzung des Virus ohne Zelltod (Bspw. Hepatitis-B-Virus, das als, Episom, eine Art Plasmid, im Zellkern verbleibt
+		- Latenz:: Virus liegt vor, schadet der Zelle jedoch nicht; Lyse ist verzögert (z. B. Herpes-simplex-Virus)
+	- Humanpathogen
+		- Übertragungswege
+			- Tröpfcheninfektion
+			- Schmierinfektion (fäkal)
+			- Körperflüssigkeiten
+			- blutsaugende Insekten
+		- Arten der Infektionen:
+			- Akut:: bei Infektion mit dem Virus findet eine Konfrontation, plötzlich und meist von vergleichbar kurzer Zeitdauer, mit dem Immunsystem statt, verliert der Virus diese wird er vollständig zerstört
+			- Persistent
+				- Latent
+					- bei Erstinfektion eine [Akut](Biologie-Bachelor/Mikrobiologie/Viren/Viren-als-Krankheitserreger/Humanpathogen/Arten-der-Infektionen:/Akut.md)e Reaktion, danach bleibt das virale Genom in den Wirtszellen erhalten,  Replikation erfolgt bis zur  __Reaktivierung__ , bei der erneut eine Akute Reaktion erfolgt, gar nicht oder nur sporadisch (Bsp. Herpes-simplex-Virus)
+				- Chronisch:: permanente Produktion von Viruspartikeln (Bsp. Hepatitis-B-Virus)
+				- Aufrechterhaltung einer persistenten viralen Infektion
+					- Infektion von Zelltypen die für andauernde Persistenz geeignet sind:
+						- nach intitaler Infektion von Hautzellen für schnelle Virusvermehrung beginnt die Infektion von:
+							- Neuronen (langlebig) (bspw. bei HIV)
+							- B-Lymphozyten
+					- Verhinderung der Apoptose(programmierter Zellsuizid als Reaktion auf Virusinfektion) infizierter Zellen (bspw. hemmt bei HIV Infektion ein Protein die Apoptose)
+					- Regulation der viralen Genexpression:
+						- Underdrückung( __Supprimation__ ) der viralen Gene, die einen [Lytischer Zyklus](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/besonderheit-mancher-Bakteriophagen/Lytischer-Zyklus.md) beginnen  ließen
+						- Zelle überlebt und kann unendlich lang Viren produzieren
+		- Beispiele für humanpathogene Viren
+			- Beispieliste:
+				- ss RNA Viren
+					- Coronaviridae:
+						- SARS-CoV
+					- Filoviridae
+						- Genom
+							- (-)ssRNA
+						- Struktur
+							- Fadenförmig
+							- Hülle mit Spikes
+						- Übertragung:
+							- [Zoonose](Zoonose.md):
+								- C  Erkranktes Tier (Primaten) $$ \rightarrow $$ Mensch
+								- Mensch $$ \rightarrow $$ Mensch (Schleimhäute, Körpersekrete)
+								- Kontaminierte Gegenstände, Blut, Verletzungen…
+						- Reservoir:
+							- Fledermäuse (vermutet)
+							- Flughunde (vermutet)
+						- Beispiele:
+							- Ebolavirus
+							- Marburgvirus
+						- Wirkung:
+							- Inkubationszeit: 2-21 Tage
+							- Ebolafieber: [Hämorrhagisches Fieber](Hämorrhagisches-Fieber.md)
+							- Fieber
+					- Flaviviridae:
+						- Genom
+							- (+)ss mRNA
+						- Struktur
+							- ![](https://remnote-user-data.s3.amazonaws.com/BFfrKCgUWtqVQJ_HbryVfoS-glw1sySXz2PpzhRRw8Mv_VTO5C2-xkEwOj0-niIX6Auv69QhXLl0qG01bOYe135R0rbYbx79ZpD2aN59ppu9X4pbguse7MKkhR1-vQ93)                                       __links:__  Querschnitt ;  __mitte: __ Draufsicht;  __rechts: __ Abbildung unter dem Mikroskop
+							- Viruspartikel bestehen aus einem mit einer Hülle mit Spikes umschlossenen Nukleoapsid
+						- Übertragung:
+							- Vektoren:
+								- Arthropoda:
+									- Arboviren:
+										- Denguevirus  
+										- FSME-Virus
+										- Gelbfiebervirus  
+										- Zika-Virus  
+							- Blut:
+								- Hepatitis-C-Virus
+						- Beispiele:
+							- Denguevirus
+							- FSME-Virus
+							- Gelbfiebervirus
+							- Hepatitis-C-Virus
+							- Zika-Virus
+					- Retroviridae:
+						- HIV
+					- Orthomyxoviridae:
+						- Influenzavirus
+					- 
+				- Hepatitis-Erreger
+					- ![](https://remnote-user-data.s3.amazonaws.com/BOlnMH4GnYfBqfEATo53j-j6-0KGiCrzyXOlqX9cusO3_4az5D1-tX0WM9yUprxCEG3vwza9HBbv93I57xfgNq-pPIIL5TgMJQ4X7RoRaNPae2hGSVVqpJJDy7C8VeZU)  Liste aller bekannten Hepatitis-Erreger
+					- Sonderform: Hepatitis Delta Virus**: **defektes Virus, dem das Replikationsgen fehlt, er ist daher von HBV abhängig   
+					- à bei Vermehrung auf Hilfe des HBV angewiesen, da keine eigenen Gene für Replikation
+					- ![](https://remnote-user-data.s3.amazonaws.com/eXFnTRuHSh9PRhQb48Gc0Xt-liwkz4tF-_gwfi5io4IRqgy-0bakVQfwZhcd-AxQnG59LQKy6BoaQEDGhTOG9SOPh1QszUxRoMi3WsocpHXcDgLOd1m_rOsB8XutYw-u)![](https://remnote-user-data.s3.amazonaws.com/R09fD4OT0VYw9MOi2GJx04sSp_LrIsXJofBYeGS29lqqL2A15D7Qlukg-l-IU4zq1BHzkIS1fRk0pAHfWAWqje6vtrRfy6aD808LfpRJZPwl-iES2Z_bq5pidkgTDCFI)![](https://remnote-user-data.s3.amazonaws.com/ntiqT1VNQsiIvTuRwmWImR1X4rIoejgkmKOwRGCEkSnN9ulArqw36NszLEUrDX6QhdAszcmSjicaGemK0UMpNZeLur-8S79wnfxKNntXKxopaqHQ8A2wl0BefLcy049v) __                                                                                              von links nach rechts: __ Hepatitis-A-Virus; Hepatitis-B-Virus; Hepatitis-C-Virus 
+			- Orthomyxoviridae
+				- Gefährlichkeit:
+					- Influenzavirus C:: milde Erkrankung bei Kindern
+					- [Influenza A Viren](Influenza-A-Viren.md), Influenza B: schwere Atemwegserkrankung, Grippe
+				- Influenza A Viren
+					- ![](https://remnote-user-data.s3.amazonaws.com/w_UesHY7BxN2c4qknptg7-MfKZ1KXmFyXKV2VHVFeZCrxvynPP0ER8t3qJCuOvdAEkA3U4mJOZwO6vyuY0vD14hEacVuCqIF3QEKL_7r31Ti8mbhQlxm3gHHGXmaxycS)Namensschema                                            Influenza A Viren verden benannt nach dem Typus ihres HA und NA
+					- Struktur
+						- ![](https://remnote-user-data.s3.amazonaws.com/jriCVypwhPhpRC_ORIu9mU3986ZDC5S006hmx-AmYCJdu5Skw_dRHue6F-l11PZz7ynWPhFSKNo6kawlMH_DU1YjnW9VTely3XsBEQJW7uYCM1avO3k4SCeDr0POgzHY)Influenza A Virion
+						- Nukleokapsid mit Virusmembran umschlossen, Hülle mit "Spikes" (Bezeichnung für verschiedenste Oberflächen(glyko-)proteine)
+						- Zwei wichtige Oberflächenglykoproteine:
+							- Hämaglutinin( __HA__ ):: vermittelt Anheftung des Virus an die Zelle
+							- Neuraminidase( __NA__ ):: für Infektionsvorgang von Bedeutung
+							- beide sind antigenetisch wirksam
+					- Genom
+						- 8 zufällig aufgeteilte (-)ssRNA-Segmente mit eigenen RNA-Polymerasen
+						- Möglichkeit der Rekombination verschiedener RNA-Segmente bei Co-Infektion einer Wirtszelle $$ \rightarrow $$ ständige genetische Veränderung:
+							- Antigen-Shift:: Neuzusammenstellung der Acht Segmente $$ \rightarrow $$ Pandemie
+							- Antigen-Drift:: Punktmutationen an HA und NA $$ \rightarrow $$ Epidemie
+					- Pandemien
+						- 1900 Alte Hong-Kong Influenza:  __ __ H3N8 __ __     
+						- 1918-1919 Spanische Grippe:  __ __ H1N1 __  __ > 50 Mio. Tote
+						- 1957 Asiatische Grippe:  __ __ H2N2 __ __   
+						- 1968 Hongkong Grippe:  __ __ H3N2 __ __   
+						- 2009 Schweinegrippe:  __** **__ H1N1 __** **__   
+						- Vogelgrippevirus:  __** **__ H5N1
+						- ![](https://remnote-user-data.s3.amazonaws.com/5SDz2nBalU6sh_Ho8SxPBa3IhF9BW-3xtMMQ8UP_cKcWwh-xwy0CNHTuNp3gQH706avvHzTFHxv5XxS_RXH9nxmbzWZCi4FWBZlwmxliSSPmMasXnSR6MWIAmgEvc34w)genetische Rekombination verschiedener Virenstämme, Beispiele für Überwindung der Artengrenze durch Influenza A Viren H1N1, H2N2 und H3N2
+			- Coronaviridae
+				- Struktur
+					- Lipidhülle (Virusmembran) mit Spikes $$ \rightarrow $$ kronenartiges Aussehen
+				- Genom
+					- (+)ssRNA
+					- größte Genome aller RNA-Viren (30 kb(= kilobasen = 1000 Basen))
+					- komplexe Replikation aufgrund spezieller RNA-Synthese
+					- genetisch sehr variabel
+				- · Coronaviren können (wie Influenzaviren) die Artenbarriere überwinden:
+					- SARS-CoV-1: Fledermäuse$$\rightarrow $$ Zwischenwirt Larvenroller$$ \rightarrow $$ Mensch
+					- SARS-CoV-2: Tier$$\rightarrow $$ Zwischenwirt$$ \rightarrow $$ Mensch (genaue Beteiligte noch unbekannt)
+				- Humanpathogene Coronaviren:
+					- Symptome:
+						- Akute Erkrankungen des oberen Respirationstraktes
+						- leichte Infektionen (grippaler Infekt)
+						- schwere Infektionen (SARS = severe acute respiratory syndrome)
+					- Beispiele:
+						- SARS-CoV-1: Pandemie 2002/2003
+						- MERS-CoV: Epidemie ab 2012 (Middle east respiratory syndrome coronavirus)
+						- SARS-CoV-2
+							- Pandemie ab 2019 (Erreger von COVID-19(Coronavirus Disease 2019)):
+							- Genom:: (-)ssRNA
+							- Struktur
+								- ![](0.15777427917920583)
+								- Lipidhülle mit Spikes:  
+									- ca. 10 Oberflächenproteine
+										- Oberflächenprotein S$$\rightarrow $$kronenartige Struktur
+											- Funktion: Rezeptor-Bindung zur Anhaftung an die Wirtszelle
+											- Fusionsprotein ist für die Verschmelzung von Virusmembran und Zellmembran zuständig, sodass der Virus in die Zelle eindringen kann
+											- Hüllenprotein E
+											- Membranprotein M
+							- Übertragungswege:
+								- Tröpfcheninfektion, Aerosole$$ \rightarrow $$schnelle Ausbreitung $$  $$  
+								- (vermutete) Schmierinfektion
+							- Replikation
+								- Glykoprotein S (Spikes des Virions) heftet sich an ACE2-Rezeptor der Wirtszelle an
+								- Aktivierung: Glykoprotein S wird gespalten und als Fusionsprotein aktiviert
+								- Eindringen: des Virions in die Zelle
+								- virale RNA (ist mRNA) wird aus Kapsid freigesetzt
+								- Translation: der viralen mRNA durch Wirtszelleneigene Ribosomen
+								- RNA-Replikation durch virale RNA-Polymerase
+								- Selfassambly: Konstruktion neuer Viren
+								- Ausschleußung: der Viren (außerhalb der Zelle Virionen)
+			- Retroviridae
+				- Genom:::
+					- (+)ssRNA
+					- Replikation über DNA nach[Baltimore Schema](Biologie-Bachelor/Mikrobiologie/Viren/Klassifikation/Baltimore-Schema.md) mit viruseigener Reversen Transkriptase
+					- Integration in Wirtsgenom
+					- Unterteilung:
+						- einfache Retroviren: Genom aus nur vier Genen
+							- Humanes T-Zell Leukämievirus
+							- felines Leukämievirus
+						- Lentiviren: Komplexes Genom
+							- [HIV](HIV.md)-1 (HI-Virus in Europa) & 2 (humanes Immunschwächevirus / human immunodefficiency virus)
+							- 
+				- Struktur
+					- in ihren Viruspartikeln ist das Nukleokapsid von einer mit viralen Glykoproteinen durchsetzten Virushülle umschlossen
+					- Innerhalb ihres Kapsids befindet sich eine Art "Kern" aus weiteren Proteinen und einem NS Komplex
+- 
+- Prokaryoten
+- Bakterien
+	- ![](http://www.heynkes.de/biologie/Bilder/Average_prokaryote_cell496x404.svg)  
+	- ![](https://remnote-user-data.s3.amazonaws.com/EWjreAx9vBxqQfAkSrwx75wmotieuwvP96Suh7DbHcu3aaXCciKgFwuXKSoOzYjcq7Iw0wsAVRFlpuGsiDwOuWbRIHhwLlzhWQPnO0jaxpud9yCUvtllOFkdxX_TWmSk)  chemische Zusammensetzung von Bakterienzellen
+	- Morphologie
+		- Größe
+			- durchschnittlich zwischen$$ 2\cdot10^{-7}m $$ und $$ 1\cdot10^{-5} $$, größte bekannte Bakterie  __Thiomargarita namibiensis ist__ $$7,5\cdot10^{-4}m $$$$$$,  __E.coli__  : $$ 3\cdot10^{-6}m $$  groß
+			- Optische Darstellung
+				- Mikroskopie:
+					- Lebendbeobachtung von Zellen
+					- Färbungen (abgetötete Zellen):
+						- Einfachfärbungen: z. B. Methylenblau
+						- Differenzierungsfärbung:
+							- ![](https://remnote-user-data.s3.amazonaws.com/Ub7H_2hFDtXHDuauJZ_Off6yy2BmIC55SEN6GRCz8e0xtQsCCZPHjTeZqEV_oKzaxsgilbcGfzQj0eYTfrRzs9ZC4AItCvHLYNob5F_jb6HIFFZHfCXQUP_Z5qdZVE4G)
+							- zwei Farbstoffe mit unterschiedlicher Affinität zu verschiedenen [Bakterien](Bakterien.md); z. B. Gram-Färbung: g+: violett, g-: rot
+			- Form
+				- ![](https://remnote-user-data.s3.amazonaws.com/_p66sEx2BxS8ciBo4FKae449OnEeWABhK2pD3cY-zPtwIvK26HjnRKLg9g8O33k4s8VerG7nYW6Gjzsl3aAyOQkhbDbavMuqr6UC8RnWIKWOX83V2zi23bre0C7NTRsT)Schematische Darstellung der verschiedenen Formen von [Bakterien](Bakterien.md)
+				- Kugel: Kokken
+				- Zylinder:
+					- chen
+					- gerade: Stäbchen
+					- einfach gekrümmt: Vibrionen
+					- helixartig:
+						- flexibel, dünn: Spirochaeten
+						- starr, dick: Spirillen
+				- Zellverbände aus selbstständigen Einzelzellen
+					- Ketten:
+						- Diplokokken
+						- Streptokokken
+					- Zellpakete:
+						- Staphylokokken
+						- Sarcinen
+				- Prosthekate (hyphenartige Auswüchse) und gestielte [Bakterien](Bakterien.md)
+					- Mycelbildende [Bakterien](Bakterien.md) (nicht mit Pilzmycel zu verwechseln!)
+	- Zellmembran
+		- funktion
+			- begrenzt Cytoplasma aller Zellen
+			- Permeabilitätsgrenze (selektive Permeabilität)
+			- Gezielte Aufnahme/Abgabe von Verbindungen:
+				- Aufnahmen: Metaboliten
+				- Abgabe: Abfallprodukte
+			- Proteinverankerung:
+				- Membranproteine:
+					- Transport
+					- Fortbewegung
+			- Energiespeicherung:
+				- Protonenmotorische Kraft: ATP Synthese
+		- Struktur
+			- ![](https://remnote-user-data.s3.amazonaws.com/k1yWWNT8eHI3OXA3oPSZgjhxTEd6A9oMcKSjJXK7rsUq2nqyfCBxvnHNGW94Zr39utYkU0eE2ljyE0FCqxIPWjlFzyYfuDh-FNSz2m0p_8hesdHSVqXJstLkhY8WX4dr)  ![](https://remnote-user-data.s3.amazonaws.com/BKIeTteXlBGKm8V24mHLRxNGBjoFfaMp4dsWg1ertf57-VYoSCf3M4zq56r6QM13lNhmHSISRVcxs_FdQ27ltbCELW6GLpnhtRGl7FSa87DDTya8DfjTpjD0VtsghaE8)  
+			- [Phospholipid](Phospholipid.md)-Doppelschicht (Bilayer) mit eingelagerten Molekülen:
+			- Membranproteinen:
+				- integrale Membranproteine: 
+					- durchdringen die Membran komplett
+					- dienen dem Transport von Stoffen durch die Membran
+				- periphere Membranproteine:
+					- sind an entweder Intra- oder Extrazelluläre Seite der Membran angelagert
+					- verschiedene Aufgaben
+			- Stabilisierung
+				- Hydrophobe Einlagerungen:
+					- Prokaryoten: [Hopanoide](Hopanoide.md)
+					- Eukaryoten: echte Sterole
+						- ![](https://remnote-user-data.s3.amazonaws.com/r32EhUJTTqvSprPO_glhlcY60yVpf-PDcqVogrdDIku93kNaXMp9xFxdqKMffMuHI2-Li4MvYpOzhY4WIWtJtozn-NRZicqjr1oopNoLrntmv_hs_BDPDMRVqdxENr2d)
+						- Pilze: Ergosterol
+						- Tierische Zellen: Cholesterol
+						- Pflanzen: Stigmasterol
+	- Zellwand
+		- zellwandlose [Bakterien](Bakterien.md): Mykoplasmen
+		- funktion
+			- Form, Stabilität
+			- Widerstand gegen Innendruck des Cytoplasmas ( __Turgor__ )
+		- Gramfärbung Zellwandstruktur: _ _   
+			- Gramnegativ: rot
+			- Grampositiv: violett
+		- Struktur
+			- Peptidoglykan (Murein)
+				- [Heteropolymer](Heteropolymer.md) aus Polysaccharid und Peptid
+				- Polysaccharid besteht alternierend aus zwei Zuckern:
+					- N-Acetylglucosamin
+					- N-Acetylmuraminsäure
+					- verbunden durch 1,4-β-glykosydische Bindung
+				- Polysaccharidketten sind vertikal durch 4 Peptide vernetzt $$ \rightarrow $$ „ __Tetrapeptid__ “:  __Quervernetzung__ ** **(netzartiges Polymer)
+				- Anzahl der Mureinschichten:
+					- Gramnegative [Bakterien](Bakterien.md): bis zu 5
+					- Grampositive [Bakterien](Bakterien.md): bis zu 40
+			- Spaltung der 1,4-β-glykosydischen Bindung durch:
+				- Lysierung der Zelle$$ \rightarrow $$ Zelle platzt
+				- Entstehung eines [Protoplasten](Protoplasten.md)
+	- Oberflächenstruktur
+		- Kapseln, Schleime:
+			- ![](http://www.heynkes.de/biologie/Bilder/Average_prokaryote_cell496x404.svg)  
+			- zusätzliche äußere Schicht aus Exopolymeren (meist Polysaccharide)
+			- Kapseln
+				- fest
+				- geordnete Strukturen
+				- Diffusionsbarriere
+			- Schleime
+				- weniger geordnet
+				- keine Diffusionsbarriere
+		- Funktion
+			- Schutzschicht um die Zelle
+			- Anheftung an Oberflächen
+			- Anheftung pathogener [Bakterien](Bakterien.md) an Zielzelle
+			- Biofilmbildung
+			- Resistenz gegen Abwehrmechanismen der Wirtszelle
+		- Fimbrien, Pili:
+			- Fädige, filamentöse Strukturen
+			- auf der Zelloberfläche nach außen gerichtet
+			- bestehen aus Proteinen
+			- Fimbrien
+				- ![](https://remnote-user-data.s3.amazonaws.com/-f9qnGw1CA1SncZVHDM3ScJmS8sesIXtGKGPgy4PlNPfn3Zu7sXWFfB-KnOxJa2KNzsemnGRT-2mFr7DQ8nPXL4-93cqfzIiynWQy_3oGR91rwSW3dz-nnjmw1SgQ7Od)  
+				- $$ 2\cdot10^{-6}m $$  bis $$ 5\cdot10^{-6}m $$ lang
+				- bis zu$$1\cdot10^3 $$ pro Zelle
+				- Anheftung an Oberflächen
+				- Bildung von Biofilmen
+			- Pili
+				- ![](https://www.quia.com/files/quia/users/lmcgee/Bacteria/9AP_ch27/conjugation.gif)  
+				- länger als [Fimbrien](Biologie-Bachelor/Mikrobiologie/Prokaryoten/Bakterien/Oberflächenstruktur/Fimbrien,-Pili:/Fimbrien.md) (bis zu $$ 1\cdot10^{-5}m $$ lang
+				- $$ 1 $$ bis$$ 2 $$ pro Zelle
+				- [Konjugation](Konjugation.md): Herstellung Zell-Zell-Kontakte
+	- Unterschiede zwischen gram+ und gram- [Bakterien](Bakterien.md) #Bakterien
+		- Gram+
+			- ![](https://remnote-user-data.s3.amazonaws.com/mMSg4ksBK17zBUo1P4OO0yloF2_lYP27HTNpO3W2V-PpYotJsl7sq1M3WhiTPfdANzYl5k_6-g9pXm8C6nycR26c4vdLBHDfq8GA7D2Z8yVbbyI4hRVoixBefuH2VFy9)  
+			- zusätzliche Teichonsäuren
+			- Saure Polysaccharide (z. B. Ribitol)
+			- Negative Ladung: Bindung bivalenter Kationen (z.B. Calcium, Magnesium)
+			- Lipoteichonsäuren: Teichonsäuren, die kovalent an Membranlipide gebunden sind
+			- auch Proteine können an Zellwand gebunden sein
+		- Gram-
+			- zusätzliche Membran außerhalb der Zellwand:
+				- Lipopolysaccharide (Endotoxine)
+				- Proteine
+				- Lipoproteine
+			- [Porine](Porine.md)
+			- [Periplasma](Periplasma.md)
+	- Zelleinschlüsse
+		- Energiereserven bei [Bakterien](Bakterien.md), [Archaea](Archaea.md):
+			- [Polymere](Polymere.md)  als Kohlenstoff-Speicher (C-Speicher):
+				- bei C-Überschuss werden [Polymere](Polymere.md) synthetisiert & für die Energiegewinnung u. Biosynthesen genutzt, z. B. Poly-β-hydroxybuttersäure (PHB), Polyhydroxyalkanoat (PHA)&  Glykogen
+			- Polyphosphate:
+				- werden bei Phosphatüberschuss synthetisiert & sind Phosphatquelle für Nukleinsäuren oder für Pospholipidbiosynthesen
+		- [Magnetosomen](Magnetosomen.md):
+			- Funktion: Bewegung abwärts zu Sedimentschichten mit geringerer $$ O_2 $$-Konzentration
+			- vor allem bei aquatischen MO (Bsp.:  __Magnetospirillum magnetotactium__ )
+		- [Bakteriengeißeln](Bakteriengeißeln.md)
+	- Ökologische Bedeutung der Beweglichkeit von Zellen:
+		- ermöglicht Kontakt mit anderen Zellen
+		- rasche & dichte Besiedelung der Umgebung
+		- Reaktion auf Umweltreize:
+			- Chemotaxis:: Bewegung als Reaktion auf Lock- oder Schreckstoffe
+			- Phototaxis:: Bewegung als Reaktion auf Licht
+			- Aerotaxis:: Bewegung als Reaktion auf Sauerstoff
+			- Osmotaxis:: Bewegung als Reaktion auf hohe Ionenstärke
+			- Hydrotaxis:: Bewegung als Reaktion auf Wasser
+	- Zelldifferenzierung (spezielle Formen von Zellen):
+		- [Endosporen](Endosporen.md) als Dauerform gram+ Bakterien
+		- [Heterocysten](Heterocysten.md) als Dauerform von Cyanobakterien
+	- Nährstoffaufnahme:
+		- ![](https://remnote-user-data.s3.amazonaws.com/jjUMlFdGacsRkaZU4dKiOTU7phSYBSdauZoTOF_HH-0WC6gDrHokZsUj-m1tTUHgvOgr6sP8CqZfeMuHC8N7i8aAWFA_b3Fm23AFf5yOVcAYDgqCPdRbYpA7zASiCqSR)  
+		- Exoenzyme: werden aus er Zelle ausgeschieden
+		- Können zb. Proteine, Stärke hydrolysieren
+		- Ein Polymer wird so zerkleinert und bildet ein Monomer, dann Aminosäure und können aufgenommen und verwertet werden
+	- Pathogene Bakterien:
+		- Phytopathogene Bakterien:
+			- Bakterien als Erreger von Pflanzenkrankheiten: 
+				- Wirtschaftliche Bedeutung:
+					- algemein untergeordnete Rolle
+					- Ausnahmen:
+						- z. B. Knollennassfäule - Kartoffel
+				- Infektionsvorgang:
+					- Unbewegliche Bakterien: Wunden (Frostschäden, Insektenstiche...)
+					- Bewegliche Bakterien: Stomata, Lentizellen (natürliche Öffnungen)
+				- Ausbreitung in der Pflanze:
+					- kurze Strecken: enzymatische Auflösung der Mittellamelle & Zellwände
+					- längere Strecken: passiv durch Verschleppung im Gefäßteil der Pflanze
+			- Übertragung** **phytopathogener Bakterien:
+				- Von Pflanze zu Pflanze:
+					- Vektoren (Tiere, Menschen): v.a. Schmierinfektionen (passiv)
+					- Boden, Pflanzenreste
+					- Bearbeitungsgeräte, Wind, Wasser
+					- Bakterienexsudate __ 
+				- Von einer Vegetationsperiode zur anderen:
+					- Saat- und Pflanzgut (z. B. Knollennassfäule bei Kartoffeln)
+					- Pflanzenreste
+					- Gallen (Wurzelkropf)
+			- Sichtbare Symptome:
+				- Welkeerscheinungen (Tomatenwelke)
+				- Verfärbungen, Fleckenbildung durch Toxine (Wildfeuer an Tabak)
+				- Absterbeerscheinungen, Fäulnis (Knollennassfäule der Kartoffel)
+				- Ausscheidungen von Bakterienexsudaten (Blattfleckenkrankheit des Salats)
+				- Formveränderungen: Gallen, Tumore. Z. B. Wurzelkropf an Obstgehölzen
+			- einige Beispiele phytopathogener Bakterien:
+				- Wurzelkropf
+					- Erreger:  __Rhizobium radiobacter__  (früher:  __Agrobacetrium tumefaciens__ )
+					- Modellorganismus
+					- kann DNA in pflanzliche Zellen übertragen
+					- Wirtspflanzen (dikotyl=zweikeimbl.): zahlreiche Obstarten, Weinrebe, Zierpflanzen
+					- Hauptsymptome: kropfartige Gallen, Tumore an Wurzeln, Wurzelhals
+					- Übertragung: durch abgelöste Gallen (Reservoir für Bakterienzellen) im Boden
+					- Infektionsvorgang:
+						- Kontaktaufnahme über komplementäre Rezeptoren auf Bakterien- und Pflanzenzelle
+						-  __A. tumefaciens __ enthält Ti-Plasmid (Ti = Tumorinduzierend), von welchem ein Teil (T-DNA bzw. Transfer-DNA) in die Wirtszelle eingeschleust und ins Genom der Pflanze integriert wird
+							- natürlicher Gentransfer:
+								- VirA (Protein auf Oberfläche des Bakteriums) bindet pflanzliche Signalmoleküle
+								- VirG wird aktiviert, welches Expression weiterer Gene (z.B. Endonukleasen) aktiviert  T-DNA wird ausgeschnitten und in die Pflanzenzelle integriert
+								- in der Pflanze beginnt die Produktion von Opinen, von denen sich die Bakterien ernähren
+								- Zellen, welche die Opine produzieren,  teilen sich und bilden einen Tumor  Ernährung des Bakteriums ist gesichert
+							- industrieller Gentransfer:
+							- Eigenschaft des Bakteriums kann für industriellen Gentransfer genutzt werden, indem in die T-DNA ein gewünschtes Gen (z. B. für Herbizidresistenz) eingeschleust wird, sodass dieses ins Genom der Pflanzenzelle integriert wird und die gewünschten rekombinanten Proteine synthetisiert werden
+						- T-DNA enthält die Gene für die Tumorbildung und für Produktion bestimmter Aminosäuren          $$ \rightarrow $$ Opine = Argininderivate, welche als Kohlenstoff- und Stickstoffquelle für den Erreger dienen
+						- Genetische Veränderung von Pflanzen durch A. tumefaciens: z. B. Herbizidresistenz
+						- Infektion führt zumeist nicht zum Tod der Pflanze, kann diese jedoch schwächen & für andere Erkrankungen empfänglich machen
+						- Bekämpfung: vorbeugende Maßnahmen (Vermeidung von Wunden)
+				- Feuerbrand:
+					- Erreger:  __Erwinia amylovora__ 
+					- Hauptwirtspflanzen (Rosaceae)
+					- Obst: Birne, Apfel, Quitte
+					- Ziergehölze: Felsenbirne, Zwergmispel (Cotoneaster), Feuerdorn…
+					- Hauptsymptome:
+					- Verfärbung (braun bis schwarz) von Blättern, Blüten, Früchten
+					- hakenartiges Abkrümmen der erkrankten Triebspitzen
+					- Übertragung: im Frühjahr über Triebspitzen oder Blüten v.a. durch Bienen
+					- Überwinterung: an infizierten Pflanzenteilen
+					- Bekämpfung: Auslichtung befallener Äste, Rodung der befallenen Bäume oder Pflanzen; Streptomycin (Antibiotikum$$ \rightarrow $$ Gefahr der Resistenzentwicklung)!
+					- Kälteresistent bei Temp. unter 18°C keine Vermehrung, aber Bakterium stirbt nicht ab
+				- „Feuerbakterium“:  __Xylella fastidiosa__ 
+					- eingeschleppt aus Südamerika nach Südeuropa
+					- Wirtspflanzen:
+						- Rebstöcke
+						- Kartoffelpflanzen
+						- Zitronen-,
+						- Mandel-,
+						- Pflaumen-,
+						- Olivenbäume
+					- Hauptsymptome:
+						- Blockade des Wasser- und Nährstoffhaushaltung der Pflanze  verfärbte Blattspitzen
+						- Absterben der Pflanze nach 2-3 Jahren
+					- Übertragung:
+						- Vektor = Zikaden (Zwergzikade)  saugen Flüssigkeit aus Blättern
+					- Bekämpfung: derzeit nicht möglich
+					- Rodung nötig
+				- Candidatus Phytoplasma
+					- Zellwandfreie Bakterien (haben also nur Zellmembran)
+						- Parasiten im Phloem (Gefäßsystem) der Pflanzen, reduziertes Genom
+						- außerhalb Pflanzen/ Insekten nicht lebensfähig, im Labor nicht kultivierbar
+						- enormer wirtschaftlicher Schaden
+						- Veränderung pflanzl. Hormonhaushalt Wuchsveränderungen?
+						- produzieren (höchstwahrscheinlich)  Proteine, welche auch an Krankheit beteiligt sein könnten
+						- nehmen Phytoplasmen aus Wirtszelle auf $$ \rightarrow $$ Änderung des physiologischen Gleichgewichts
+					- Summe aller Symptome = Phytoplasmose  
+					- Wirtspflanzen > 700; Bsp.:
+						- Apfelbaum: Apfeltriebsucht (Forschung: Laimburg)
+						- Weinrebe:** **Schwarzholzkrankheit  
+						- Ulme, Palme, Zuckerrohr: Vergilbung  
+					- Übertragung: Vektor  
+					- phloemsaugende Insekten (Zikaden)
+					- Bekämpfung = noch unklar Züchtung resistenter Sorten? Bekämpfung der Vektoren? Antibiotika?
+		- Humanpathogene Bakterien:
+			- Gesundes [Humanes Mikrobiom](Humanes-Mikrobiom.md)
+			- Phasen der Besiedlung:
+				- 
+			- Ausgewählte Vertreter: 
+				- Gram-negativ:
+					- [Legionella pneumoniae](Legionella-pneumoniae.md)
+					- [Helicobacter pylori](Helicobacter-pylori.md) __ __ 
+			- Gram-positiv: ____ 
+				- [Bacillus anthracis](Bacillus%20anthracis.md)
+				- Gattung __ __ [Clostridium](Clostridium.md)
+				- Antibiotikaresistenz
+					- Mikrobielle Antibiotikabildung in der Natur
+						- als Abwehrmechanismus
+						- Resistenzgene:
+							- oft auf R-Plasmide lokalisiert:
+								- horizontaler Gentransfer der Resistenzplasmide möglich
+								- ausgedehnter Einsatz von Antibiotika (in Humanmedizin, Landwirtschaft, …) fördert die Ausbreitung von R-Plasmiden mit Antibiotikaresistenz
+							- z. B. β-Lactamasen
+							- 
+						- manche Mikroorganismen sind bereits gegenüber allen bereits bekannten Wirkstoffen resistent, sog. "superbugs":
+							- Staphylococcus aureus:
+								- MRSE: Methicillin-resistent
+								- ORSA: Oxacillin-resistent
+								- VISA: Vancomycin-intermediär
+							- weitere Beispiele:
+								- Enterococcus faecalis
+								- Mycobacterium tuberculosis
+								- Pseudomonas aeruginosa
+								- Klebsiella pneumoniae
+	--------------------- Portal ---------------------
+-- Avoided infinite recursion --                     - Porine #Stub
+			- Spezielle integrale Membranproteine gramnegativer[Bakterien](Bakterien.md), die deren äußere Membran permeabel machen
+		- Periplasma #Stub
+			- Raum zwischen Zellmembran und äußerer Membran bei gramnegativen [Bakterien](Bakterien.md)
+		- Konjugation #Stub
+			- Genaustausch von [Bakterien](Bakterien.md) über Plasmid
+		- Protoplasten #Stub
+			- Bezeichnung für den von der Zellwand eingeschlossenen Teil der Zelle bei [Bakterien](Bakterien.md), [Pflanzen](Pflanzen.md) und [Pilze (Fungi, Mycota)](Pilze-(Fungi,-Mycota).md)n
+	--------------------- Portal ---------------------
+		- Konjugation #Stub
+			- Genaustausch von [Bakterien](Bakterien.md) über Plasmid
+		- Periplasma #Stub
+			- Raum zwischen Zellmembran und äußerer Membran bei gramnegativen [Bakterien](Bakterien.md)
+		- Porine #Stub
+			- Spezielle integrale Membranproteine gramnegativer[Bakterien](Bakterien.md), die deren äußere Membran permeabel machen
+-- Avoided infinite recursion --                 - 
+- Archaea
+	- ![](https://remnote-user-data.s3.amazonaws.com/ph0ieJoPe6rjj-OJsdj6EjqYz63FhmHGeWq7zONQi_Y3aCtOj3NtvJwOcsN6RvhUQzZdLRj9k7kE1F0jujcaOZzDmlweG7SOTjuwVwdrlJnI1xT5CjfwWFBmKhv4VJGY)  ![](https://remnote-user-data.s3.amazonaws.com/n736a_HDeBTkheA9POKlyd0x75abtSt-NfINpfBiNgNgbYrW9mjRtCT9KhE0ULi0A0Nt6MIPUSlCWCDX7khPYDYBHBkxGWXtLsxn3f9RykONSUce-yUQnwtIKmGfNu6b)                        Tabellarischer Kurzvergleich                                                                                                                                                                                                                                                                                                                                von Bakterien mit Archaea  
+	- einzellige Mikroorganismen
+	- neben Bacterien und Eukaryoten eine der drei Domänen, in die alles celluläres Leben kategorisiert wird
+	- Prokaryoten
+	- Untersuchung und Entdeckung
+		- Verwandschaftsermittlung via Vergleich vollständig sequenzierter Genome
+		- Unterteilung der Archaea aus phylogenetischer Sicht in Euryarchaeota & Crenarchaeota
+	- Struktur
+		- Zellmembran
+			- Etherbindungen zwischen Glycerin und Seitenketten $$ \rightarrow $$ Höhere Stabilität als Esterbindungen (Bakterien)
+			- Seitenketten: Isopropen$$C_5 $$$$ \rightarrow $$ Kohlenwasserstoffe (Bakterien: Fettsäuren)
+		- Zellwand
+			- Pseudopeptidoglykan = Pseudomurein
+				- besteht aus:
+					- N-Acetylglucosamin
+					- N-Acetyltalosaminuronsäure  
+					- verbunden über eine β-1,3-glykosidische Bindung = Lysozym-resistent
+			- ** **Pseudopeptidoglykanstränge sind über Peptide miteinander quervernetzt  NAT   
+			- hohe Festigkeit der ZW durch stabile ß-1,3-glykosidische Bindungen & hoher Grad an Quervernetzungen zwischen mehreren Schichten
+			- oft nur S-Layer (Surface-Layer)
+			- besteht aus einem einzelnen Protein oder Glykoproteintyp
+			- Proteinmonomere bilden Schichten aus symmetrischem Gitter zu kristalliner Schicht aus
+			- kann äußerster oder einzigster Zellwandbestandteil sein
+			- unterschiedliche Funktionen: Formbildung, Schutz vor schädigenden Umwelteinflüssen oder Phagozytose
+			- Archaea ohne Zellwand:
+				- Zellmembran: besteht aus **Lipoglykan** & ein Monolayer$$ \rightarrow $$ hohe Stabilität
+				- Ferroplasma
+				- Thermoplasma
+	- Bewegung
+		- Geißeln
+			- Bewegung durch** Rotation**
+			- dünner als bakterielle Geißeln
+			- keine Verwandtschaft  mit bakteriellem Flagellin
+			- anderer Geißelmotor als [Bakteriengeißeln](Bakteriengeißeln.md) (protonenmotorische Kraft): Energie kommt direkt von [ATP](ATP.md)
+	- Viren der Archaea
+		- DNA-Viren (meist ds DNA)
+		- enorme Diversität
+		- spindelförmig (**SSV**= Sulfolobus spindelförmiges Virus)
+		- stäbchenförmig/filamentös (**SIFV **= Sulfolobus islandicus filamentöses Virus)
+		- Viren mit „Köpfchen“ &  „Schwänzen“ wie Bakterophagen
+		- wenig über Replikation und Evolution bekannt 
+	- Extreme Habitate:
+		- Archaea besiedeln oft extreme Habitate ( _ Extremophile _ )
+		- Wegen ihrer Zellwand (enthalten Pseudopeptidoglycan) können sie die extremen Verhältnisse überleben
+		- Aquatische und terrestrische Ökosysteme
+		- Extreme Lebensräume (zumeist, aber nicht nur):
+			- Hyperthermophil, Psychrophil (Heiß bzw. Kälteliebend)
+			- Extrem Halophil
+			- Acidophil, Alkaliphil
+			- Methanogen (anaerob)
+		- Hyperthermophile Archaea
+			- meist anaerob
+			- optimale Wachstumstemperatur: $$ >80°C $$, oft $$ >100°C $$
+			- Oft [Chemolitotroph](Autotrophie/Chemolitotroph.md)
+			- Habitate:
+				- Thermalquellen
+				- heiße Meeresströmungen
+				- Hydrothermale Schloten
+			- ·  Proteine mit spezieller Struktur$$ \rightarrow $$ Schutz vor Hitzedenaturierung, Industrielle Bedeutung  
+		- Acidophile Archaea
+			- Habitate:
+				- Extrem sauere Lebensräume: Minenabwässer, …
+				-  __Sulfolobus:__  Wachstum bei 50-60 °C, pH 2-3, oxidiert $$ Fe^{2+} $$ zu $$ Fe^{3+} $$  
+				-  __Picrophilus torridus__ : Wachstum bei 60 °C, pH 0.7 (kein Wachstum > pH 4)
+			- zellwandfreie Archaea: (acidophile)
+			- Thermoplasma: thermophil (55°C)
+			- Oft[Chemoorganotroph](Autotrophie/Chemoorganotroph.md)  
+			- in Kohlehalden zu finden
+			- Ferroplasma:
+				- mesophil (35°C)
+				- Oft[Chemoautotroph](Autotrophie/Chemoautotroph.md)  
+				- aufzufinden in Bergwerken mit Pyrit (auch „Katzengold“), weil es $$ Fe^{2+} $$ zu $$ Fe^{3+} $$   oxidieren kann
+		- Extrem Halophile Archaea: Haloarchaea
+			- meist aerob
+			- hoher Salzbedarf: $$ 9\%-32\% $$ (Meer: $$ \approx 2.7\% $$)
+			- häufig  zusätzlich  alkalophil: __ __  pH-Optimum $$ \approx10 $$
+			- Wassergleichgewicht:
+				- Anhäufung von Kalium in der Zelle$$\rightarrow $$ Ionen werden aus Umgebung ins Zytoplasma gepumpt und bilden zum Natriumchlorid außerhalb der Zelle einen Gegenpol (z. B. Gattung  __** **__  __Halobacterium__  __** **__ (Kein Bakterium, sondern gehört zu den Archaea!))
+				- Bildung  __kompatibler Solute__ : gelöste Stoffe werden in der Zelle angehäuft/gebildet und der Dehydrierung der Zelle bei hohem Salzgehalt entgegenwirken****
+				- Bakteriorhodopsin:
+					- [ATP](ATP.md) kann über die Nutzung von Licht gebildet werden; bei geringem Sauerstoffgehalt wird ein Membranprotein (Bakteriorhodopsin) gebildet – aber keine Photosynthese, weil kein Chlorophyll involviert ist
+			- Habitate:
+				- hypersalin:
+					- Salzseen
+					- Salinen
+					- …
+		- Methanogene Archaea
+			- obligat anaerob
+			- Methanogenese
+				- Bildung von Methan durch Reduktion
+				- Nur Archaea können Methan bilden (Bakterien können nur das entstehende Methan nutzen ([Methanotroph](Autotrophie/Methanotroph.md)))
+				- Acetoklastisch: heterotroph:$$CH_3COOH \longrightarrow CO_2+CH_4 $$  
+				- Methylotroph: heterotroph: methylierte / methoxylierte Verbindungen
+				- Hydrogenotroph: autotroph: $$ CO_2 + 4\space H_2 \longrightarrow CH_4+2\space H_2O $$ + 4 $$$$$$ \longrightarrow $$ $$ CH_4 $$ + $$ 2\space H_2O $$
+				- Nickel für Methanbildung erforderlich (vermutlich zur Aktivierung von Enzymen)
+			- Habitate:
+			- Faultürme, anaerobe Sümpfe
+			- symbiontisch im Verdauungstrakt von Wiederkäuern und anderen Tieren (Termiten)
+			- Methanogenese: __**   **__ $$> 80\%$$ des Treibhausgases
+			- wird z. B. in der Biogasgewinnung genutzt
+	- Pathogene** **Archaea
+		- Kein Hinzweis auf humanpathogene Arten
+		- Vorkommen:
+			- Haut
+			- Darm
+			- Mund
+			- Bauchnabel
+			- Vagina
+		- Korrelation zw. Erkrankung & Anzahl methanogener Archaea
+			- Zahnfleisch (Parodontitis)
+			- Darmkrebs (erhöhte Menge an Archaea)
+- Eukaryoten
+- Die Eukaryotische Zelle
+	- ![](https://remnote-user-data.s3.amazonaws.com/XPyHRpWiXfoioTRWuH6w9-j3JnrMBoe8VZRDDL-Ug7weyiUmieVWfaXHRR6Mx10FOkrp8WCrWxdE5neQ-Xb23bHOiF4F90g7tn2wExeIvibGxb16AI3uVlKYEX7o4349)  
+	- Struktur:
+		- Zellwand
+		- Zellmembran
+		- Zellkern:
+			- Kernmembran
+			- DNA in Chromosomen
+		- Andere Organellen & Strukturen:
+			- Mitochondrien, ER (Endoplasmatisches Retikulum), Golgi-Apperat
+			- Lysosomen (lytische Enzyme), Peroxysomen
+			- Vakuolen, Lipidtropfen
+			- Mikrofilamente, Flagellen
+- Pilze ( __Fungi__ ,  __Mycota__ )
+	- Größe
+		-  __Saccharomyces cerevisiae__  (Bäckerhefe): $$ \approx5.5\cdot10^{-6}m $$ lang
+		-  __Armillaria bulbosa __ (Hallimasch):
+			- größte Lebewesen der Welt
+			- Mycel bedeckt ca. 15 Hektar ($$ \approx 10\cdot10^3kg $$)
+	- Wuchsformen
+		- Hefen (einzellig)
+			- Sprosshefen
+				- Vermehrung durch Knospung (Sprossung) an Mutterzelle
+				- bspw.  __Saccharomyces cerevisiae__ 
+			- Spalthefen
+				- Zweiteilung der Mutterzelle
+				- bspw.  __Schizosaccharomyces__ 
+		- Filamentöse Pilze
+			- bilden Mycel.
+				- besteht aus Hyphen
+				- Wachstum durch Verlängerung der Hyphenspitze
+				- Substratmycel (z.B. Hausschwamm dringt direkt ins Holz ein)****
+				- Luftmycel wächst in den Luftraum (z.B. Schimmelpilze)
+	- Zellmembran wird von Ergosterol stabilisiert
+	- Zellwand
+		- $$ 80\%-90\% $$ Polysaccharide
+			- Hauptkomponente [Chitin](Chitin.md)
+		- restliche $$ 10\%-20\% $$ sind Proteine, Lipide, Polyphosphate, anorganische Ionen (verleihen Chitingerüst Stütze)
+		- häufig Melanin als Pigment eingelagert
+	- Vermehrung
+		- Asexuelle Vermehrung (vegetativ, anamorph)
+			- dient der Massenproduktion
+			- verläuft schnell
+			- Genmaterial ist identisch
+			- Sporen werden gebildet, sind widerstandsfähig gegen Austrocknung
+			- Sprossung
+				- bei Sprosshefen
+				- 
+			- filamentöse Pilzen
+				- ** **Hyphenteilung  
+				- Sporenbildung
+					- Am Beispiel  __ Fungi imperfecti __  ( __ Penicillium, Aspergillus __ )
+						- an Grenzflächen entstehen unter Lichteinfluss Sporenträger ( __Konidiophoren__ )
+						- diese produzieren Sporen ( __Konidiosporen__ )
+						- widerstandsfähige Sporen können jetzt mögliche ungünstige Bedingungen überdauern, sofort sprießen oder werden vom Wind davon getragen und verbreiten so den Pilz
+						- Dieser Prozess kann sehr schnell geschehen, da die Sporenbildung über Mitose erfolgt
+						- zum Beispiel:
+							-  __Fungi imperfecti __ hat keinen sexuellen Fortpflanzungszyklus
+							- Gesundheitsrisiko bei Befall von z.B. Wänden mit  __Aspergillus__  im Haus, da Aflatoxine gebildet werden
+		- Sexuelle Vermehrung (teleomorph)
+			- ![](https://remnote-user-data.s3.amazonaws.com/YIykDBR0xpHLWl-DfPJJlLBDr7qDWTemP5sU3xuJ0hwk0XvhtDZABwRoPVOJbAROVA0Aa36KGZ-px-DeVldLT4v6qz-8cGETiAEV5cfUBuoh6eRExKnumEh_QLPPctAA)  
+			- Genetische Rekombination durch Meiose$$ \rightarrow $$ Erhöhung der genetischen Vielfalt$$ \rightarrow $$ Anpassung an neue Umweltbedingungen 
+			- Am Beispiel  __Neurospora crassa __ ( __Ascomytes__ )
+				- Entwicklung  geschlechtlich verschiedener Gametangien (Zellen) aus Mycel:
+					- Weiblich: Ascogonien:
+						- rund
+						- mehrkernig
+						- mit Trichogyne (Empfängnis Hyphen)
+					- Männlich: Antheridien:
+						- keulenförmig
+						- mehrkernig
+				- Trichogyne umschlingt Antheridium und überführt dessen Zellkern und Plasma in Ascogon
+				- Cytoplasmaverschmelzung
+				- Kernverschmelzung
+				- Meiose in Asci (liegen in Fruchtkörpern)
+				- Mitose  
+				- Ascus mit 8(16, 32) Ascosporen, die auskeimen können (geschl. Zellen)
+	- Metabolismus
+		- Pilze sind [Chemoorganotroph](Autotrophie/Chemoorganotroph.md):
+			- meist aerob
+			- Energiequellen:
+				- Kohlenhydrate
+				- Fette
+				- Aminosäuren
+			- Reservestoffe: Glycogen, Lipide, Trehalose
+			- Produktion von Exoenzymen:
+				- bauen komplexe Substanzen ab**:** 
+					- Braunfäule Pilze: Celluloseabbau
+					- Weißfäulepilz: Ligninabbau
+			- Sekundärstoffwechsel:
+				- Bildung von Antibiotika (Penicillin, Cehalosporin…)
+				- Bildung von Aflatoxinen u.a. Pilzgiften
+		- Saprotroph (saprophytisch):: Abbau von totem organischen Material
+		- Symbiontisch:
+			- [Flechten](Flechten.md)
+			- [Mykorrhiza](Mykorrhiza.md) __ 
+		- Parasitär
+			- z.B.: [Nemathophage Pilze](Nemathophage-Pilze.md)
+	- Pathogene Pilze
+		- Phytopatogene Pilze
+			- große Wirtschaftliche Bedeutung: $$ 15\%-25\% $$ Ertragsverlust
+			- Infektion:
+				- Oberfläche, Stomata, Wunden
+				- aktiv über inaktive Blattoberflächen in der Pflanze: Apressorium (Penetrationshyphe)
+				- Eindringen durch inaktive Zellwand:
+					- Enzyme:
+						- Pektinasen
+						- Cellulasen
+			- Ausbreitung in der Pflanze:
+				- Aktives Wachstum zwischen den Zellen (interzellulär), in den Zellen (intrazellulär) & in Leitbahnen
+				- zur Nahrungsaufnahme werden Haustorien (einzelne Hyphen, die durch die Zellwand eindringen und Nährstoffe und Wasser aus der Pflanze aufnehmen) in angrenzenden Zellen entsandt 
+			- Übertragung:
+				- Von Pflanze zu Pflanze:
+					- durch aktives Wachstum (Wurzelpilze)
+					- durch Vehikel:
+						- Wasser (Regen, Bewässerung)
+						- Wind
+				- Überwinterung der Pflanze
+				- Überdauerndes Mycel: auf Pflanzenrückständen im Boden (Fußkrankheiten des Getreides)
+				- Sporen in und an Saat- und Pflanzgut (Getreidesteinbrand)
+				- [Sklerotien](Sklerotien.md) (z. B. Mutterkorn)
+				- Dauersporen (z. B. Kartoffelkrebs)
+			- Symptome:
+				- Äußerlich sichtbar
+					- Welkeerscheinungen (Wurzelbefall: Fußkrankheiten)
+					- Blattverfärbungen, Flecken (Blattfleckenkrankheit der Rübe)
+					- Absterbe-Erscheinungen, Fäulnis (Knollenfäule der Kartoffel)
+					- Formveränderungen (Kartoffelkrebs)
+					- Ausscheidungen („Honigtau“: Mutterkorn)
+				- Äußerlich nicht sichtbar (= gefährlicher)
+					- Mycel in Gefäßen der Pflanze
+					- [Sklerotien](Sklerotien.md) im Inneren von Stängeln
+					- Physiologische Veränderungen
+			- Bekämpfung:
+				- Resistenzzüchtung
+				- Einsatz von Fungiziden
+			- Beispiele:
+				-  __Phytophthora infestans __ (Kraut- und Knollenfäule)
+					- ![](https://remnote-user-data.s3.amazonaws.com/NnMC4D-bXHHtnZu8PlfzMHW551nZx1YJXPzBBU5t8p2jHhWnYCSoq_JfQFa2b687vwASJYn6bZMkCa71PetAeuT46RRIhSuIWM-Q9sEueCOm3japLd8ezzASCTQYlmOL)![](https://remnote-user-data.s3.amazonaws.com/6XSZAX7vdmX_mipvWiYqJEhWh-CaHffekRqouT92Bl_iMS-udLx7j2q_ctwNwJD5BU7LRKddIId7NMMpEo1m_nwDXzJTdI6rYor6Jt-F_SEPdRSVnhW-LYVPSvgeuvbt)![](https://remnote-user-data.s3.amazonaws.com/CYTTXfSJzd9LljF5-D-xUsOBN_9y7fRzs8ZgvQ1GNnmTD40bquMsTNEDJ07UVoQY_39mtAhMY5Xl5vrVEkMqvos8n5KJBxvHioq3YHNWWtdeGDw57m-EdFwlx90EHXMc)
+				-  __Synchytrium endobioticum__ (Kartoffelkrebs)
+					- ![](https://remnote-user-data.s3.amazonaws.com/p-PN-Gz8I7xXoGiX3zRe5zkMGrpjdckSOhtqaaZsEZXzudcvDmO958B7JcggEO0qrb4uQvz85UJfkM8RU3Fd6ukS2gV1ZR-mPhmZdNxIYx9MTPBaGQHezG16myS8ZdOV)![](https://remnote-user-data.s3.amazonaws.com/_VZz5ypP-OhIiXugo4hWYMX73dRPER9mLr8NTrMG8MyIKUs6HAaZFjRXT2SfYoWgauB_3CQQ_ajDeLU7ZhaERgNTV6TqB_riN_cO19IsIOIxXzrkxIFCbAhkExhcM7bk)
+				-  __Blumeria graminis __ (Echter Mehltau)
+					- ![](https://remnote-user-data.s3.amazonaws.com/YXair001SX3v9-7SjiU9u_lYsI7JkrjxzL3iS3JMblENaOodfirPXgkrOijhG9Zn5NW-lEzD73Ogha4uOwuAxFcuVYzNip5J1G5dfR6vlXgIyyEeXlxyu44d4K0NtUTj)![](https://remnote-user-data.s3.amazonaws.com/EV9Ecm1Dx40gp_CpBqGFBcgdgz0nrMrPTzPAO7wTvgLYDqNq7bnaBZsNXQjebWInnZwuHPWbNiCEnFUgMCCauRE7qydj5u9ToSsOIGg1TTSLcGT2GpkB1-8vmhwRRqFj)![](https://remnote-user-data.s3.amazonaws.com/3Ds2H0GK7kE2j03i4WAENJTwZ8p31fT1QfPggTC54bw346UiTndIax91ew5UNvZmv6xyI5taxbse8YCdGPGIBDFgeFYP2Y5LUK1eBwAQOWJ1MQ6b_Dv3VJLy8tV76IeP)
+				-  __Botrytis cinerea __ (Grauschimmelfäule)
+					- „Edelfäulepilz“
+					- über 200 Wirtspflanzen
+					- besondere Bedeutung im **Weinbau** durch **Edelfäule **  
+					- Übertragung über Konidien mit Wind
+					- Überwinterung als Mycel im Boden in der faulenden Pflanze
+					- löst **Apoptose in befallenem Gewebe aus** à **Fäulnisbildung**  
+					- Parasit
+				-  __Venturia inaequalis __ (Apfelschorf)
+					- ![](https://remnote-user-data.s3.amazonaws.com/XyKbvp7a-qea4Fb30aSVG6HnkwS0Yz6VgQatG6EZt6gwvK_PIbkWzCe_49kAIO17Ii0lc66SLgYPTrMV-pd3_DPxFFKts2fSI-7p-MSJwnzsisEVYhBQlPKM9a4yr-5d)![](https://remnote-user-data.s3.amazonaws.com/cQ7c8oQJ0t0Bc1B5B92aRfp_5xUJtSY_zTsrFv7X9sV1jWmK10kQict63fuVzWS9imrDuqruYmFbIx9Ps12vhLS3yNHeKtBPqBGNgLTRAch1Rt3BQk12ck-dLSaQUpmh) 
+				-  __Claviceps purpurea __ (Mutternkorn)
+					- ![](https://remnote-user-data.s3.amazonaws.com/Ql6wR6ekMXir36T6powuLSHpaKT_m1Mc3LbbbvWNP2zxCQ6TAhPLYXXHrcSeww4k-yRdWkvhnkFeB85TMd0M0sTTCwRX-3EpGHyoZCtjSV4B9I4_-J77Fz3yuilZ4pqc)![](https://remnote-user-data.s3.amazonaws.com/c1yL2BzoncST9FcE-d_hcJADEZxOODAVaX5cVzcJqip3cHPt55RNDx1FfaIQWijt3zW14tr6VDXAhRTddzOsiJ04GiYTeimE52RdslcApDLE5PSkG5n89bfHPTavC5xw)![](https://remnote-user-data.s3.amazonaws.com/saLjTvf-j4UWouCFcRFm3M6f_tCS6Pu4rfPWvAwhq4d8FQAORsyoeBAl2nHxDxuXTw1ICDv_JIrKeB5s4yntP4VkpbDU1oCMSesHgEqeOO_t8MsqpclRQrrnNwNmPN9A) 
+		- Entomopathogene Pilze
+			- Befallen Insekten
+			- werden für biologische Schädlingsbekämpfung verwendet:
+				-  __Beauveria brongnartii: __ Maikäfer
+				-  __Beauveria bassiana: __ Weiße Fliege
+				-  __Verticillium:__  Weiße Fliege
+				-  __Metharhizium anisopliae: __ Käfer
+		- Humanpathogene Pilze
+			- Mykosen
+				- Primäre Mykosen
+					- direkte Infektion mit pathogenen Pilzen
+					- selten
+					- z.B. Lungenmykose
+				- Opportunistische Mykosen
+					- als Sekundärinfektion
+					- bei bestimmten Antibiotikatherapien
+					- häufig
+					- Erreger:
+						- Hefen ( __Candida__ , __ Cryptococcus__ )
+						- Filamentöse Pilze ( __Aspergillus fumigatus__ )
+- Schleimpilze( __Mycetozoa__ )
+	- phänotypische Ähnlichkeiten mit Pilzen und mit Protozoen
+	- Lebenszyklus: Fruchtkörper mit Sporen, welche auskeimen und amöboid werden
+	- amöboide Bewegung über feste Oberflächen rasch möglich
+	- oft saprophytisch, auf zerfallenem Pflanzenmaterial   (auf totem Laub, im Boden, etc.)
+	- Azelluläre Schleimpilze (Myxomycota)
+		- Vielkernige Gesamtzelle:
+			- Plasmodium
+			- kann während Bewegung Nahrung aufnehmen
+		- amöboide Bewegung aufgrund Cytoplasmaströmung
+	- ·   __ Beispiel: Physarum __ (Gattung)
+	- Zelluläre Schleimpilze ( __Acrasiomycota__ )
+		- Masse aus Einzelzellen  
+		- bilden [Pseuodplasmodium](Pseuodplasmodium.md)  
+		- Bsp.  __Dictyostelium  __ (Gattung)
+- Mikrobielle Ernährung
+- Mikrobielle Umweltansprüche
+- Mikrobielles Wachstum
+- Wachstumshemmung und Tötung von Mikroorganismen
+- Ökologische Bedeutung von Mikroorganismen
+- Gewässermikrobiologie
+- Bodenmikrobiologie
+- Stoffkreisläufe
+- Symbiosen
+- Biofilme
+- Mikrorganismen in Lebensmitteln
+- Lebensmittelverderbnis, Lebensmittelvergiftungen
+- 
+- Viroide
+- keine Viren, kleinste selbst vermehrende Biomoleküle der Welt
+- Genom
+	- ringförmige ssRNA
+	- enthält keine proteincodierenden Gene
+- Struktur
+	- nackte DNA
+	- kein Kapsid
+	- keine Hülle
+	- resistent
+- Replikation
+	- Phytopathogen:
+		- dringen durch Wunde (keine Möglichkeit, die Zellmembran zu durchdringen) in Pflanzenzelle ein
+		- werden durch zelleigene Organellen repliziert
+- Prionen
+- **Pr**oteinaceous **i**nfectious particle  (Proteinhaltiges infektiöses Partikel)
+- keine NS, nur Protein (Gegenstück zu [Viroide](Biologie-Bachelor/Mikrobiologie/Viroide.md)n)
+- Pathogen: Tiere, Menschen $$ \rightarrow $$ letale (100% Mortalitätsrate) Hirnerkrankungen (ZNS)
+- Beispiel:
+	- TSE
+		- **T**ransmissable **s**pongiform **e**ncephalopathy
+		- Schaf, Ziege: Traberkrankheit
+		- Rind: bovine spongiform encephalopathy (BSE/Rinderwahn)
+		- Mensch: Kuru, Fatale familiäre Insomnie, Creutzfeld-Jacob-Krankheit (CJD, nvCJD)
+- Wirkungsweise
+	- Fehlfaltung des Nervenzellenglykoproteins $$ PrP^c $$ (**Pr**ion **P**rotein **c**ellular) $$ \rightarrow PrP^{sc} $$  (**Pr**ion** P**rotein **sc**rapy)
+	- ![](https://remnote-user-data.s3.amazonaws.com/U-nPwPdP_gSw-dm6NBygHIzmUbbuFQ21GFR9asZEsranhbOWjYvsMSsv-Iz0DXyGdx7O64Pjf3UDX8ESV32teEl-6HhWK7buBBkwlieYvam2rpbMq3PtWAPKbgugYN_Z)   __links: __ $$ PrP^c $$ ;  __rechts: __ $$PrP^{sc} $$                                                               der β-Faltblatt Anteil von $$PrP^{c} $$ liegt bei ca. 3%, der von $$PrP^{sc} $$ bei 43%                                                           $$               \rightarrow $$ hohe Resistenz von $$PrP^{sc} $$ gegen Denaturierung durch Hitze, Säuren oder Laugen 
+	- ![](https://remnote-user-data.s3.amazonaws.com/QxhcsLiTnG0mIXqGiHpodfNmSVy2OLUJAKt_fykaf01wJC9xxxBuhvz9q3tWcazGy6jIDMEle7PDf3ZZyw0HYZjL9h_38kiPomxMzdY51tptCvoHjDtbLbd_E0btLKER)                                                                                                           $$$$Die Präsens von$$PrP^{sc} $$ beschleunigt die Umwandlung von $$PrP^{c} $$ zu $$PrP^{sc} $$ , löst somit also eine Kettenreaktion aus, durch die fast nur noch $$PrP^{sc} $$ gebildet wird
+	- Wirtsreaktion
+		- keine Immunantwort
+		- keine entzündlichen Reaktionen
+		- keine Antikörperbildung
+	- Diagnostik: 
+		- früher erst post mortem
+		- heute in vivo
+- Übertragung:
+	- Infektion: 
+		- Oral: Rindfleischprodukte
+	- Übertragung:
+		- Mensch zu Mensch
+		- Experimentell: Nagetiere, Schafe, Ziegen, Affen, …
+- Mikrobielle Ernährung:
+- Nährstoffansprüche
+	- ![](https://remnote-user-data.s3.amazonaws.com/yNFP8X2TTer1Gr54nBeHIWeMUl2mUmA8JisSinmgcJ9-8FhtDkYa6SFpgLjXMlYl9059jzAkrGuUy2_hAve1Wc8D8p4WVWJn4SC8oVIBCr_cd8SDkL0qxH-7sk3S0cUw)Durchschnittlicher Nährstoffbedarf moderner Mikroorganismen nach Elementen
+	- Elementare Nährstoffansprüche
+		- ![](https://remnote-user-data.s3.amazonaws.com/E50KFYznECoqVktAC1fm2hZkojss_62IhmaNaiqk9yK3TtNnJwmU3gnuYXWeMmGs72Te_aO9JUgis7Gh9oSmJB7oo1EMZNG-GUdFE_2DnjOnJpQ3cnO12ZCIfh1ghIlH)
+		- Makronährstoffe(11 Elemente)
+			- C, O, N, H
+			- P, S, K, Ca, Mg, Cl, Fe
+		- Mikronährstoffe
+			- Spurenelemente** **  
+			- werden nur in Spuren benötigt, nicht von allen Organismen
+			- meist Bestandteile von Enzymen, welche bei der Umsetzung von organischen/anorganischen Stoffen beteiligt sind
+			- B, Cr, Co, Cu, Mn, Mo, Ni, Se, W, V, Zn
+	- Ergänzungsstoffe
+		- zum Aufbau der Zellsubstanz) 
+		- Wachstumsfaktoren = Suppline (organische Verbindungen)
+		- Vitamine: Folsäure, Biotin, Cobalamin, Ribolavin, Thiamin, …
+		- Aminosäuren, Purine, Pyrimidine
+- Ernährungstypen
+	- ![](https://remnote-user-data.s3.amazonaws.com/N36HYvZoWYnZ5HILeqtiE_f2YD9aBEkEsMky0dt9exNMIIdGznNVKv7xhGukmIKUu1tWja5e9oJq8keietIfWhWdhe1JK1wPpHbHOTwBuUW0O2TYaMNS5AmABDpvDThM)
+- Fünf große Umweltansprüche
+	- Sauerstoffbedarf
+		- Überlebensnotwendig::  __obligat aerob__ 
+		- Positive Wirkung::  __fakultativ aerob__ 
+		- Spezielles Bedürfnis $$ O_2 $$ mit geringem Partialdruck::  __mikroaerophil__ 
+		- Irrelevant::  __aerotolerant__ 
+		- Tödlich::  __obligat anaerob__ 
+		- Experiment:
+			- ![](https://remnote-user-data.s3.amazonaws.com/ZvOUlOQxMWxNorl7vkRK0W4LcqpzEmNvo6Ts6WYlAvuGBGsdv9Kjkt6bvdLCBdFaDyQjqOV8pRttYkGwoFV7FX3oHj5ow81U_AE5ebi7A-n5VI-Van6nXTH5_cz0PdQN)![](https://remnote-user-data.s3.amazonaws.com/4bqs2KAr8fXYqr--u5NDPa7L5nrzsa2CrtY6VFwlezscmvlBWM88e-9u3IJKuJiLz78P-6TxLx36pAsD-QYHp0ctHEgvgpYu30W7dAGhsg4QAhsMOfyRYfv1DdXaJiSj)  
+			- dunkle Punkte sind mikrobielle Kolonien
+			- a): Mikroorganismen sammeln sich im sauerstoffreichen Bereich  __obligat aerob__ 
+			- b): Mikroorganismen sammeln sich im sauerstofffreien Bereich  __obligat anaerob__ ;** **Sauerstoff ist für diese Mikroorganismen toxisch
+			- c): Mikroorganismen können zwar unter anoxischen Bedingungen wachsen , aber unter sauerstoffreichen Bedingungen ist ihr Wachstum optimiert:  __fakultativ aerob__ 
+			- d): Mikroorganismen benötigen Sauerstoff mit geringerem Partialdruck, weswegen sie sich in unmittelbarer Nähe der oxischen Zone sammeln:  __mikroaerophil__ ** **  
+			- e): Mikroorganismen tolerieren Sauerstoff und wachsen unter oxischen und anoxischen Bedingungen gleich gut:  __aerotolerant__ 
+	- Temperatur
+		- Spezielle Temperaturvorlieben
+			- Psychrophil:: $$ 0-28°C $$
+			- Mesophil:: $$ 29-45°C$$
+			- Thermophil:: $$ 46-70°C$$
+			- Extrem Thermophil:: $$ 71-90°C$$
+			- Hyperthermophil:: $$ 90-120°C$$
+		- Kardinaltemperaturen
+			- $$ T_{min} $$:: Minimaltemperatur, bei der ein spezieller Organismus überleben kann
+			- $$ T_{opt} $$:: Optimaltemperatur für einen spezieller Organismus
+			- $$ T_{max} $$:: Maximaltemperatur, bei der ein spezieller Organismus überleben kann
+			- keine Zelle kann über die gesamte Temperaturskala existieren
+			- Kardinaltemperaturen definieren den     „maximalen ertragbaren“ Temperaturbereich, indem ein Bakterium leben kann
+		- Optimumskurve
+			- ![](https://remnote-user-data.s3.amazonaws.com/7Vzqniy05ncbdWhey-TmOq3xZpQtGMafomhf60H3RMfu34JhUPghDDxP4oyEZsqxnbTb7EkHvZn1ZEw4i22dNxU6ZJ-qNnUMMzzRig8nlws3WkWQqcA_afElbKgxE6ds)
+			- mit zunehmender Temperatur steigt die Reaktionsgeschwindigkeit (RGT-Regel) drastisch an, bis das Optimum erreicht ist. An diesem Punkt beginnt die irreversible Hitzedenaturierung der Enzyme und somit der Funktionseinbruch der Zelle
+	- Der pH-Wert
+		- Pufferung von Nährmedien
+		- Homöostasis
+		- die meisten MO gedeihen am besten bei neutralem pH-Wert  
+		- alkaliphile MO bevorzugen basisches Milieu
+		- acidophile MO bevorzugen saures Milieu
+		- es wird zwischen dem pH-Wert außen und innen unterschieden
+			- der innere pH-Wert von MO muss ungefähr stabil bleiben, damit sich Moleküle im Inneren nicht zersetzen
+			- die  Spannweite der äußeren pH-Werte, in welchen die MO wachsen können, können hingegen größer sein und sich vom inneren pH-Wert unterscheiden
+		- Regulationsmechanismus des inneren pH-Werts (Homöostasis)  
+			- aktive Homöostase
+				- wenn Toleranzbereich überschritten wird, greifen Ionentransportsysteme ein, die den intrazellulären pH-Wert in einem gewissen Bereich halten
+				- acidophile MO pumpen bei einem zu sauren pH-Wert in der Zelle Protonen aus der Zelle, um den pH-Wert innen zu erhöhen  
+				- alkaliphile MO können Protonen in die Zelle pumpen, um den intrazellulären pH-Wert zu senken
+	- Wasseraktivität
+		- Wassergehalt: wie feucht/trocken ist es
+		- Osmotischer Wert: Salz, Zucker, …
+		- Wasseraktivität & Reaktion in der MO darauf spielt bei Lebensmittelkonservierung eine wichtige Rolle
+			- Konservierung durch Trocknung, Zuckerzusatz
+		- Zuckergehalt
+			- Osmotolerant:: Wachstum unterhohem oder niedrigem Osmotischen Druck möglich
+			- z.B.:
+				- Aspergillus
+				- Penicillium
+		- Salzgehalt
+			- Meerwasser $$ \approx3\%NaCl $$
+			- Halotolerant:: kann bei hohem oder niedrigem Salzgehalt wachsen
+			- Halophil:: benötigt Salzkonzentrationen zwischen $$ 1-15\%NaCl $$
+			- Extrem Halophil:: benötigt Salzkonzentrationen zwischen $$ 16-30\% NaCl $$
+		- Wachstum bei niedriger Wasseraktivität
+			- Kompatible Solute:: organische Verbindungen von geringer molarer Masse, sind bei physiologischem pH-Wert elektrisch neutral, aber polar und zeichnen sich durch eine hohe Löslichkeit in Wasser aus
+			- Synthese durch MO oder Anhäufung aus der Umgebung
+			- Organische Verbindungen synthetiesiert
+			- Zucker, Zuckeralkohole, Polyole, Aminosäuren
+			- dürfen keine Interferenz mit biochemischen Prozessen in der Zelle aufweisen$$ \rightarrow $$ müssen also pH-neutral und gut wasserlöslich sein$$ \rightarrow $$ "kompatible Solute"
+			- norg. Ionen
+			- Kalium in Zelle gepumpt
+			- Anwendung:
+				- Kosmetik
+					- Hautschutz
+					- Anti-Aging Mittel
+			- zuerst Zelle in salzreiches Medium platziert$$ \rightarrow $$$$$$Zelle produziert viel Ectoin$$ \rightarrow $$ in salzarmes Medium platziert$$ \rightarrow $$ Zelle muss schnell reagieren und scheidet Ectoin aus
+			- Ectoin freigesetzt$$ \rightarrow $$ „Bakterienmelken“
+	- **Hydrostatischer Druck**
+		- Piezotolerant (früher: barotolerant)
+			- Wachstum bei 0.1 MPa (1000hPa; 1 bar; Labordruck/Atmosphäre)
+			- langsameres Wachstum bei höherem Druck
+		- Piezophil  (früher: barophil)
+			- Wachstum bei 0.1 MPa
+			- Optimales Wachstum bei 40 MPa (5000-6000m Tiefe)
+		- Obligat piezophil
+			- Wachstum nur bei >0.1 - 100 MPa (bis 10.000m Tiefe)
+			- z.B. Tiefseebakterien mit hoher Membranfluidität
+- Laborbedingungen
+	- Nährmedien
+		- Herstellungsanforderungen
+			- Synthetisch:: chemisch genau definiert
+			- Komplex:: undefiniert
+		- Nährstoffgehalt
+			- Minimalmedium:: enthält nur essenzielle Nährstoffe
+			- Selektivmedium:: ist für das Wachstum bestimmter MO gemacht
+			- Vollmedium:: enthält auch alle nicht-essenziellen Nährstoffe
+		- Konsistenz
+			- Flüssig
+			- Fest (durch Zusatz von Verfestigungsmitteln
+	- Kultivierungsgefäße
+		- ![](https://remnote-user-data.s3.amazonaws.com/ZOZ50rjNJbdlkR2L12Z6cgR-PDv0TsdYCiw9VfcGENvpLHJRm-jQ4yIqzS65Cp6Bsv7IZ35vf1f7j01CByug4S385S05ibZqtVFLlLBpIk2lCQ7sAeMf6TnrV2e7hVj7)  
+		- Aerobe Kultivierung
+			- ausreichende Sauerstoffzufuhr muss gewährleistet werden
+			- z.B.:
+				- Petrischalen für feste Agarfläche
+				- Kolben für flüssigen Agar
+				- im Großmaßstab können Fermenter mit Rotatoren verwendet werden
+		- Anaerobe Kultivierung
+			- [[Reduktionsmittel]]
+			- Enzymsysteme
+			- Sauerstoff muss entfernt werden
+			- z.B.:
+				- Anaerobiertopf
+				- anaerobe Kammern
+- Mikrobielles Wachstum:
+- Wachstum
+	- Zunahme der lebenden Substanz
+	- Prokaryoten
+		- Zunahme der Zellzahl
+		- Zweiteilung
+		- Generationszeit = Verdoppelungszeit
+		- Zellzahl & Zellmasse sind equivalent
+	- Eukaryoten ([Pilze (Fungi, Mycota)](Pilze-(Fungi,-Mycota).md), [Schleimpilze(Mycetozoa)](Schleimpilze(Mycetozoa).md))
+		- Zunahme der Zellmasse(Biomasse)
+		- also Verdoppelungszeit
+- Wachstumsphasen
+	- Statische Kultur
+		- Lag-Phase (Latenzphase)
+			- Zeitintervall zwischen Beimpfung (des Nährmediums) und Erreichen maximaler Teilungsrate
+			- Zunahme des RNA-Gehaltes (rRNA)
+		- Exponentielle Phase (log.-Phase)
+			- in statischen Kulturen ändern sich die nicht
+- [[Physik]]
+- Zoologie
+- Antatomische Richtungs- und Ebenenbezeichnungen
+- Anatomische Richtungen
+	- Anterior:: vorne, Kopf, Hauptsinnesorgane
+	- Posterior:: gegenüber Anterior
+	- Dorsal
+		- Bei Wirbeltieren: Saite mit Wirbelsäule / Nervenmark
+	- Ventral
+		- Dem Boden zugewandt
+		- Bei Wirbeltieren: gegenüber Dorsal
+- Systematik
+- Benennung (Nomenklatur)
+	- Binominale Nomenklatur
+		- Artnamen sind zusammen gesetzt aus Gattungsname + Artbezeichnung
+		- schreibweise Gattungsname:: kursiv, immer großgeschrieben
+		- schreibweise Artbezeichnung:: kursiv, immer kleingeschrieben
+		- Gattungsname und Artname dürfen identisch sein
+	- 
+- Einteilung (Taxonomie)
+	- Die Tiere sind hierarchisch folgend eingeteilt:
+		- Diesem Graphen werden Taxa fortlaufend, ihrem Auftreten in Lerninhalten nach eingefügt
+		- 
+		- Metazoa (Regnum/Reich) (Vielzellige Tiere)
+			- Eumetazoa (hypothetisches Taxon)
+				- Bilateria (Stamm) (Zweiseitentiere)
+					- Protostomia (Stammgruppe) (Urmünder)
+						- Plathelminthes (Stamm) (Plattwürmer)
+						- Lophotrochozoa (Überstamm) (Lophotrochozoen)
+							- Annelida (Stamm) (Ringelwürmer)
+					- Körperhöhlen
+						- Formen
+							- Acelomat
+								- Keine Körperhöhle, Mesoderm vollständig mit Zellen gefüllt (Parenchym)
+								- Vorkommen
+									- [Plathelminthes (Stamm) (Plattwürmer)](Biologie-Bachelor/Zoologie/Systematik/Einteilung-(Taxonomie)/Die-Tiere-sind-hierarchisch-folgend-eingeteilt:/Metazoa-(Regnum-Reich)-(Vielzellige-Tiere)/Eumetazoa-(hypothetisches-Taxon)/Bilateria-(Stamm)-(Zweiseitentiere)/Protostomia-(Stammgruppe)-(Urmünder)/Plathelminthes-(Stamm)-(Plattwürmer).md)
+							- Pseudocoelomat
+								- Vorkommen
+									- Nematoda
+							- Eucoelomat
+								- Vorkommen
+									- 
+						- Bildung
+							- 
+	- 
+- Grundlagen der Systematik
+	- Erstbeschreibung
+		- Die erste Beschreibung eines neuen Organismus
+		- Bestandteile
+			- Type material:: Erklärung über die Art des untersuchten Materials (Holotyp und Paratyp, weiteres Material) und deren jetziger Aufbewahrungsort (z.B. Naturhistorisches Museum Wien)
+			- Holotyp:: Material (z.B. eingefärbter Sagittalschnitt des Organismus), an dem die Beschreibung d. Organismus angefertigt wurde
+			- Paratyp:: Zweitmaterial, das als Probe für die Validität des Holotypen genutzt wird, oft gleicher Typ eines anderen Individuums gleicher Art
+			- Type locality:: Fundort des Holotypen
+			- Etymology:: Namensherkunft des vergebenen Namen (z.B.  __Homo sapiens sapiens: __ vernunftbegabter Mensch, da großes Gehirn spezielle Knochenstrukturen am Cranium)
+	- Verschiedene Artdefinitionen
+		- Biologischer Artbegriff
+	- Verschiedene Systematische Systeme
+		- Phylogenetische Systematik
+			- ![](https://remnote-user-data.s3.amazonaws.com/W7etvYGRT7zvJqKwZDavu7Fno5gYKg3wqr9eGx_lRRbxWsxeKX0uZzh9ovPqXZ03NkDMvaa0qropFQtNxj2Wz_Lu7FZDK9eSRoPeVNfhnWHXDkyGjcfBseT8qfsYtT2b)  
+			- Ermittlung der Verwandschaftsverhältnisse über Vergleich rRNA (ribosomaler RNA)
+			- Systematik, die die Entstehungsgeschichte der Arten in den Artbegriff miteinbezieht
+			- Apomorphie
+				- in der Phylogenese eines Taxons neu entstandenes Merkmal
+				- Um Apomorphien von nicht apomorphen Strukturen mit gleicher Funktion (z.B. Flügel bei Fledermäusen und Vögeln, die sich unabhängig voneinander entwickelt haben) zu unterscheiden, verwendet man die sog. [ Homologiekriterien](Homologiekriterien.md)
+				- Autapomorphie:: Bezeichnung im ranghöchsten, sie aufweisenden Taxon
+				- Synapomorphie:: Bezeichnung für eine Apomorphie in den Taxa, die gemeinsam das Taxon mit der Autapomorphie bilden
+				- (Sym-)Plesiomorphie:: auch  __primitives Merkmal__ , Bezeichnung in den Taxa, mindestens zwei Ränge unter dem ranghöchsten die Apomorphie aufweisenden Taxon
+				- ![](https://remnote-user-data.s3.amazonaws.com/RFqSjm5u3z8orcn5DWVrSqlkus_nrNOHizg17jXQOXsVtl4wz393tK_uCaOhXGtR9pW69pNKqt4CaYAdkKOnqSw9j8Prd5FDrFY_DCXOxvlF3COXf26xPEUS3LCArhFI)
+			- Formen der Phylogenese
+				- Anagenese:: auch Transformative Evolution, bezeichnet die Veränderung innerhalb einer Art im Laufe der Zeit
+				- Stasigenese:: auch  __Stabilisierende Evolution__ , bezeichnet die Stabilisierung hin auf einen Phänotypen innerhalb einer Art im Laufe der Zeit
+				- Cladogenese:: auch  __Divergente Evolution__ , bezeichnet die Entwicklung einer bestehenden Art, sich in mehrere neue Art aufzuteilen, die sog.  __Speziation__ 
+				- ![](https://remnote-user-data.s3.amazonaws.com/mwnwMevOPPBlQHkxUnH4GRMhHPMy9cVasRZQPwudAJP_Ws3WS8dwGnTpkRBjZsA2yr7WcDepElnkT7VkweIpJxbE1KnWXDbUGYd_ZGudzXoRdkN3iWYljhhiIc7FYo3y)  
+			- Monophyletische Gruppe
+				- Aktuell gültige Nomenklatur für Taxonerstbeschreibung
+				- beinhaltet einen Borfahren und alle seine Nachkommen (z.B.  __DE __  und  __CDE__ )
+				- ![](https://remnote-user-data.s3.amazonaws.com/HexYJx4DZofJ_M3bwEhJT_ephlHtmouUSldosBbqrg1jhWNI-DLg3aYy5HNHSAyVkcSFIhZYNBPNwjaWKZRXtTTkJ2U9N7o0yh4n1eD_vdvq3n3shlm6GgnHls3ng-cf)
+			- Paraphyletische Gruppe
+				- umfasst einen Vorfahren, aber nur einen Teil seiner Nachkommen.
+				- ![](https://remnote-user-data.s3.amazonaws.com/_EMBTD9OJ3H8fBcITm5PJoOU6p3pstzpPJyun-tudGg5I2d7N1T-fACbDrL4SJ1QQI5EwzTUDEDwEWHZ6tSqci-svYe4MofYWJPIhwbztJrF25H8dcjHvg3e7Nq2uPsi)
+				- Veraltete Nomenklatur für Taxonerstbeschreibung, da hier ein Taxon in der Gruppe (hier D) näher mit einem Taxon außerhalb der Gruppe verwandt ist (hier E), als einer Seitenlinie innerhalb seiner Gruppe (hier C).
+				- Beispiel:
+					- ![](https://remnote-user-data.s3.amazonaws.com/w-v7QkLnogDYlSud0)
+					- Taxon  __Pan __ und  __Homo __ sind näher verwandt, als  __Pongo __ und  __Pan__ , dennoch gehören  __Pongo __ und  __Pan __ zum Taxon  __Pongidae__ , während  __Homo __ zu den  __Hominidae__  gerechnet wird
+					- 
+			- Polyphyletische Gruppe
+				- hat Mitglieder (hier B, D), die keinen gemeinsamen Vorfahren in dieser Gruppe haben
+				- ![](https://remnote-user-data.s3.amazonaws.com/gNZj2v7rfb0UEDfSwcRIup-9wcA0Y2rXK49j2WL326bA12B4peVOcTHsyEB0gpjqTcyQCDGoPRKyFKgk9u-fen8pYDa5y82liD1xKMDq_uDKBf4iTFY7suZFJo9CdVc-)
+				- Tritt meistens auf, wenn vorher als monophyletisch betrachtete Verwandschaften durch neue Erkentnisse revidiert werden, z.B. die Klassifikation von Vögeln und Säugetieren als "Warmblüter", da beide gleichwarm sind. Später wurde jedoch klar, dass diese Eigenschaft von beiden Gruppen unabhängig voneinander erworben wurde
+			- Stammbaumdarstellung der Systematik
+			- [Monophyletische Gruppe](Biologie-Bachelor/Zoologie/Systematik/Grundlagen-der-Systematik/Verschiedene-Systematische-Systeme/Phylogenetische-Systematik/Monophyletische-Gruppe.md)n zeichnen sich durch ein oder mehrere [Apomorphie](Biologie-Bachelor/Zoologie/Systematik/Grundlagen-der-Systematik/Verschiedene-Systematische-Systeme/Phylogenetische-Systematik/Apomorphie.md)n aus
+		- LUCA
+			- **L**ast **U**niversal **C**ommon **A**nsestor
+			- Der letzte gemeinsame Vorfahre allen modernen Lebens
+			- dieser deckte seinen Energiebedarf aus einfachen chemischen Reaktionen ohne Hilfe von Sonnenlicht 

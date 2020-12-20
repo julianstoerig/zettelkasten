@@ -1,0 +1,5 @@
+- Tierische Viren: Wirkung auf die Wirtszellen
+    - Transformation:: von diesen seltenen o __nkogenen Viren__  befallene Zellen können zur Tumorzelle transformiert werden
+    - Lyse:: Tod der Zelle und Freisetzung des Virus
+    - Persistenz:: langsame Freisetzung des Virus ohne Zelltod (Bspw. Hepatitis-B-Virus, das als, Episom, eine Art Plasmid, im Zellkern verbleibt
+    - Latenz:: Virus liegt vor, schadet der Zelle jedoch nicht; Lyse ist verzögert (z. B. Herpes-simplex-Virus)

@@ -1,0 +1,31 @@
+- Replikation
+    - Adsorption:: Virion heftet sich an Wirtszelle an
+    - Penetration:: Einschleusung des genetischen Materials in die Wirtszelle
+    - Synthese
+        - Nukleinsäure und Proteine werden unter Anleitung der viralen NS durch Wirtszellmetabolismus synthetisiert
+        - auch **Eklipse** genannt, da in diesem Zeitraum keine Viruspartikel in der Wirtszelle nachgewiesen werden können
+    - Strukturaufbau:: Die synthetisierten NS und Proteine werden zum Nukleokapsid zusammengebaut
+    - Lyse (Freisetzung):: Die Viruspartikel werden aus der Wirtszelle freigesetzt
+    - besonderheit mancher Phagen
+        - Lytischer Zyklus:: sog.  __virulente Viren __ (z. B. T4-Phage), durchlaufen die[Replikation](Replikation.md) ganz normal
+        - Lysogener Zyklus
+            - sog.  __temperente Viren __ (z. B. λ-Phage)
+            - [Adsorption](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/Adsorption.md)
+            - [Penetration](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/Penetration.md)
+            - Virusgenom ( __Provirus__ ) wird in Wirtsgenom eingebaut
+            - ↻Wirtszelle teil sich
+            - durch  __Induktion__  (bestimmte Bedingungen; Aufhebung der Reprimierung) wird das Virusgenom aus dem Wirtsgenom ausgegliedert, wodurch ein lytischer Zyklus beginnt
+    - Reverse-Transkriptase-Replikation (Ausnahme)
+        - Adsorption (Virus beinhaltet virale RNA und  __Reverse Transkriptase__ , bspw. HIV)
+        - Penetration
+        - RT (=Reverse Transkriptase) bildet durch reverse  __Transkription __ aus der ss(+)RNA (ss(+)RNA$$ \rightarrow$$  cDNA $$ \rightarrow $$ dsDNA) eine dsDNA
+        - dsDNAwird durch die  __Integrase__  in das Wirtszellengenom integriert
+        - ↻Wirtseigene Proteinbiosynthese und DNA Replikationsmechanismen bilden neue Virionen  
+    - besonderheit mancher Bakteriophagen
+        - ![](https://remnote-user-data.s3.amazonaws.com/Gyd_kmugmmWrXzmMJiFARN-Bk5W_wJAZyzeY3SupUcNYmRx5Ox6AmrQRD97eLpKRfrV_mBdJtsJMK_mV2QKjSRAYIMYGXy_KYXraKZ3niu1hXVTP1jVh2db10rNNPpXe)
+        - Lytischer Zyklus:: Die Phagen, sog.  __virulenten Viren__  (z.B. T4-Phage), vollziehen den vollen, normalen Ablauf der [Replikation](Replikation.md)
+        - Lysogener Zyklus
+            - Die Phagen, sog.  __temperente Viren__  (z.B. λ-Phage), vollziehen Adsorption und Penetration der [Replikation](Replikation.md)
+            - Virusgenom( __Provirus__ ) wird ins Wirtsgenom integriert
+            - Wirtszelle , teilt sich und dupliziert damit auch das Virusgenom
+            - Bestimmte Bedingungen ( __Induktion__ ; Aufheben der Reprimierung) führt zur Trennung des Virusgenoms aus dem Wirtsgenom   und leitet einen [Lytischer Zyklus](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/besonderheit-mancher-Bakteriophagen/Lytischer-Zyklus.md) ein

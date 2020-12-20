@@ -1,0 +1,8 @@
+- Flechten #Stub
+    - ![](https://remnote-user-data.s3.amazonaws.com/8Lv35xFoavhEwqq3V2i60reUJFfZjJC9LNRNygSk6ZXm4w7eEDrQuPOU64SPTC80BIByjlvCGpuawIadlvKT7qcu32HzqLVQ4OSrdRm4_hH4kcR489jEVKjAgsyVtYOB)  
+    - Symbiose zwischen
+        - Mykobiont ([Pilze (Fungi, Mycota)](Pilze-(Fungi,-Mycota).md)):
+            - liefert Mineralien
+        - Phycobiont(Alge, Cyanobakterien):
+            - liefert Phytosynthese-Assimilate
+        - 
