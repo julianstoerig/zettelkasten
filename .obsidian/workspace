@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "fdfdfdfdfd.md",
+            "file": "🏡Home.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fdfdfdfdfd.md",
+                "file": "🏡Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fdfdfdfdfd.md"
+                "file": "🏡Home.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "fdfdfdfdfd.md",
+                "file": "🏡Home.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -158,15 +158,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "🏡Home.md",
+    "✔Tasks.md",
+    "allgemeine und Anorganische Chemie.md",
+    "2020-12-01.md",
+    "Chitin.md",
+    "Emoji.md",
+    "Custom-CSS.md",
     "fdfdfdfdfd.md",
     "Extra-Card-Detail.md",
-    "McJmTBJymGRh2bAgb.md",
-    "scratchpad.md",
-    "RexOx Reaktionen.md",
-    "Stub.md",
-    "Test.md",
-    "Summenformel.md",
-    "Zoonose.md",
-    "Untitled.md"
+    "McJmTBJymGRh2bAgb.md"
   ]
 }
