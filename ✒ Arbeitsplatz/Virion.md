@@ -2,9 +2,4 @@
 
 ---
 
-**Virionen**/**Viruspartikel** sind [[Virus]], die sich außerhalb einer Wirtszelle befinden. Bei **Virionen** umschließt ein [[Kapsid]] und oft noch eine [[Virushülle]] die [[Nukleinsäure|NS]].
-
-besteht aus Nukleinsäure + Kapsid (= Nukleokapsid) (+ evtl. Virushülle)
-	- Viruspartikel **außerhalb** von Zellen
-	- elementare Funktionseinheit des infektiösen Virus
-	- wird zur Verbreitung des Virus aus den Wirtszellen ausgeschleust
+**Virionen**/**Viruspartikel** sind [[Virus]], die sich außerhalb einer Wirtszelle befinden. Bei **Virionen** umschließt ein [[Kapsid]] und oft noch eine [[Virushülle]] die [[Nukleinsäure|NS]]. Sie stellen die elementare Funktionseinheit des infektiösen Virus da, die nach der Replikation und Translation der viralen [[Nukleinsäure|NS]] in der [[Wirt|Wirtszelle]] 
