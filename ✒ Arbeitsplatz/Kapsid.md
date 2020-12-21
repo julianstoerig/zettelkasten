@@ -1,1 +1,1 @@
-**Kapside** sind komplexe, regelmäßige Strukturen, die in [[Virion|Virionen]] die virale [[Nukleinsäure]] umschließen. Ihre kleinsten regelmäßigen Bausteine, die [[Kapsomer|Kapsomere]], sind Proteine die durch die virale [[Nukleinsäure]] codiert werden.
+**Kapside** sind komplexe, regelmäßige Strukturen, die in [[Virion|Virionen]] die virale [[Nukleinsäure]] umschließen. Ihre kleinsten regelmäßigen Bausteine, die [[Kapsomer|Kapsomere]], sind [[Protein|Proteine]], die durch die [[Virus|virale]] [[Nukleinsäure]] codiert werden.

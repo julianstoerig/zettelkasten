@@ -1,4 +1,4 @@
-**Mikroorganismen** sind einzellige und diejenigen Organismen, deren Zellen auch autonom überlebensfähig sind. Sie sind in der Regel sehr klein und haben eine sehr niedrige Lebenserwartung. Die [[Archaea]] und [[Bacteria]] sind ausschließlich **Mikroorganismen**, jedoch gibt es sie auch bei den [[Eukarya]], genauer gesagt bei den [[Pilze|Pilzen]] und den [[Schleimpilze|Schleimpilzen]]. Außerdem werden [[Viren|Viren]] trotz ihrer nicht-Erfüllung aller [[Kriterien des Lebens]] oft zu den Mikroorganismen gezählt.
+**Mikroorganismen** sind einzellige und diejenigen Organismen, deren Zellen auch autonom überlebensfähig sind. Sie sind in der Regel sehr klein und haben eine sehr niedrige Lebenserwartung. Die [[Archaea]] und [[Bacteria]] sind ausschließlich **Mikroorganismen**, jedoch gibt es sie auch bei den [[Eukarya]], genauer gesagt bei den [[Pilze|Pilzen]] und den [[Schleimpilze|Schleimpilzen]]. Außerdem werden [[Virus|Viren]] trotz ihrer nicht-Erfüllung aller [[Kriterien des Lebens]] oft zu den Mikroorganismen gezählt.
 
 ## Morphologie und Genetik
 

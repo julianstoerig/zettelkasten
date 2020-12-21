@@ -5,7 +5,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 	- Mikroorganismien vs Makroorganismen:
 		- ![](https://remnote-user-data.s3.amazonaws.com/7Su3_KvL1i67BtJRkAZaTHw5HejTYVeFKm-Xa_OQEjBqvjbqXjUYOtOdu35AAt-oqPC9B6JSDh18ez35WxRL2bw_PhfQc_8QfQA3i7SVMjkUmOm3z_RCx3vFkph-x44X)
 		- [[Mikroorganismen]]
-- [[Viren]]
+- [[Virus]]
 	- 
 - Prokaryoten
 	- Bakterien
