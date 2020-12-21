@@ -1,7 +1,30 @@
 **Viren** sind eine [[Nukleinsäure]], entweder [[RNA.]] oder [[DNA]], die über keinen eigenen Metabolismus verfügt, sondern den eines Wirtes nutzen muss, um sich zu replizieren.  Außerhalb von Wirtszellen, wenn die [[Nukleinsäure|NS]] durch das [[Kapsid]] und evtl. durch eine [[Virushülle]] geschützt ist, nennt man sie [[Virion|Virionen]].
 
-Virus vs Virion
-	- [[Virion]]
+- Virion
+	- besteht aus Nukleinsäure + Kapsid (= Nukleokapsid) (+ evtl. Virushülle)
+	- Viruspartikel **außerhalb** von Zellen
+	- elementare Funktionseinheit des infektiösen Virus
+	- wird zur Verbreitung des Virus aus den Wirtszellen ausgeschleust
+- Struktur
+	- zwischen $$ 2,4 \cdot 10^{-8}m $$ bis $$ 2 \cdot 10^{-7}m $$  groß
+	- Struktur:
+		- ![](https://remnote-user-data.s3.amazonaws.com/dYW4dXFjlqbRiZ7wy-AvkqvGB4Lm7-v67q5_mTAwsq6J-7KyVeenHy_32MjPwA7dPdWy-kCyJdE8yI1A05kOQ-lPd4LySJd1ul1AP7QOjC4U9Cf5C0nIS6kHPoCYt8ty)
+		- Nukleinsäure: RNA oder DNA
+		- Kapsid
+			- a.k.a.  __Protein Coat__ / __Protein Shell__  
+			- aus [Kapsomere](Kapsomere.md)n bestehender Schutzmantel für die Nukleinsäure
+			- Antigen
+		- Hülle
+			- Lipid-Doppelmembran der ursprünglichen Wirtszelle und den darin eingelagerten (Glyko-)Proteinen
+			- umgibt das Kapsid
+			- Antigen
+			- Funktion:
+				- Schutz vor Umwelteinflüssen
+				- Schutz vor Immunsystem des Wirts
+				- Bindung an die Rezeptoren der Wirtszelle
+				- Bildung neuer Virusvarianten durch mutierte Proteinhülle
+		- [[Symmetrie]]
+
 - Replikation
 	- Adsorption:: Virion heftet sich an Wirtszelle an
 	- Penetration:: Einschleusung des genetischen Materials in die Wirtszelle

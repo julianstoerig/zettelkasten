@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a2eabc859f62202c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Viren.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "511e0d622e2adcd6",
+        "id": "e701c2874d300850",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Virion.md",
+            "file": "✒ Arbeitsplatz/Symmetrie.md",
             "mode": "source"
           }
         }
@@ -89,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Virion.md",
+                "file": "✒ Arbeitsplatz/Symmetrie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Virion.md"
+                "file": "✒ Arbeitsplatz/Symmetrie.md"
               }
             }
           },
@@ -114,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Virion.md",
+                "file": "✒ Arbeitsplatz/Symmetrie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -162,15 +151,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Virion.md",
+    "✒ Arbeitsplatz/Symmetrie.md",
     "✒ Arbeitsplatz/Viren.md",
+    "✒ Arbeitsplatz/Virion.md",
     "✒ Arbeitsplatz/Virus.md",
     "Atome.md",
     "Antioxidans.md",
     "allgemeine und Anorganische Chemie.md",
     "Antioxidantien.md",
     "Aerosole.md",
-    "Kapsomere.md",
-    "chemische Verbindung.md"
+    "Kapsomere.md"
   ]
 }
