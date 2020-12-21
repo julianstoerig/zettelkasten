@@ -1,4 +1,4 @@
-**Viren** sind eine [[Nukleinsäure]], entweder [[RNA.]] oder [[DNA]], die über keinen eigenen Metabolismus verfügt, sondern den eines Wirtes nutzen muss, um sich zu replizieren.  Außerhalb von Wirtszellen, wenn die [[Nukleinsäure]] durch das [[Kapsid]] und evtl. durch eine [[Virushülle]] geschützt ist, nennt man sie [[Virion|Virionen]].
+**Viren** sind eine [[Nukleinsäure]], entweder [[RNA]] oder [[DNA]], die über keinen eigenen Metabolismus verfügt, sondern den eines Wirtes nutzen muss, um sich zu replizieren.  Außerhalb von Wirtszellen, wenn die [[Nukleinsäure]] durch das [[Kapsid]] und evtl. durch eine [[Virushülle]] geschützt ist, nennt man sie [[Virion|Virionen]].
 
 - Virion
 	- besteht aus Nukleinsäure + Kapsid (= Nukleokapsid) (+ evtl. Virushülle)
