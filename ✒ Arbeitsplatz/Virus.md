@@ -1,3 +1,7 @@
+#Fach-Mikrobiologie  #Semester-1 #2020-12-21
+
+---
+
 **Viren** sind infektiöse organische Partikel, die sich als [[Virion|Virion]] extrazellulär verbreiten aber nur intrazellulär in [[Wirt|Wirtszellen]] vermehren. Sie unterscheiden sich von echten [[Mikroorganismus|Mikroorganismen]] und [[Organismus|Organismen (Leben)]] allgemein dadurch, dass sie weder über eine zelluläre Organisation, noch eigenen [[Metabolismus]] verfügen.
 
 - Virion

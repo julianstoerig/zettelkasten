@@ -1,3 +1,7 @@
+#Fach-Mikrobiologie  #Semester-1 #2020-12-21
+
+---
+
 Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorganismen beschäftigt.
 -  Was sind Mikroorganismen?
 	- ![](https://remnote-user-data.s3.amazonaws.com/7So3p--EjApQcOqe8WpEv7mFFcKRxEVdNDtpYnG2_pvMRmbiFsenmcaHNIpu1b4hwE2kvayvB4CpgZGoPOZaTdvhYX4vtLQW5mIXpEteGWu1VjN_ZeeMY66EcaUpaEtO)  
