@@ -8,10 +8,9 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "a Arbeitsplatz/Mikroorganismen.md",
-            "mode": "preview"
+            "file": "📎 Anhänge/Pasted image 20201221001510.png"
           }
         }
       }
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a Arbeitsplatz/Mikroorganismen.md",
+                "file": "📎 Anhänge/Pasted image 20201221001510.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a Arbeitsplatz/Mikroorganismen.md"
+                "file": "📎 Anhänge/Pasted image 20201221001510.png"
               }
             }
           },
@@ -103,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "a Arbeitsplatz/Mikroorganismen.md",
+                "file": "📎 Anhänge/Pasted image 20201221001510.png",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -158,15 +157,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📎 Anhänge/Pasted image 20201221001510.png",
+    "📎 Anhänge/p_z-Orbital.png",
+    "📎 Anhänge/julian.stoerig@gmail.com captcha style.png",
     "CWD/Mikroorganismen.md",
     "CWD/Mikroorganismen vs Makroorganismen.md",
     "CWD/Mikrobiologie.md",
     "CWD/Makroorganismen.md",
     "Untitled.md",
     "Mikrobiologie.md",
-    "Mikrobiologie/Eukaryoten.md",
-    "Mikrobiologie/Was-ist-Mikrobiologie_-Was-sind-Mikroorganismen_.md",
-    "README.md",
-    "Informatik.md"
+    "Mikrobiologie/Eukaryoten.md"
   ]
 }
