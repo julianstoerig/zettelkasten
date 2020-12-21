@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/einfache Symmetrie.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Maschine Learning in Python 3.x.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/einfache Symmetrie.md",
+                "file": "✒ Arbeitsplatz/Maschine Learning in Python 3.x.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/einfache Symmetrie.md"
+                "file": "✒ Arbeitsplatz/Maschine Learning in Python 3.x.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/einfache Symmetrie.md",
+                "file": "✒ Arbeitsplatz/Maschine Learning in Python 3.x.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -151,6 +151,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Untitled.md",
+    "CSS snippets.md",
     "✒ Arbeitsplatz/einfache Symmetrie.md",
     "✒ Arbeitsplatz/Kapsid.md",
     "✒ Arbeitsplatz/Mikrobiologie.md",
@@ -158,8 +160,6 @@
     "✒ Arbeitsplatz/RNA.md",
     "✒ Arbeitsplatz/Symmetrie.md",
     "✒ Arbeitsplatz/Virion.md",
-    "✒ Arbeitsplatz/Virus.md",
-    "SI-Basiseinheiten.md",
-    "✒ Arbeitsplatz/Mikroorganismen.md"
+    "✒ Arbeitsplatz/Virus.md"
   ]
 }
