@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Virus.md",
+            "file": "SI-Basiseinheiten.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Stub",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Virus.md",
+                "file": "SI-Basiseinheiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Virus.md"
+                "file": "SI-Basiseinheiten.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Virus.md",
+                "file": "SI-Basiseinheiten.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -151,6 +151,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "SI-Basiseinheiten.md",
     "✒ Arbeitsplatz/Virus.md",
     "✒ Arbeitsplatz/Virion.md",
     "✒ Arbeitsplatz/einfache Symmetrie.md",
@@ -159,7 +160,6 @@
     "✒ Arbeitsplatz/Mikroorganismus.md",
     "✒ Arbeitsplatz/Symmetrie.md",
     "✒ Arbeitsplatz/Mikroorganismen.md",
-    "✒ Arbeitsplatz/RNA.md",
-    "✒ Arbeitsplatz/Viren.md"
+    "✒ Arbeitsplatz/RNA.md"
   ]
 }
