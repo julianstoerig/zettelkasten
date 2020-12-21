@@ -1,0 +1,41 @@
+**Virionen**/**Viruspartikel** sind [[Viren]], die sich außerhalb einer Wirtszelle befinden. Bei **Virionen** umschließt ein [[Kapsid]] und oft noch eine [[Virushülle]] die [[Nukleinsäure|NS]].
+- Als Nukleinsäure in den Zellen des Wirts
+	- Virion
+		- besteht aus Nukleinsäure + Kapsid (= Nukleokapsid) (+ evtl. Virushülle)
+		- Viruspartikel **außerhalb** von Zellen
+		- elementare Funktionseinheit des infektiösen Virus
+		- wird zur Verbreitung des Virus aus den Wirtszellen ausgeschleust
+- Struktur
+	- zwischen $$ 2,4 \cdot 10^{-8}m $$ bis $$ 2 \cdot 10^{-7}m $$  groß
+	- Struktur:
+		- ![](https://remnote-user-data.s3.amazonaws.com/dYW4dXFjlqbRiZ7wy-AvkqvGB4Lm7-v67q5_mTAwsq6J-7KyVeenHy_32MjPwA7dPdWy-kCyJdE8yI1A05kOQ-lPd4LySJd1ul1AP7QOjC4U9Cf5C0nIS6kHPoCYt8ty)
+		- Nukleinsäure: RNA oder DNA
+		- Kapsid
+			- a.k.a.  __Protein Coat__ / __Protein Shell__  
+			- aus [Kapsomere](Kapsomere.md)n bestehender Schutzmantel für die Nukleinsäure
+			- Antigen
+		- Hülle
+			- Lipid-Doppelmembran der ursprünglichen Wirtszelle und den darin eingelagerten (Glyko-)Proteinen
+			- umgibt das Kapsid
+			- Antigen
+			- Funktion:
+				- Schutz vor Umwelteinflüssen
+				- Schutz vor Immunsystem des Wirts
+				- Bindung an die Rezeptoren der Wirtszelle
+				- Bildung neuer Virusvarianten durch mutierte Proteinhülle
+		- Symmetrie
+			- Die verschiedenen Strukturen der Kapside bezeichnet man als Symmetrien, man unterscheidet zwischen
+			- Einfach Symmetrie
+				- Ikosaedrische Symmetrie:: :
+					- ![](https://remnote-user-data.s3.amazonaws.com/cwZPlo7gV3k3ZvqLVpsfvl3R9KNE2VjScQfR9lMS0UpJ0eFWWvaIe_WSfc05VIlfT3G8PlrMOIINeIMQYdO4UHyhc63i7VhBhYEPmh2KRyljvUm8r6FK0_inmQPH7JfK)
+					- Kapsid bildet regelmäßiges zwanzigflächiges Polyeder, da dies bei gegebener Kantenlänge die größte Oberfläche hat
+					- Bspw.: Adeno-Virus, Herpes-Virus
+				- Helikale Symmetrie:: :
+					- ![](https://remnote-user-data.s3.amazonaws.com/O9Xo2IrkH73ewA1_GmlmufNdKFlwOqHTrkmJ1MQp8iDyF5SvwYPnpshem8opc7DwgU3DQSsLNH-Yc8ZWAYjwDqSYGx67yzrROy43NLvlZv7b66XNyXmnKVAu4OjuHb6y)
+					- [Kapsomere](Kapsomere.md) lagern sich schraubenförmig zu helikaler Quartärstruktur zusammen, der Durchmesser des dabei entstehenden Zylinders ist abhängig von der Kapsomergröße, die Länge von der zu verpackenden Nukleinsäure
+					- unbehüllte helikale Kapsidsymmetrie kommt nur bei einigen Pflanzenviren vor (z. B. Tabakmosaikvirus) und Bakteriophagen (Fam.  __Inoviridae__ ) vor, während Viren mit behülltem helikalem Kapsid bei Tierviren häufig sind
+			- Komplexe Symmetrie
+				- ist eine Virusstruktur regelmäßig, jedoch weder ikosaedrisch noch helikal, bezeichnet man sie als komplex symmetrisch
+				- Bspw.: T4-Phagen
+					- ![](https://remnote-user-data.s3.amazonaws.com/y6nGfIMDDv7gzN7OiJqSX7EizooIrGyuG8KQ31E1iJel4uPn0PaOVWa3NP0xyqUjZ4alkxiblLkm9SvnQhb_m3kGNSmB6FKIq8xFxLsnISYYa6uYMp37YdHDqxRkwhlg)
+					- spezifischer Wirt (in diesem Fall  __E. coli__ )
