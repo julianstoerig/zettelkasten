@@ -6,10 +6,11 @@
       {
         "id": "e701c2874d300850",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Symmetrie.md",
+            "file": "✒ Arbeitsplatz/Viren.md",
             "mode": "source"
           }
         }
@@ -17,7 +18,6 @@
       {
         "id": "2d0dc4316e53c7d6",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Kapsid.md",
+                "file": "✒ Arbeitsplatz/Viren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Kapsid.md"
+                "file": "✒ Arbeitsplatz/Viren.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Kapsid.md",
+                "file": "✒ Arbeitsplatz/Viren.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -162,10 +162,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Kapsid.md",
     "✒ Arbeitsplatz/Viren.md",
-    "✒ Arbeitsplatz/einfache Symmetrie.md",
     "✒ Arbeitsplatz/Symmetrie.md",
+    "✒ Arbeitsplatz/Kapsid.md",
+    "✒ Arbeitsplatz/einfache Symmetrie.md",
     "✒ Arbeitsplatz/Einfach Symmetrie.md",
     "✒ Arbeitsplatz/Untitled 1.md",
     "✒ Arbeitsplatz/Untitled.md",
