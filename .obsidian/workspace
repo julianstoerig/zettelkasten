@@ -8,9 +8,10 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "📎 Anhänge/Pasted image 20201221001510.png"
+            "file": "✒ Arbeitsplatz/Mikroorganismen.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📎 Anhänge/Pasted image 20201221001510.png",
+                "file": "✒ Arbeitsplatz/Mikroorganismen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📎 Anhänge/Pasted image 20201221001510.png"
+                "file": "✒ Arbeitsplatz/Mikroorganismen.md"
               }
             }
           },
@@ -102,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📎 Anhänge/Pasted image 20201221001510.png",
+                "file": "✒ Arbeitsplatz/Mikroorganismen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -157,15 +158,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Mikroorganismen.md",
+    "📎 Anhänge/d_z2-Orbital.png",
+    "📎 Anhänge/einfaches PSE.svg",
+    "📎 Anhänge/julian.stoerig@gmail.com captcha style.png",
+    "📎 Anhänge/Pasted image 20201221001449.png",
     "📎 Anhänge/Pasted image 20201221001510.png",
     "📎 Anhänge/p_z-Orbital.png",
-    "📎 Anhänge/julian.stoerig@gmail.com captcha style.png",
     "CWD/Mikroorganismen.md",
     "CWD/Mikroorganismen vs Makroorganismen.md",
-    "CWD/Mikrobiologie.md",
-    "CWD/Makroorganismen.md",
-    "Untitled.md",
-    "Mikrobiologie.md",
-    "Mikrobiologie/Eukaryoten.md"
+    "CWD/Mikrobiologie.md"
   ]
 }
