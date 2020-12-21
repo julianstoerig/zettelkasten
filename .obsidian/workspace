@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Virus.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "✒ Arbeitsplatz/Virus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "✒ Arbeitsplatz/Virus.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "✒ Arbeitsplatz/Virus.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -144,10 +151,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "SI-Basiseinheiten.md",
     "✒ Arbeitsplatz/Virus.md",
     "✒ Arbeitsplatz/Virion.md",
     "✒ Arbeitsplatz/einfache Symmetrie.md",
+    "SI-Basiseinheiten.md",
     "✒ Arbeitsplatz/Kapsid.md",
     "✒ Arbeitsplatz/Mikrobiologie.md",
     "✒ Arbeitsplatz/Mikroorganismus.md",
