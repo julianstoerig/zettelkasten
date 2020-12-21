@@ -27,6 +27,6 @@ Sind diese Phasen makroskopisch nicht mehr einfach zu unterscheiden, spricht man
 
 | innere Phase | Bezeichnung       | Beispiel | Trennverfahren |
 | ------------ | ----------------- | -------- | -------------- |
-| fest         | [[Aerosole\|Rauch]] | Rauch    |                |
-| flüssig      | [[Aerosole\|Nebel]] | Nebel    |                |
+| fest         | [[Aerosol\|Rauch]] | Rauch    |                |
+| flüssig      | [[Aerosol\|Nebel]] | Nebel    |                |
 | gasförmig    |                   |          |                |

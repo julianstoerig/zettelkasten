@@ -2,7 +2,7 @@
 
 ---
 
-**Freie Radikale** sind [[Atome|Atome]] oder [[Molekül|Moleküle]] mit ungepaarten Elektronen. Die Elektronen sind also weder an einer [[chemische Bindung|Bindung]] beteiligt, noch sind sie in einem [[freies Elektronenpaar|freien Elektronenpaar]]. Diesem Effekt wirken [[Antioxidantien|Antioxidantien]] entgegen.
+**Freie Radikale** sind [[Atom|Atome]] oder [[Molekül|Moleküle]] mit ungepaarten Elektronen. Die Elektronen sind also weder an einer [[chemische Bindung|Bindung]] beteiligt, noch sind sie in einem [[freies Elektronenpaar|freien Elektronenpaar]]. Diesem Effekt wirken [[Antioxidans|Antioxidantien]] entgegen.
 
 Da dies energetisch sehr ungünstig ist, sind diese Elektronen extrem reaktiv.
 

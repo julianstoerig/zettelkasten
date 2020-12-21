@@ -1,4 +1,4 @@
-**Viren** sind eine [[Nukleinsäure]], entweder [[RNA.]] oder [[DNA]], die über keinen eigenen Metabolismus verfügt, sondern den eines Wirtes nutzen muss, um sich zu replizieren. 
+**Viren** sind eine [[Nukleinsäure]], entweder [[RNA.]] oder [[DNA]], die über keinen eigenen Metabolismus verfügt, sondern den eines Wirtes nutzen muss, um sich zu replizieren.  Außerhalb von Wirtszellen, wenn die [[Nukleinsäure|NS]] durch das [[Kapsid]] und evtl. durch eine [[Virushülle]] geschützt ist, nennt man sie [[Virion|Virionen]].
 
 Virus vs Virion
 	- Virus
@@ -264,7 +264,7 @@ Virus vs Virion
 											- Hüllenprotein E
 											- Membranprotein M
 							- Übertragungswege:
-								- Tröpfcheninfektion, [[Aerosole]]$$ \rightarrow $$schnelle Ausbreitung $$  $$  
+								- Tröpfcheninfektion, [[Aerosol]]$$ \rightarrow $$schnelle Ausbreitung $$  $$  
 								- (vermutete) Schmierinfektion
 							- Replikation
 								- Glykoprotein S (Spikes des Virions) heftet sich an ACE2-Rezeptor der Wirtszelle an

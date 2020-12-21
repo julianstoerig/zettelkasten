@@ -2,7 +2,7 @@
 
 ---
 
-Die **Elektronenkonfiguration** beschreibt die Positionen der Elektronen um das [[Nuklid]] eines [[Atome|Atoms]]. Dabei sind die Elektronen nicht fix an einem Ort sondern haben einen Platz in sog. [[Orbital|Orbitalen]]. Wo sich diese Elektronen befinden lässt sich für jedes Elektron durch dessen individuelle Werte für die vier [[Quantenzahlen]] beschreiben. Die **Elektronenkonfiguration** is also die Zusammenfassung dieser vier Werte für jedes Elektron eines [[Atome|Atoms]].
+Die **Elektronenkonfiguration** beschreibt die Positionen der Elektronen um das [[Nuklid]] eines [[Atom|Atoms]]. Dabei sind die Elektronen nicht fix an einem Ort sondern haben einen Platz in sog. [[Orbital|Orbitalen]]. Wo sich diese Elektronen befinden lässt sich für jedes Elektron durch dessen individuelle Werte für die vier [[Quantenzahlen]] beschreiben. Die **Elektronenkonfiguration** is also die Zusammenfassung dieser vier Werte für jedes Elektron eines [[Atom|Atoms]].
 
 ## Elektronenkonfigurationen von Atomen im Grundzustand (nicht angeregt)
 
