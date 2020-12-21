@@ -1,4 +1,4 @@
-**Viren** sind infektiöse organische Partikel, die sich als  extrazellulär verbreiten aber nur intrazellulär in [[Wirt|Wirtszellen]] vermehren. Sie unterscheiden sich von echten [[Mikroorganismen|Mikroorganismen]] dadurch, dass sie .[[Nukleinsäure]], entweder [[RNA]] oder [[DNA]], die über keinen eigenen Metabolismus verfügt, sondern den eines Wirtes nutzen muss, um sich zu replizieren.  Außerhalb von Wirtszellen, wenn die [[Nukleinsäure]] durch das [[Kapsid]] und evtl. durch eine [[Virushülle]] geschützt ist, nennt man sie [[Virion|Virionen]].
+**Viren** sind infektiöse organische Partikel, die sich als [[Virion|Virion]] extrazellulär verbreiten aber nur intrazellulär in [[Wirt|Wirtszellen]] vermehren. Sie unterscheiden sich von echten [Mikroorganismen|Mikroorganismen]] und [[Organismus|Organismen]] allgemein dadurch, dass sie 
 
 - Virion
 	- besteht aus Nukleinsäure + Kapsid (= Nukleokapsid) (+ evtl. Virushülle)
