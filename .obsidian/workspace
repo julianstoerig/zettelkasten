@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e701c2874d300850",
+        "id": "c86ec6286a7a42c3",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SI-Basiseinheiten.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SI-Basiseinheiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SI-Basiseinheiten.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +97,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SI-Basiseinheiten.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
