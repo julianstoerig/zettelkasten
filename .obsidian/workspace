@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CWD/Mikroorganismen.md",
+            "file": "aaa Arbeitsplatz/Mikroorganismen.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CWD/Mikroorganismen.md",
+                "file": "aaa Arbeitsplatz/Mikroorganismen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CWD/Mikroorganismen.md"
+                "file": "aaa Arbeitsplatz/Mikroorganismen.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CWD/Mikroorganismen.md",
+                "file": "aaa Arbeitsplatz/Mikroorganismen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
