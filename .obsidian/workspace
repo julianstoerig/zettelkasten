@@ -6,7 +6,6 @@
       {
         "id": "e701c2874d300850",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,20 +17,13 @@
       {
         "id": "2d0dc4316e53c7d6",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Einfach Symmetrie.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/einfache Symmetrie.md",
+            "mode": "source"
           }
-        }
-      },
-      {
-        "id": "e4616db5e3e88cba",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -97,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Symmetrie.md",
+                "file": "✒ Arbeitsplatz/einfache Symmetrie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Symmetrie.md"
+                "file": "✒ Arbeitsplatz/einfache Symmetrie.md"
               }
             }
           },
@@ -122,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Symmetrie.md",
+                "file": "✒ Arbeitsplatz/einfache Symmetrie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -170,15 +162,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/einfache Symmetrie.md",
     "✒ Arbeitsplatz/Symmetrie.md",
+    "✒ Arbeitsplatz/Einfach Symmetrie.md",
     "✒ Arbeitsplatz/Untitled 1.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Viren.md",
     "✒ Arbeitsplatz/Virion.md",
     "✒ Arbeitsplatz/Virus.md",
     "Atome.md",
-    "Antioxidans.md",
-    "allgemeine und Anorganische Chemie.md",
-    "Antioxidantien.md"
+    "Antioxidans.md"
   ]
 }
