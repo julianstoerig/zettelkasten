@@ -2,7 +2,7 @@
 
 ---
 
-**Viren** sind infektiöse organische Partikel, die sich als [[Virion|Virion]] extrazellulär verbreiten aber nur intrazellulär in [[Wirt|Wirtszellen]] vermehren. Sie unterscheiden sich von echten [[Mikroorganismus|Mikroorganismen]] und [[Organismus|Organismen (Leben)]] allgemein dadurch, dass sie weder über eine zelluläre Organisation, noch eigenen [[Metabolismus]] verfügen.
+**Viren** sind infektiöse organische Partikel, die sich als [[Virion|Virionen]] extrazellulär verbreiten, sich aber als obligate Zellparasiten vermehren. Sie unterscheiden sich von echten [[Mikroorganismus|Mikroorganismen]] und [[Organismus|Organismen (Leben)]] allgemein dadurch, dass sie weder über eine zelluläre Organisation, noch eigenen [[Metabolismus]] verfügen.
 
 - Struktur
 	- zwischen $$ 2,4 \cdot 10^{-8}m $$ bis $$ 2 \cdot 10^{-7}m $$  groß
