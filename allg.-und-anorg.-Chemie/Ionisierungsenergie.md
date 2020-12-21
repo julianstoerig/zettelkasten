@@ -1,4 +1,4 @@
-Die **Ionisierungsenergie**/**IE** ist die Energie, die aufgewendet werden muss, um ein Elektron vollständig aus der Hülle seines [[Atom|Atoms]] zu trennen.
+Die **Ionisierungsenergie**/**IE** ist die Energie, die aufgewendet werden muss, um ein Elektron vollständig aus der Hülle seines [[Atome|Atoms]] zu trennen.
 
 Angegeben wird sie meist in $\mathrm{\frac{kJ}{mol}}$.
 

@@ -6,7 +6,7 @@ Ein **Atom** ist eine funktionelle Einheit, die die Grundlage für die [[Chemie]
 
 Abhängig von der Zahl der Protonen im Kern der Atome ([[Ordnungszahl]]) werden sie in Kategorien, sog. [[chemisches Element| Elemente]] eingeteilt.
 
-In einem [[Atom]] ist die Anzahl der Protonen gleich der Anzahl der Elektronen.
+In einem [[Atome]] ist die Anzahl der Protonen gleich der Anzahl der Elektronen.
 
 Während die Protonen fest im Atomkern verankert sind, sind die Elektronen je nach Art des Stoffes mehr oder weniger stark gebunden.
 

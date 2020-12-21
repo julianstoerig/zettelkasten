@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Viren.md",
+            "file": "Aerosole.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Viren.md",
+            "file": "Aerosole.md",
             "mode": "preview"
           }
         },
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Stub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Viren.md",
+                "file": "Aerosole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Viren.md"
+                "file": "Aerosole.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Viren.md",
+                "file": "Aerosole.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -146,14 +146,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1634155e62c21e2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "d5aea1c6de186752",
             "type": "leaf",
             "state": {
@@ -167,19 +159,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "lastOpenFiles": [
+    "Aerosole.md",
+    "chemische Verbindung.md",
+    "Atom.md",
+    "allgemeine und Anorganische Chemie.md",
+    "Aerosol.md",
+    "Antioxidans.md",
     "✒ Arbeitsplatz/Viren.md",
     "✒ Arbeitsplatz/Mikrobiologie.md",
     "✒ Arbeitsplatz/Mikroorganismen.md",
-    "📎 Anhänge/d_z2-Orbital.png",
-    "📎 Anhänge/einfaches PSE.svg",
-    "📎 Anhänge/julian.stoerig@gmail.com captcha style.png",
-    "📎 Anhänge/Pasted image 20201221001449.png",
-    "📎 Anhänge/Pasted image 20201221001510.png",
-    "📎 Anhänge/p_z-Orbital.png",
-    "CWD/Mikroorganismen.md"
+    "📎 Anhänge/d_z2-Orbital.png"
   ]
 }

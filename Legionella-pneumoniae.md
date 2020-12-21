@@ -7,7 +7,7 @@
     - Infektionsquelle: Warm- und Kaltwassersysteme, Kühltürme, Befeuchter von Klimaanlagen, Whirlpools
     - hohe Resistenz: erst bei 63°C abgetötet
     - Übertragung
-        - Aerosole
+        - [[Aerosole]]
     - Erreger von
         - Legionärskrankheit
             - Multifokale (= Erkrankung macht sich an mehreren Orten im Körper gleichzeitig bemerkbar) Pneumonie

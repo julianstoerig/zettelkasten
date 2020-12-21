@@ -1,4 +1,4 @@
-**Viren** sind eine [[Nukleinsäure]], entweder [[RNA.]] oder [[DNA]], die über keinen eigenen Stoffwechsel verfügt, sondern den eines Wirtes nutzen muss, um sich zu 
+**Viren** sind eine [[Nukleinsäure]], entweder [[RNA.]] oder [[DNA]], die über keinen eigenen Metabolismus verfügt, sondern den eines Wirtes nutzen muss, um sich zu replizieren. 
 
 Virus vs Virion
 	- Virus
@@ -264,7 +264,7 @@ Virus vs Virion
 											- Hüllenprotein E
 											- Membranprotein M
 							- Übertragungswege:
-								- Tröpfcheninfektion, Aerosole$$ \rightarrow $$schnelle Ausbreitung $$  $$  
+								- Tröpfcheninfektion, [[Aerosole]]$$ \rightarrow $$schnelle Ausbreitung $$  $$  
 								- (vermutete) Schmierinfektion
 							- Replikation
 								- Glykoprotein S (Spikes des Virions) heftet sich an ACE2-Rezeptor der Wirtszelle an

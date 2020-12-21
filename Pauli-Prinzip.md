@@ -2,6 +2,6 @@
 
 ---
 
-Das **Pauli-Prinzip** besagt, die Elektronen eines [[Atom|Atoms]] durch ihre [[Quantenzahlen]] eindeutig bestimmt werden können.
+Das **Pauli-Prinzip** besagt, die Elektronen eines [[Atome|Atoms]] durch ihre [[Quantenzahlen]] eindeutig bestimmt werden können.
 
-Es können also keine zwei Elektronen eines [[Atom|Atoms]] in allen [[Quantenzahlen]] übereinstimmen, somit können [[Orbital|Orbitale]] mit maximal zwei Elektronen besetzt werden.
+Es können also keine zwei Elektronen eines [[Atome|Atoms]] in allen [[Quantenzahlen]] übereinstimmen, somit können [[Orbital|Orbitale]] mit maximal zwei Elektronen besetzt werden.
