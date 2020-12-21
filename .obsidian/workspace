@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c86ec6286a7a42c3",
+        "id": "23ee2148a7fef4fc",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/Maschine Learning in Python 3.x.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -151,6 +151,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Maschine Learning in Python 3.x.md",
     "✒ Arbeitsplatz/Untitled.md",
     "CSS snippets.md",
     "✒ Arbeitsplatz/einfache Symmetrie.md",
@@ -159,7 +160,6 @@
     "✒ Arbeitsplatz/Mikroorganismus.md",
     "✒ Arbeitsplatz/RNA.md",
     "✒ Arbeitsplatz/Symmetrie.md",
-    "✒ Arbeitsplatz/Virion.md",
-    "✒ Arbeitsplatz/Virus.md"
+    "✒ Arbeitsplatz/Virion.md"
   ]
 }
