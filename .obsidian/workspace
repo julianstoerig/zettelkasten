@@ -10,23 +10,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Virus.md",
+            "file": "✒ Arbeitsplatz/Virion.md",
             "mode": "source"
           }
-        },
-        "group": "449f8b81da752655"
-      },
-      {
-        "id": "2d0dc4316e53c7d6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Virus.md",
-            "mode": "preview"
-          }
-        },
-        "group": "449f8b81da752655"
+        }
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Virus.md",
+                "file": "✒ Arbeitsplatz/Virion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Virus.md"
+                "file": "✒ Arbeitsplatz/Virion.md"
               }
             }
           },
@@ -116,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Virus.md",
+                "file": "✒ Arbeitsplatz/Virion.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -164,13 +151,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Virion.md",
     "✒ Arbeitsplatz/Virus.md",
     "✒ Arbeitsplatz/einfache Symmetrie.md",
     "✒ Arbeitsplatz/Kapsid.md",
     "✒ Arbeitsplatz/Mikrobiologie.md",
     "✒ Arbeitsplatz/Mikroorganismus.md",
     "✒ Arbeitsplatz/Symmetrie.md",
-    "✒ Arbeitsplatz/Virion.md",
     "✒ Arbeitsplatz/Mikroorganismen.md",
     "✒ Arbeitsplatz/RNA.md",
     "✒ Arbeitsplatz/Viren.md"

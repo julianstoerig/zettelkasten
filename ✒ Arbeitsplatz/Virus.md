@@ -4,11 +4,6 @@
 
 **Viren** sind infektiöse organische Partikel, die sich als [[Virion|Virion]] extrazellulär verbreiten aber nur intrazellulär in [[Wirt|Wirtszellen]] vermehren. Sie unterscheiden sich von echten [[Mikroorganismus|Mikroorganismen]] und [[Organismus|Organismen (Leben)]] allgemein dadurch, dass sie weder über eine zelluläre Organisation, noch eigenen [[Metabolismus]] verfügen.
 
-- Virion
-	- besteht aus Nukleinsäure + Kapsid (= Nukleokapsid) (+ evtl. Virushülle)
-	- Viruspartikel **außerhalb** von Zellen
-	- elementare Funktionseinheit des infektiösen Virus
-	- wird zur Verbreitung des Virus aus den Wirtszellen ausgeschleust
 - Struktur
 	- zwischen $$ 2,4 \cdot 10^{-8}m $$ bis $$ 2 \cdot 10^{-7}m $$  groß
 	- Struktur:
