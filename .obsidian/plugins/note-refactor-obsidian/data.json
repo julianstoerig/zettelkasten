@@ -1,1 +1,1 @@
-{"includeFirstLineAsNoteHeading":true,"excludeFirstLineInNote":false,"headingFormat":"#","newFileLocation":1,"customFolder":"","fileNamePrefix":"","transcludeByDefault":true,"noteLinkTemplate":"[[{{new_note_title}}]]","refactoredNoteTemplate":"{{new_note_content}}"}
+{"includeFirstLineAsNoteHeading":true,"excludeFirstLineInNote":true,"headingFormat":"#","newFileLocation":1,"customFolder":"","fileNamePrefix":"","transcludeByDefault":true,"noteLinkTemplate":"[[{{new_note_title}}]]","refactoredNoteTemplate":"{{new_note_content}}"}

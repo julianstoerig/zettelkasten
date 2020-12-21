@@ -14,6 +14,25 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "2d0dc4316e53c7d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Einfach Symmetrie.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "e4616db5e3e88cba",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -152,14 +171,14 @@
   },
   "lastOpenFiles": [
     "✒ Arbeitsplatz/Symmetrie.md",
+    "✒ Arbeitsplatz/Untitled 1.md",
+    "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Viren.md",
     "✒ Arbeitsplatz/Virion.md",
     "✒ Arbeitsplatz/Virus.md",
     "Atome.md",
     "Antioxidans.md",
     "allgemeine und Anorganische Chemie.md",
-    "Antioxidantien.md",
-    "Aerosole.md",
-    "Kapsomere.md"
+    "Antioxidantien.md"
   ]
 }
