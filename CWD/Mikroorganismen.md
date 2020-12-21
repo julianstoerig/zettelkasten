@@ -1,4 +1,4 @@
-**Mikroorganismen** sind einzellige und diejenigen Organismen, deren Zellen auch autonom überlebensfähig sind. Sie sind in der Regel sehr klein und haben eine sehr niedrige Lebenserwartung. Die [[Archaea]] und [[Bacteria]] sind ausschließlich **Mikroorganismen**, jedoch gibt es sie auch bei den [[Eukarya]], genauer gesagt bei den [[Pilze-(Fungi,-Mycota).md|Pilzen]] und den [[Schleimpilze(Mycetozoa).m|Schleimpilzen]]. Außerdem werden [[Viren.md|Viren]] trotz ihrer nicht-Erfüllung aller [[Kriterien des Lebens]] oft zu den Mikroorganismen gezählt.
+**Mikroorganismen** sind einzellige und diejenigen Organismen, deren Zellen auch autonom überlebensfähig sind. Sie sind in der Regel sehr klein und haben eine sehr niedrige Lebenserwartung. Die [[Archaea]] und [[Bacteria]] sind ausschließlich **Mikroorganismen**, jedoch gibt es sie auch bei den [[Eukarya]], genauer gesagt bei den [[Pilze|Pilzen]] und den [[Schleimpilze|Schleimpilzen]]. Außerdem werden [[Viren|Viren]] trotz ihrer nicht-Erfüllung aller [[Kriterien des Lebens]] oft zu den Mikroorganismen gezählt.
 
 ## Morphologie und Genetik
 
@@ -36,13 +36,21 @@
 |                                Wachstum bei über $\mathrm{343K (70°C)}$                                |      ✔      |     ✔      |         ❌          |
 |                                Wachstum bei über $\mathrm{373K(100°C)}$                                |     ❌     |     ✔      | ❌                      |
 
-- sehr klein, z.B.: [Bakterien](Bakterien.md): zwischen$$0,03\cdot10^{-6}m $$ und $$10\cdot10^{-6}m $$
-- hohes Oberflächen/Volumenverhältnis $$ \rightarrow $$ hohe Stoffwechselleistung:
-	- ![](https://remnote-user-data.s3.amazonaws.com/yKBO-ZNllQ2Ddfg8z6X-MxeKagABphq6k6nD8jSshAVguXRz6mWSOUBsCESJwWx24i-02m9ft4fPxkpEq8QzV5UnynBU3KV2AC-D-C7W5fDKzwGZl1SrBlKVfrfPiAxe)  
-	- hohe Atmungsrate
-	- effiziente Aufnahme und Umsatz von Stoffen und Stoffwechselprodukten
-	- hohe Zuwachsraten
-- verschiedene Arten von Mikroorganismen
+## Eigenschaften von Mikroorganismen
+
+Wie der Name schon sagt, **Mikroorganismen** meist sehr klein, [[Bacteria|Bakterien]] sind beispielsweise nur zwischen $3\cdot10^{-8}m$ und $1\cdot10^{5}m$ groß. Aufgrund ihrer geringen Größe, weisen sie ein sehr hohes $\mathrm{\frac{Oberfläche}{Volumen}}$-Verhältnis auf.
+
+Dies erlaubt ihnen hlhe Atmungsrate, effiziente Aufnahme und Umsatz von Stoffen und Stoffwechselprodukten und hohe Zuwachsraten.
+
+|              Eigenschaft              | [[Bacteria]] | [[Hefen]] |                        [[Eukarya]]                         |
+|:-------------------------------------:|:------------:|:---------:|:----------------------------------------------------------:|
+|    Durchmesser ($\mathrm{\mu m}$)     |     $1$      |  $10^1$   |                           $10^2$                           |
+|    Oberfläche ($\mathrm{\mu m^2}$)    |     $1$      |  $10^2$   |                           $10^4$                           |
+|     Volumen ($\mathrm{\mu m^3}$)      |     $1$      |  $10^3$   |                           $10^6$                           |
+| $\mathrm{\frac{Oberfläche}{Volumen}}$ |     $1$      | $10^{-2}$ |                         $<10^{-2}$                         |
+|              Atmungsrate              |    $10^3$    |  $10^2$   | $0.5-4$ (Wurzel, Blatt) bis $1-2\cdot 10^1$ (Niere, Leber) |
+|    Generationszeit ($\mathrm{h}$)     |   $0.3-1$    |  $2-10$   |                        $\approx20$                         |
+
 ## Bedeutung von Mikroorganismen
 **Mikroorganismen** machen den größten Teil der Biomasse aus und sind überall in unserem Alltag zu finden.
 Bsp.:
