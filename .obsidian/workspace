@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Virus.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Reverse-Transkriptase.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Virus.md",
+                "file": "✒ Arbeitsplatz/Reverse-Transkriptase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Virus.md"
+                "file": "✒ Arbeitsplatz/Reverse-Transkriptase.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Virus.md",
+                "file": "✒ Arbeitsplatz/Reverse-Transkriptase.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -151,6 +151,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Reverse-Transkriptase.md",
+    "✒ Arbeitsplatz/Opisthokonta.md",
     "✒ Arbeitsplatz/Virus.md",
     "✒ Arbeitsplatz/Kapsid.md",
     "✒ Arbeitsplatz/allgemeine und Anorganische Chemie.md",
@@ -158,8 +160,6 @@
     "📚 Literatur/undefined - Anmerkungen herauskopieren (20.12.2020, 150353)Accepted 4 August 2020 (Mulligan et al 2020589)Published online 1.md",
     "📎 Anhänge/Pasted image 20201217132228.png",
     "✒ Arbeitsplatz/Untitled.md",
-    "Atom.md",
-    "✒ Arbeitsplatz/Mikrobiologie.md",
-    "✒ Arbeitsplatz/Maschine Learning in Python 3.x.md"
+    "Atom.md"
   ]
 }
