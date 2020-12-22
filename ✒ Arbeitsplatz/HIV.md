@@ -5,10 +5,10 @@
     - Überwindung der Artengrenze: Übertragung Affe$$\rightarrow $$Mensch
     - Derzeit keine Heilung, nur Bekämpfung der Symptome
     - Probleme**:**  
-        - hohe Mutationsrate des Virus aufgrund der hohen Fehlerrate von RT([Reverse Transkriptase](Reverse-Transkriptase.md))
+        - hohe Mutationsrate des Virus aufgrund der hohen Fehlerrate von RT([Reverse Transkriptase](%E2%9C%92%20Arbeitsplatz/Reverse%20Transkriptase.md))
         - Komplexe Replikation ermöglicht dem Virus eine gute Tarnung in der Zelle
     - Struktur
-        - NS besteht aus zwei (+)ssRNA Strängen, welche jeweils über eine RT([Reverse Transkriptase](Reverse-Transkriptase.md))
+        - NS besteht aus zwei (+)ssRNA Strängen, welche jeweils über eine RT([Reverse Transkriptase](%E2%9C%92%20Arbeitsplatz/Reverse%20Transkriptase.md))
         - Kapsid mit Hülle und Spikes
     - Replikation
         - HIV-Virus bindet an CD4-Rezeptoren an [T-Lymphozyten](T-Lymphozyten.md)
@@ -30,6 +30,6 @@
                 - CART:: **c**ombined **a**ntiretroviral **t**herapy
                 - Chemotherapeutische Wirkstoffe
             - Wirkweise:
-                - Hemmung der [Reverse Transkriptase](Reverse-Transkriptase.md)  stoppt virale NS-Synthese  
+                - Hemmung der [Reverse Transkriptase](%E2%9C%92%20Arbeitsplatz/Reverse%20Transkriptase.md)  stoppt virale NS-Synthese  
                 - Hemmung der Protease: verhindert Bildung neuer Viruspartikel
                 - Fusionshemmer: Fusion von Virus und Zelle wird verhindert

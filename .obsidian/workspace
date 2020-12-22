@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "23ee2148a7fef4fc",
+        "id": "efa131327f9b2b4f",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Reverse-Transkriptase.md",
+            "file": "✒ Arbeitsplatz/Reverse Transkriptase.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Reverse-Transkriptase.md",
+                "file": "✒ Arbeitsplatz/Reverse Transkriptase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Reverse-Transkriptase.md"
+                "file": "✒ Arbeitsplatz/Reverse Transkriptase.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Reverse-Transkriptase.md",
+                "file": "✒ Arbeitsplatz/Reverse Transkriptase.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -151,15 +151,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Reverse Transkriptase.md",
     "✒ Arbeitsplatz/Reverse-Transkriptase.md",
+    "✒ Arbeitsplatz/Pseuodplasmodium.md",
     "✒ Arbeitsplatz/reverse Transkription.md",
     "✒ Arbeitsplatz/Opisthokonta.md",
     "✒ Arbeitsplatz/Virus.md",
     "✒ Arbeitsplatz/Kapsid.md",
     "✒ Arbeitsplatz/allgemeine und Anorganische Chemie.md",
     "Find unlinked files plugin output.md",
-    "📚 Literatur/undefined - Anmerkungen herauskopieren (20.12.2020, 150353)Accepted 4 August 2020 (Mulligan et al 2020589)Published online 1.md",
-    "📎 Anhänge/Pasted image 20201217132228.png",
-    "✒ Arbeitsplatz/Untitled.md"
+    "📚 Literatur/undefined - Anmerkungen herauskopieren (20.12.2020, 150353)Accepted 4 August 2020 (Mulligan et al 2020589)Published online 1.md"
   ]
 }
