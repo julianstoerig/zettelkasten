@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Kernphysik.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Kernphysik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "✒ Arbeitsplatz/Kernphysik.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +97,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Kernphysik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -151,15 +144,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📚 Literatur/undefined - Anmerkungen herauskopieren (20.12.2020, 150353)Accepted 4 August 2020 (Mulligan et al 2020589)Published online 1.md",
+    "Find unlinked files plugin output.md",
+    "📎 Anhänge/Pasted image 20201217132228.png",
     "✒ Arbeitsplatz/Untitled.md",
     "Atom.md",
     "✒ Arbeitsplatz/Mikrobiologie.md",
     "✒ Arbeitsplatz/Maschine Learning in Python 3.x.md",
     "CSS snippets.md",
     "✒ Arbeitsplatz/einfache Symmetrie.md",
-    "✒ Arbeitsplatz/Kapsid.md",
-    "✒ Arbeitsplatz/Mikroorganismus.md",
-    "✒ Arbeitsplatz/RNA.md",
-    "✒ Arbeitsplatz/Symmetrie.md"
+    "✒ Arbeitsplatz/Kapsid.md"
   ]
 }
