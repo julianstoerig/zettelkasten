@@ -4,25 +4,25 @@
 
 **Viren** sind infektiöse organische Partikel, die sich als [[Virion|Virionen]] extrazellulär verbreiten, sich aber als obligate Zellparasiten vermehren. Sie unterscheiden sich von echten [[Mikroorganismus|Mikroorganismen]] und [[Organismus|Organismen (Leben)]] allgemein dadurch, dass sie weder über eine zelluläre Organisation, noch eigenen [[Metabolismus]] verfügen.
 
-- Struktur
-	- zwischen $$ 2,4 \cdot 10^{-8}m $$ bis $$ 2 \cdot 10^{-7}m $$  groß
-	- Struktur:
-		- ![](https://remnote-user-data.s3.amazonaws.com/dYW4dXFjlqbRiZ7wy-AvkqvGB4Lm7-v67q5_mTAwsq6J-7KyVeenHy_32MjPwA7dPdWy-kCyJdE8yI1A05kOQ-lPd4LySJd1ul1AP7QOjC4U9Cf5C0nIS6kHPoCYt8ty)
-		- Nukleinsäure: RNA oder DNA
-		- Kapsid
-			- a.k.a.  __Protein Coat__ / __Protein Shell__  
-			- aus [Kapsomere](Kapsomere.md)n bestehender Schutzmantel für die Nukleinsäure
-			- Antigen
-		- Hülle
-			- Lipid-Doppelmembran der ursprünglichen Wirtszelle und den darin eingelagerten (Glyko-)Proteinen
-			- umgibt das Kapsid
-			- Antigen
-			- Funktion:
-				- Schutz vor Umwelteinflüssen
-				- Schutz vor Immunsystem des Wirts
-				- Bindung an die Rezeptoren der Wirtszelle
-				- Bildung neuer Virusvarianten durch mutierte Proteinhülle
-		- [[Symmetrie]]
+##  Struktur
+- zwischen $2,4 \cdot 10^{-8}m$ bis $2 \cdot 10^{-7}m$  groß
+- Struktur:
+	- ![](https://remnote-user-data.s3.amazonaws.com/dYW4dXFjlqbRiZ7wy-AvkqvGB4Lm7-v67q5_mTAwsq6J-7KyVeenHy_32MjPwA7dPdWy-kCyJdE8yI1A05kOQ-lPd4LySJd1ul1AP7QOjC4U9Cf5C0nIS6kHPoCYt8ty)
+	- Nukleinsäure: RNA oder DNA
+	- Kapsid
+		- a.k.a.  __Protein Coat__ / __Protein Shell__  
+		- aus [Kapsomere](Kapsomere.md)n bestehender Schutzmantel für die Nukleinsäure
+		- Antigen
+	- Hülle
+		- Lipid-Doppelmembran der ursprünglichen Wirtszelle und den darin eingelagerten (Glyko-)Proteinen
+		- umgibt das Kapsid
+		- Antigen
+		- Funktion:
+			- Schutz vor Umwelteinflüssen
+			- Schutz vor Immunsystem des Wirts
+			- Bindung an die Rezeptoren der Wirtszelle
+			- Bildung neuer Virusvarianten durch mutierte Proteinhülle
+	- [[Symmetrie]]
 
 - Replikation
 	- Adsorption:: Virion heftet sich an Wirtszelle an
