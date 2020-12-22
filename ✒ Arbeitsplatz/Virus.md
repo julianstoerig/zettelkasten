@@ -6,6 +6,8 @@
 
 Sie sind zwischen $2,4-20 \cdot 10^{-8}m$  groß. Sie verfügen über ein Genom nur aus entweder [[RNA]] oder [[DNA]]. Wenige Viren verfügen außerdem noch über Replikationsproteine, wie z.B. [[✒ Arbeitsplatz/HIV|HI-Viren]], an deren DNA-Strängen jeweils ein [[Reverse Transkriptase]] hängt.
 
+Dieses ist von einer 
+
  ![](https://remnote-user-data.s3.amazonaws.com/dYW4dXFjlqbRiZ7wy-AvkqvGB4Lm7-v67q5_mTAwsq6J-7KyVeenHy_32MjPwA7dPdWy-kCyJdE8yI1A05kOQ-lPd4LySJd1ul1AP7QOjC4U9Cf5C0nIS6kHPoCYt8ty)
  
 	- Hülle
