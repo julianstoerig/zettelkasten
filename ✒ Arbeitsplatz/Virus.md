@@ -6,7 +6,9 @@
 
 Sie sind zwischen $2,4-20 \cdot 10^{-8}m$  groß. 
 
-Sie verfügen über ein Genom nur aus einer Art von [[Nukleinsäure]] besteht. Wenige Viren verfügen außerdem noch über Replikationsproteine, wie z.B. [[✒ Arbeitsplatz/HIV|HI-Viren]], an deren DNA-Strängen jeweils ein [[Reverse Transkriptase]] hängt.
+Sie verfügen über ein Genom nur aus einer Art von [[Nukleinsäure]] besteht. 
+
+Einige wenige Viren verfügen außerdem noch über Replikationsproteine, wie z.B. [[✒ Arbeitsplatz/HIV|HI-Viren]], an deren DNA-Strängen jeweils ein [[Reverse Transkriptase]] hängt.
 
 Dieses ist vom [[✒ Arbeitsplatz/Kapsid]], Struktur aus kleinen regelmäßigen Proteinbausteinen, den [[Kapsomeren]], umgeben.
 
