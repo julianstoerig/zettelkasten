@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Virus.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "✒ Arbeitsplatz/Virus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "✒ Arbeitsplatz/Virus.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "✒ Arbeitsplatz/Virus.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -144,6 +151,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Virus.md",
     "✒ Arbeitsplatz/allgemeine und Anorganische Chemie.md",
     "Find unlinked files plugin output.md",
     "📚 Literatur/undefined - Anmerkungen herauskopieren (20.12.2020, 150353)Accepted 4 August 2020 (Mulligan et al 2020589)Published online 1.md",
@@ -152,7 +160,6 @@
     "Atom.md",
     "✒ Arbeitsplatz/Mikrobiologie.md",
     "✒ Arbeitsplatz/Maschine Learning in Python 3.x.md",
-    "CSS snippets.md",
-    "✒ Arbeitsplatz/einfache Symmetrie.md"
+    "CSS snippets.md"
   ]
 }
