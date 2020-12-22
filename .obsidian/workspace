@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Kernphysik.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "✒ Arbeitsplatz/Kernphysik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "✒ Arbeitsplatz/Kernphysik.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "✒ Arbeitsplatz/Kernphysik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -144,15 +151,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Maschine Learning in Python 3.x.md",
     "✒ Arbeitsplatz/Untitled.md",
+    "Atom.md",
+    "✒ Arbeitsplatz/Mikrobiologie.md",
+    "✒ Arbeitsplatz/Maschine Learning in Python 3.x.md",
     "CSS snippets.md",
     "✒ Arbeitsplatz/einfache Symmetrie.md",
     "✒ Arbeitsplatz/Kapsid.md",
-    "✒ Arbeitsplatz/Mikrobiologie.md",
     "✒ Arbeitsplatz/Mikroorganismus.md",
     "✒ Arbeitsplatz/RNA.md",
-    "✒ Arbeitsplatz/Symmetrie.md",
-    "✒ Arbeitsplatz/Virion.md"
+    "✒ Arbeitsplatz/Symmetrie.md"
   ]
 }
