@@ -4,7 +4,9 @@
 
 **Viren** sind infektiöse organische Partikel, die sich als [[Virion|Virionen]] extrazellulär verbreiten, sich aber als obligate Zellparasiten vermehren. Sie unterscheiden sich von echten [[Mikroorganismus|Mikroorganismen]] und [[Organismus|Organismen (Leben)]] allgemein dadurch, dass sie weder über eine zelluläre Organisation, noch eigenen [[Metabolismus]] verfügen.
 
-Sie sind zwischen $2,4-20 \cdot 10^{-8}m$  groß. Sie verfügen über ein Genom nur aus entweder [[RNA]] oder [[DNA]]. Wenige Viren verfügen außerdem noch über Replikationsproteine, wie z.B. [[✒ Arbeitsplatz/HIV|HI-Viren]], an deren DNA-Strängen jeweils ein [[Reverse Transkriptase]] hängt.
+Sie sind zwischen $2,4-20 \cdot 10^{-8}m$  groß. 
+
+Sie verfügen über ein Genom nur aus einer Art von [[Nukleinsäure]] besteht. Wenige Viren verfügen außerdem noch über Replikationsproteine, wie z.B. [[✒ Arbeitsplatz/HIV|HI-Viren]], an deren DNA-Strängen jeweils ein [[Reverse Transkriptase]] hängt.
 
 Dieses ist vom [[✒ Arbeitsplatz/Kapsid]], Struktur aus kleinen regelmäßigen Proteinbausteinen, den [[Kapsomeren]], umgeben.
 
