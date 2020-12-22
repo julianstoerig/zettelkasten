@@ -1,0 +1,1 @@
+Die **reverse Transkription** ist ein Vorgang, bei dem [[✒ Arbeitsplatz/Reverse-Transkriptase]] aus einer ss(+)RNA eine cDNA erzeugt, die zu einer dsDNA ergänzt wird.

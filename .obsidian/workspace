@@ -6,11 +6,22 @@
       {
         "id": "23ee2148a7fef4fc",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/Reverse-Transkriptase.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "fa2be82edd3c3984",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/reverse Transkription.md",
             "mode": "source"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Reverse-Transkriptase.md",
+                "file": "✒ Arbeitsplatz/reverse Transkription.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Reverse-Transkriptase.md"
+                "file": "✒ Arbeitsplatz/reverse Transkription.md"
               }
             }
           },
@@ -103,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Reverse-Transkriptase.md",
+                "file": "✒ Arbeitsplatz/reverse Transkription.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -151,6 +162,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/reverse Transkription.md",
     "✒ Arbeitsplatz/Reverse-Transkriptase.md",
     "✒ Arbeitsplatz/Opisthokonta.md",
     "✒ Arbeitsplatz/Virus.md",
@@ -159,7 +171,6 @@
     "Find unlinked files plugin output.md",
     "📚 Literatur/undefined - Anmerkungen herauskopieren (20.12.2020, 150353)Accepted 4 August 2020 (Mulligan et al 2020589)Published online 1.md",
     "📎 Anhänge/Pasted image 20201217132228.png",
-    "✒ Arbeitsplatz/Untitled.md",
-    "Atom.md"
+    "✒ Arbeitsplatz/Untitled.md"
   ]
 }

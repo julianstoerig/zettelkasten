@@ -1,14 +1,8 @@
-**Reverse Transkriptase**/**RT** ist ein Enzymkomplex aus RNA-Polymerase, Integrase und Protease
-- `Reverse Transkriptase`
---------------------- Portal ---------------------
-	- Biologie Bachelor
-		- Mikrobiologie
-			- Viren
-				- Replikation
-					- Reverse-Transkriptase-Replikation (Ausnahme)
-						- RT (=Reverse Transkriptase) bildet durch reverse  __Transkription __ aus der ss(+)RNA (ss(+)RNA$$ \rightarrow$$  cDNA $$ \rightarrow $$ dsDNA) eine dsDNA
-	- HIV
-		- Probleme**:**  
+**Reverse Transkriptase**/**RT** ist ein Enzymkomplex aus RNA-Polymerase, Integrase und Protease, der im Prozess der [[reverse Transkription|reversen Transkription]] aus einem ss(+)RNA-Strang eine Doppelstrang-DNA synthetisieren kann.
+
+
+- HIV
+		- Probleme:
 			- hohe Mutationsrate des Virus aufgrund der hohen Fehlerrate von RT([Reverse Transkriptase](Reverse-Transkriptase.md))
 --------------------- Portal ---------------------
 	- HIV
