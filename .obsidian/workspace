@@ -140,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 343,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "✒ Arbeitsplatz/allgemeine und Anorganische Chemie.md",
