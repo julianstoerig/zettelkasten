@@ -8,11 +8,8 @@
 - zwischen $2,4 \cdot 10^{-8}m$ bis $2 \cdot 10^{-7}m$  groß
 - Struktur:
 	- ![](https://remnote-user-data.s3.amazonaws.com/dYW4dXFjlqbRiZ7wy-AvkqvGB4Lm7-v67q5_mTAwsq6J-7KyVeenHy_32MjPwA7dPdWy-kCyJdE8yI1A05kOQ-lPd4LySJd1ul1AP7QOjC4U9Cf5C0nIS6kHPoCYt8ty)
-	- Nukleinsäure: RNA oder DNA
-	- Kapsid
-		- a.k.a.  __Protein Coat__ / __Protein Shell__  
-		- aus [Kapsomere](Kapsomere.md)n bestehender Schutzmantel für die Nukleinsäure
-		- Antigen
+	- [[Nukleinsäure]]: [[RNA]] oder [[DNA]]
+	- [[Kapsid]]
 	- Hülle
 		- Lipid-Doppelmembran der ursprünglichen Wirtszelle und den darin eingelagerten (Glyko-)Proteinen
 		- umgibt das Kapsid
