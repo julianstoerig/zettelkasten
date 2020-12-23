@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Translation.md",
+            "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Translation.md",
+                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Translation.md"
+                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Translation.md",
+                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
