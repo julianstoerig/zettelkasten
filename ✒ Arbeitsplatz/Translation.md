@@ -1,0 +1,1 @@
+Eine **Translation**/**reine Translation**/**Linearbewegung** ist eine Bewegung, bei der alle Punkte des 
