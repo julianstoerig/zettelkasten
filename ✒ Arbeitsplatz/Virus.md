@@ -16,23 +16,26 @@ Bei manchen **Viren** ist das **Nukleokapsid** noch zusätzlich von einer [[Viru
 
  ![](https://remnote-user-data.s3.amazonaws.com/dYW4dXFjlqbRiZ7wy-AvkqvGB4Lm7-v67q5_mTAwsq6J-7KyVeenHy_32MjPwA7dPdWy-kCyJdE8yI1A05kOQ-lPd4LySJd1ul1AP7QOjC4U9Cf5C0nIS6kHPoCYt8ty)
  
-- Replikation
-	- Adsorption:: Virion heftet sich an Wirtszelle an
-	- Penetration:: Einschleusung des genetischen Materials in die Wirtszelle
-	- Synthese
-		- Nukleinsäure und Proteine werden unter Anleitung der viralen NS durch Wirtszellmetabolismus synthetisiert
-		- auch **Eklipse** genannt, da in diesem Zeitraum keine Viruspartikel in der Wirtszelle nachgewiesen werden können
-	- Strukturaufbau:: Die synthetisierten NS und Proteine werden zum Nukleokapsid zusammengebaut
-	- Lyse (Freisetzung):: Die Viruspartikel werden aus der Wirtszelle freigesetzt
-	- besonderheit mancher Phagen
-		- Lytischer Zyklus:: sog.  __virulente Viren __ (z. B. T4-Phage), durchlaufen die[Replikation](Replikation.md) ganz normal
-		- Lysogener Zyklus
-			- sog.  __temperente Viren __ (z. B. λ-Phage)
-			- [Adsorption](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/Adsorption.md)
-			- [Penetration](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/Penetration.md)
-			- Virusgenom ( __Provirus__ ) wird in Wirtsgenom eingebaut
-			- ↻Wirtszelle teil sich
-			- durch  __Induktion__  (bestimmte Bedingungen; Aufhebung der Reprimierung) wird das Virusgenom aus dem Wirtsgenom ausgegliedert, wodurch ein lytischer Zyklus beginnt
+Replikation
+1. Adsorption
+	- Virion heftet sich an Wirtszelle an
+2. Penetration:: Einschleusung des genetischen Materials in die Wirtszelle
+3. Synthese
+	- Nukleinsäure und Proteine werden unter Anleitung der viralen NS durch Wirtszellmetabolismus synthetisiert
+	- auch **Eklipse** genannt, da in diesem Zeitraum keine Viruspartikel in der Wirtszelle nachgewiesen werden können
+4. Strukturaufbau:: Die synthetisierten NS und Proteine werden zum Nukleokapsid zusammengebaut
+5. Lyse (Freisetzung):: Die Viruspartikel werden aus der Wirtszelle freigesetzt
+	
+	
+- besonderheit mancher Phagen
+	- Lytischer Zyklus:: sog.  __virulente Viren __ (z. B. T4-Phage), durchlaufen die[Replikation](Replikation.md) ganz normal
+	- Lysogener Zyklus
+		- sog.  __temperente Viren __ (z. B. λ-Phage)
+		- [Adsorption](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/Adsorption.md)
+		- [Penetration](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/Penetration.md)
+		- Virusgenom ( __Provirus__ ) wird in Wirtsgenom eingebaut
+		- ↻Wirtszelle teil sich
+	- durch  __Induktion__  (bestimmte Bedingungen; Aufhebung der Reprimierung) wird das Virusgenom aus dem Wirtsgenom ausgegliedert, wodurch ein lytischer Zyklus beginnt
 	- Reverse-Transkriptase-Replikation (Ausnahme)
 		- Adsorption (Virus beinhaltet virale RNA und  __Reverse Transkriptase__ , bspw. HIV)
 		- Penetration
