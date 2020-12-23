@@ -12,6 +12,6 @@ $$
 \Delta{x}=x_{Ende}-x_{Anfang}
 $$
 
-**Geschwindigkeit** gibt an wie viel Zeit $t$ ein Körper benötigt, um eine Strecke $x$ zurückzulegen. Man verwendet gebräuchlich die **mittlere Geschwindigkeit**, um die Zeit zu ermitteln, die ein Körper für eine Strecke benötigt. Sie ist definiert als $v_{mittel}=\frac{s_{gesamt}}{t_{gesamt}}$.
+**Geschwindigkeit** gibt an wie viel Zeit $t$ ein Körper benötigt, um eine Strecke $x$ zurückzulegen. Man verwendet gebräuchlich die **mittlere Geschwindigkeit**, um die Zeit zu ermitteln, die ein Körper für eine Strecke benötigt. Sie ist definiert als $v(t)_{mittel}=\frac{s_{gesamt}}{t_{gesamt}}$.
 
-Ist man an der Geschwindigkeit zu einem bestimmten **Momentangeschwindigkeit**
+Die Geschwindigkeit zu einem bestimmten Zeitpunkt ist die **Momentangeschwindigkeit**: $v(t)_{moment_
