@@ -6,11 +6,22 @@
       {
         "id": "995b53c66742f8af",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Größen und Einheiten.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "18624057def5d049",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Abgeleitete Einheiten.md",
             "mode": "source"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Größen und Einheiten.md",
+                "file": "Abgeleitete Einheiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Größen und Einheiten.md"
+                "file": "Abgeleitete Einheiten.md"
               }
             }
           },
@@ -103,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Größen und Einheiten.md",
+                "file": "Abgeleitete Einheiten.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -151,6 +162,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Abgeleitete Einheiten.md",
     "Größen und Einheiten.md",
     "Physik.md",
     "📂Unfertiges/Mikrobiologie/Sklerotien.md",
@@ -159,7 +171,6 @@
     "📂Unfertiges/Mikrobiologie/Heterocysten.md",
     "📂Unfertiges/Mikrobiologie/Flechten.md",
     "📂Unfertiges/Mikrobiologie/Endosporen.md",
-    "📂Unfertiges/Mikrobiologie/einfache Symmetrie.md",
-    "✒ Arbeitsplatz/Bacillus anthracis.md"
+    "📂Unfertiges/Mikrobiologie/einfache Symmetrie.md"
   ]
 }
