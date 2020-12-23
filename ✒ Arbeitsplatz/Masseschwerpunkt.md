@@ -1,0 +1,1 @@
+$\mathrm{r_s=\frac{1}{m_{ges}} \sum}$
