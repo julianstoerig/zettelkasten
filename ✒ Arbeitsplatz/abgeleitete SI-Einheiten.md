@@ -11,4 +11,4 @@ $$
 |      Größe      | Symbol |      Einheit      |    Einheitenzeichen    |         Definition der Einheit          |
 |:---------------:|:------:|:-----------------:|:----------------------:|:---------------------------------------:|
 |     Volumen     |  $V$   |       Liter       |           l            | $\mathrm{1l=1dm^3=1dm\cdot1dm\cdot1dm}$ |
-| Geschwindigkeit |  $v$   | Meter pro Sekunde | $\mathrm{\frac{m}{s}}$ |         $\mathrm{\frac{m}{s}}$          |
+| Geschwindigkeit |  $v$   | Meter pro Sekunde | $\mathrm{\frac{m}{s}}$ |         $\mathrm{1\frac{m}{s}}$          |
