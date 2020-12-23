@@ -1,1 +1,1 @@
-$\mathrm{r_s=\frac{1}{m_{ges}} \sum}$
+$\mathrm{r_s=\frac{1}{m_{ges}}\cdot\sum{x}{y}{z}}$
