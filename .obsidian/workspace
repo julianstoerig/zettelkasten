@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Verschiebung.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
+                "file": "✒ Arbeitsplatz/Verschiebung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md"
+                "file": "✒ Arbeitsplatz/Verschiebung.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
+                "file": "✒ Arbeitsplatz/Verschiebung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
     "✒ Arbeitsplatz/Untitled.md",
+    "✒ Arbeitsplatz/Translation.md",
+    "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
     "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/SI-Basiseinheiten.md",
     "✒ Arbeitsplatz/Größen und Einheiten.md",
     "✒ Arbeitsplatz/SI-System.md",
     "Größen und Einheiten.md",
-    "Hämorrhagisches-Fieber.md",
-    "✒ Arbeitsplatz/Abgeleitete Einheiten.md"
+    "Hämorrhagisches-Fieber.md"
   ]
 }
