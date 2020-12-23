@@ -1,7 +1,7 @@
 Der **Masseschwerpunkt**/**Schwerpunkt**/**Massenmittelpunkt** gibt den Punkt eines Körpers an, auf den Kraft ausgeübt werden kann, ohne die Rotation des Körpers zu verändern. Berechnet wird er über Die den Durchschnitt der Positionen aller Teile des Körpers, gewichtet durch deren Masse.
 
 $$
-\mathrm{\vec{r_s}}
+\mathrm{\vec{r_s}=\frac{1}{m_{ges}}\cdot\sum_{i=1}^n{\vec}}
 $$
 
 $$
