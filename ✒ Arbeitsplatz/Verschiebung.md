@@ -4,8 +4,8 @@ $$
 \vec{AB}=\vec{B}-\vec{A}
 $$
 
-Für eindimensionale Bewegungen ist er daher
+Für eindimensionale Bewegungen ist die Verschiebung $\Delta{x}$ daher
 
 $$
-\Delta
+\Delta{x}=x_{Ende}-x_{Anfang}
 $$
