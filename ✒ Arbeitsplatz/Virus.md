@@ -8,9 +8,11 @@ Sie sind zwischen $2,4-20 \cdot 10^{-8}m$  groß.
 
 Sie verfügen über ein Genom nur aus einer Art von [[Nukleinsäure]] besteht.
 
-Einige wenige Viren verfügen außerdem noch über Replikationsproteine, wie z.B. [[✒ Arbeitsplatz/HIV|HI-Viren]], an deren DNA-Strängen jeweils ein [[Reverse Transkriptase]] hängt.
+Einige wenige **Viren** verfügen außerdem noch über Replikationsproteine, wie z.B. [[✒ Arbeitsplatz/HIV|HI-Viren]], an deren DNA-Strängen jeweils ein [[Reverse Transkriptase]] hängt.
 
-Dieses ist vom [[✒ Arbeitsplatz/Kapsid]], Struktur aus kleinen regelmäßigen Proteinbausteinen, den [[Kapsomeren]], umgeben.
+Dieses Genom ist vom [[✒ Arbeitsplatz/Kapsid]], einer Struktur aus kleinen regelmäßigen Proteinbausteinen, den [[Kapsomeren]], umgeben.
+
+Bei manchen **Viren** ist
 
  ![](https://remnote-user-data.s3.amazonaws.com/dYW4dXFjlqbRiZ7wy-AvkqvGB4Lm7-v67q5_mTAwsq6J-7KyVeenHy_32MjPwA7dPdWy-kCyJdE8yI1A05kOQ-lPd4LySJd1ul1AP7QOjC4U9Cf5C0nIS6kHPoCYt8ty)
  
