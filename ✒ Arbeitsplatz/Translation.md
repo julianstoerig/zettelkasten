@@ -12,4 +12,4 @@ $$
 \Delta{x}=x_{Ende}-x_{Anfang}
 $$
 
-**Geschwindigkeit** gibt 
+**Geschwindigkeit** gibt an wie viel Zeit $t$ ein Körper benötigt, um eine Strecke $x$ zurückzulegen
