@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Physik.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physik.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Physik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -144,6 +151,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Physik.md",
     "📂Unfertiges/Mikrobiologie/Sklerotien.md",
     "📂Unfertiges/Mikrobiologie/Porine.md",
     "📂Unfertiges/Mikrobiologie/Lysozym.md",
@@ -152,7 +160,6 @@
     "📂Unfertiges/Mikrobiologie/Endosporen.md",
     "📂Unfertiges/Mikrobiologie/einfache Symmetrie.md",
     "✒ Arbeitsplatz/Bacillus anthracis.md",
-    "✒ Arbeitsplatz/Virus.md",
-    "✒ Arbeitsplatz/HIV.md"
+    "✒ Arbeitsplatz/Virus.md"
   ]
 }
