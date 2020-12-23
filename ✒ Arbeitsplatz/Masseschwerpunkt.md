@@ -1,1 +1,1 @@
-$$\mathrm{\vec{r_s}=\sum_{i=1}^{n}{\vec{r_i}}}$$
+Der **Massensch**$$\mathrm{\vec{r_s}=\sum_{i=1}^{n}{\vec{r_i}}}$$
