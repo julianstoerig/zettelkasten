@@ -2,7 +2,6 @@
 
 ---
 
-
 Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Zeit.
 
 ## Arten der Bewegung
