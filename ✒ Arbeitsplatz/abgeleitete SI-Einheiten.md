@@ -8,5 +8,6 @@ $$
 1\mathrm{l} = 1\mathrm{dm}\cdot1\mathrm{dm}\cdot1\mathrm{dm}=1\mathrm{dm}^3
 $$
 
-| Größe | Symbol | Einheit | Einheitenzeichen | 
-| ----- | ------ | ------- | ---------------- |
+| Größe   | Symbol       | Einheit   | Einheitenzeichen   | Definition der Einheit   |
+| :-----: | :------:     | :-------: | :----------------: | -:---------------------: |
+| Volumen | $\mathrm{V}$ | Liter     | l                  | $1\mathrm{l}$            |
