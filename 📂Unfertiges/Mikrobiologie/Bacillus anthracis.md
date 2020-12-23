@@ -1,6 +1,6 @@
 - gram+
 - Stäbchen
-- bildet [Endosporen](Endosporen.md) (hier: eigentliche Krankheitserreger!)
+- bildet [📂Unfertiges/Mikrobiologie/Endosporen](%F0%9F%93%82Unfertiges/Mikrobiologie/Endosporen.md) (hier: eigentliche Krankheitserreger!)
 - aerob
 - im Boden
 - Auslöser für Krankheitsbild: Anthratoxin-Komplex (besteht aus drei Proteinen)

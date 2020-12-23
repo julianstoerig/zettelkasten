@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "efa131327f9b2b4f",
+        "id": "995b53c66742f8af",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Virus.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Virus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "✒ Arbeitsplatz/Virus.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +97,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Virus.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -151,15 +144,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📂Unfertiges/Mikrobiologie/Sklerotien.md",
+    "📂Unfertiges/Mikrobiologie/Porine.md",
+    "📂Unfertiges/Mikrobiologie/Lysozym.md",
+    "📂Unfertiges/Mikrobiologie/Heterocysten.md",
+    "📂Unfertiges/Mikrobiologie/Flechten.md",
+    "📂Unfertiges/Mikrobiologie/Endosporen.md",
+    "📂Unfertiges/Mikrobiologie/einfache Symmetrie.md",
+    "✒ Arbeitsplatz/Bacillus anthracis.md",
     "✒ Arbeitsplatz/Virus.md",
-    "✒ Arbeitsplatz/HIV.md",
-    "✒ Arbeitsplatz/Virushülle.md",
-    "Oxidationsmittel.md",
-    "✒ Arbeitsplatz/Pseuodplasmodium.md",
-    "✒ Arbeitsplatz/Reverse Transkriptase.md",
-    "✒ Arbeitsplatz/Reverse-Transkriptase.md",
-    "✒ Arbeitsplatz/reverse Transkription.md",
-    "✒ Arbeitsplatz/Opisthokonta.md",
-    "✒ Arbeitsplatz/Kapsid.md"
+    "✒ Arbeitsplatz/HIV.md"
   ]
 }

@@ -13,7 +13,7 @@ Meine Notizen sind geordnet, in **Domänen**.
 
 [[Physik]]
 
-[[Mikrobiologie]]
+[[📂Unfertiges/Mikrobiologie/Mikrobiologie]]
 
 [[Zoologie]]
 

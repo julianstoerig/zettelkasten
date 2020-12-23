@@ -25,4 +25,4 @@
                             - Humanpathogene Bakterien:
                                 - Ausgewählte Vertreter: 
                                     - Gram-negativ:
-                                        - [Legionella pneumoniae](Legionella-pneumoniae.md)
+                                        - [Legionella pneumoniae](%F0%9F%93%82Unfertiges/Mikrobiologie/Legionella-pneumoniae.md)

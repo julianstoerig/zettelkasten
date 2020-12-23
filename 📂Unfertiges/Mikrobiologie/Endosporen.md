@@ -48,10 +48,10 @@
 	- Zellteilung: vegetative Zellen
 --------------------- Portal ---------------------
 	-  __Bacillus anthracis__  #Stub
-		- bildet [Endosporen](Endosporen.md) (hier: eigentliche Krankheitserreger!)
+		- bildet [📂Unfertiges/Mikrobiologie/Endosporen](%F0%9F%93%82Unfertiges/Mikrobiologie/Endosporen.md) (hier: eigentliche Krankheitserreger!)
 	- Biologie Bachelor
 		- Mikrobiologie
 			- Prokaryoten
 				- Bakterien
 					- Zelldifferenzierung (spezielle Formen von Zellen):
-						- [Endosporen](Endosporen.md) als Dauerform gram+ Bakterien
+						- [📂Unfertiges/Mikrobiologie/Endosporen](%F0%9F%93%82Unfertiges/Mikrobiologie/Endosporen.md) als Dauerform gram+ Bakterien

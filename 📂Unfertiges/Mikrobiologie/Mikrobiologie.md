@@ -8,8 +8,8 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 	- Mikrobiologie:: Der Teil der Biologie, der sich mit Mikroorganismen beschäftigt
 	- Mikroorganismien vs Makroorganismen:
 		- ![](https://remnote-user-data.s3.amazonaws.com/7Su3_KvL1i67BtJRkAZaTHw5HejTYVeFKm-Xa_OQEjBqvjbqXjUYOtOdu35AAt-oqPC9B6JSDh18ez35WxRL2bw_PhfQc_8QfQA3i7SVMjkUmOm3z_RCx3vFkph-x44X)
-		- [[Mikroorganismus]]
-- [[Virus]]
+		- [[📂Unfertiges/Mikrobiologie/Mikroorganismus]]
+- [[📂Unfertiges/Mikrobiologie/Virus]]
 	- 
 - Prokaryoten
 	- Bakterien
@@ -70,7 +70,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 						- verschiedene Aufgaben
 				- Stabilisierung
 					- Hydrophobe Einlagerungen:
-						- Prokaryoten: [Hopanoide](Hopanoide.md)
+						- Prokaryoten: [📂Unfertiges/Mikrobiologie/Hopanoide](%F0%9F%93%82Unfertiges/Mikrobiologie/Hopanoide.md)
 						- Eukaryoten: echte Sterole
 							- ![](https://remnote-user-data.s3.amazonaws.com/r32EhUJTTqvSprPO_glhlcY60yVpf-PDcqVogrdDIku93kNaXMp9xFxdqKMffMuHI2-Li4MvYpOzhY4WIWtJtozn-NRZicqjr1oopNoLrntmv_hs_BDPDMRVqdxENr2d)
 							- Pilze: Ergosterol
@@ -96,8 +96,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 						- Gramnegative [Bakterien](Bakterien.md): bis zu 5
 						- Grampositive [Bakterien](Bakterien.md): bis zu 40
 				- Spaltung der 1,4-β-glykosydischen Bindung durch:
-					- Lysierung der Zelle$$ \rightarrow $$ Zelle platzt
-					- Entstehung eines [Protoplasten](Protoplasten.md)
+					- Lysierung der Zelle$$ \rightarrow $$ Zelle plat[📂Unfertiges/Mikrobiologie/Protoplasten](%F0%9F%93%82Unfertiges/Mikrobiologie/Protoplasten.md)toplasten](Protoplasten.md)
 		- Oberflächenstruktur
 			- Kapseln, Schleime:
 				- ![](http://www.heynkes.de/biologie/Bilder/Average_prokaryote_cell496x404.svg)  
@@ -127,8 +126,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 					- Bildung von Biofilmen
 				- Pili
 					- ![](https://www.quia.com/files/quia/users/lmcgee/Bacteria/9AP_ch27/conjugation.gif)  
-					- länger als [Fimbrien](Biologie-Bachelor/Mikrobiologie/Prokaryoten/Bakterien/Oberflächenstruktur/Fimbrien,-Pili:/Fimbrien.md) (bis zu $$ 1\cdot10^{-5}m $$ lang
-					- $$ 1 $$ bis$$ 2 $$ pro Zelle
+					- länger als [Fimbrien](Biologie-Bachelor/Mikrobiologie/Prokaryoten/Bakterien/Oberflächenstruktur/Fimbrien,-Pili:/Fimbrien.md) (bis zu $$ 1\[📂Unfertiges/Mikrobiologie/Konjugation](%F0%9F%93%82Unfertiges/Mikrobiologie/Konjugation.md)$ 1 $$ bis$$ 2 $$ pro Zelle
 					- [Konjugation](Konjugation.md): Herstellung Zell-Zell-Kontakte
 		- Unterschiede zwischen gram+ und gram- [Bakterien](Bakterien.md) #Bakterien
 			- Gram+
@@ -150,11 +148,11 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- [Polymere](Polymere.md)  als Kohlenstoff-Speicher (C-Speicher):
 					- bei C-Überschuss werden [Polymere](Polymere.md) synthetisiert & für die Energiegewinnung u. Biosynthesen genutzt, z. B. Poly-β-hydroxybuttersäure (PHB), Polyhydroxyalkanoat (PHA)&  Glykogen
 				- Polyphosphate:
-					- werden bei Phosphatüberschuss synthetisiert & sind Phosphatquelle für Nukleinsäuren oder für Pospholipidbiosynthesen
+					- werden bei Phosphatüberschuss synthetisiert & sind Phospha[📂Unfertiges/Mikrobiologie/Magnetosomen](%F0%9F%93%82Unfertiges/Mikrobiologie/Magnetosomen.md)für Pospholipidbiosynthesen
 			- [Magnetosomen](Magnetosomen.md):
 				- Funktion: Bewegung abwärts zu Sedimentschichten mit geringerer $$ O_2 $$-Konzentration
 				- vor allem bei aquatischen MO (Bsp.:  __Magnetospirillum magnetotactium__ )
-			- [Bakteriengeißeln](Bakteriengeißeln.md)
+			- [📂Unfertiges/Mikrobiologie/Bakteriengeißeln](%F0%9F%93%82Unfertiges/Mikrobiologie/Bakteriengei%C3%9Feln.md)
 		- Ökologische Bedeutung der Beweglichkeit von Zellen:
 			- ermöglicht Kontakt mit anderen Zellen
 			- rasche & dichte Besiedelung der Umgebung
@@ -166,7 +164,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- Hydrotaxis:: Bewegung als Reaktion auf Wasser
 		- Zelldifferenzierung (spezielle Formen von Zellen):
 			- [Endosporen](Endosporen.md) als Dauerform gram+ Bakterien
-			- [Heterocysten](Heterocysten.md) als Dauerform von Cyanobakterien
+			- [📂Unfertiges/Mikrobiologie/Heterocysten](%F0%9F%93%82Unfertiges/Mikrobiologie/Heterocysten.md) als Dauerform von Cyanobakterien
 		- Nährstoffaufnahme:
 			- ![](https://remnote-user-data.s3.amazonaws.com/jjUMlFdGacsRkaZU4dKiOTU7phSYBSdauZoTOF_HH-0WC6gDrHokZsUj-m1tTUHgvOgr6sP8CqZfeMuHC8N7i8aAWFA_b3Fm23AFf5yOVcAYDgqCPdRbYpA7zASiCqSR)  
 			- Exoenzyme: werden aus er Zelle ausgeschieden
@@ -276,7 +274,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 						- [Legionella pneumoniae](Legionella-pneumoniae.md)
 						- [Helicobacter pylori](Helicobacter-pylori.md) __ __ 
 				- Gram-positiv: ____ 
-					- [Bacillus anthracis](Bacillus%20anthracis.md)
+					- [📂Unfertiges/Mikrobiologie/Bacillus anthracis](%F0%9F%93%82Unfertiges/Mikrobiologie/Bacillus%20anthracis.md)
 					- Gattung __ __ [Clostridium](Clostridium.md)
 					- Antibiotikaresistenz
 						- Mikrobielle Antibiotikabildung in der Natur
@@ -349,8 +347,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 			- Geißeln
 				- Bewegung durch** Rotation**
 				- dünner als bakterielle Geißeln
-				- keine Verwandtschaft  mit bakteriellem Flagellin
-				- anderer Geißelmotor als [Bakteriengeißeln](Bakteriengeißeln.md) (protonenmotorische Kraft): Energie kommt direkt von [ATP](ATP.md)
+				- keine Verwandts[📂Unfertiges/Mikrobiologie/Bakteriengeißeln](%F0%9F%93%82Unfertiges/Mikrobiologie/Bakteriengei%C3%9Feln.md) anderer Geißelmotor als [Bakteriengeißeln](Bakteriengeißeln.md) (protonenmotorische Kraft): Energie kommt direkt von [ATP](ATP.md)
 		- Viren der Archaea
 			- DNA-Viren (meist ds DNA)
 			- enorme Diversität
@@ -615,7 +612,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- kann während Bewegung Nahrung aufnehmen
 			- amöboide Bewegung aufgrund Cytoplasmaströmung
 		- ·   __ Beispiel: Physarum __ (Gattung)
-		- Zelluläre Schleimpilze ( __Acrasiomycota__ )
+[📂Unfertiges/Mikrobiologie/Pseuodplasmodium](%F0%9F%93%82Unfertiges/Mikrobiologie/Pseuodplasmodium.md)ycota__ )
 			- Masse aus Einzelzellen  
 			- bilden [Pseuodplasmodium](Pseuodplasmodium.md)  
 			- Bsp.  __Dictyostelium  __ (Gattung)

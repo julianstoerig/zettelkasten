@@ -32,4 +32,4 @@
                             - Humanpathogene Bakterien:
                                 - Ausgewählte Vertreter: 
                                     - Gram-negativ:
-                                        - [Helicobacter pylori](Helicobacter-pylori.md) __ __ 
+                                        - [Helicobacter pylori](%F0%9F%93%82Unfertiges/Mikrobiologie/Helicobacter-pylori.md) __ __ 
