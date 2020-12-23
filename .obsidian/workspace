@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📂Unfertiges/Mikrobiologie/Kapsid.md",
+            "file": "chemisches Element.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2020-12-21",
+                "query": "tag:#2020-12-13",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Kapsid.md",
+                "file": "chemisches Element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Kapsid.md"
+                "file": "chemisches Element.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Kapsid.md",
+                "file": "chemisches Element.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -150,15 +150,15 @@
     "width": 343
   },
   "lastOpenFiles": [
-    "📂Unfertiges/Mikrobiologie/Kapsid.md",
-    "📂Unfertiges/Mikrobiologie/einfache Symmetrie.md",
-    "✒ Arbeitsplatz/SI-System.md",
-    "📂Unfertiges/Mikrobiologie/Virushülle.md",
-    "SI-Basiseinheiten.md",
-    "Abgeleitete Einheiten.md",
-    "Größen und Einheiten.md",
-    "✒ Arbeitsplatz/Untitled.md",
-    "📂Unfertiges/Mikrobiologie/Mikroorganismus.md",
-    "Abgeleitete SI-Einheiten.md"
+    "chemisches Element.md",
+    "chemische Verbindung.md",
+    "Chemie.md",
+    "allgemeine und Anorganische Chemie.md",
+    "Aerosol.md",
+    "Atom.md",
+    "Quantenzahlen.md",
+    "Pauli-Prinzip.md",
+    "Orbital.md",
+    "Hauptquantenzahl n.md"
   ]
 }

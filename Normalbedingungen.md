@@ -1,4 +1,4 @@
-#Fach-allgemeine-und-anorganische-Chemie  #Semester-1 #2020-12-17
+#Fach-allgemeine-und-anorganische-Chemie  #Semester-1
 
 ---
 
