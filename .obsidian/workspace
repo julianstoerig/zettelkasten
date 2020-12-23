@@ -10,29 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Größen und Einheiten.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e637f412cf379ba3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SI-Basiseinheiten.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "9ef020a362cb98ef",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Abgeleitete Einheiten.md",
+            "file": "📂Unfertiges/Mikrobiologie/Kapsid.md",
             "mode": "source"
           }
         }
@@ -62,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#2020-12-21",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Größen und Einheiten.md",
+                "file": "📂Unfertiges/Mikrobiologie/Kapsid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Größen und Einheiten.md"
+                "file": "📂Unfertiges/Mikrobiologie/Kapsid.md"
               }
             }
           },
@@ -125,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Größen und Einheiten.md",
+                "file": "📂Unfertiges/Mikrobiologie/Kapsid.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -169,19 +147,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "lastOpenFiles": [
-    "Größen und Einheiten.md",
+    "📂Unfertiges/Mikrobiologie/Kapsid.md",
+    "📂Unfertiges/Mikrobiologie/einfache Symmetrie.md",
+    "✒ Arbeitsplatz/SI-System.md",
+    "📂Unfertiges/Mikrobiologie/Virushülle.md",
     "SI-Basiseinheiten.md",
     "Abgeleitete Einheiten.md",
-    "✒ Arbeitsplatz/SI-System.md",
+    "Größen und Einheiten.md",
     "✒ Arbeitsplatz/Untitled.md",
     "📂Unfertiges/Mikrobiologie/Mikroorganismus.md",
-    "Abgeleitete SI-Einheiten.md",
-    "✒ Arbeitsplatz/Internationales Einheitensystem.md",
-    "Physik.md",
-    "📂Unfertiges/Mikrobiologie/Sklerotien.md"
+    "Abgeleitete SI-Einheiten.md"
   ]
 }

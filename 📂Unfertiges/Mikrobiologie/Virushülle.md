@@ -1,4 +1,4 @@
-#Fach-Mikrobiologie  #Semester-1 #2020-12-23
+#Fach-Mikrobiologie  #Semester-1
 
 ---
 
