@@ -1,1 +1,1 @@
-$$\mathrm{r_s=\frac{1}{m_{ges}}\cdot\sum_{i=1}^{n}{r_i\cdot m_i}}$$
+$$\mathrm{\vec{r_s}=\frac{1}{m_{ges}}\cdot\sum_{i=1}^{n}{{r_i}}$$
