@@ -1,1 +1,6 @@
-Der **Massensch**$$\mathrm{\vec{r_s}=\sum_{i=1}^{n}{\vec{r_i}}}$$
+Der **Masseschwerpunkt**/**Schwerpunkt**/**Massenmittelpunkt**
+
+
+$$
+\mathrm{\vec{r_s}=\sum_{i=1}^{n}{\vec{r_i}}}
+$$
