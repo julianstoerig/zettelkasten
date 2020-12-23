@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Internationales Einheitensystem.md",
+            "file": "✒ Arbeitsplatz/SI-System.md",
             "mode": "source"
           }
         }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Internationales Einheitensystem.md",
+                "file": "✒ Arbeitsplatz/SI-System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Internationales Einheitensystem.md"
+                "file": "✒ Arbeitsplatz/SI-System.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Internationales Einheitensystem.md",
+                "file": "✒ Arbeitsplatz/SI-System.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
