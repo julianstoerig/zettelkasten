@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physik.md",
+            "file": "Größen und Einheiten.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik.md",
+                "file": "Größen und Einheiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik.md"
+                "file": "Größen und Einheiten.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physik.md",
+                "file": "Größen und Einheiten.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -151,6 +151,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Größen und Einheiten.md",
     "Physik.md",
     "📂Unfertiges/Mikrobiologie/Sklerotien.md",
     "📂Unfertiges/Mikrobiologie/Porine.md",
@@ -159,7 +160,6 @@
     "📂Unfertiges/Mikrobiologie/Flechten.md",
     "📂Unfertiges/Mikrobiologie/Endosporen.md",
     "📂Unfertiges/Mikrobiologie/einfache Symmetrie.md",
-    "✒ Arbeitsplatz/Bacillus anthracis.md",
-    "✒ Arbeitsplatz/Virus.md"
+    "✒ Arbeitsplatz/Bacillus anthracis.md"
   ]
 }
