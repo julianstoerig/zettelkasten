@@ -6,11 +6,22 @@
       {
         "id": "efa131327f9b2b4f",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/Virus.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "113914ab0a89a2af",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Virushülle.md",
             "mode": "source"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Virus.md",
+                "file": "✒ Arbeitsplatz/Virushülle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Virus.md"
+                "file": "✒ Arbeitsplatz/Virushülle.md"
               }
             }
           },
@@ -103,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Virus.md",
+                "file": "✒ Arbeitsplatz/Virushülle.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -151,6 +162,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Virushülle.md",
     "✒ Arbeitsplatz/Virus.md",
     "✒ Arbeitsplatz/Pseuodplasmodium.md",
     "✒ Arbeitsplatz/Reverse Transkriptase.md",
@@ -159,7 +171,6 @@
     "✒ Arbeitsplatz/Opisthokonta.md",
     "✒ Arbeitsplatz/Kapsid.md",
     "✒ Arbeitsplatz/allgemeine und Anorganische Chemie.md",
-    "Find unlinked files plugin output.md",
-    "📚 Literatur/undefined - Anmerkungen herauskopieren (20.12.2020, 150353)Accepted 4 August 2020 (Mulligan et al 2020589)Published online 1.md"
+    "Find unlinked files plugin output.md"
   ]
 }
