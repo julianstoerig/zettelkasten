@@ -4,14 +4,7 @@
 
 # Größen und Einheiten
 
-## SI-System
-
-**S**ysteme **i**nternational d'unite
-
-[[SI-Basiseinheiten]]
-### [[Abgeleitete Einheiten]]
-
-
+[[Internationales Einheitensystem]]
 
 ## Grundlegende Formattierung
 

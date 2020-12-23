@@ -15,9 +15,20 @@
         }
       },
       {
-        "id": "18624057def5d049",
+        "id": "1fb04808676795f2",
         "type": "leaf",
         "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Internationales Einheitensystem.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "18624057def5d049",
+        "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
@@ -89,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abgeleitete Einheiten.md",
+                "file": "✒ Arbeitsplatz/Internationales Einheitensystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abgeleitete Einheiten.md"
+                "file": "✒ Arbeitsplatz/Internationales Einheitensystem.md"
               }
             }
           },
@@ -114,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Abgeleitete Einheiten.md",
+                "file": "✒ Arbeitsplatz/Internationales Einheitensystem.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -162,15 +173,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Abgeleitete Einheiten.md",
+    "✒ Arbeitsplatz/Internationales Einheitensystem.md",
     "Größen und Einheiten.md",
+    "✒ Arbeitsplatz/Untitled.md",
+    "Abgeleitete Einheiten.md",
     "Physik.md",
     "📂Unfertiges/Mikrobiologie/Sklerotien.md",
     "📂Unfertiges/Mikrobiologie/Porine.md",
     "📂Unfertiges/Mikrobiologie/Lysozym.md",
     "📂Unfertiges/Mikrobiologie/Heterocysten.md",
-    "📂Unfertiges/Mikrobiologie/Flechten.md",
-    "📂Unfertiges/Mikrobiologie/Endosporen.md",
-    "📂Unfertiges/Mikrobiologie/einfache Symmetrie.md"
+    "📂Unfertiges/Mikrobiologie/Flechten.md"
   ]
 }
