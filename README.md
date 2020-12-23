@@ -11,7 +11,7 @@ Meine Notizen sind geordnet, in **Domänen**.
 
 ## Domänen:
 
-[[Physik]]
+[[✒ Arbeitsplatz/Physik]]
 
 [[📂Unfertiges/Mikrobiologie/Mikrobiologie]]
 

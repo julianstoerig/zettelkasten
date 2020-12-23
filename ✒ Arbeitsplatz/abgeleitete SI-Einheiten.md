@@ -10,4 +10,4 @@ $$
 
 | Größe   | Symbol       | Einheit   | Einheitenzeichen   | Definition der Einheit   |
 | :-----: | :------:     | :-------: | :----------------: | -:---------------------: |
-| Volumen | $\mathrm{V}$ | Liter     | l                  | $1\mathrm{l}$            |
+| Volumen | $\mathrm{V}$ | Liter     | l                  | $\mathrm{1l=1dm^3=1dm\cdot1dm\cdot1dm}$            |
