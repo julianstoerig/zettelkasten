@@ -20,7 +20,7 @@ $$
 
 | Faktor     | SI-Präfix | Symbol         | Beispiel                                                                     |
 | ---------- | --------- | -------------- | ---------------------------------------------------------------------------- |
-| $10^{12}$  | Tera-     | $\mathrm{T}$   | ($\mathrm{Tbyte}$; nicht ganz korrekt da basis $2$ System, nicht basis $10$) |
+| $10^{12}$  | Tera-     | $\mathrm{T}$   | ($\approx\mathrm{Tbyte}$: nicht ganz, da $2^x$ System, nicht $10^x$) |
 | $10^{9}$   | Giga-     | $\mathrm{G}$   | $\mathrm{GW}$                                                                |
 | $10^{6}$   | Mega-     | $\mathrm{M}$   | $\mathrm{MJ}$                                                                |
 | $10^{3}$   | kilo-     | $\mathrm{k}$   | $\mathrm{km}$                                                                |
