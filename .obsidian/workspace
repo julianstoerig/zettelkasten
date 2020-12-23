@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "995b53c66742f8af",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Größen und Einheiten.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "1fb04808676795f2",
         "type": "leaf",
         "active": true,
@@ -32,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Abgeleitete SI-Einheiten.md",
+            "file": "Abgeleitete Einheiten.md",
             "mode": "source"
           }
         }
@@ -174,14 +163,14 @@
   },
   "lastOpenFiles": [
     "✒ Arbeitsplatz/SI-System.md",
-    "Abgeleitete Einheiten.md",
-    "✒ Arbeitsplatz/Internationales Einheitensystem.md",
+    "📂Unfertiges/Mikrobiologie/Mikroorganismus.md",
     "Größen und Einheiten.md",
+    "Abgeleitete Einheiten.md",
+    "Abgeleitete SI-Einheiten.md",
+    "✒ Arbeitsplatz/Internationales Einheitensystem.md",
     "✒ Arbeitsplatz/Untitled.md",
     "Physik.md",
     "📂Unfertiges/Mikrobiologie/Sklerotien.md",
-    "📂Unfertiges/Mikrobiologie/Porine.md",
-    "📂Unfertiges/Mikrobiologie/Lysozym.md",
-    "📂Unfertiges/Mikrobiologie/Heterocysten.md"
+    "📂Unfertiges/Mikrobiologie/Porine.md"
   ]
 }
