@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1fb04808676795f2",
+        "id": "90a750b195018366",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📂Unfertiges/Mikrobiologie/Porine.md",
-            "mode": "source"
+            "file": "Find unlinked files plugin output.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Stub",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -69,21 +69,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c32b0115bb3cc1cc",
+        "id": "2b953da1e3e5e1da",
         "type": "tabs",
         "children": [
           {
-            "id": "70a9ce091072f366",
+            "id": "507982df27520917",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "localgraph",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Porine.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "file": "Find unlinked files plugin output.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3024290951396638
+                }
               }
             }
           },
@@ -93,46 +107,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Porine.md"
+                "file": "Find unlinked files plugin output.md"
               }
             }
           },
           {
-            "id": "0850595a065c39aa",
+            "id": "70a9ce091072f366",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "backlink",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Porine.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4300579991855727
-                }
+                "file": "Find unlinked files plugin output.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "aa7f484f724bb724",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "d5aea1c6de186752",
             "type": "leaf",
@@ -150,15 +143,15 @@
     "width": 343
   },
   "lastOpenFiles": [
+    "Find unlinked files plugin output.md",
+    "allg.-und-anorg.-Chemie/allg. und anorg. Chemie Notizen für Prüfung 18.12.md",
+    "Stoff.md",
+    "Reinstoffe.md",
+    "chemische Verbindung.md",
+    "SI-Basiseinheiten.md",
+    "✒ Arbeitsplatz/SI-System.md",
     "📂Unfertiges/Mikrobiologie/Porine.md",
     "📂Unfertiges/Mikrobiologie/Protoplasten.md",
-    "README.md",
-    "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
-    "Physik der Fortbewegung.md",
-    "Physik.md",
-    "Größen und Einheiten.md",
-    "Zoologie.md",
-    "📂Unfertiges/Mikrobiologie/Sklerotien.md",
-    "Metazoa.md"
+    "README.md"
   ]
 }
