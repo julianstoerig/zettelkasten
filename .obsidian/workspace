@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "54218317f62e9e1b",
+        "id": "e526a01554759185",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
+            "file": "✒ Arbeitsplatz/Translation.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
+                "file": "✒ Arbeitsplatz/Translation.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md"
+                "file": "✒ Arbeitsplatz/Translation.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
+                "file": "✒ Arbeitsplatz/Translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
