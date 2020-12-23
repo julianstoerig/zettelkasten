@@ -4,7 +4,7 @@ $$
 \mathrm{\vec{r_s}=\frac{1}{m_{ges}}\cdot\sum_{i=1}^n\vec{r_i}\cdot{m_i}}
 $$
 
-Nehmen wir an, der Körper besteht aus einer definierten Anzahl an Teilchen mit jeweils identischem Gewicht, so lässt sich die Formel vereinfachen, um die G
+Nehmen wir an, der Körper besteht aus einer definierten Anzahl an Teilchen mit jeweils identischem Gewicht, so lässt sich die Formel vereinfachen, um die Gewichtung durch die Masse der Teilchen zu kürzen.
 
 $$
 \mathrm{\vec{r_s}=\sum_{i=1}^n\vec{r_i}}
