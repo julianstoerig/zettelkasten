@@ -17,7 +17,6 @@
       {
         "id": "1fb04808676795f2",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -29,10 +28,11 @@
       {
         "id": "18624057def5d049",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Abgeleitete Einheiten.md",
+            "file": "Abgeleitete SI-Einheiten.md",
             "mode": "source"
           }
         }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/SI-System.md",
+                "file": "Abgeleitete SI-Einheiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/SI-System.md"
+                "file": "Abgeleitete SI-Einheiten.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/SI-System.md",
+                "file": "Abgeleitete SI-Einheiten.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -173,15 +173,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Abgeleitete Einheiten.md",
+    "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/Internationales Einheitensystem.md",
     "Größen und Einheiten.md",
     "✒ Arbeitsplatz/Untitled.md",
-    "Abgeleitete Einheiten.md",
     "Physik.md",
     "📂Unfertiges/Mikrobiologie/Sklerotien.md",
     "📂Unfertiges/Mikrobiologie/Porine.md",
     "📂Unfertiges/Mikrobiologie/Lysozym.md",
-    "📂Unfertiges/Mikrobiologie/Heterocysten.md",
-    "📂Unfertiges/Mikrobiologie/Flechten.md"
+    "📂Unfertiges/Mikrobiologie/Heterocysten.md"
   ]
 }
