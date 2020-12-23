@@ -14,6 +14,6 @@ $$
 
 **Geschwindigkeit** gibt an wie viel Zeit $t$ ein Körper benötigt, um eine Strecke $x$ zurückzulegen. Man verwendet gebräuchlich die **mittlere Geschwindigkeit**, um die Zeit zu ermitteln, die ein Körper für eine Strecke benötigt. Sie ist definiert als $v(t)_{mittel}=\frac{s_{ges}}{t_{ges}}$.
 
-Die Geschwindigkeit zum bestimmten Zeitpunkt $ ist die **Momentangeschwindigkeit**: $v(t)_{moment}=\frac{dx}{dt}=x'(t)$.
+Die Geschwindigkeit zum bestimmten Zeitpunkt $t$ ist die **Momentangeschwindigkeit**: $v(t)_{moment}=\frac{dx}{dt}=x'(t)$.
 
-Die **Beschleunigung** $a=\frac{dv}{dt}=v'(t)=x''(t)$ gibt die Änderung der Geschwindigkeit zum Zeitpunkt 
+Die **Beschleunigung** $a=\frac{dv}{dt}=v'(t)=x''(t)$ gibt die Änderung der Geschwindigkeit zum Zeitpunkt $t$ an.
