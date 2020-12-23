@@ -4,7 +4,7 @@
 
 # Größen und Einheiten
 
-Das Einheitensystem wissenschaftlichen Arbeitens ist weltweit das [[✒ Arbeitsplatz/SI-System]]
+Das Einheitensystem wissenschaftlichen Arbeitens ist weltweit das [[✒ Arbeitsplatz/SI-System]].
 
 ## Grundlegende Formattierung
 

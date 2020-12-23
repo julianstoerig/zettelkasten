@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
+            "file": "✒ Arbeitsplatz/Untitled.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md"
+                "file": "✒ Arbeitsplatz/Untitled.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,15 +143,15 @@
     "width": 343
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Untitled.md",
+    "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
+    "✒ Arbeitsplatz/Größen und Einheiten.md",
+    "✒ Arbeitsplatz/SI-System.md",
+    "Größen und Einheiten.md",
+    "Hämorrhagisches-Fieber.md",
     "✒ Arbeitsplatz/Abgeleitete Einheiten.md",
     "✒ Arbeitsplatz/SI-Basiseinheiten.md",
-    "✒ Arbeitsplatz/SI-System.md",
     "SI-Basiseinheiten.md",
-    "Abgeleitete Einheiten.md",
-    "Find unlinked files plugin output.md",
-    "allg.-und-anorg.-Chemie/allg. und anorg. Chemie Notizen für Prüfung 18.12.md",
-    "Stoff.md",
-    "Reinstoffe.md",
-    "chemische Verbindung.md"
+    "Abgeleitete Einheiten.md"
   ]
 }
