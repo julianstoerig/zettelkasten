@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "90a750b195018366",
+        "id": "c2535b6a96b55ad9",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Find unlinked files plugin output.md",
+            "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
             "mode": "preview"
           }
         }
@@ -78,13 +78,13 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Find unlinked files plugin output.md",
+                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Find unlinked files plugin output.md"
+                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Find unlinked files plugin output.md",
+                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,15 +143,15 @@
     "width": 343
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Abgeleitete Einheiten.md",
+    "✒ Arbeitsplatz/SI-Basiseinheiten.md",
+    "✒ Arbeitsplatz/SI-System.md",
+    "SI-Basiseinheiten.md",
+    "Abgeleitete Einheiten.md",
     "Find unlinked files plugin output.md",
     "allg.-und-anorg.-Chemie/allg. und anorg. Chemie Notizen für Prüfung 18.12.md",
     "Stoff.md",
     "Reinstoffe.md",
-    "chemische Verbindung.md",
-    "SI-Basiseinheiten.md",
-    "✒ Arbeitsplatz/SI-System.md",
-    "📂Unfertiges/Mikrobiologie/Porine.md",
-    "📂Unfertiges/Mikrobiologie/Protoplasten.md",
-    "README.md"
+    "chemische Verbindung.md"
   ]
 }
