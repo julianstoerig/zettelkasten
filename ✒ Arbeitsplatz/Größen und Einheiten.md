@@ -2,15 +2,13 @@
 
 ---
 
-# Größen und Einheiten
-
 Das Einheitensystem wissenschaftlichen Arbeitens ist weltweit das [[✒ Arbeitsplatz/SI-System]].
 
 ## Grundlegende Formattierung
 
 In gedruckten Dokumenten müssen Größen immer *kursiv* und Einheiten immer aufrecht geschrieben werden, um Verwechslung zu verhindern.
 
-Bsp.: Unterschied zwischen $l$ für Länge und $\mathrm{l}$ für Liter
+Bsp.: Unterschied zwischen $l$ für Länge und $\mathrm{l}$ für [[✒ Arbeitsplatz/abgeleitete SI-Einheiten|Liter]]
 
 $$
 l\cdot b\cdot h=\mathrm{l}

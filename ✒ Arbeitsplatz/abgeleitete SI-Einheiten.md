@@ -7,3 +7,6 @@ Neben den [[✒ Arbeitsplatz/SI-Basiseinheiten|Basiseinheiten]] definiert das [[
 $$
 1\mathrm{l} = 1\mathrm{dm}\cdot1\mathrm{dm}\cdot1\mathrm{dm}=1\mathrm{dm}^3
 $$
+
+| Größe | Symbol | Einheit | Einheitenzeichen | 
+| ----- | ------ | ------- | ---------------- |
