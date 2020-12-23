@@ -28,28 +28,28 @@ Replikation
 	
 	
 - besonderheit mancher Phagen
-	- Lytischer Zyklus:: sog.  __virulente Viren __ (z. B. T4-Phage), durchlaufen die[Replikation](Replikation.md) ganz normal
+	- Lytischer Zyklus:: sog.  **virulente Viren ** (z. B. T4-Phage), durchlaufen die[Replikation](Replikation.md) ganz normal
 	- Lysogener Zyklus
-		- sog.  __temperente Viren __ (z. B. λ-Phage)
+		- sog.  **temperente Viren ** (z. B. λ-Phage)
 		- [Adsorption](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/Adsorption.md)
 		- [Penetration](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/Penetration.md)
-		- Virusgenom ( __Provirus__ ) wird in Wirtsgenom eingebaut
+		- Virusgenom ( **Provirus** ) wird in Wirtsgenom eingebaut
 		- ↻Wirtszelle teil sich
-	- durch  __Induktion__  (bestimmte Bedingungen; Aufhebung der Reprimierung) wird das Virusgenom aus dem Wirtsgenom ausgegliedert, wodurch ein lytischer Zyklus beginnt
-	- Reverse-Transkriptase-Replikation (Ausnahme)
-		- Adsorption (Virus beinhaltet virale RNA und  __Reverse Transkriptase__ , bspw. HIV)
+		- durch  **Induktion**  (bestimmte Bedingungen; Aufhebung der Reprimierung) wird das 		Virusgenom aus dem Wirtsgenom ausgegliedert, wodurch ein lytischer Zyklus beginnt
+ - Reverse-Transkriptase-Replikation (Ausnahme)
+		- Adsorption (Virus beinhaltet virale RNA und  **Reverse Transkriptase** , bspw. HIV)
 		- Penetration
-		- RT (=Reverse Transkriptase) bildet durch reverse  __Transkription __ aus der ss(+)RNA (ss(+)RNA$$ \rightarrow$$  cDNA $$ \rightarrow $$ dsDNA) eine dsDNA
-		- dsDNAwird durch die  __Integrase__  in das Wirtszellengenom integriert
+		- RT (=Reverse Transkriptase) bildet durch reverse  **Transkription ** aus der ss(+)RNA (ss(+)RNA$$ \rightarrow$$  cDNA $$ \rightarrow $$ dsDNA) eine dsDNA
+		- dsDNAwird durch die  **Integrase**  in das Wirtszellengenom integriert
 		- ↻Wirtseigene Proteinbiosynthese und DNA Replikationsmechanismen bilden neue Virionen  
 	- besonderheit mancher Bakteriophagen
 		- ![](https://remnote-user-data.s3.amazonaws.com/Gyd_kmugmmWrXzmMJiFARN-Bk5W_wJAZyzeY3SupUcNYmRx5Ox6AmrQRD97eLpKRfrV_mBdJtsJMK_mV2QKjSRAYIMYGXy_KYXraKZ3niu1hXVTP1jVh2db10rNNPpXe)
-		- Lytischer Zyklus:: Die Phagen, sog.  __virulenten Viren__  (z.B. T4-Phage), vollziehen den vollen, normalen Ablauf der [Replikation](Replikation.md)
+		- Lytischer Zyklus:: Die Phagen, sog.  **virulenten Viren**  (z.B. T4-Phage), vollziehen den vollen, normalen Ablauf der [Replikation](Replikation.md)
 		- Lysogener Zyklus
-			- Die Phagen, sog.  __temperente Viren__  (z.B. λ-Phage), vollziehen Adsorption und Penetration der [Replikation](Replikation.md)
-			- Virusgenom( __Provirus__ ) wird ins Wirtsgenom integriert
+			- Die Phagen, sog.  **temperente Viren**  (z.B. λ-Phage), vollziehen Adsorption und Penetration der [Replikation](Replikation.md)
+			- Virusgenom( **Provirus** ) wird ins Wirtsgenom integriert
 			- Wirtszelle , teilt sich und dupliziert damit auch das Virusgenom
-			- Bestimmte Bedingungen ( __Induktion__ ; Aufheben der Reprimierung) führt zur Trennung des Virusgenoms aus dem Wirtsgenom   und leitet einen [Lytischer Zyklus](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/besonderheit-mancher-Bakteriophagen/Lytischer-Zyklus.md) ein
+			- Bestimmte Bedingungen ( **Induktion** ; Aufheben der Reprimierung) führt zur Trennung des Virusgenoms aus dem Wirtsgenom   und leitet einen [Lytischer Zyklus](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/besonderheit-mancher-Bakteriophagen/Lytischer-Zyklus.md) ein
 - Klassifikation
 	- Baltimore Schema
 		- ![](https://remnote-user-data.s3.amazonaws.com/oFs4HXoDO80VHMqMaV31JQhkhPX6McITxy1hz9KaQyuJUAqI0L17L_x5CNfOQfhc66SYg3aJNNwjjsgD6VNiPegCID_HFhl-8wlIDDSTeDEEepQlRPNx_tIxNptNYV1k)
@@ -100,7 +100,7 @@ Replikation
 					- Birne
 				- Verzweigungen
 	- Tierische Viren: Wirkung auf die Wirtszellen
-		- Transformation:: von diesen seltenen o __nkogenen Viren__  befallene Zellen können zur Tumorzelle transformiert werden
+		- Transformation:: von diesen seltenen o **nkogenen Viren**  befallene Zellen können zur Tumorzelle transformiert werden
 		- Lyse:: Tod der Zelle und Freisetzung des Virus
 		- Persistenz:: langsame Freisetzung des Virus ohne Zelltod (Bspw. Hepatitis-B-Virus, das als, Episom, eine Art Plasmid, im Zellkern verbleibt
 		- Latenz:: Virus liegt vor, schadet der Zelle jedoch nicht; Lyse ist verzögert (z. B. Herpes-simplex-Virus)
@@ -114,7 +114,7 @@ Replikation
 			- Akut:: bei Infektion mit dem Virus findet eine Konfrontation, plötzlich und meist von vergleichbar kurzer Zeitdauer, mit dem Immunsystem statt, verliert der Virus diese wird er vollständig zerstört
 			- Persistent
 				- Latent
-					- bei Erstinfektion eine [Akut](Biologie-Bachelor/Mikrobiologie/Viren/Viren-als-Krankheitserreger/Humanpathogen/Arten-der-Infektionen:/Akut.md)e Reaktion, danach bleibt das virale Genom in den Wirtszellen erhalten,  Replikation erfolgt bis zur  __Reaktivierung__ , bei der erneut eine Akute Reaktion erfolgt, gar nicht oder nur sporadisch (Bsp. Herpes-simplex-Virus)
+					- bei Erstinfektion eine [Akut](Biologie-Bachelor/Mikrobiologie/Viren/Viren-als-Krankheitserreger/Humanpathogen/Arten-der-Infektionen:/Akut.md)e Reaktion, danach bleibt das virale Genom in den Wirtszellen erhalten,  Replikation erfolgt bis zur  **Reaktivierung** , bei der erneut eine Akute Reaktion erfolgt, gar nicht oder nur sporadisch (Bsp. Herpes-simplex-Virus)
 				- Chronisch:: permanente Produktion von Viruspartikeln (Bsp. Hepatitis-B-Virus)
 				- Aufrechterhaltung einer persistenten viralen Infektion
 					- Infektion von Zelltypen die für andauernde Persistenz geeignet sind:
@@ -123,7 +123,7 @@ Replikation
 							- B-Lymphozyten
 					- Verhinderung der Apoptose(programmierter Zellsuizid als Reaktion auf Virusinfektion) infizierter Zellen (bspw. hemmt bei HIV Infektion ein Protein die Apoptose)
 					- Regulation der viralen Genexpression:
-						- Underdrückung( __Supprimation__ ) der viralen Gene, die einen [Lytischer Zyklus](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/besonderheit-mancher-Bakteriophagen/Lytischer-Zyklus.md) beginnen  ließen
+						- Underdrückung( **Supprimation** ) der viralen Gene, die einen [Lytischer Zyklus](Biologie-Bachelor/Mikrobiologie/Viren/Replikation/besonderheit-mancher-Bakteriophagen/Lytischer-Zyklus.md) beginnen  ließen
 						- Zelle überlebt und kann unendlich lang Viren produzieren
 		- Beispiele für humanpathogene Viren
 			- Beispieliste:
@@ -155,7 +155,7 @@ Replikation
 						- Genom
 							- (+)ss mRNA
 						- Struktur
-							- ![](https://remnote-user-data.s3.amazonaws.com/BFfrKCgUWtqVQJ_HbryVfoS-glw1sySXz2PpzhRRw8Mv_VTO5C2-xkEwOj0-niIX6Auv69QhXLl0qG01bOYe135R0rbYbx79ZpD2aN59ppu9X4pbguse7MKkhR1-vQ93)                                       __links:__  Querschnitt ;  __mitte: __ Draufsicht;  __rechts: __ Abbildung unter dem Mikroskop
+							- ![](https://remnote-user-data.s3.amazonaws.com/BFfrKCgUWtqVQJ_HbryVfoS-glw1sySXz2PpzhRRw8Mv_VTO5C2-xkEwOj0-niIX6Auv69QhXLl0qG01bOYe135R0rbYbx79ZpD2aN59ppu9X4pbguse7MKkhR1-vQ93)                                       **links:**  Querschnitt ;  **mitte: ** Draufsicht;  **rechts: ** Abbildung unter dem Mikroskop
 							- Viruspartikel bestehen aus einem mit einer Hülle mit Spikes umschlossenen Nukleoapsid
 						- Übertragung:
 							- Vektoren:
@@ -182,7 +182,7 @@ Replikation
 					- ![](https://remnote-user-data.s3.amazonaws.com/BOlnMH4GnYfBqfEATo53j-j6-0KGiCrzyXOlqX9cusO3_4az5D1-tX0WM9yUprxCEG3vwza9HBbv93I57xfgNq-pPIIL5TgMJQ4X7RoRaNPae2hGSVVqpJJDy7C8VeZU)  Liste aller bekannten Hepatitis-Erreger
 					- Sonderform: Hepatitis Delta Virus**: **defektes Virus, dem das Replikationsgen fehlt, er ist daher von HBV abhängig   
 					- à bei Vermehrung auf Hilfe des HBV angewiesen, da keine eigenen Gene für Replikation
-					- ![](https://remnote-user-data.s3.amazonaws.com/eXFnTRuHSh9PRhQb48Gc0Xt-liwkz4tF-_gwfi5io4IRqgy-0bakVQfwZhcd-AxQnG59LQKy6BoaQEDGhTOG9SOPh1QszUxRoMi3WsocpHXcDgLOd1m_rOsB8XutYw-u)![](https://remnote-user-data.s3.amazonaws.com/R09fD4OT0VYw9MOi2GJx04sSp_LrIsXJofBYeGS29lqqL2A15D7Qlukg-l-IU4zq1BHzkIS1fRk0pAHfWAWqje6vtrRfy6aD808LfpRJZPwl-iES2Z_bq5pidkgTDCFI)![](https://remnote-user-data.s3.amazonaws.com/ntiqT1VNQsiIvTuRwmWImR1X4rIoejgkmKOwRGCEkSnN9ulArqw36NszLEUrDX6QhdAszcmSjicaGemK0UMpNZeLur-8S79wnfxKNntXKxopaqHQ8A2wl0BefLcy049v) __                                                                                              von links nach rechts: __ Hepatitis-A-Virus; Hepatitis-B-Virus; Hepatitis-C-Virus 
+					- ![](https://remnote-user-data.s3.amazonaws.com/eXFnTRuHSh9PRhQb48Gc0Xt-liwkz4tF-_gwfi5io4IRqgy-0bakVQfwZhcd-AxQnG59LQKy6BoaQEDGhTOG9SOPh1QszUxRoMi3WsocpHXcDgLOd1m_rOsB8XutYw-u)![](https://remnote-user-data.s3.amazonaws.com/R09fD4OT0VYw9MOi2GJx04sSp_LrIsXJofBYeGS29lqqL2A15D7Qlukg-l-IU4zq1BHzkIS1fRk0pAHfWAWqje6vtrRfy6aD808LfpRJZPwl-iES2Z_bq5pidkgTDCFI)![](https://remnote-user-data.s3.amazonaws.com/ntiqT1VNQsiIvTuRwmWImR1X4rIoejgkmKOwRGCEkSnN9ulArqw36NszLEUrDX6QhdAszcmSjicaGemK0UMpNZeLur-8S79wnfxKNntXKxopaqHQ8A2wl0BefLcy049v) **                                                                                              von links nach rechts: ** Hepatitis-A-Virus; Hepatitis-B-Virus; Hepatitis-C-Virus 
 			- Orthomyxoviridae
 				- Gefährlichkeit:
 					- Influenzavirus C:: milde Erkrankung bei Kindern
@@ -193,8 +193,8 @@ Replikation
 						- ![](https://remnote-user-data.s3.amazonaws.com/jriCVypwhPhpRC_ORIu9mU3986ZDC5S006hmx-AmYCJdu5Skw_dRHue6F-l11PZz7ynWPhFSKNo6kawlMH_DU1YjnW9VTely3XsBEQJW7uYCM1avO3k4SCeDr0POgzHY)Influenza A Virion
 						- Nukleokapsid mit Virusmembran umschlossen, Hülle mit "Spikes" (Bezeichnung für verschiedenste Oberflächen(glyko-)proteine)
 						- Zwei wichtige Oberflächenglykoproteine:
-							- Hämaglutinin( __HA__ ):: vermittelt Anheftung des Virus an die Zelle
-							- Neuraminidase( __NA__ ):: für Infektionsvorgang von Bedeutung
+							- Hämaglutinin( **HA** ):: vermittelt Anheftung des Virus an die Zelle
+							- Neuraminidase( **NA** ):: für Infektionsvorgang von Bedeutung
 							- beide sind antigenetisch wirksam
 					- Genom
 						- 8 zufällig aufgeteilte (-)ssRNA-Segmente mit eigenen RNA-Polymerasen
@@ -202,12 +202,12 @@ Replikation
 							- Antigen-Shift:: Neuzusammenstellung der Acht Segmente $$ \rightarrow $$ Pandemie
 							- Antigen-Drift:: Punktmutationen an HA und NA $$ \rightarrow $$ Epidemie
 					- Pandemien
-						- 1900 Alte Hong-Kong Influenza:  __ __ H3N8 __ __     
-						- 1918-1919 Spanische Grippe:  __ __ H1N1 __  __ > 50 Mio. Tote
-						- 1957 Asiatische Grippe:  __ __ H2N2 __ __   
-						- 1968 Hongkong Grippe:  __ __ H3N2 __ __   
-						- 2009 Schweinegrippe:  __** **__ H1N1 __** **__   
-						- Vogelgrippevirus:  __** **__ H5N1
+						- 1900 Alte Hong-Kong Influenza:  ** ** H3N8 ** **     
+						- 1918-1919 Spanische Grippe:  ** ** H1N1 **  ** > 50 Mio. Tote
+						- 1957 Asiatische Grippe:  ** ** H2N2 ** **   
+						- 1968 Hongkong Grippe:  ** ** H3N2 ** **   
+						- 2009 Schweinegrippe:  **** **** H1N1 **** ****   
+						- Vogelgrippevirus:  **** **** H5N1
 						- ![](https://remnote-user-data.s3.amazonaws.com/5SDz2nBalU6sh_Ho8SxPBa3IhF9BW-3xtMMQ8UP_cKcWwh-xwy0CNHTuNp3gQH706avvHzTFHxv5XxS_RXH9nxmbzWZCi4FWBZlwmxliSSPmMasXnSR6MWIAmgEvc34w)genetische Rekombination verschiedener Virenstämme, Beispiele für Überwindung der Artengrenze durch Influenza A Viren H1N1, H2N2 und H3N2
 			- Coronaviridae
 				- Struktur
