@@ -12,4 +12,4 @@ $$
 \Delta{x}=x_{Ende}-x_{Anfang}
 $$
 
-**Geschwindigkeit** gibt an wie viel Zeit $t$ ein Körper benötigt, um eine Strecke $x$ zurückzulegen. Man verwendet gebräuchlich die **mittlere Geschwindigkeit**, um die Zeit zu ermitteln, die ein Körper für eine Strecke benötigt.
+**Geschwindigkeit** gibt an wie viel Zeit $t$ ein Körper benötigt, um eine Strecke $x$ zurückzulegen. Man verwendet gebräuchlich die **mittlere Geschwindigkeit**, um die Zeit zu ermitteln, die ein Körper für eine Strecke benötigt. Sie ist definiert als $v_{mittel}=\frac{s_{$
