@@ -17,6 +17,7 @@
       {
         "id": "1fb04808676795f2",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -28,7 +29,6 @@
       {
         "id": "18624057def5d049",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abgeleitete SI-Einheiten.md",
+                "file": "✒ Arbeitsplatz/SI-System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abgeleitete SI-Einheiten.md"
+                "file": "✒ Arbeitsplatz/SI-System.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Abgeleitete SI-Einheiten.md",
+                "file": "✒ Arbeitsplatz/SI-System.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -173,8 +173,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Abgeleitete Einheiten.md",
     "✒ Arbeitsplatz/SI-System.md",
+    "Abgeleitete Einheiten.md",
     "✒ Arbeitsplatz/Internationales Einheitensystem.md",
     "Größen und Einheiten.md",
     "✒ Arbeitsplatz/Untitled.md",
