@@ -1,4 +1,4 @@
-#Bereich-Uni #2020-12-09
+#Bereich-Uni
 
 ---
 

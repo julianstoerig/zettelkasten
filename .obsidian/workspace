@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chemisches Element.md",
+            "file": "📂Unfertiges/Mikrobiologie/Porine.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2020-12-13",
+                "query": "tag:#Stub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chemisches Element.md",
+                "file": "📂Unfertiges/Mikrobiologie/Porine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chemisches Element.md"
+                "file": "📂Unfertiges/Mikrobiologie/Porine.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "chemisches Element.md",
+                "file": "📂Unfertiges/Mikrobiologie/Porine.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -150,15 +150,15 @@
     "width": 343
   },
   "lastOpenFiles": [
-    "chemisches Element.md",
-    "chemische Verbindung.md",
-    "Chemie.md",
-    "allgemeine und Anorganische Chemie.md",
-    "Aerosol.md",
-    "Atom.md",
-    "Quantenzahlen.md",
-    "Pauli-Prinzip.md",
-    "Orbital.md",
-    "Hauptquantenzahl n.md"
+    "📂Unfertiges/Mikrobiologie/Porine.md",
+    "📂Unfertiges/Mikrobiologie/Protoplasten.md",
+    "README.md",
+    "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
+    "Physik der Fortbewegung.md",
+    "Physik.md",
+    "Größen und Einheiten.md",
+    "Zoologie.md",
+    "📂Unfertiges/Mikrobiologie/Sklerotien.md",
+    "Metazoa.md"
   ]
 }

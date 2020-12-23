@@ -1,4 +1,4 @@
-#Fach-Zoologie  #Semester-1 #2020-12-10
+#Fach-Zoologie  #Semester-1
 
 ---
 
