@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -117,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
