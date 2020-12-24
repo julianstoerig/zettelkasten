@@ -9,5 +9,3 @@ Wissen wir genauer, dass der Körper aus **kleinen Massenelementen** (d.h. gleic
 $$
 \mathrm{\vec{r_s}=\sum_{i=1}^n\vec{r_i}}
 $$
-
-\[]
