@@ -16,4 +16,4 @@ $$
 
 This is interestingly exactly how I vouldve done it.
 
-I have come to the conclusion, that, upon 
+I have come to the conclusion, that, upon inspecting it closer, my thoughts on it should have dramatically changed, as its condition and the one described in the advert showed significant discrepancies, but they didn't, 
