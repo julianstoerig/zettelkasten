@@ -1,6 +1,6 @@
 **Kräftefreie Bewegungsformen**
 
-**Kräftefreie **
+Bei **Kräftefreie Bewegungen** ist die 
 
 Eine **Translation**/**reine Translation**/**Linearbewegung** ist eine Bewegung, bei der alle Punkte des bewegten Körpers zu gegebenem Zeitpunkt $t$ die gleiche Momentangeschwindigkeit $v(t)$ besitzen.
 interesting
