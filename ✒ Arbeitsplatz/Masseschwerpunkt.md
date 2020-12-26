@@ -1,3 +1,7 @@
+#Fach-Physik  #Semester-1 #2020-12-26
+
+---
+
 Der **Masseschwerpunkt**/**Schwerpunkt**/**Massenmittelpunkt** gibt den Punkt eines Körpers an, auf den Kraft ausgeübt werden kann, ohne die Rotation des Körpers zu verändern. Berechnet wird er über Die den Durchschnitt der Positionen aller Teile des Körpers, gewichtet durch deren Masse:
 
 $$
