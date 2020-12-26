@@ -6,11 +6,22 @@
       {
         "id": "7d77092a03330d8c",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "08d30a768af16db2",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
             "mode": "source"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md"
+                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md"
               }
             }
           },
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,9 +155,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Masseschwerpunkt.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
     "✒ Arbeitsplatz/Kräftegleichgewicht.md",
-    "✒ Arbeitsplatz/Masseschwerpunkt.md",
     "✒ Arbeitsplatz/Größen und Einheiten.md",
     "✒ Arbeitsplatz/Physik.md",
     "📋 Vorlagen/1-Uni.md",
