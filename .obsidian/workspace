@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
+            "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
+                "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md"
+                "file": "✒ Arbeitsplatz/Größen und Einheiten.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
+                "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Masseschwerpunkt.md",
-    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+    "✒ Arbeitsplatz/Größen und Einheiten.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+    "✒ Arbeitsplatz/Masseschwerpunkt.md",
     "✒ Arbeitsplatz/Physik.md",
     "📋 Vorlagen/1-Uni.md",
     "📋 Vorlagen/2-Hobbys.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
     "✒ Arbeitsplatz/Translation.md",
-    "✒ Arbeitsplatz/Untitled.md",
-    "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md"
+    "✒ Arbeitsplatz/Untitled.md"
   ]
 }
