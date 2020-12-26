@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
+            "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
+                "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md"
+                "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
+                "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,8 +144,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Masseschwerpunkt.md",
     "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+    "✒ Arbeitsplatz/Masseschwerpunkt.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
     "✒ Arbeitsplatz/Translation.md",

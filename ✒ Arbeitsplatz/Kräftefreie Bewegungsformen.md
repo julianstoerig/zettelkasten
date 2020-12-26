@@ -1,3 +1,7 @@
+#Fach-Physik  #Semester-1 #2020-12-26
+
+---
+
 Man spricht von **Kräftefreien Bewegungsformen**, wenn der bewegte Körper sich im [[Kräftegleichgewicht]] befindet.
 
 Eine **Translation**/**reine Translation**/**Linearbewegung** ist eine Bewegung, bei der alle Punkte des bewegten Körpers zu gegebenem Zeitpunkt $t$ die gleiche Momentangeschwindigkeit $v(t)$ besitzen.
