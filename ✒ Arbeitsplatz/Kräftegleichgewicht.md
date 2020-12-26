@@ -2,8 +2,7 @@
 
 ---
 
-Im **Kräftegleichgewicht** heben sich alle Kräfte $F_n$ auf einen Körper gegenseitig auf:
-Sie summ
+Im **Kräftegleichgewicht** heben sich alle Kräfte $F_n$ auf einen Körper gegenseitig auf: Sie summieren sich also zu $\vec{0}$ auf.
 $$
 \vec{0} = \sum_{i}^{n} \vec{F_n}
 $$
