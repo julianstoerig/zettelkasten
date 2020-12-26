@@ -5,5 +5,5 @@
 Im **Kräftegleichgewicht** heben sich alle Kräfte $F_n$ auf einen Körper gegenseitig auf:
 
 $$
-0 = \sum_{i=1}^{n} \vec{n}
+\vec{0} = \sum_{i}^{n} \vec{F_n}
 $$
