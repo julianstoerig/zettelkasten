@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7d77092a03330d8c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "08d30a768af16db2",
         "type": "leaf",
         "active": true,
@@ -22,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
