@@ -14,4 +14,6 @@ $$
 \vec{r_s}=\sum_{i}^n\vec{r_i}
 $$
 
-This is interestingly exactly how I vouldve done it
+This is interestingly exactly how I vouldve done it.
+
+I have come to the conclusion, that, upon 
