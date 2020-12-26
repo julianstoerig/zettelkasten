@@ -7,7 +7,9 @@ $$
 \vec{0} = \sum_{i}^{n} \vec{F_n}
 $$
 
+````python
 for i in range(n):
 	f_total = f_total + f(n)
 if f_total == 0:
-	print("im krä")
+	print("im kräftegleichgewicht")
+	``
