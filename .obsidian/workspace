@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bffaea85c6093aa9",
+        "id": "7d77092a03330d8c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+            "file": "📋 Vorlagen/1-Uni.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+                "file": "📋 Vorlagen/1-Uni.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md"
+                "file": "📋 Vorlagen/1-Uni.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+                "file": "📋 Vorlagen/1-Uni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
-    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+    "📋 Vorlagen/1-Uni.md",
+    "📋 Vorlagen/2-Hobbys.md",
     "✒ Arbeitsplatz/Masseschwerpunkt.md",
+    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+    "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
     "✒ Arbeitsplatz/Translation.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
-    "✒ Arbeitsplatz/Physik.md",
-    "✒ Arbeitsplatz/SI-Basiseinheiten.md",
-    "✒ Arbeitsplatz/Größen und Einheiten.md"
+    "✒ Arbeitsplatz/Physik.md"
   ]
 }

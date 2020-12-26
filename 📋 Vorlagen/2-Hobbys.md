@@ -1,4 +1,4 @@
-#Bereich- #{{date}}
+#Bereich-
 
 ---
 

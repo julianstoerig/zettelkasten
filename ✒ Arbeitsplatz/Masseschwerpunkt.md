@@ -1,4 +1,4 @@
-#Fach-Physik  #Semester-1 #2020-12-26
+#Fach-Physik  #Semester-1
 
 ---
 

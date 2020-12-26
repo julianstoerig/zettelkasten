@@ -1,4 +1,4 @@
-#Fach- #Semester-1 #{{date}}
+#Fach- #Semester-1
 
 ---
 
