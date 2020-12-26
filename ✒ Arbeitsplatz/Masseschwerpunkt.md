@@ -8,7 +8,7 @@ $$
 \mathrm{\vec{r_s}=\frac{1}{m_{ges}}\cdot\sum_{i=1}^n\vec{r_i}\cdot{m_i}}
 $$
 
-Wissen wir genauer, dass der Körper aus **kleinen Massenelementen** (d.h. gleiche Masse) besteht, können wir die Formel mit diesen befüllen und die Abhängikeit von der Masse der Teilkörper ignorieren, da sich $\mathrm{m_{ges}}$ gegen $\mathrm{\sum_{i=1}^n\vec{m_i}}$ kürzt.
+Wissen wir genauer, dass der Körper aus **kleinen Massenelementen** (d.h. gleiche Masse) besteht, können wir die Formel mit diesen befüllen und die Abhängikeit von der Masse der Teilkörper ignorieren, da sich $\mathrm{m_{ges}}$ gegen $\mathrm{\vec{m_i}}$ kürzt.
 
 $$
 \mathrm{\vec{r_s}=\sum_{i=1}^n\vec{r_i}}
