@@ -1,4 +1,5 @@
-Man spricht von **Kräftefreien Bewegungsformen**, wenn 
+Man spricht von **Kräftefreien Bewegungsformen**, wenn ein Körper sich nicht im [[Kräftegleichgewicht]] befindet.
+
 Eine **Translation**/**reine Translation**/**Linearbewegung** ist eine Bewegung, bei der alle Punkte des bewegten Körpers zu gegebenem Zeitpunkt $t$ die gleiche Momentangeschwindigkeit $v(t)$ besitzen.
 
 **Verschiebung** ist die Distanz zwischen zwei Orten. Dieser ist allgemein definiert als
