@@ -1,0 +1,1 @@
+Im **Kräftegleichgewicht** heben sich alle $n$ auf einen Körper wirkenden Kraftvektoren auf. 
