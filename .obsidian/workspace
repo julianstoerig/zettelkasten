@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Schwerpunkt.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
+                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md"
+                "file": "✒ Arbeitsplatz/Schwerpunkt.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
+                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "width": 343
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Schwerpunkt.md",
+    "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+    "✒ Arbeitsplatz/Rotation.md",
+    "✒ Arbeitsplatz/Physik.md",
+    "✒ Arbeitsplatz/Physik der Fortbewegung.md",
+    "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
     "✒ Arbeitsplatz/SI-Basiseinheiten.md",
-    "✒ Arbeitsplatz/SI-System.md",
-    "✒ Arbeitsplatz/Schwerpunkt.md",
     "📋 Vorlagen/1-Uni.md",
-    "📂Unfertiges/Mikrobiologie/Bakteriengeißeln.md",
-    "Zoologie.md",
-    "Opisthokonta.md",
-    "Metazoa.md",
-    "Keimbahn -Soma.md"
+    "📂Unfertiges/Mikrobiologie/Bakteriengeißeln.md"
   ]
 }
