@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Translation (Physik).md",
+            "file": "Edelgas.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Kurs-allgemeine-und-anorganische-Chemie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Translation (Physik).md",
+                "file": "Edelgas.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Translation (Physik).md"
+                "file": "Edelgas.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Translation (Physik).md",
+                "file": "Edelgas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "width": 343
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Translation (Physik).md",
-    "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
-    "📋 Vorlagen/1-Uni.md",
-    "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
-    "VSEPR-Strukturmodell.md",
-    "Summenformel.md",
-    "Stoff.md",
-    "Spinquantenzahl s.md",
-    "Stoffgemisch.md",
-    "Reinstoffe.md"
+    "Edelgas.md",
+    "chemisches Element.md",
+    "chemische Verbindung.md",
+    "Chemie.md",
+    "allgemeine und Anorganische Chemie.md",
+    "Atom.md",
+    "Aufbauprinzip.md",
+    "Antioxidans.md",
+    "Aerosol.md",
+    "✒ Arbeitsplatz/Translation (Physik).md"
   ]
 }
