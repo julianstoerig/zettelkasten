@@ -13,6 +13,7 @@ $$
 Bei Körpern mit homogener [[✒ Arbeitsplatz/abgeleitete SI-Einheiten|Massendichte]], lässt sich $\sum\limits_i^n\vec{m_i}$ im Zähler gegen den Nenner kürzen.
 
 $$
-\vec{r_s} = \frac{\cancel{\sum\limits_i^n m_i} \cdot \sum\limits_i^n \vec{r_i}}{\cancel{\sum\limits_i^n m_i}}
-=\sum\limits_{i}^n\vec{r_i}
+\vec{r_s} = \vec{r_s} = \frac{\sum\limits_i^n m_i \cdot \vec{r_i}}{\sum\limits_i^n m_i} =
+\frac{\cancel{\sum\limits_i^n m_i} \cdot \sum\limits_i^n \vec{r_i}}{\cancel{\sum\limits_i^n m_i}} =
+\sum\limits_{i}^n\vec{r_i}
 $$

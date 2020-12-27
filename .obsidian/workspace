@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/Schwerpunkt.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -145,6 +145,7 @@
   },
   "lastOpenFiles": [
     "✒ Arbeitsplatz/Schwerpunkt.md",
+    "✒ Arbeitsplatz/SI-Basiseinheiten.md",
     "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
     "✒ Arbeitsplatz/Größen und Einheiten.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
@@ -152,7 +153,6 @@
     "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
-    "✒ Arbeitsplatz/Massendichte.md",
-    "✒ Arbeitsplatz/SI-Basiseinheiten.md"
+    "✒ Arbeitsplatz/Massendichte.md"
   ]
 }
