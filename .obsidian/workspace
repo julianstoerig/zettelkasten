@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/SI-System.md",
+            "file": "Zoologie.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Kurs-Physik",
+                "query": "tag:#Kurs-Zoologie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/SI-System.md",
+                "file": "Zoologie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/SI-System.md"
+                "file": "Zoologie.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/SI-System.md",
+                "file": "Zoologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "width": 343
   },
   "lastOpenFiles": [
+    "Zoologie.md",
+    "Opisthokonta.md",
+    "Metazoa.md",
+    "Keimbahn -Soma.md",
     "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/SI-Basiseinheiten.md",
     "✒ Arbeitsplatz/Schwerpunkt.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
     "✒ Arbeitsplatz/Physik.md",
-    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
-    "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
-    "✒ Arbeitsplatz/Größen und Einheiten.md",
-    "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
-    "📂Unfertiges/Mikrobiologie/Virushülle.md"
+    "✒ Arbeitsplatz/Kräftegleichgewicht.md"
   ]
 }

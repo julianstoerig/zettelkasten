@@ -1,4 +1,4 @@
-#Kurs-Zoologie #Semester-1
+#Kurs-VO-Zoologie #Semester-1
 
 ---
 
