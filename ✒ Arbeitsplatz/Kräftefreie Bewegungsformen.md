@@ -4,8 +4,6 @@
 
 Man spricht von **Kräftefreien Bewegungsformen**, wenn der bewegte Körper sich im [[Kräftegleichgewicht]] befindet.
 
-
-
 **Verschiebung** ist die Distanz zwischen zwei Orten. Dieser ist allgemein definiert als
 
 $$
