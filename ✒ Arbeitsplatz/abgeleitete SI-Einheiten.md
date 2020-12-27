@@ -12,4 +12,4 @@ $$
 |:---------------:|:------:|:-----------------:|:----------------------:|:---------------------------------------:|
 |     Volumen     |  $V$   |       Liter       |           l            | $\mathrm{1l=1dm^3=1dm\cdot1dm\cdot1dm}$ |
 | Geschwindigkeit |  $v$   | Meter pro Sekunde | $\mathrm{\frac{m}{s}}$ |         $\mathrm{1\frac{m}{s}}$         |
-|  Massendichte   |        |                   |                        |                                         |
+|  Massendichte   | $\rho$ | Gramm pro Qubik                  |                        |                                         |
