@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ordnungszahl.md",
+            "file": "Stoffgemisch.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ordnungszahl.md",
+                "file": "Stoffgemisch.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ordnungszahl.md"
+                "file": "Stoffgemisch.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ordnungszahl.md",
+                "file": "Stoffgemisch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "width": 343
   },
   "lastOpenFiles": [
-    "Ordnungszahl.md",
-    "Orbitale.md",
-    "Orbital.md",
-    "Nuklid.md",
-    "Normalbedingungen.md",
-    "Nebenquantenzahl l.md",
-    "n+l-Regel.md",
-    "Massenzahl.md",
-    "Masse.md",
-    "magnetische Quantenzahl m.md"
+    "Stoffgemisch.md",
+    "Stoff.md",
+    "Spinquantenzahl s.md",
+    "Reinstoffe.md",
+    "Reduktionsmittel.md",
+    "Quantenzahlen.md",
+    "Periodensystem der Elemente.md",
+    "Pauli-Prinzip.md",
+    "Oxidationsmittel.md",
+    "Ordnungszahl.md"
   ]
 }
