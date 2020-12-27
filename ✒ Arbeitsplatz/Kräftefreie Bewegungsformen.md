@@ -1,4 +1,4 @@
-#Fach-Physik  #Semester-1
+#Kurs-Physik  #Semester-1
 
 ---
 

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+            "file": "📂Unfertiges/Mikrobiologie/Mikroorganismus.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Fach-Physik",
+                "query": "tag:#Fach-Mikrobiologie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+                "file": "📂Unfertiges/Mikrobiologie/Mikroorganismus.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md"
+                "file": "📂Unfertiges/Mikrobiologie/Mikroorganismus.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+                "file": "📂Unfertiges/Mikrobiologie/Mikroorganismus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "width": 343
   },
   "lastOpenFiles": [
+    "📂Unfertiges/Mikrobiologie/Mikroorganismus.md",
+    "✒ Arbeitsplatz/SI-System.md",
+    "✒ Arbeitsplatz/Physik der Fortbewegung.md",
+    "✒ Arbeitsplatz/SI-Basiseinheiten.md",
+    "✒ Arbeitsplatz/Physik.md",
+    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+    "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
+    "Aerosol.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
-    "✒ Arbeitsplatz/Größen und Einheiten.md",
-    "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
-    "📂Unfertiges/Mikrobiologie/Endosporen.md",
-    "Zoologie.md",
-    "📂Unfertiges/Mikrobiologie/einfache Symmetrie.md",
-    "Opisthokonta.md",
-    "Metazoa.md",
-    "Keimbahn -Soma.md",
-    "✒ Arbeitsplatz/Schwerpunkt.md"
+    "✒ Arbeitsplatz/Größen und Einheiten.md"
   ]
 }
