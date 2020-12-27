@@ -4,4 +4,4 @@ $$
 \rho = \frac{m}{V}
 $$
 
-Sie wird typischerweise in $\frac{g}{}
+Sie wird typischerweise in $\frac{g}{cm^3}$ angegeben.
