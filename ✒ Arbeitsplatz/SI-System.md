@@ -20,4 +20,10 @@ Im **SI-System** werden  [[✒ Arbeitsplatz/SI-Basiseinheiten|sieben Basiseinhei
 
 ## weitere Einheiten
 
-Alle weiteren Einheiten des **SI-Systems** sind kohärent, d.h. durch simple Multiplikation aus den Basiseinheiten
+Alle weiteren Einheiten des **SI-Systems** sind kohärent, d.h. durch simple Multiplikation aus den Basiseinheiten errechnet.
+
+| Größe           | Symbol | Einheit                   |    Einheitenzeichen    |         Definition der Einheit          |
+|:--------------- |:------:|:------------------------- |:----------------------:|:---------------------------------------:|
+| Volumen         |  $V$   | Liter                     |           l            | $\mathrm{1l=1dm^3=1dm\cdot1dm\cdot1dm}$ |
+| Geschwindigkeit |  $v$   | Meter pro Sekunde         | $\mathrm{\frac{m}{s}}$ |         $\mathrm{\frac{m}{s}}$          |
+| Massendichte    | $\rho$ | Gramm pro Kubikcentimeter |    $\frac{g}{cm^3}$    |            $\frac{g}{cm^3}$             |
