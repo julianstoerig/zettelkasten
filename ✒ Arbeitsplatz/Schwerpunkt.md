@@ -2,7 +2,7 @@
 
 ---
 
-Der **Masseschwerpunkt**/**Masseschwerpunkt**/**Massenmittelpunkt $r_s$** gibt den Punkt eines Körpers an, auf den Kraft ausgeübt werden kann, ohne die Rotation des Körpers zu verändern. Berechnet wird er über die Summe der Positionen aller Teilkörper, gewichtet durch deren Masse:
+Der **Schwerpunkt**/**Masseschwerpunkt**/**Massenmittelpunkt $r_s$** gibt den Punkt eines Körpers an, auf den Kraft ausgeübt werden kann, ohne die Rotation des Körpers zu verändern. Berechnet wird er über die Summe der Positionen aller Teilkörper, gewichtet durch deren Masse:
 
 $$
 \vec{r_s} = \frac{\sum_i^n m_i \cdot \vec{r_i}}{\sum_i^n m_i}
