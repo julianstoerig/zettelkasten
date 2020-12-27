@@ -16,6 +16,6 @@ $$
 \vec{r_s} =
 \frac{\sum\limits_i^n m_i \cdot \vec{r_i}}{\sum\limits_i^n m_i} =
 \frac{r_1 \cdot m_1 + r_2 \cdot m_2 + ... + r_n \cdot m_n}{m_1 + m_2 + ... + m_n} =
-\frac{r_1 \cdot \cancel{m_1} 1 + r_2 \cdot m_2 + ... + r_n \cdot m_n}{m_1 + m_2 + ... + m_n} =
+\frac{r_1 \cdot \cancel{m_1} 1 + r_2 \cdot \cancel{m_2} 1 + ... + r_n \cdot m_n}{m_1 + m_2 + ... + m_n} =
 \sum\limits_{i}^n\vec{r_i}
 $$
