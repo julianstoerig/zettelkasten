@@ -18,5 +18,5 @@ $$
 $$
 
 $$
-\frac{\sum_a}{b}
+\frac{\sum_a^x}{b}
 $$
