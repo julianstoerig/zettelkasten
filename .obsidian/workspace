@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Opisthokonta.md",
+            "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Fach-Zoologie",
+                "query": "tag:#Fach-Physik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Opisthokonta.md",
+                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Opisthokonta.md"
+                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Opisthokonta.md",
+                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "width": 343
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+    "✒ Arbeitsplatz/Größen und Einheiten.md",
+    "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
+    "📂Unfertiges/Mikrobiologie/Endosporen.md",
+    "Zoologie.md",
+    "📂Unfertiges/Mikrobiologie/einfache Symmetrie.md",
     "Opisthokonta.md",
     "Metazoa.md",
     "Keimbahn -Soma.md",
-    "✒ Arbeitsplatz/Schwerpunkt.md",
-    "✒ Arbeitsplatz/Rotation.md",
-    "Chemie.md",
-    "freies Radikal.md",
-    "Botanik.md",
-    "✒ Arbeitsplatz/Translation(Physik).md",
-    "✒ Arbeitsplatz/SI-Basiseinheiten.md"
+    "✒ Arbeitsplatz/Schwerpunkt.md"
   ]
 }
