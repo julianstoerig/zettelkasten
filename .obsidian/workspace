@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Rotation.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Physik der Fortbewegung.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md",
+                "file": "✒ Arbeitsplatz/Physik der Fortbewegung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md"
+                "file": "✒ Arbeitsplatz/Physik der Fortbewegung.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md",
+                "file": "✒ Arbeitsplatz/Physik der Fortbewegung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
     "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+    "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
     "✒ Arbeitsplatz/Größen und Einheiten.md",
-    "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
-    "✒ Arbeitsplatz/Starrer Körper.md",
+    "✒ Arbeitsplatz/Schwerpunkt.md",
+    "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
-    "✒ Arbeitsplatz/SI-System.md",
-    "✒ Arbeitsplatz/SI-Basiseinheiten.md"
+    "✒ Arbeitsplatz/Starrer Körper.md",
+    "✒ Arbeitsplatz/SI-System.md"
   ]
 }
