@@ -120,6 +120,14 @@
             }
           },
           {
+            "id": "a86fcdb49584f326",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          },
+          {
             "id": "d5aea1c6de186752",
             "type": "leaf",
             "state": {
@@ -128,21 +136,13 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "a86fcdb49584f326",
-            "type": "leaf",
-            "state": {
-              "type": "dangling-links",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 420.6000061035156
   },
   "lastOpenFiles": [
     "✒ Arbeitsplatz/SI-Basiseinheiten.md",
