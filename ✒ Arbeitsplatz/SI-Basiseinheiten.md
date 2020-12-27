@@ -2,7 +2,7 @@
 
 ---
 
-Das [[✒ Arbeitsplatz/SI-System]] definiert sieben Basiseinheiten, die alle durch Natu
+Das [[✒ Arbeitsplatz/SI-System]] definiert sieben Basiseinheiten, die seit 2019 alle durch Naturkatastrophen
 
 | Größe                       | Symbol | Einheit   | Einheitenzeichen | Definition der Einheit                                                                                                                                                                                                                        |
 |:--------------------------- |:------:|:--------- |:----------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
