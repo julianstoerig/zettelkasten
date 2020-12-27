@@ -8,7 +8,7 @@ $$
 \vec{r_s} = \frac{\sum\limits_i^n m_i \cdot \vec{r_i}}{\sum\limits_i^n m_i}
 $$
 
-Um dies praktisch zu berechnen ist es zweckmäßig, den Körper in unter
+Um diese Berechnung praktikabel zu machen ist es zweckmäßig, den Körper in verschiedene Teilkörper zu unterteilen
 
 ## Spezialfall
 
