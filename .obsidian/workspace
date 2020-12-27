@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📂Unfertiges/Mikrobiologie/Porine.md",
+            "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Kurs-Mikrobiologie",
+                "query": "tag:#Kurs-Physik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Porine.md",
+                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Porine.md"
+                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Porine.md",
+                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "width": 343
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
+    "📂Unfertiges/Mikrobiologie/Virushülle.md",
+    "📂Unfertiges/Mikrobiologie/Virus.md",
+    "📂Unfertiges/Mikrobiologie/Virion.md",
+    "📂Unfertiges/Mikrobiologie/Symmetrie.md",
+    "📂Unfertiges/Mikrobiologie/Sklerotien.md",
+    "📂Unfertiges/Mikrobiologie/Protoplasten.md",
     "📂Unfertiges/Mikrobiologie/Porine.md",
     "📂Unfertiges/Mikrobiologie/Mikroorganismus.md",
-    "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
-    "📂Unfertiges/Mikrobiologie/Endosporen.md",
-    "📂Unfertiges/Mikrobiologie/einfache Symmetrie.md",
-    "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
-    "VSEPR-Strukturmodell.md",
-    "Summenformel.md",
-    "Stoffgemisch.md",
-    "Stoff.md"
+    "📂Unfertiges/Mikrobiologie/Mikrobiologie.md"
   ]
 }
