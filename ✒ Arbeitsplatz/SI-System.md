@@ -18,4 +18,6 @@ Im **SI-System** werden  [[✒ Arbeitsplatz/SI-Basiseinheiten|sieben Basiseinhei
 | Stoffmenge                  |  $n$   | Mol       |       mol        | Ein Mol eines Stoffes enthält genau $6,02215076*10\cdot10^{23}$ Teilchen                                                                                                                                                                      |
 | Lichtstärke                 | $I_v$  | Candela   |        cd        | Die Lichtstärke in einer bestimmten Richtung einer Strahlungsquelle, die monochromatische Strahlung der Frequenz $540\cdot10^{12}\mathrm{Hz}$ aussendet und deren Strahlstärke in dieser Richtung $\frac{1}{683}$ Watt pro Steradiant beträgt |
 
+## weitere Einheiten
+
 
