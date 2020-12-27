@@ -10,7 +10,9 @@ $$
 
 ---
 
-Bei Körpern mit homogener [[✒ Arbeitsplatz/abgeleitete SI-Einheiten|Massendichte]], lässt sich $\sum_i^n\vec{m_i}$ im Zähler gegen den Nenner kürzen.
+Bei Körpern mit homogener ```
+\sout{$a^2+b^2=c^2$}
+```[[✒ Arbeitsplatz/abgeleitete SI-Einheiten|Massendichte]], lässt sich $\sum_i^n\vec{m_i}$ im Zähler gegen den Nenner kürzen.
 
 $$
 \vec{r_s}=\sum_{i}^n\vec{r_i}
