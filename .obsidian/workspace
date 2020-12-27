@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "08d30a768af16db2",
+        "id": "854ea6e2fa27ec1c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Translation (Physik).md",
-            "mode": "source"
+            "file": "✒ Arbeitsplatz/Rotation.md",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Translation (Physik).md",
+                "file": "✒ Arbeitsplatz/Rotation.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Translation (Physik).md"
+                "file": "✒ Arbeitsplatz/Rotation.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Translation (Physik).md",
+                "file": "✒ Arbeitsplatz/Rotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Rotation.md",
+    "Chemie.md",
+    "freies Radikal.md",
+    "Botanik.md",
     "✒ Arbeitsplatz/Translation(Physik).md",
     "✒ Arbeitsplatz/Schwerpunkt.md",
     "✒ Arbeitsplatz/SI-Basiseinheiten.md",
     "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
     "✒ Arbeitsplatz/Größen und Einheiten.md",
-    "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
-    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
-    "✒ Arbeitsplatz/Physik.md",
-    "✒ Arbeitsplatz/Rotation.md",
-    "✒ Arbeitsplatz/Physik der Fortbewegung.md"
+    "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md"
   ]
 }
