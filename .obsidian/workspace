@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "854ea6e2fa27ec1c",
+        "id": "16256af8fc8b3550",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
+            "file": "✒ Arbeitsplatz/Translation (Physik).md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Bakterien",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
+                "file": "✒ Arbeitsplatz/Translation (Physik).md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Mikrobiologie.md"
+                "file": "✒ Arbeitsplatz/Translation (Physik).md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
+                "file": "✒ Arbeitsplatz/Translation (Physik).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "frequency"
               }
             }
           }
@@ -144,6 +144,7 @@
     "width": 343
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Translation (Physik).md",
     "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
     "📋 Vorlagen/1-Uni.md",
     "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
@@ -152,7 +153,6 @@
     "Stoff.md",
     "Spinquantenzahl s.md",
     "Stoffgemisch.md",
-    "Reinstoffe.md",
-    "Reduktionsmittel.md"
+    "Reinstoffe.md"
   ]
 }

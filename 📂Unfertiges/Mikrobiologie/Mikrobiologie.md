@@ -128,7 +128,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 					- ![](https://www.quia.com/files/quia/users/lmcgee/Bacteria/9AP_ch27/conjugation.gif)  
 					- länger als [Fimbrien](Biologie-Bachelor/Mikrobiologie/Prokaryoten/Bakterien/Oberflächenstruktur/Fimbrien,-Pili:/Fimbrien.md) (bis zu $$ 1\[📂Unfertiges/Mikrobiologie/Konjugation](%F0%9F%93%82Unfertiges/Mikrobiologie/Konjugation.md)$ 1 $$ bis$$ 2 $$ pro Zelle
 					- [Konjugation](Konjugation.md): Herstellung Zell-Zell-Kontakte
-		- Unterschiede zwischen gram+ und gram- [Bakterien](Bakterien.md) #Bakterien
+		- Unterschiede zwischen gram+ und gram- [Bakterien](Bakterien.md)
 			- Gram+
 				- ![](https://remnote-user-data.s3.amazonaws.com/mMSg4ksBK17zBUo1P4OO0yloF2_lYP27HTNpO3W2V-PpYotJsl7sq1M3WhiTPfdANzYl5k_6-g9pXm8C6nycR26c4vdLBHDfq8GA7D2Z8yVbbyI4hRVoixBefuH2VFy9)  
 				- zusätzliche Teichonsäuren
