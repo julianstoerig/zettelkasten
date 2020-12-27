@@ -6,12 +6,23 @@
       {
         "id": "08d30a768af16db2",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/Schwerpunkt.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ea5aeb1dc7fba171",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Massendichte.md",
+            "mode": "preview"
           }
         }
       },
@@ -89,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
+                "file": "✒ Arbeitsplatz/Massendichte.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -118,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt.md"
+                "file": "✒ Arbeitsplatz/Massendichte.md"
               }
             }
           },
@@ -128,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
+                "file": "✒ Arbeitsplatz/Massendichte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +166,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Massendichte.md",
     "✒ Arbeitsplatz/Schwerpunkt.md",
     "✒ Arbeitsplatz/Starrer Körper.md",
     "✒ Arbeitsplatz/Rotation.md",
@@ -163,7 +175,6 @@
     "✒ Arbeitsplatz/Eine Translationreine TranslationLinearbewegung ist eine Bewegung, bei der alle Punkte des bewegten Körpers zu gegebenem Zeitpunkt $t$ die gleiche Momentangeschwindigkeit $v(t)$ besitzen..md",
     "✒ Arbeitsplatz/Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/Untitled.md",
-    "✒ Arbeitsplatz/Größen und Einheiten.md",
-    "✒ Arbeitsplatz/Physik.md"
+    "✒ Arbeitsplatz/Größen und Einheiten.md"
   ]
 }
