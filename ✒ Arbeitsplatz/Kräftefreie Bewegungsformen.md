@@ -4,7 +4,8 @@
 
 Man spricht von **Kräftefreien Bewegungsformen**, wenn der bewegte Körper sich im [[Kräftegleichgewicht]] befindet.
 
-[[Eine Translationreine TranslationLinearbewegung ist eine Bewegung, bei der alle Punkte des bewegten Körpers zu gegebenem Zeitpunkt $t$ die gleiche Momentangeschwindigkeit $v(t)$ besitzen.]]
+Eine Translationreine TranslationLinearbewegung ist eine Bewegung, bei der alle Punkte des bewegten Körpers zu gegebenem Zeitpunkt $t$ die gleiche Momentangeschwindigkeit $v(t)$ besitzen.
+
 **Verschiebung** ist die Distanz zwischen zwei Orten. Dieser ist allgemein definiert als
 
 $$
