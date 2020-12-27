@@ -1,4 +1,4 @@
-#Kurs-allgemeine-und-anorganische-Chemie #Semester-1
+#Kurs-VO-allgemeine-und-anorganische-Chemie #Semester-1
 
 ---
 
