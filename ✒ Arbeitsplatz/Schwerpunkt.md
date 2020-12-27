@@ -13,7 +13,8 @@ Um diese Berechnung praktikabel zu machen ist es zweckmäßig, den Körper in ve
 Noch einfacher ist die Gleichung für Körper mit homogener [[SI-System|Massendichte]], bei denen sich $\sum\limits_i^n\vec{m_i}$ im Zähler gegen den Nenner kürzen lässt, da $\sum\limits_{i}^{n} r_i \cdot m_i = \sum\limits_{i}^{n} r_i \cdot \sum\limits_{i}^{n} m_i$ .
 
 $$
-\sum\limits_{i}^{n} r_i \cdot m_i = \sum\limits_{i}^{n} r_i \cdot \sum\limits_{i}^{n} m_i
+\sum\limits_{i}^{n} r_i \cdot m_i = \sum\limits_{i}^{n} r_i \cdot \sum\limits_{i}^{n} m_i =
+
 $$
 
 $$
