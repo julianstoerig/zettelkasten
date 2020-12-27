@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Orbitale.md",
+            "file": "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Fach-allgemeine-und-anorganische-Chemie",
+                "query": "tag:#Bakterien",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Orbitale.md",
+                "file": "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orbitale.md"
+                "file": "📂Unfertiges/Mikrobiologie/Mikrobiologie.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orbitale.md",
+                "file": "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "width": 343
   },
   "lastOpenFiles": [
-    "Orbitale.md",
-    "Orbital.md",
-    "Nuklid.md",
-    "Normalbedingungen.md",
-    "Nebenquantenzahl l.md",
-    "n+l-Regel.md",
-    "Massenzahl.md",
-    "Masse.md",
-    "magnetische Quantenzahl m.md",
-    "kolloidales Stoffgemisch.md"
+    "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
+    "📋 Vorlagen/1-Uni.md",
+    "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
+    "VSEPR-Strukturmodell.md",
+    "Summenformel.md",
+    "Stoff.md",
+    "Spinquantenzahl s.md",
+    "Stoffgemisch.md",
+    "Reinstoffe.md",
+    "Reduktionsmittel.md"
   ]
 }

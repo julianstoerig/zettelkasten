@@ -1,4 +1,4 @@
-#Fach- #Semester-1
+#Kurs- #Semester-1
 
 ---
 
