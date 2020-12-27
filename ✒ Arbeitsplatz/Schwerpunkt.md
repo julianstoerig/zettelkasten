@@ -16,7 +16,3 @@ $$
 \vec{r_s} = \frac{\cancel{\sum_i^n m_i} \cdot \sum_i^n \vec{r_i}}{\cancel{\sum_i^n m_i}}
 =\sum_{i}^n\vec{r_i}
 $$
-
-$$
-\frac{\sum\limits\_{i=0}^{n}}{b}
-$$
