@@ -8,7 +8,7 @@ $$
 \vec{r_s} = \frac{\sum_i^n m_i \cdot \vec{r_i}}{\sum_i^n m_i}
 $$
 
-Bei Körpern mit homogener [[Massendichte]], können wir die Formel mit diesen befüllen , sodass sich $m_{ges}$ gegen $\sum_i^n\vec{m_i}$ kürzt.
+Bei Körpern mit homogener [[✒ Arbeitsplatz/abgeleitete SI-Einheiten|Massendichte]], können wir die Formel mit diesen befüllen , sodass sich $m_{ges}$ gegen $\sum_i^n\vec{m_i}$ kürzt.
 
 $$
 \vec{r_s}=\sum_{i}^n\vec{r_i}
