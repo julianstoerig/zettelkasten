@@ -23,7 +23,7 @@
 - [[✒ Arbeitsplatz/Starrer Körper]]
 - [[✒ Arbeitsplatz/SI-Basiseinheiten]]
 - [[✒ Arbeitsplatz/Physik der Fortbewegung]]
-- [[✒ Arbeitsplatz/Kräftefreie Bewegungsformen]]
+- [[✒ Arbeitsplatz/Kräftefreie Bewegung]]
 - [[✒ Arbeitsplatz/Größen und Einheiten]]
 - [[Zoologie/Systematik]]
 - [[Zoologie/Antatomische-Richtungs--und-Ebenenbezeichnungen]]
