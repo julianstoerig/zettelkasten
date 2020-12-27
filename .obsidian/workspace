@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "16256af8fc8b3550",
+        "id": "cf98726b37bc3402",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📂Unfertiges/Mikrobiologie/Bakteriengeißeln.md",
+            "file": "📋 Vorlagen/1-Uni.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Mikrobiologie",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Bakteriengeißeln.md",
+                "file": "📋 Vorlagen/1-Uni.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Bakteriengeißeln.md"
+                "file": "📋 Vorlagen/1-Uni.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Bakteriengeißeln.md",
+                "file": "📋 Vorlagen/1-Uni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +144,7 @@
     "width": 343
   },
   "lastOpenFiles": [
+    "📋 Vorlagen/1-Uni.md",
     "📂Unfertiges/Mikrobiologie/Bakteriengeißeln.md",
     "Zoologie.md",
     "Opisthokonta.md",
@@ -152,7 +153,6 @@
     "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/SI-Basiseinheiten.md",
     "✒ Arbeitsplatz/Schwerpunkt.md",
-    "✒ Arbeitsplatz/Physik der Fortbewegung.md",
-    "✒ Arbeitsplatz/Physik.md"
+    "✒ Arbeitsplatz/Physik der Fortbewegung.md"
   ]
 }

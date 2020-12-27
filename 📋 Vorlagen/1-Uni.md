@@ -1,4 +1,4 @@
-#Kurs- #Semester-1
+#Kurs-VO- #Semester-1
 
 ---
 
