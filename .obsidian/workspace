@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Edelgas.md",
+            "file": "kolloidales Stoffgemisch.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Edelgas.md",
+                "file": "kolloidales Stoffgemisch.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edelgas.md"
+                "file": "kolloidales Stoffgemisch.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edelgas.md",
+                "file": "kolloidales Stoffgemisch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "width": 343
   },
   "lastOpenFiles": [
-    "Edelgas.md",
-    "chemisches Element.md",
-    "chemische Verbindung.md",
-    "Chemie.md",
-    "allgemeine und Anorganische Chemie.md",
-    "Atom.md",
-    "Aufbauprinzip.md",
-    "Antioxidans.md",
-    "Aerosol.md",
-    "✒ Arbeitsplatz/Translation (Physik).md"
+    "kolloidales Stoffgemisch.md",
+    "📂Unfertiges/Mikrobiologie/Kapsid.md",
+    "Isotop.md",
+    "Hundsche Regeln.md",
+    "homogenes Stoffgemisch.md",
+    "heterogenes Stoffgemisch.md",
+    "Hauptquantenzahl n.md",
+    "freies Radikal.md",
+    "Elektronenkonfiguration.md",
+    "Edelgas.md"
   ]
 }
