@@ -7,6 +7,7 @@ Man spricht von **Kräftefreien Bewegungsformen**, wenn der bewegte Körper sich
 ![[✒ Arbeitsplatz/Translation(Physik)]]
 
 ![[Rotation]]
+
 **Verschiebung** ist die Distanz zwischen zwei Orten. Dieser ist allgemein definiert als
 
 $$
