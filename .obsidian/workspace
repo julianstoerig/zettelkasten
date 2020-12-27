@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "eb09190125dee5e5",
+        "id": "e197d9d2787d26f5",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Physik der Fortbewegung.md",
-            "mode": "source"
+            "file": "✒ Arbeitsplatz/Translation (Physik).md",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Physik der Fortbewegung.md",
+                "file": "✒ Arbeitsplatz/Translation (Physik).md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Physik der Fortbewegung.md"
+                "file": "✒ Arbeitsplatz/Translation (Physik).md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Physik der Fortbewegung.md",
+                "file": "✒ Arbeitsplatz/Translation (Physik).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Translation (Physik).md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
+    "📋 Vorlagen/1-Uni.md",
     "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
     "✒ Arbeitsplatz/Größen und Einheiten.md",
     "✒ Arbeitsplatz/Schwerpunkt.md",
     "✒ Arbeitsplatz/Rotation.md",
-    "✒ Arbeitsplatz/Translation (Physik).md",
-    "✒ Arbeitsplatz/Starrer Körper.md",
-    "✒ Arbeitsplatz/SI-System.md"
+    "✒ Arbeitsplatz/Starrer Körper.md"
   ]
 }
