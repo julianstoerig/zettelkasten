@@ -18,5 +18,5 @@ $$
 $$
 
 $$
-\frac{\sum_a^x}{b}
+\frac{\sum\limits\_{i=0}^{n}}{b}
 $$
