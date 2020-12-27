@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.6000061035156
+    "width": 420.6000061035156,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "✒ Arbeitsplatz/Schwerpunkt.md",
