@@ -10,7 +10,7 @@ $$
 
 Um diese Berechnung praktikabel zu machen ist es zweckmäßig, den Körper in verschiedene Teilkörper zu unterteilen, deren [[✒ Arbeitsplatz/SI-System|Massedichten]] jeweils als homogen betrachtet werden.
 
-Noch einfacher ist die Gleichung für Körper mit homogener [[SI-System|Massendichte]], bei denen  lässt sich $\sum\limits_i^n\vec{m_i}$ im Zähler gegen den Nenner kürzen.
+Noch einfacher ist die Gleichung für Körper mit homogener [[SI-System|Massendichte]], bei denen sich $\sum\limits_i^n\vec{m_i}$ im Zähler gegen den Nenner kürzen lässt, da $.
 
 $$
 \vec{r_s} =
