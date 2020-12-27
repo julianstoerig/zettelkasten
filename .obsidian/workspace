@@ -128,9 +128,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "a86fcdb49584f326",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
