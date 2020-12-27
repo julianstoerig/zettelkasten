@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "514b3506386da4d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf98726b37bc3402",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/SI-Basiseinheiten.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "360abae0862aed62",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3ead141db9481f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86e7f78624f4120f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "58e389a8b5bf0b72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71cf44860e0737fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224
+  },
+  "right": {
+    "id": "a3b0eee1ddc0955b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b953da1e3e5e1da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "507982df27520917",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "✒ Arbeitsplatz/SI-Basiseinheiten.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3024290951396638
+                }
+              }
+            }
+          },
+          {
+            "id": "e4b71d5626032376",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "✒ Arbeitsplatz/SI-Basiseinheiten.md"
+              }
+            }
+          },
+          {
+            "id": "70a9ce091072f366",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "✒ Arbeitsplatz/SI-Basiseinheiten.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d5aea1c6de186752",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343
+  },
+  "lastOpenFiles": [
+    "✒ Arbeitsplatz/SI-Basiseinheiten.md",
+    "✒ Arbeitsplatz/Schwerpunkt.md",
+    "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+    "✒ Arbeitsplatz/Rotation.md",
+    "✒ Arbeitsplatz/Physik.md",
+    "✒ Arbeitsplatz/Physik der Fortbewegung.md",
+    "✒ Arbeitsplatz/SI-System.md",
+    "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
+    "📋 Vorlagen/1-Uni.md",
+    "📂Unfertiges/Mikrobiologie/Bakteriengeißeln.md"
+  ]
+}
