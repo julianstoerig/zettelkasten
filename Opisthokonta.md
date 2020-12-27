@@ -1,4 +1,4 @@
-#Fach-Zoologie #Semester-1
+#Kurs-Zoologie #Semester-1
 
 ---
 

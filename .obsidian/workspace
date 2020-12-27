@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Schwerpunkt.md",
+            "file": "Opisthokonta.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "physik",
+                "query": "tag:#Fach-Zoologie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
+                "file": "Opisthokonta.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt.md"
+                "file": "Opisthokonta.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
+                "file": "Opisthokonta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,23 +136,23 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "lastOpenFiles": [
+    "Opisthokonta.md",
+    "Metazoa.md",
+    "Keimbahn -Soma.md",
     "✒ Arbeitsplatz/Schwerpunkt.md",
     "✒ Arbeitsplatz/Rotation.md",
     "Chemie.md",
     "freies Radikal.md",
     "Botanik.md",
     "✒ Arbeitsplatz/Translation(Physik).md",
-    "✒ Arbeitsplatz/SI-Basiseinheiten.md",
-    "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
-    "✒ Arbeitsplatz/Größen und Einheiten.md",
-    "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md"
+    "✒ Arbeitsplatz/SI-Basiseinheiten.md"
   ]
 }
