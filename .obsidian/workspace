@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "✒ Arbeitsplatz/Größen und Einheiten.md"
+              }
             }
           },
           {
@@ -111,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +152,7 @@
     "width": 420.6000061035156
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Größen und Einheiten.md",
     "✒ Arbeitsplatz/SI-Basiseinheiten.md",
     "✒ Arbeitsplatz/SI-System.md",
     "chemische Verbindung.md",
@@ -153,7 +161,6 @@
     "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Physik.md",
-    "✒ Arbeitsplatz/Physik der Fortbewegung.md",
-    "📋 Vorlagen/1-Uni.md"
+    "✒ Arbeitsplatz/Physik der Fortbewegung.md"
   ]
 }
