@@ -8,6 +8,8 @@ $$
 \vec{r_s} = \frac{\sum\limits_i^n m_i \cdot \vec{r_i}}{\sum\limits_i^n m_i}
 $$
 
+Um dies praktisch zu berechnen ist es zweckmäßig, den Körper in unter
+
 ## Spezialfall
 
 Bei Körpern mit homogener [[SI-System|Massendichte]], lässt sich $\sum\limits_i^n\vec{m_i}$ im Zähler gegen den Nenner kürzen.
