@@ -8,7 +8,9 @@ $$
 \vec{r_s} = \frac{\sum_i^n m_i \cdot \vec{r_i}}{\sum_i^n m_i}
 $$
 
-Bei Körpern mit homogener [[✒ Arbeitsplatz/abgeleitete SI-Einheiten|Massendichte]], können wir die , sodass sich $\sum_i^n\vec{m_i}$ im Zähler gegen den Nenner kürzt.
+---
+
+Bei Körpern mit homogener [[✒ Arbeitsplatz/abgeleitete SI-Einheiten|Massendichte]], lässt sich $\sum_i^n\vec{m_i}$ im Zähler gegen den Nenner kürzen.
 
 $$
 \vec{r_s}=\sum_{i}^n\vec{r_i}
