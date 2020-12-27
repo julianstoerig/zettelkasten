@@ -1,0 +1,1 @@
+**Rotationen**/**Rotatiosbewegungen** sind Bewegungen, bei denen alle Teilchen eines Körpers
