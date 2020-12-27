@@ -14,7 +14,7 @@ Noch einfacher ist die Gleichung für Körper mit homogener [[SI-System|Massendi
 
 $$
 \sum\limits_{i}^{n} r_i \cdot m_i = \sum\limits_{i}^{n} r_i \cdot \sum\limits_{i}^{n} m_i =
-
+\frac{r_1 + r_2}{}
 $$
 
 $$
