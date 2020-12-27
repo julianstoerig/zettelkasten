@@ -20,4 +20,4 @@ Im **SI-System** werden  [[✒ Arbeitsplatz/SI-Basiseinheiten|sieben Basiseinhei
 
 ## weitere Einheiten
 
-Alle weiteren Einheiten des **SI-Systems** sind kohärent, d.h. durch
+Alle weiteren Einheiten des **SI-Systems** sind kohärent, d.h. durch simple Multiplikation
