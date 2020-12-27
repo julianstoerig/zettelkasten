@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 Vorlagen/1-Uni.md",
-            "mode": "source"
+            "file": "✒ Arbeitsplatz/Schwerpunkt.md",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/1-Uni.md",
+                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📋 Vorlagen/1-Uni.md"
+                "file": "✒ Arbeitsplatz/Schwerpunkt.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/1-Uni.md",
+                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +144,7 @@
     "width": 343
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Schwerpunkt.md",
     "📋 Vorlagen/1-Uni.md",
     "📂Unfertiges/Mikrobiologie/Bakteriengeißeln.md",
     "Zoologie.md",
@@ -152,7 +153,6 @@
     "Keimbahn -Soma.md",
     "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/SI-Basiseinheiten.md",
-    "✒ Arbeitsplatz/Schwerpunkt.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md"
   ]
 }
