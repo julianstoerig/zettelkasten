@@ -8,7 +8,7 @@ $$
 \vec{r_s} = \frac{\sum\limits_i^n m_i \cdot \vec{r_i}}{\sum\limits_i^n m_i}
 $$
 
-Um diese Berechnung praktikabel zu machen ist es zweckmäßig, den Körper in verschiedene Teilkörper zu unterteilen, deren [[✒ Arbeitsplatz/SI-System|Massedichte]]
+Um diese Berechnung praktikabel zu machen ist es zweckmäßig, den Körper in verschiedene Teilkörper zu unterteilen, deren [[✒ Arbeitsplatz/SI-System|Massedichten]] jeweils als homogen be
 
 ## Spezialfall
 
