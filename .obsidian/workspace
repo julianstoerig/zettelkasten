@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
+            "file": "✒ Arbeitsplatz/SI-System.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
+                "file": "✒ Arbeitsplatz/SI-System.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md"
+                "file": "✒ Arbeitsplatz/SI-System.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
+                "file": "✒ Arbeitsplatz/SI-System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "width": 343
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/SI-System.md",
+    "✒ Arbeitsplatz/SI-Basiseinheiten.md",
+    "✒ Arbeitsplatz/Schwerpunkt.md",
+    "✒ Arbeitsplatz/Physik der Fortbewegung.md",
+    "✒ Arbeitsplatz/Physik.md",
+    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+    "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+    "✒ Arbeitsplatz/Größen und Einheiten.md",
     "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
-    "📂Unfertiges/Mikrobiologie/Virushülle.md",
-    "📂Unfertiges/Mikrobiologie/Virus.md",
-    "📂Unfertiges/Mikrobiologie/Virion.md",
-    "📂Unfertiges/Mikrobiologie/Symmetrie.md",
-    "📂Unfertiges/Mikrobiologie/Sklerotien.md",
-    "📂Unfertiges/Mikrobiologie/Protoplasten.md",
-    "📂Unfertiges/Mikrobiologie/Porine.md",
-    "📂Unfertiges/Mikrobiologie/Mikroorganismus.md",
-    "📂Unfertiges/Mikrobiologie/Mikrobiologie.md"
+    "📂Unfertiges/Mikrobiologie/Virushülle.md"
   ]
 }
