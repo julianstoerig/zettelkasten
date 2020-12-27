@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Schwerpunkt.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Translation (Physik).md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
+                "file": "✒ Arbeitsplatz/Translation (Physik).md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt.md"
+                "file": "✒ Arbeitsplatz/Translation (Physik).md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
+                "file": "✒ Arbeitsplatz/Translation (Physik).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +144,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Translation(Physik).md",
     "✒ Arbeitsplatz/Schwerpunkt.md",
     "✒ Arbeitsplatz/SI-Basiseinheiten.md",
     "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
@@ -152,7 +153,6 @@
     "✒ Arbeitsplatz/Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/Rotation.md",
-    "✒ Arbeitsplatz/Physik der Fortbewegung.md",
-    "✒ Arbeitsplatz/Massendichte.md"
+    "✒ Arbeitsplatz/Physik der Fortbewegung.md"
   ]
 }
