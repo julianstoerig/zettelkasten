@@ -1,1 +1,1 @@
-**Rotationen**/**Rotatiosbewegungen** sind Drehungen eines Körpers um seinen [[✒ Arbeitsplatz/Schwerpunkt]].
+**Rotationen**/**Rotationsbewegungen** sind Drehungen eines Körpers um seinen [[✒ Arbeitsplatz/Schwerpunkt]].
