@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Starrer Körper.md",
+            "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "p",
+                "query": "physik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Starrer Körper.md",
+                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Starrer Körper.md"
+                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Starrer Körper.md",
+                "file": "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
+    "✒ Arbeitsplatz/Starrer Körper.md",
+    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Masseschwerpunkt.md",
-    "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
-    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/Größen und Einheiten.md",
     "✒ Arbeitsplatz/Physik.md",
     "📋 Vorlagen/1-Uni.md",
     "📋 Vorlagen/2-Hobbys.md",
-    "✒ Arbeitsplatz/Physik der Fortbewegung.md",
-    "✒ Arbeitsplatz/Translation.md"
+    "✒ Arbeitsplatz/Physik der Fortbewegung.md"
   ]
 }
