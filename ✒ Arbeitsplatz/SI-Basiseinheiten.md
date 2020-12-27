@@ -2,7 +2,7 @@
 
 ---
 
-Das [[✒ Arbeitsplatz/SI-System]] definiert sieben Basiseinheiten, die seit 2019 alle durch Naturkonstanten
+Das [[✒ Arbeitsplatz/SI-System]] umfasst sieben Basiseinheiten, die seit 2019 alle durch Naturkonstanten definiert werden.
 
 | Größe                       | Symbol | Einheit   | Einheitenzeichen | Definition der Einheit                                                                                                                                                                                                                        |
 |:--------------------------- |:------:|:--------- |:----------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
