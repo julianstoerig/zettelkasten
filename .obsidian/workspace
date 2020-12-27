@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stoffgemisch.md",
+            "file": "📂Unfertiges/Mikrobiologie/Porine.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Kurs-allgemeine-und-anorganische-Chemie",
+                "query": "tag:#Kurs-Mikrobiologie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Stoffgemisch.md",
+                "file": "📂Unfertiges/Mikrobiologie/Porine.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stoffgemisch.md"
+                "file": "📂Unfertiges/Mikrobiologie/Porine.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stoffgemisch.md",
+                "file": "📂Unfertiges/Mikrobiologie/Porine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
     "width": 343
   },
   "lastOpenFiles": [
+    "📂Unfertiges/Mikrobiologie/Porine.md",
+    "📂Unfertiges/Mikrobiologie/Mikroorganismus.md",
+    "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
+    "📂Unfertiges/Mikrobiologie/Endosporen.md",
+    "📂Unfertiges/Mikrobiologie/einfache Symmetrie.md",
+    "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
+    "VSEPR-Strukturmodell.md",
+    "Summenformel.md",
     "Stoffgemisch.md",
-    "Stoff.md",
-    "Spinquantenzahl s.md",
-    "Reinstoffe.md",
-    "Reduktionsmittel.md",
-    "Quantenzahlen.md",
-    "Periodensystem der Elemente.md",
-    "Pauli-Prinzip.md",
-    "Oxidationsmittel.md",
-    "Ordnungszahl.md"
+    "Stoff.md"
   ]
 }
