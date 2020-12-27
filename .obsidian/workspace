@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Starrer Körper.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
+                "file": "✒ Arbeitsplatz/Starrer Körper.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md"
+                "file": "✒ Arbeitsplatz/Starrer Körper.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Masseschwerpunkt.md",
+                "file": "✒ Arbeitsplatz/Starrer Körper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +144,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Masseschwerpunkt.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
     "✒ Arbeitsplatz/Kräftegleichgewicht.md",
@@ -152,7 +153,6 @@
     "📋 Vorlagen/1-Uni.md",
     "📋 Vorlagen/2-Hobbys.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
-    "✒ Arbeitsplatz/Translation.md",
-    "✒ Arbeitsplatz/Untitled.md"
+    "✒ Arbeitsplatz/Translation.md"
   ]
 }
