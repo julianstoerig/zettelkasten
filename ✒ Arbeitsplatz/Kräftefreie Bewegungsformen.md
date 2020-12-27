@@ -4,7 +4,9 @@
 
 Man spricht von **Kräftefreien Bewegungsformen**, wenn der bewegte Körper sich im [[Kräftegleichgewicht]] befindet.
 
-![[Trans]]
+![[✒ Arbeitsplatz/Translation(Physik)]]
+
+![[Rotation]]
 **Verschiebung** ist die Distanz zwischen zwei Orten. Dieser ist allgemein definiert als
 
 $$
