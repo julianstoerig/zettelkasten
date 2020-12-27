@@ -10,7 +10,7 @@ $$
 
 ## Spezialfall
 
-Bei Körpern mit homogener [[✒ Arbeitsplatz/abgeleitete SI-Einheiten|Massendichte]], lässt sich $\sum\limits_i^n\vec{m_i}$ im Zähler gegen den Nenner kürzen.
+Bei Körpern mit homogener [[SI-System|Massendichte]], lässt sich $\sum\limits_i^n\vec{m_i}$ im Zähler gegen den Nenner kürzen.
 
 $$
 \vec{r_s} =

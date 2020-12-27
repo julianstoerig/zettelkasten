@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
+            "file": "✒ Arbeitsplatz/Schwerpunkt.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
+                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Größen und Einheiten.md"
+                "file": "✒ Arbeitsplatz/Schwerpunkt.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
+                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,12 +152,12 @@
     "width": 420.6000061035156
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Schwerpunkt.md",
     "✒ Arbeitsplatz/Größen und Einheiten.md",
     "✒ Arbeitsplatz/SI-Basiseinheiten.md",
     "✒ Arbeitsplatz/SI-System.md",
     "chemische Verbindung.md",
     "✒ Arbeitsplatz/abgeleitete SI-Einheiten.md",
-    "✒ Arbeitsplatz/Schwerpunkt.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegungsformen.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Physik.md",
