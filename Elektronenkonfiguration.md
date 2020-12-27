@@ -1,4 +1,4 @@
-#Fach-allgemeine-und-anorganische-Chemie  #Semester-1 #Stub 
+#Kurs-allgemeine-und-anorganische-Chemie  #Semester-1 #Stub 
 
 ---
 
