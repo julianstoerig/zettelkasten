@@ -1,4 +1,5 @@
-#Kurs-VO-allgemeine-und-anorganische-Chemie  #Semester-1
+
+[[Chemie]] [[VO allgemeine und anorganische Chemie]] [[✒ Arbeitsplatz/1. Semester]]
 
 ---
 

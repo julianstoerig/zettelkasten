@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nebenquantenzahl l.md",
-            "mode": "source"
+            "file": "Orbitale.md",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nebenquantenzahl l.md",
+                "file": "Orbitale.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nebenquantenzahl l.md"
+                "file": "Orbitale.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nebenquantenzahl l.md",
+                "file": "Orbitale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Orbitale.md",
+    "Orbital.md",
+    "Nuklid.md",
+    "Normalbedingungen.md",
     "Nebenquantenzahl l.md",
     "n+l-Regel.md",
     "Massenzahl.md",
     "Masse.md",
     "magnetische Quantenzahl m.md",
-    "kolloidales Stoffgemisch.md",
-    "📂Unfertiges/Mikrobiologie/Kapsid.md",
-    "Isotop.md",
-    "Hundsche Regeln.md",
-    "homogenes Stoffgemisch.md"
+    "kolloidales Stoffgemisch.md"
   ]
 }
