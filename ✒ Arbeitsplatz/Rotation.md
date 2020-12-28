@@ -5,19 +5,4 @@
 **Rotationen**/**Rotationsbewegungen** sind Drehungen eines Körpers um seinen [[✒ Arbeitsplatz/Schwerpunkt (Masse)|Massenschwerpunkt]].
 
 In der Biologie treten diese z.B. bei [[📂Unfertiges/Flagellum|Flagellen]] auf. Ebenfalls werden sie für technische Verfahren wie dem Zentrifugieren genutzt.
-Man kann die Geschwindigkeit einer **Rotationsbewegung** auf zwei verschiedene Weisen charakterisieren.Man unterscheidet zwischen [[✒ Arbeitsplatz/Winkelgeschwindigkeit|Winkelgeschwindigkeit]] und [[Bahngeschwindigkeit|Bahngeschwindigkeit]].Die **Bahngeschwindigkeit** gibt an, mit welcher Geschwindigkeit sich ein Körper auf einer Kreisbahn bewegt, sie ist als die **Winkelgeschwindigkeit** $\omega$ mal dem Radius $r$ definiert. Alternativ lässt sie sich aus dem Kreuzprodukt des **Winkelgeschwindikgeit-Pseudosvektors** $\vec{\omega}$ und dem Ortsvektor des [[✒ Arbeitsplatz/Schwerpunkt (Masse)|Schwerpunktes]] des bewegten Körpers vom **Rotationsmittelpunkt** $\vec{m}$ bestimmen.
-
-$$
-v = \omega \cdot r = \vec{\omega} \times \vec{r}
-$$
-
-Diese **Bahngeschwindigkeit** ist tangential zur Kreisbahn, sie ändert also laufend ihre Richtung.
-
-![[📎 Anhänge/velocity-angular-velocity-circular-disc.svg]]
-
-Bei konstanter Winkelgeschwindigkeit $\omega$ ist die Bahngeschwindigkeit $v$ direkt proportional zum Radius $r$, da der Kreisumfang $U$ und damit die durch den Körper zurückzulegende Strecke mit steigendem Radius $r$ steigt.
-
-$$
-v = \omega \cdot U = \frac{\Delta \varphi}{\Delta t} \cdot \left( 2 \cdot \pi \cdot r \right) \Rightarrow
-v \propto r
-$$
+Man kann die Geschwindigkeit einer **Rotationsbewegung** auf zwei verschiedene Weisen charakterisieren.Man unterscheidet zwischen [[✒ Arbeitsplatz/Winkelgeschwindigkeit|Winkelgeschwindigkeit]] und [[Bahngeschwindigkeit|Bahngeschwindigkeit]].![[Bahngeschwindigkeit]]
