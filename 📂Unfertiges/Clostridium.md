@@ -14,7 +14,7 @@
 	-  __C. tetani__ 
 		- löst Tetanus (Wundstarrkrampf) aus
 		- gelangt durch tiefe Wunden in Körper $$ \rightarrow $$ Auskeimung von Endosporen im anoxischen Bereich
-		- produziert [📂Unfertiges/Mikrobiologie/Tetanustoxin](%F0%9F%93%82Unfertiges/Mikrobiologie/Tetanustoxin.md)
+		- produziert [📂Unfertiges/Tetanustoxin](%F0%9F%93%82Unfertiges/Tetanustoxin.md)
 	-  __C. botulinum__ ::  __:__ 
 		- Nahrungsmittelvergiftung
 		- Biowaffe

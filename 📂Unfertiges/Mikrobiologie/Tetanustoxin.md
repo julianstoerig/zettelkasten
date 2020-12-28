@@ -1,7 +1,0 @@
-- Tetanustoxin #Stub
-    - Wirkmechanismus
-        - ohne Toxin
-            - Acetylcholin ruft Muskelkontraktion hervor
-            - Freisetzung von Acetylcholin wird von Glycin gehemmt $$ \rightarrow $$ Muskelentspannung
-        - mit Toxin
-            - Freisetzung von Glycin verhindert $$ \rightarrow $$ Verhinderung der Muskelentspannung $$ \rightarrow $$ steife Lähmung $$ \rightarrow $$ Krämpfe $$ \rightarrow $$ Tod durch Atemlähmung

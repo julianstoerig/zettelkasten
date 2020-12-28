@@ -1,3 +1,0 @@
-- T-Lymphozyten #Stub
-    - Immunsystemszelle
-    - T-Helferzellen

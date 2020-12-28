@@ -3,7 +3,7 @@
 - [[VSEPR-Strukturmodell]]
 - [[RedOx Reaktionen]]
 - [[README]]
-- [[Recherchieren]]
+- [[📂Unfertiges/Recherchieren]]
 - [[Oxidationszahlen]]
 - [[November-23rd,-2020]]
 - [[Neues Textdokument.txt]]
