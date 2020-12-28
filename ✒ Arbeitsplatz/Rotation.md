@@ -5,18 +5,7 @@
 **Rotationen**/**Rotationsbewegungen** sind Drehungen eines Körpers um seinen [[✒ Arbeitsplatz/Schwerpunkt (Masse)|Massenschwerpunkt]].
 
 In der Biologie treten diese z.B. bei [[📂Unfertiges/Flagellum|Flagellen]] auf. Ebenfalls werden sie für technische Verfahren wie dem Zentrifugieren genutzt.
-Man kann die Geschwindigkeit einer **Rotationsbewegung** auf zwei verschiedene Weisen charakterisieren.Man unterscheidet zwischen Winkelgeschwindigkeit und Bahngeschwindigkeit. Die **Winkelgeschwindigkeit** beschreibt welchen Drehwinkel $\omega$ der Radiusvektor $\vec{r}$ in der Zeit $\Delta t$ überstreicht.
-
-$$
-\omega = \frac{\Delta \varphi}{\Delta t} = \varphi'(t)
-$$
-
-Bei konstanter Bahngeschwindigkeit $v$ ist die Winkelgeschwindigkeit $\omega$ indirekt proportional zum Radius $r$, da der Kreisumfang $U$ und damit die durch den Körper zurückzulegende Strecke mit steigendem Radius $r$ steigt ($U = 2 \cdot \pi \cdot r$).
-
-$$
-\omega = \frac{v}{U} = \frac{\frac{\Delta s}{\Delta t}}{2 \cdot \pi \cdot r} \Rightarrow
-\omega \propto \frac{1}{r}
-$$
+Man kann die Geschwindigkeit einer **Rotationsbewegung** auf zwei verschiedene Weisen charakterisieren.Man unterscheidet zwischen Winkelgeschwindigkeit und Bahngeschwindigkeit. ![[Winkelgeschwindigkeit]]
 
 Bei konstanter Winkelgeschwindigkeit $\omega$ ist die Bahngeschwindigkeit $v$ direkt proportional zum Radius $r$, da der Kreisumfang $U$ und damit die durch den Körper zurückzulegende Strecke mit steigendem Radius $r$ steigt ($U = 2 \cdot \pi \cdot r$).
 

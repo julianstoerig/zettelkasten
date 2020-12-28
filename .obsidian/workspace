@@ -6,11 +6,22 @@
       {
         "id": "fad337ce5eb68255",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/Rotation.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "f0d32f0caa868f9f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
             "mode": "source"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md",
+                "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md"
+                "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md"
               }
             }
           },
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md",
+                "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +164,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
@@ -161,7 +173,6 @@
     "✒ Arbeitsplatz/Flagellum.md",
     "📂Unfertiges/Mikrobiologie/Chitin.md",
     "📂Unfertiges/Clostridium.md",
-    "📂Unfertiges/Chitin.md",
-    "Zoonose.md"
+    "📂Unfertiges/Chitin.md"
   ]
 }
