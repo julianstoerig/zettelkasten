@@ -1,3 +1,7 @@
+#Kurs-VO-Physik #Semester-1
+
+---
+
 Die **Winkelgeschwindigkeit**/**$\omega$** beschreibt welchen Drehwinkel $\varphi$ der Radiusvektor $\vec{r}$ in der Zeit $\Delta t$ überstreicht.
 
 $$

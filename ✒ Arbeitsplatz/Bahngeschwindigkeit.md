@@ -1,3 +1,7 @@
+#Kurs-VO-Physik #Semester-1
+
+---
+
 Die **Bahngeschwindigkeit** gibt an, mit welcher Geschwindigkeit sich ein Körper auf einer Kreisbahn bewegt, sie ist als die **Winkelgeschwindigkeit** $\omega$ mal dem Radius $r$ definiert. Alternativ lässt sie sich aus dem Kreuzprodukt des **Winkelgeschwindikgeit-Pseudosvektors** $\vec{\omega}$ und dem Ortsvektor des [[✒ Arbeitsplatz/Schwerpunkt (Masse)|Schwerpunktes]] des bewegten Körpers vom **Rotationsmittelpunkt** $\vec{m}$ bestimmen.
 
 $$
