@@ -13,5 +13,5 @@ Um diese Berechnung praktikabel zu machen ist es zweckmäßig, den Körper in ve
 Noch einfacher ist die Gleichung für Körper mit homogener [[SI-System|Massendichte]], bei denen sich $\sum\limits_i^n\vec{m_i}$ im Zähler gegen den Nenner kürzen lässt.
 
 $$
-\vec\sum\limits_{i}^n\vec{r_i}
+\vec{r}_s = \sum\limits_{i}^n\vec{r_i}
 $$
