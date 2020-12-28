@@ -8,7 +8,7 @@ $$
 \vec{r}_s = \frac{\sum\limits_i^n m_i \cdot \vec{r}_i}{\sum\limits_i^n m_i}
 $$
 
-Theoretisch sind dies *kleine Massepunkte*, also z.B. die Moleküle aus 
+Theoretisch sind dies *kleine Massepunkte*, also z.B. die Moleküle aus denen ein Stoff besteht. Da dies jedoch oft nicht praktikabel ist vergrößert man die Teilkörper soweit dies möglich ist, also bis die [[SI]]
 
 Noch einfacher ist die Gleichung für Körper mit homogener [[SI-System|Massendichte]], bei denen sich .
 
