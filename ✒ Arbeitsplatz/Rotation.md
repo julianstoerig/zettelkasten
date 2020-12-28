@@ -19,6 +19,13 @@ $$
 \omega \propto \frac{1}{r}
 $$
 
+Bei konstanter ist die Winkelgeschwindigkeit $\omega$ indirekt proportional zum Radius $r$, da der Kreisumfang $U$ und damit die durch den Körper zurückzulegende Strecke mit steigendem Radius $r$ steigt ($U = 2 \cdot \pi \cdot r$).
+
+$$
+\omega = \frac{v}{U} = \frac{\frac{\Delta s}{\Delta t}}{2 \cdot \pi \cdot r} \Rightarrow
+\omega \propto \frac{1}{r}
+$$
+
 Die uns als klassische Geschwindigkeit bekannte wird hier **Bahngeschwindigkeit** genannt, sie ist als die **Winkelgeschwindigkeit** $\omega$ mal dem Radius $r$ definiert. Alternativ lässt sie sich aus dem Kreuzprodukt des **Winkelgeschwindikgeitsvektors** $\vec{\omega}$ und dem Ortsvektor des [[✒ Arbeitsplatz/Schwerpunkt (Masse)|Schwerpunktes]] des bewegten Körpers vom **Rotationsmittelpunkt** $\vec{m}$ bestimmen.
 
 $$
