@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/VO-Physik.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "✒ Arbeitsplatz/VO-Physik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "✒ Arbeitsplatz/VO-Physik.md"
+              }
             }
           },
           {
@@ -111,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "✒ Arbeitsplatz/VO-Physik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,9 +153,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
-    "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
     "✒ Arbeitsplatz/Starrer Körper.md",
     "✒ Arbeitsplatz/SI-System.md",
