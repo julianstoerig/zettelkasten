@@ -2,7 +2,7 @@
 
 ---
 
-Die **Quantenzahlen** beschreiben die Eigenschaften eines Elektrons eines Atoms, die zusammen das Orbital und den Platz im Orbital bestimmen. Die **Quantenzahlen** eines speziellen Elektrons lassen sich aus der [[📂Unfertiges/Elektronenkonfiguration]] dessen [[Atom|Atoms]] entnehmen. Es gibt vier Quantenzahlen:
+Die **Quantenzahlen** beschreiben die Eigenschaften eines Elektrons eines Atoms, die zusammen das Orbital und den Platz im Orbital bestimmen. Die **Quantenzahlen** eines speziellen Elektrons lassen sich aus der [[📂Unfertiges/Mikrobiologie/Elektronenkonfiguration]] dessen [[Atom|Atoms]] entnehmen. Es gibt vier Quantenzahlen:
 
 |                               | Eigenschaft des Elektrons, die sie beschreibt |
 | ----------------------------- | --------------------------------------------- |

@@ -12,4 +12,4 @@
 				- Bakterien
 					- Pathogene Bakterien:
 						- Humanpathogene Bakterien:
-							- Gesundes [Humanes Mikrobiom](%F0%9F%93%82Unfertiges/Humanes-Mikrobiom.md)
+							- Gesundes [Humanes Mikrobiom](%F0%9F%93%82Unfertiges/Mikrobiologie/Humanes-Mikrobiom.md)

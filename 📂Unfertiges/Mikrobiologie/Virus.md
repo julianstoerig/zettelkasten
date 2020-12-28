@@ -12,7 +12,7 @@ Einige wenige **Viren** verfügen außerdem noch über Replikationsproteine, wie
 
 Dieses Genom ist vom [[✒ Arbeitsplatz/Kapsid]], einer Struktur aus kleinen regelmäßigen Proteinbausteinen, den [[Kapsomeren]], umgeben. Diese strukturelle Einheit aus Genom und Kapsid nennt man **Nukleokapsid**.
 
-Bei manchen **Viren** ist das **Nukleokapsid** noch zusätzlich von einer [[📂Unfertiges/Virushülle]] umgeben.
+Bei manchen **Viren** ist das **Nukleokapsid** noch zusätzlich von einer [[📂Unfertiges/Mikrobiologie/Virushülle]] umgeben.
 
  ![](https://remnote-user-data.s3.amazonaws.com/dYW4dXFjlqbRiZ7wy-AvkqvGB4Lm7-v67q5_mTAwsq6J-7KyVeenHy_32MjPwA7dPdWy-kCyJdE8yI1A05kOQ-lPd4LySJd1ul1AP7QOjC4U9Cf5C0nIS6kHPoCYt8ty)
  
@@ -136,8 +136,7 @@ Replikation
 						- Struktur
 							- Fadenförmig
 							- Hülle mit Spikes
-						- Übertragung:
-							- [Zoonose](Zoonose.md):
+						- Übertrag[📂Unfertiges/Mikrobiologie/Zoonose](%F0%9F%93%82Unfertiges/Mikrobiologie/Zoonose.md)es/Zoonose.md):
 								- C  Erkranktes Tier (Primaten) $$ \rightarrow $$ Mensch
 								- Mensch $$ \rightarrow $$ Mensch (Schleimhäute, Körpersekrete)
 								- Kontaminierte Gegenstände, Blut, Verletzungen…
@@ -149,7 +148,7 @@ Replikation
 							- Marburgvirus
 						- Wirkung:
 							- Inkubationszeit: 2-21 Tage
-							- Ebolafieber: [Hämorrhagisches Fieber](%F0%9F%93%82Unfertiges/H%C3%A4morrhagisches-Fieber.md)
+							- Ebolafieber: [Hämorrhagisches Fieber](%F0%9F%93%82Unfertiges/Mikrobiologie/H%C3%A4morrhagisches-Fieber.md)
 							- Fieber
 					- Flaviviridae:
 						- Genom

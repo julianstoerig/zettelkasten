@@ -60,7 +60,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 					- Protonenmotorische Kraft: ATP Synthese
 			- Struktur
 				- ![](https://remnote-user-data.s3.amazonaws.com/k1yWWNT8eHI3OXA3oPSZgjhxTEd6A9oMcKSjJXK7rsUq2nqyfCBxvnHNGW94Zr39utYkU0eE2ljyE0FCqxIPWjlFzyYfuDh-FNSz2m0p_8hesdHSVqXJstLkhY8WX4dr)  ![](https://remnote-user-data.s3.amazonaws.com/BKIeTteXlBGKm8V24mHLRxNGBjoFfaMp4dsWg1ertf57-VYoSCf3M4zq56r6QM13lNhmHSISRVcxs_FdQ27ltbCELW6GLpnhtRGl7FSa87DDTya8DfjTpjD0VtsghaE8)  
-				- [📂Unfertiges/Phospholipid](%F0%9F%93%82Unfertiges/Phospholipid.md)-Doppelschicht (Bilayer) mit eingelagerten Molekülen:
+				- [📂Unfertiges/Mikrobiologie/Phospholipid](%F0%9F%93%82Unfertiges/Mikrobiologie/Phospholipid.md)-Doppelschicht (Bilayer) mit eingelagerten Molekülen:
 				- Membranproteinen:
 					- integrale Membranproteine: 
 						- durchdringen die Membran komplett
@@ -127,7 +127,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- Pili
 					- ![](https://www.quia.com/files/quia/users/lmcgee/Bacteria/9AP_ch27/conjugation.gif)  
 					- länger als [Fimbrien](Biologie-Bachelor/Mikrobiologie/Prokaryoten/Bakterien/Oberflächenstruktur/Fimbrien,-Pili:/Fimbrien.md) (bis zu $$ 1\[📂Unfertiges/Mikrobiologie/Konjugation](%F0%9F%93%82Unfertiges/Mikrobiologie/Konjugation.md)$ 1 $$ bis$$ 2 $$ pro Zelle
-					- [📂Unfertiges/Konjugation](%F0%9F%93%82Unfertiges/Konjugation.md): Herstellung Zell-Zell-Kontakte
+					- [📂Unfertiges/Mikrobiologie/Konjugation](%F0%9F%93%82Unfertiges/Mikrobiologie/Konjugation.md): Herstellung Zell-Zell-Kontakte
 		- Unterschiede zwischen gram+ und gram- [Bakterien](Bakterien.md)
 			- Gram+
 				- ![](https://remnote-user-data.s3.amazonaws.com/mMSg4ksBK17zBUo1P4OO0yloF2_lYP27HTNpO3W2V-PpYotJsl7sq1M3WhiTPfdANzYl5k_6-g9pXm8C6nycR26c4vdLBHDfq8GA7D2Z8yVbbyI4hRVoixBefuH2VFy9)  
@@ -148,8 +148,8 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- [📂Unfertiges/Polymere](%F0%9F%93%82Unfertiges/Polymere.md)  als Kohlenstoff-Speicher (C-Speicher):
 					- bei C-Überschuss werden [📂Unfertiges/Polymere](%F0%9F%93%82Unfertiges/Polymere.md) synthetisiert & für die Energiegewinnung u. Biosynthesen genutzt, z. B. Poly-β-hydroxybuttersäure (PHB), Polyhydroxyalkanoat (PHA)&  Glykogen
 				- Polyphosphate:
-					- werden bei Phosphatüberschuss synthetisiert & sind Phospha[📂Unfertiges/Magnetosomen](%F0%9F%93%82Unfertiges/Magnetosomen.md)für Pospholipidbiosynthesen
-			- [📂Unfertiges/Magnetosomen](%F0%9F%93%82Unfertiges/Magnetosomen.md):
+					- werden bei Phosphatüberschuss synthetisiert & sind Phospha[📂Unfertiges/Mikrobiologie/Magnetosomen](%F0%9F%93%82Unfertiges/Mikrobiologie/Magnetosomen.md)für Pospholipidbiosynthesen
+			- [📂Unfertiges/Mikrobiologie/Magnetosomen](%F0%9F%93%82Unfertiges/Mikrobiologie/Magnetosomen.md):
 				- Funktion: Bewegung abwärts zu Sedimentschichten mit geringerer $$ O_2 $$-Konzentration
 				- vor allem bei aquatischen MO (Bsp.:  __Magnetospirillum magnetotactium__ )
 			- [📂Unfertiges/Mikrobiologie/Bakteriengeißeln](%F0%9F%93%82Unfertiges/Mikrobiologie/Bakteriengei%C3%9Feln.md)
@@ -270,12 +270,11 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- Phasen der Besiedlung:
 					- 
 				- Ausgewählte Vertreter: 
-					- Gram-negativ:
-						- [Legionella pneumoniae](%F0%9F%93%82Unfertiges/Legionella-pneumoniae.md)
-						- [Helicobacter pylori](%F0%9F%93%82Unfertiges/Helicobacter-pylori.md) __ __ 
+	[Legionella pneumoniae](%F0%9F%93%82Unfertiges/Mikrobiologie/Legionella-pneumoniae.md)es/Legionella-pneumoniae.md)
+						- [Helicobacter pylori](%F0%9F%93%82Unfertiges/Mikrobiologie/Helicobacter-pylori.md) __ __ 
 				- Gram-positiv: ____ 
 					- [📂Unfertiges/Mikrobiologie/Bacillus anthracis](%F0%9F%93%82Unfertiges/Mikrobiologie/Bacillus%20anthracis.md)
-					- Gattung __ __ [📂Unfertiges/Clostridium](%F0%9F%93%82Unfertiges/Clostridium.md)
+					- Gattung __ __ [📂Unfertiges/Mikrobiologie/Clostridium](%F0%9F%93%82Unfertiges/Mikrobiologie/Clostridium.md)
 					- Antibiotikaresistenz
 						- Mikrobielle Antibiotikabildung in der Natur
 							- als Abwehrmechanismus
@@ -520,7 +519,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 					- Bildung von Aflatoxinen u.a. Pilzgiften
 			- Saprotroph (saprophytisch):: Abbau von totem organischen Material
 			- Symbiontisch:
-				- [📂Unfertiges/Flechten](%F0%9F%93%82Unfertiges/Flechten.md)
+				- [📂Unfertiges/Mikrobiologie/Flechten](%F0%9F%93%82Unfertiges/Mikrobiologie/Flechten.md)
 				- [📂Unfertiges/Mykorrhiza](%F0%9F%93%82Unfertiges/Mykorrhiza.md) __ 
 			- Parasitär
 				- z.B.: [Nemathophage Pilze](Nemathophage-Pilze.md)

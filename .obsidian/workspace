@@ -4,14 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "2e70e6b60ff4d96a",
+        "id": "1f63b04fa03a64be",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "📂Unfertiges/Mikrobiologie/Chitin.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "10f3a31af7972b86",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zoonose.md",
-            "mode": "source"
+            "file": "📂Unfertiges/Mikrobiologie/Clostridium.md",
+            "mode": "preview"
           }
         }
       }
@@ -58,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -78,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zoonose.md",
+                "file": "📂Unfertiges/Mikrobiologie/Clostridium.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zoonose.md"
+                "file": "📂Unfertiges/Mikrobiologie/Clostridium.md"
               }
             }
           },
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zoonose.md",
+                "file": "📂Unfertiges/Mikrobiologie/Clostridium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +163,8 @@
     "width": 420.6000061035156
   },
   "lastOpenFiles": [
+    "📂Unfertiges/Clostridium.md",
+    "📂Unfertiges/Chitin.md",
     "Zoonose.md",
     "📂Unfertiges/Mikrobiologie/Virushülle.md",
     "📂Unfertiges/Mikrobiologie/Tetanustoxin.md",
@@ -159,8 +172,6 @@
     "Recherchieren.md",
     "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md",
     "Polymere.md",
-    "Phospholipid.md",
-    "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
-    "Pflanzen.md"
+    "Phospholipid.md"
   ]
 }

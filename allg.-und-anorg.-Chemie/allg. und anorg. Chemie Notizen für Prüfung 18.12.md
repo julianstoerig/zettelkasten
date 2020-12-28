@@ -3,7 +3,7 @@
 - [[Stoff|Stoffe]]
 - [[chemisches Element|Elemente]]
 - [[Periodensystem der Elemente|PSE]]
-- [[📂Unfertiges/Elektronenkonfiguration|Elektronenkonfigurationen]]
+- [[📂Unfertiges/Mikrobiologie/Elektronenkonfiguration|Elektronenkonfigurationen]]
 
 ## Altfragen
 

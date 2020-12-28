@@ -11,7 +11,7 @@
         - NS besteht aus zwei (+)ssRNA Strängen, welche jeweils über eine RT([Reverse Transkriptase](%F0%9F%93%82Unfertiges/Mikrobiologie/Reverse%20Transkriptase.md))
         - Kapsid mit Hülle und Spikes
     - Replikation
-        - HIV-Virus bind[📂Unfertiges/T-Lymphozyten](%F0%9F%93%82Unfertiges/T-Lymphozyten.md)zyten](T-Lymphozyten.md)
+        - HIV-Virus bind[📂Unfertiges/Mikrobiologie/T-Lymphozyten](%F0%9F%93%82Unfertiges/Mikrobiologie/T-Lymphozyten.md)zyten](T-Lymphozyten.md)
         - Fusion der Virushülle mit Zellmembran der Wirtszelle $$ \rightarrow $$Freisetzung der viralen NS
         - Reverse Transkription der beiden (+)ssRNA Stränge zu dsDNA
         - Integration der dsDNA in Wirtsgenom

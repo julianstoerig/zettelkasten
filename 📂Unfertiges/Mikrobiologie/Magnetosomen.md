@@ -5,4 +5,4 @@
 			- Prokaryoten
 				- Bakterien
 					- Zelleinschlüsse
-						- [📂Unfertiges/Magnetosomen](%F0%9F%93%82Unfertiges/Magnetosomen.md):
+						- [📂Unfertiges/Mikrobiologie/Magnetosomen](%F0%9F%93%82Unfertiges/Mikrobiologie/Magnetosomen.md):
