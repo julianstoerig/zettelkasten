@@ -12,4 +12,4 @@ $$
 \omega = \frac{\Delta \varphi}{\Delta t} = \varphi'(t)
 $$
 
-Die uns als klassische Geschwindigkeit bekannte wird hier **Bahngeschwindigkeit** genannt, sie ist 
+Die uns als klassische Geschwindigkeit bekannte wird hier **Bahngeschwindigkeit** genannt, sie ist als die Winkelgeschwindigkeit $$ mal dem Radius $r$ definiert.
