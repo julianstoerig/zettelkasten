@@ -22,7 +22,7 @@ $$
 Bei konstanter Winkelgeschwindigkeit $\omega$ ist die Bahngeschwindigkeit $v$ direkt proportional zum Radius $r$, da der Kreisumfang $U$ und damit die durch den Körper zurückzulegende Strecke mit steigendem Radius $r$ steigt ($U = 2 \cdot \pi \cdot r$).
 
 $$
-v = \omega \cdot U = \omega \cdot \left( 2 \cdot \pi \cdot r \right) \Rightarrow
+v = \omega \cdot U = \ \cdot \left( 2 \cdot \pi \cdot r \right) \Rightarrow
 v \propto r
 $$
 
