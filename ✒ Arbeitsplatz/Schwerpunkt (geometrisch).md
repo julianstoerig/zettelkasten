@@ -1,4 +1,4 @@
-Der **Schwerpunkt**/**geometrische Schwerpunkt** eines Körpers ist der Punkt von 
+Der **Schwerpunkt**/**geometrische Schwerpunkt** eines Körpers ist die Mittelung aller Punkte eines Körpers.
 
 $$
 \vec{r}_s = \sum\limits_{i}^n\vec{r}_i =
