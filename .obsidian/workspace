@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "allg.-und-anorg.-Chemie/allg. und anorg. Chemie Notizen für Prüfung 18.12.md",
+            "file": "allgemeine und Anorganische Chemie.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "allg.-und-anorg.-Chemie/allg. und anorg. Chemie Notizen für Prüfung 18.12.md",
+                "file": "allgemeine und Anorganische Chemie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "allg.-und-anorg.-Chemie/allg. und anorg. Chemie Notizen für Prüfung 18.12.md"
+                "file": "allgemeine und Anorganische Chemie.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "allg.-und-anorg.-Chemie/allg. und anorg. Chemie Notizen für Prüfung 18.12.md",
+                "file": "allgemeine und Anorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +153,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "allgemeine und Anorganische Chemie.md",
     "allg.-und-anorg.-Chemie/allg. und anorg. Chemie Notizen für Prüfung 18.12.md",
     "Aerosol.md",
     "📋 Vorlagen/Zoologie 1.md",
@@ -161,7 +162,6 @@
     "📋 Vorlagen/Mikrobiologie.md",
     "📋 Vorlagen/Chemie.md",
     "📋 Vorlagen/Beispiel.md",
-    "📋 Vorlagen/Chemie 1 1 1.md",
-    "📋 Vorlagen/Chemie 1 1.md"
+    "📋 Vorlagen/Chemie 1 1 1.md"
   ]
 }
