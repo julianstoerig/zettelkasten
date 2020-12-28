@@ -5,7 +5,7 @@
 **Rotationen**/**Rotationsbewegungen** sind Drehungen eines Körpers um seinen [[✒ Arbeitsplatz/Schwerpunkt (Masse)|Massenschwerpunkt]].
 
 In der Biologie treten diese z.B. bei [[📂Unfertiges/Flagellum|Flagellen]] auf. Ebenfalls werden sie für technische Verfahren wie dem Zentrifugieren genutzt.
-Man kann die Geschwindigkeit einer **Rotationsbewegung** auf zwei verschiedene 
+Man kann die Geschwindigkeit einer **Rotationsbewegung** auf zwei verschiedene Weisen charakterisieren.
 Man unterscheidet zwischen Winkelgeschwindigkeit und Bahngeschwindigkeit. Die **Winkelgeschwindigkeit** beschreibt welchen Drehwinkel $\omega$ der Radiusvektor $\vec{r}$ in der Zeit $\Delta t$ überstreicht.
 
 $$
