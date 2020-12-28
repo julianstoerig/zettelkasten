@@ -17,3 +17,5 @@ Die uns als klassische Geschwindigkeit bekannte wird hier **Bahngeschwindigkeit*
 $$
 v = \omega \cdot r = \vec{\omega} \times \vec{r}
 $$
+
+Diese Bahngeschwindigkeit ist 
