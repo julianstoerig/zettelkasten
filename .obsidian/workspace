@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "99c17fe5afc460c5",
+        "id": "8364cde02eeed856",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -146,6 +146,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/VO Physik.md",
+    "✒ Arbeitsplatz/Physik.md",
     "Zoologie.md",
     "📂Unfertiges/Mikrobiologie/Zoonose.md",
     "📂Unfertiges/Mikrobiologie/Virushülle.md",
@@ -153,8 +155,6 @@
     "📂Unfertiges/Mikrobiologie/Virion.md",
     "Zoologie/Systematik.md",
     "📂Unfertiges/Mikrobiologie/Symmetrie.md",
-    "📂Unfertiges/Mikrobiologie/Sklerotien.md",
-    "Quantenzahlen.md",
-    "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md"
+    "📂Unfertiges/Mikrobiologie/Sklerotien.md"
   ]
 }
