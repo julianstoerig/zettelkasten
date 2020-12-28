@@ -1,7 +1,6 @@
-#Kurs-VO-Zoologie #Semester-1
+[[Zoologie]] [[VO Zoologie]] [[✒ Arbeitsplatz/1. Semester]]
 
 ---
-
 
 # [[Opisthokonta]]
 

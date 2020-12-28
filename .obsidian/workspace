@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📂Unfertiges/Mikrobiologie/Virion.md",
-            "mode": "source"
+            "file": "Zoologie.md",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Virion.md",
+                "file": "Zoologie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Virion.md"
+                "file": "Zoologie.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Virion.md",
+                "file": "Zoologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Zoologie.md",
+    "📂Unfertiges/Mikrobiologie/Zoonose.md",
+    "📂Unfertiges/Mikrobiologie/Virushülle.md",
+    "📂Unfertiges/Mikrobiologie/Virus.md",
     "📂Unfertiges/Mikrobiologie/Virion.md",
     "Zoologie/Systematik.md",
     "📂Unfertiges/Mikrobiologie/Symmetrie.md",
     "📂Unfertiges/Mikrobiologie/Sklerotien.md",
     "Quantenzahlen.md",
-    "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md",
-    "📂Unfertiges/Mikrobiologie/Protoplasten.md",
-    "📂Unfertiges/Mikrobiologie/Porine.md",
-    "Periodensystem der Elemente.md",
-    "📂Unfertiges/Orbital.md"
+    "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md"
   ]
 }
