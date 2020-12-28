@@ -23,7 +23,7 @@ Diese **Bahngeschwindigkeit** ist tangential zur Kreisbahn, sie ändert also lau
 Die Winkelgeschwindigkeit $\omega$ ist indirekt proportional zum Radius $r$.
 
 $$
-\omega \tilde \propto
+\omega \propto \frac{1}{r}
 $$
 
 ![[📎 Anhänge/velocity-angular-velocity-circular-disc.svg]]
