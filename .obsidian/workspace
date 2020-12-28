@@ -6,11 +6,22 @@
       {
         "id": "e197d9d2787d26f5",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "da1938442003fcb4",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Schwerpunkt (geometrisch).md",
             "mode": "source"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
+                "file": "✒ Arbeitsplatz/Schwerpunkt (geometrisch).md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt (Masse).md"
+                "file": "✒ Arbeitsplatz/Schwerpunkt (geometrisch).md"
               }
             }
           },
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
+                "file": "✒ Arbeitsplatz/Schwerpunkt (geometrisch).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +164,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Schwerpunkt (geometrisch).md",
     "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Schwerpunkt.md",
@@ -161,7 +173,6 @@
     "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
     "✒ Arbeitsplatz/SI-System.md",
-    "✒ Arbeitsplatz/Translation (Physik).md",
-    "📋 Vorlagen/1-Uni.md"
+    "✒ Arbeitsplatz/Translation (Physik).md"
   ]
 }

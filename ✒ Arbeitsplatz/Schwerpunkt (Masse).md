@@ -12,10 +12,4 @@ Theoretisch sind dies *kleine Massepunkte*. Da diese Rechnung jedoch oft nicht p
 
 Man betrachtet dann alle Teilkörper als Punktmassen mit der Position ihres **Massenschwerpunktes** $\vec{r}_s$.
 
-Noch einfacher ist die Gleichung für Körper mit homogener [[SI-System|Massendichte]], bei denen sich der gesamte Körper als ein einziger Teilkörper darstellen lässt.
-
-$$
-\vec{r}_s = \sum\limits_{i}^n\vec{r}_i =
-\frac{\vec{r}_1 \cdot m_1}{m_1} =
-\frac{\vec{r}_1 \cdot \cancel{m_1}}{\cancel{m_1}} = \vec{r}_1
-$$
+![[Schwerpunkt (geometrisch)]]
