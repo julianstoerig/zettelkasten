@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "homogenes Stoffgemisch.md",
+            "file": "Nebenquantenzahl l.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "homogenes Stoffgemisch.md",
+                "file": "Nebenquantenzahl l.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homogenes Stoffgemisch.md"
+                "file": "Nebenquantenzahl l.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homogenes Stoffgemisch.md",
+                "file": "Nebenquantenzahl l.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "homogenes Stoffgemisch.md",
-    "heterogenes Stoffgemisch.md",
-    "Hauptquantenzahl n.md",
-    "📂Unfertiges/Mikrobiologie/freies Radikal.md",
-    "Find unlinked files plugin output.md",
-    "📂Unfertiges/Mikrobiologie/Elektronenkonfiguration.md",
-    "Edelgas.md",
-    "chemisches Element.md",
-    "chemische Verbindung.md",
-    "Chemie.md"
+    "Nebenquantenzahl l.md",
+    "n+l-Regel.md",
+    "Massenzahl.md",
+    "Masse.md",
+    "magnetische Quantenzahl m.md",
+    "kolloidales Stoffgemisch.md",
+    "📂Unfertiges/Mikrobiologie/Kapsid.md",
+    "Isotop.md",
+    "Hundsche Regeln.md",
+    "homogenes Stoffgemisch.md"
   ]
 }
