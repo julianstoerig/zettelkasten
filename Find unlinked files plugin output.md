@@ -15,7 +15,7 @@
 - [[Edelgas]]
 - [[📂Unfertiges/Mikrobiologie/Autotrophie]]
 - [[📋 Vorlagen/2-Hobbys]]
-- [[📋 Vorlagen/1-Uni]]
+- [[📋 Vorlagen/Chemie]]
 - [[📂Unfertiges/Mikrobiologie/Symmetrie]]
 - [[📂Unfertiges/Mikrobiologie/Lysozym]]
 - [[📂Unfertiges/Mikrobiologie/Influenzavirus-A]]
