@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Schwerpunkt.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
+                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegung.md"
+                "file": "✒ Arbeitsplatz/Schwerpunkt.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
+                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,13 +153,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Schwerpunkt.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
     "✒ Arbeitsplatz/Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/SI-System.md",
-    "✒ Arbeitsplatz/Schwerpunkt.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
     "📋 Vorlagen/1-Uni.md",
     "✒ Arbeitsplatz/Größen und Einheiten.md"
