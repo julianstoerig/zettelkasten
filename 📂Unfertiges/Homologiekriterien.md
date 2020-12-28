@@ -1,0 +1,13 @@
+- Kriterium der...
+	- Lage:: Lage eines Merkmals relativ zu anderen Merkmalen des Organismus
+	- Struktur und spezifischen Qualität:: Der interne Aufbau des Merkmals
+	- Kontinuität:: Nachweis einer Struktur- oder Lageänderung eines Merkmals, durch Material von Zwischenformen
+- Beispiel 1: Phylogenese der Vorderextremitäten der  __Tetrapoda__ 
+	- ![](https://remnote-user-data.s3.amazonaws.com/3MbURFjfO8AA-fIDEops0coPvm56DVFtI6k9sDv0FJdOECGoFFvFNEynt8meYdJzIhf-O83PzL_VUEJEkCeHdPh5BzPKksCqqQTNubz5aJhRXEK4k0udu_ZVsONwvhiM)  
+	- Erfüllung der Homologiekriterien:
+		- Lage: Die Vorderextremität setzt immer am oberen Oberkörper an; der  __Humerus__  ist dem Körper am nächsten, An ihn befestigt sind  __Radius __ und  __Ulna__ , daran wiederum die  __Carpi__ , usw.
+		- Struktur:  Bei allen Tetrapoda bestehen die Vorderextremitäten aus einzelnen, immer vorhandenen Knochen. Auch diese Knochen folgen dem gleichen strukturellen Aufbau
+- Beispiel 2: Gehörknöchelchen bei Säugetieren
+	- ![](https://remnote-user-data.s3.amazonaws.com/d7zDe6AMI-YKOH8YyCataRtqy-dNHylUkr-Gu7yYlcSHqEgRqvHQ8POLPHRs0nT0XOKghr9_VFdd9rTOU29iRtJzMx6f6EnkQjv8vfpd6SvQantnrWkxbDVRDhHL_5T5)  
+	- Erfüllung der Homologiekriterien:
+		- Kontinuität: Es liegt Material verschiedenster Zwischenformen vor, dass die Entwicklung der Knochen aufzeigt

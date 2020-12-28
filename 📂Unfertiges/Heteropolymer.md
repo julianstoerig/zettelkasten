@@ -1,0 +1,1 @@
+- Polymere, die sich aus mindestens zwei verschiedenartigen Monomereinheiten zusammensetzen.

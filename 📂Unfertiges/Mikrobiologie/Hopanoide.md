@@ -1,3 +1,0 @@
-- Hopanoide #Stub
-    - ![](https://remnote-user-data.s3.amazonaws.com/_PHyk0jQfDtb1NQfnNKEM2LLq1ySP5SsModLIZQEnfAhUQJ71nj9tZ6RzC6Vn-6rPToF4smNt8jT8fT5pV7SMmWn8nnvTtARlYnTUyPGhZrhDvevVTRsnJ7JLSlC3w80)
-    - Sterol-ähnliche Stoffe (Diplotän)

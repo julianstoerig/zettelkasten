@@ -1,0 +1,3 @@
+- Verdickte Zellwand: starke Lichtbrechung unter dem Mikroskop
+- Bildung bei Stickstoffmangel
+-  _ Filamentös wachsende Cyanobakterien: Anabaena_ 

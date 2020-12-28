@@ -70,7 +70,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 						- verschiedene Aufgaben
 				- Stabilisierung
 					- Hydrophobe Einlagerungen:
-						- Prokaryoten: [📂Unfertiges/Mikrobiologie/Hopanoide](%F0%9F%93%82Unfertiges/Mikrobiologie/Hopanoide.md)
+						- Prokaryoten: [📂Unfertiges/Hopanoide](%F0%9F%93%82Unfertiges/Hopanoide.md)
 						- Eukaryoten: echte Sterole
 							- ![](https://remnote-user-data.s3.amazonaws.com/r32EhUJTTqvSprPO_glhlcY60yVpf-PDcqVogrdDIku93kNaXMp9xFxdqKMffMuHI2-Li4MvYpOzhY4WIWtJtozn-NRZicqjr1oopNoLrntmv_hs_BDPDMRVqdxENr2d)
 							- Pilze: Ergosterol
@@ -86,7 +86,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- Grampositiv: violett
 			- Struktur
 				- Peptidoglykan (Murein)
-					- [Heteropolymer](Heteropolymer.md) aus Polysaccharid und Peptid
+					- [📂Unfertiges/Heteropolymer](%F0%9F%93%82Unfertiges/Heteropolymer.md) aus Polysaccharid und Peptid
 					- Polysaccharid besteht alternierend aus zwei Zuckern:
 						- N-Acetylglucosamin
 						- N-Acetylmuraminsäure
@@ -164,7 +164,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- Hydrotaxis:: Bewegung als Reaktion auf Wasser
 		- Zelldifferenzierung (spezielle Formen von Zellen):
 			- [Endosporen](Endosporen.md) als Dauerform gram+ Bakterien
-			- [📂Unfertiges/Mikrobiologie/Heterocysten](%F0%9F%93%82Unfertiges/Mikrobiologie/Heterocysten.md) als Dauerform von Cyanobakterien
+			- [📂Unfertiges/Heterocysten](%F0%9F%93%82Unfertiges/Heterocysten.md) als Dauerform von Cyanobakterien
 		- Nährstoffaufnahme:
 			- ![](https://remnote-user-data.s3.amazonaws.com/jjUMlFdGacsRkaZU4dKiOTU7phSYBSdauZoTOF_HH-0WC6gDrHokZsUj-m1tTUHgvOgr6sP8CqZfeMuHC8N7i8aAWFA_b3Fm23AFf5yOVcAYDgqCPdRbYpA7zASiCqSR)  
 			- Exoenzyme: werden aus er Zelle ausgeschieden
