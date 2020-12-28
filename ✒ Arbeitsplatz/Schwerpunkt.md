@@ -18,7 +18,7 @@ $$
 \frac{r_1 \cdot m_1 + r_2 \cdot m_2 + ... + r_n \cdot m_n}{m_1 + m_2 + ... + m_n}
 $$
 
-Wenn die [[✒ Arbeitsplatz/SI-SystemMassedichte]] des Körpers homogen ist, in dieser Gleichung 
+Wenn die [[✒ Arbeitsplatz/SI-System|Massedichte]] des Körpers homogen ist, in dieser Gleichung 
 
 $$
 \frac{r_1 \cdot m_1 + r_2 \cdot m_2 + ... + r_n \cdot m_n}{m_1 + m_2 + ... + m_n} =
