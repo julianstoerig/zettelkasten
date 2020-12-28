@@ -12,4 +12,4 @@ $$
 \omega = \frac{\Delta \varphi}{\Delta t} = \varphi'(t)
 $$
 
-Die klassische Geschwindigkeit **Bahngeschwindigkeit**
+Die uns als klassische Geschwindigkeit bekannte wird hier **Bahngeschwindigkeit** genannt, sie ist 
