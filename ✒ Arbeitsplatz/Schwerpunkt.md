@@ -10,7 +10,7 @@ $$
 
 Theoretisch sind dies *kleine Massepunkte*. Da diese Rechnung jedoch oft nicht praktikabel ist, vergrößert man die Teilkörper soweit dies möglich ist, also bis die Unterschiede in der [[✒ Arbeitsplatz/SI-System|Massedichte]] der Teilkörper zu groß werden.
 
-
+Man betrachtet dann alle Teilkörper als Punktmassen mit der Position ihres Masseschwerpunktes $\vec{r}__
 
 Noch einfacher ist die Gleichung für Körper mit homogener [[SI-System|Massendichte]], bei denen sich der gesamte Körper als ein einziger Teilkörper darstellen lässt.
 
