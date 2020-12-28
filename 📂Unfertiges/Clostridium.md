@@ -1,0 +1,32 @@
+- Gattung
+- gram+
+- Stäbchen
+- bilden Endosporen
+- im Boden und Darmtrakt (Mensch, Tier)
+- Auslöser für Krankheitsbild
+	- Exotoxine
+	- Exoenzyme
+	- (exo ausgeschieden)
+- Arten
+	-  __C. perfringens__ 
+		- Gasbrand
+		- Kontamination von Wunden
+	-  __C. tetani__ 
+		- löst Tetanus (Wundstarrkrampf) aus
+		- gelangt durch tiefe Wunden in Körper $$ \rightarrow $$ Auskeimung von Endosporen im anoxischen Bereich
+		- produziert [📂Unfertiges/Mikrobiologie/Tetanustoxin](%F0%9F%93%82Unfertiges/Mikrobiologie/Tetanustoxin.md)
+	-  __C. botulinum__ ::  __:__ 
+		- Nahrungsmittelvergiftung
+		- Biowaffe
+		- Botox
+		- produziert Botulinumtoxin (zählt zu den stärksten bekannten Toxinen):
+			- hemmen die Reizleitung im Bereich der motorischen Endplatten, die Freisetzung von Acetylcholin wird blockiert Verhinderung der Muskelkontraktion$$ \rightarrow $$ (schlaffe) Lähmung$$ \rightarrow  $$ Tod durch Atemlähmung
+--------------------- Portal ---------------------
+	- Biologie Bachelor
+		- Mikrobiologie
+			- Prokaryoten
+				- Bakterien
+					- Pathogene Bakterien:
+						- Humanpathogene Bakterien:
+							- Gram-positiv: ____ 
+								- Gattung __ __ [📂Unfertiges/Clostridium](%F0%9F%93%82Unfertiges/Clostridium.md)

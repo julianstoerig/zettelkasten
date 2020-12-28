@@ -275,7 +275,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 						- [Helicobacter pylori](Helicobacter-pylori.md) __ __ 
 				- Gram-positiv: ____ 
 					- [📂Unfertiges/Mikrobiologie/Bacillus anthracis](%F0%9F%93%82Unfertiges/Mikrobiologie/Bacillus%20anthracis.md)
-					- Gattung __ __ [Clostridium](Clostridium.md)
+					- Gattung __ __ [📂Unfertiges/Clostridium](%F0%9F%93%82Unfertiges/Clostridium.md)
 					- Antibiotikaresistenz
 						- Mikrobielle Antibiotikabildung in der Natur
 							- als Abwehrmechanismus
@@ -462,7 +462,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 		- Zellmembran wird von Ergosterol stabilisiert
 		- Zellwand
 			- $$ 80\%-90\% $$ Polysaccharide
-				- Hauptkomponente [Chitin](Chitin.md)
+				- Hauptkomponente [📂Unfertiges/Chitin](%F0%9F%93%82Unfertiges/Chitin.md)
 			- restliche $$ 10\%-20\% $$ sind Proteine, Lipide, Polyphosphate, anorganische Ionen (verleihen Chitingerüst Stütze)
 			- häufig Melanin als Pigment eingelagert
 		- Vermehrung
