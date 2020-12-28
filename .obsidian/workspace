@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ordnungszahl.md",
-            "mode": "preview"
+            "file": "Reinstoffe.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ordnungszahl.md",
+                "file": "Reinstoffe.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ordnungszahl.md"
+                "file": "Reinstoffe.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ordnungszahl.md",
+                "file": "Reinstoffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Reinstoffe.md",
+    "Reduktionsmittel.md",
+    "README.md",
+    "Quantenzahlen.md",
+    "Periodensystem der Elemente.md",
+    "Pauli-Prinzip.md",
+    "Oxidationsmittel.md",
     "Ordnungszahl.md",
     "Orbitale.md",
-    "Orbital.md",
-    "Nuklid.md",
-    "Normalbedingungen.md",
-    "Nebenquantenzahl l.md",
-    "n+l-Regel.md",
-    "Massenzahl.md",
-    "Masse.md",
-    "magnetische Quantenzahl m.md"
+    "Orbital.md"
   ]
 }

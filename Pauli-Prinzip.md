@@ -1,7 +1,7 @@
-#Kurs-VO-allgemeine-und-anorganische-Chemie  #Semester-1
+[[Chemie]] [[VO allgemeine und anorganische Chemie]] [[✒ Arbeitsplatz/1. Semester]]
 
 ---
 
-Das **Pauli-Prinzip** besagt, die Elektronen eines [[Atom|Atoms]] durch ihre [[Quantenzahlen]] eindeutig bestimmt werden können.
+ **Pauli-Prinzip** besagt, die Elektronen eines [[Atom|Atoms]] durch ihre [[Quantenzahlen]] eindeutig bestimmt werden können.
 
 Es können also keine zwei Elektronen eines [[Atom|Atoms]] in allen [[Quantenzahlen]] übereinstimmen, somit können [[📂Unfertiges/Orbital|Orbitale]] mit maximal zwei Elektronen besetzt werden.
