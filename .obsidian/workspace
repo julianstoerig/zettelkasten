@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "fad337ce5eb68255",
+        "id": "12ae86a6301916cb",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 Vorlagen/Beispiel.md",
+            "file": "📋 Vorlagen/Chemie.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Beispiel.md",
+                "file": "📋 Vorlagen/Chemie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📋 Vorlagen/Beispiel.md"
+                "file": "📋 Vorlagen/Chemie.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Beispiel.md",
+                "file": "📋 Vorlagen/Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📋 Vorlagen/Chemie.md",
+    "📋 Vorlagen/Mikrobiologie.md",
+    "📋 Vorlagen/Beispiel.md",
     "📋 Vorlagen/Chemie 1 1 1.md",
     "📋 Vorlagen/Physik.md",
-    "📋 Vorlagen/Mikrobiologie.md",
-    "📋 Vorlagen/Chemie.md",
     "📋 Vorlagen/Chemie 1 1.md",
     "📋 Vorlagen/Chemie 1.md",
     "✒ Arbeitsplatz/Untitled.md",
     "📋 Vorlagen/1-Uni.md",
-    "📋 Vorlagen/2-Hobbys.md",
-    "Aerosol.md"
+    "📋 Vorlagen/2-Hobbys.md"
   ]
 }
