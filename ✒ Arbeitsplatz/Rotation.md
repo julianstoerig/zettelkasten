@@ -18,4 +18,4 @@ $$
 v = \omega \cdot r = \vec{\omega} \times \vec{r}
 $$
 
-Diese **Bahngeschwindigkeit** ist 
+Diese **Bahngeschwindigkeit** ist tangential zur Kreisbahn, sie ändert also laufend ihre Richtung. 
