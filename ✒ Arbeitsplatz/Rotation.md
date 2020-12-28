@@ -12,7 +12,7 @@ $$
 \omega = \frac{\Delta \varphi}{\Delta t} = \varphi'(t)
 $$
 
-Die Winkelgeschwindigkeit $\omega$ ist indirekt proportional zum Radius $r$.
+Bei konstanter Winkelgeschwindigkeit $\omega$ ist indirekt proportional zum Radius $r$. Da
 
 $$
 \rightarrow \omega \propto \frac{1}{r}
