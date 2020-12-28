@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "freies Radikal.md",
+            "file": "📂Unfertiges/Mikrobiologie/Heterocysten.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "freies Radikal.md",
+                "file": "📂Unfertiges/Mikrobiologie/Heterocysten.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "freies Radikal.md"
+                "file": "📂Unfertiges/Mikrobiologie/Heterocysten.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "freies Radikal.md",
+                "file": "📂Unfertiges/Mikrobiologie/Heterocysten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
     "width": 420.6000061035156
   },
   "lastOpenFiles": [
+    "📂Unfertiges/Mikrobiologie/Heterocysten.md",
+    "📂Unfertiges/Mikrobiologie/Helicobacter-pylori.md",
+    "Hämorrhagisches-Fieber.md",
     "freies Radikal.md",
     "📂Unfertiges/Mikrobiologie/Flechten.md",
     "📂Unfertiges/Mikrobiologie/Endosporen.md",
     "✒ Arbeitsplatz/Bacillus anthracis.md",
     "✒ Arbeitsplatz/Untitled.md",
     "Elektronenkonfiguration.md",
-    "📂Unfertiges/Mikrobiologie/Clostridium.md",
-    "📂Unfertiges/Mikrobiologie/Chitin.md",
-    "Autotrophie.md",
-    "✒ Arbeitsplatz/Starrer Körper.md"
+    "📂Unfertiges/Mikrobiologie/Clostridium.md"
   ]
 }

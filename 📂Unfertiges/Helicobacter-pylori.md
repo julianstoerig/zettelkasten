@@ -1,0 +1,34 @@
+- gram-
+- Stäbchen
+- Spiralförmig
+- beweglich
+- [mikroaerophil](mikroaerophil.md)
+- kommt nur beim Menschen vor
+- Übertragung
+	- Fäkal-oral:
+		- Schmierinfektionen
+		- Lebensmittel
+		- Wasser
+- Durchseuchung:: 40%-80% in Entwicklungsländern
+- Krankheiten
+	- chronisch-entzündliche und maligne Krankheiten im Magen-Darm-Trakt:
+		- Gastritis
+		- Magengeschwüre
+		- Magenkrebs
+- Pathogenitätsfaktoren
+	- Starke Beweglichkeit: rasche Besiedelung der Oberfläche der Magenschleimhaut (Schutz vor Magensäure)
+	- scheidet Enzym  __Urease__  aus, das Harmstoff zu Ammoniak spaltet $$ \rightarrow $$ pH-Wert steigt
+	- Cytotoxin VacA wird gebildet $$ \rightarrow $$ Zerstörung von Mucosazellen (Magenschleimhaut)
+	- einige enthalten Pathenogenitätsinsel, codiert für Sekretionssystem: Protein CagA wird gebildet und in der Schleimhaut werden Cytotoxine gebildet
+- Behandlung:: Antibiotikatherapie
+- 
+--------------------- Portal ---------------------
+	- Biologie Bachelor
+		- Mikrobiologie
+			- Prokaryoten
+				- Bakterien
+					- Pathogene Bakterien:
+						- Humanpathogene Bakterien:
+							- Ausgewählte Vertreter: 
+								- Gram-negativ:
+									- [Helicobacter pylori](%F0%9F%93%82Unfertiges/Helicobacter-pylori.md) __ __ 

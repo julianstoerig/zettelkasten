@@ -272,7 +272,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- Ausgewählte Vertreter: 
 					- Gram-negativ:
 						- [Legionella pneumoniae](Legionella-pneumoniae.md)
-						- [Helicobacter pylori](Helicobacter-pylori.md) __ __ 
+						- [Helicobacter pylori](%F0%9F%93%82Unfertiges/Helicobacter-pylori.md) __ __ 
 				- Gram-positiv: ____ 
 					- [📂Unfertiges/Mikrobiologie/Bacillus anthracis](%F0%9F%93%82Unfertiges/Mikrobiologie/Bacillus%20anthracis.md)
 					- Gattung __ __ [📂Unfertiges/Clostridium](%F0%9F%93%82Unfertiges/Clostridium.md)

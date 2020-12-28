@@ -10,7 +10,7 @@
 - [[Links]]
 - [[n+l-Regel]]
 - [[Keimbahn -Soma]]
-- [[freies Radikal]]
+- [[📂Unfertiges/freies Radikal]]
 - [[freie Enthalpie]]
 - [[Edelgas]]
 - [[📂Unfertiges/Mikrobiologie/Autotrophie]]

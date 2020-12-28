@@ -149,7 +149,7 @@ Replikation
 							- Marburgvirus
 						- Wirkung:
 							- Inkubationszeit: 2-21 Tage
-							- Ebolafieber: [Hämorrhagisches Fieber](Hämorrhagisches-Fieber.md)
+							- Ebolafieber: [Hämorrhagisches Fieber](%F0%9F%93%82Unfertiges/H%C3%A4morrhagisches-Fieber.md)
 							- Fieber
 					- Flaviviridae:
 						- Genom
