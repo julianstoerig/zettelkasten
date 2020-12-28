@@ -1,1 +1,1 @@
-{"commitMessage":"vault backup: {{date}}","commitDateFormat":"YYYYMMDD HHmmss","autoSaveInterval":1,"autoPullOnBoot":true,"disablePush":true,"disablePopups":true,"currentBranch":"master","remote":"origin"}
+{"commitMessage":"obsidianvault backup: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":1,"autoPullOnBoot":true,"disablePush":false,"disablePopups":true,"currentBranch":"master","remote":"origin"}
