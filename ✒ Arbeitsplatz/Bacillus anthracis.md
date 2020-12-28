@@ -1,0 +1,7 @@
+- bildet [📂Unfertiges/Mikrobiologie/Endosporen](%F0%9F%93%82Unfertiges/Mikrobiologie/Endosporen.md) (hier: eigentliche Krankheitserreger!)
+- Biologie Bachelor
+	- Mikrobiologie
+		- Prokaryoten
+			- Bakterien
+				- Zelldifferenzierung (spezielle Formen von Zellen):
+					- [📂Unfertiges/Mikrobiologie/Endosporen](%F0%9F%93%82Unfertiges/Mikrobiologie/Endosporen.md) als Dauerform gram+ Bakterien

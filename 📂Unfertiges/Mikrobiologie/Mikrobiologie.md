@@ -520,7 +520,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 					- Bildung von Aflatoxinen u.a. Pilzgiften
 			- Saprotroph (saprophytisch):: Abbau von totem organischen Material
 			- Symbiontisch:
-				- [Flechten](Flechten.md)
+				- [📂Unfertiges/Flechten](%F0%9F%93%82Unfertiges/Flechten.md)
 				- [Mykorrhiza](Mykorrhiza.md) __ 
 			- Parasitär
 				- z.B.: [Nemathophage Pilze](Nemathophage-Pilze.md)
