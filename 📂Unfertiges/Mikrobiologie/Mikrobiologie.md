@@ -148,8 +148,8 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- [Polymere](Polymere.md)  als Kohlenstoff-Speicher (C-Speicher):
 					- bei C-Überschuss werden [Polymere](Polymere.md) synthetisiert & für die Energiegewinnung u. Biosynthesen genutzt, z. B. Poly-β-hydroxybuttersäure (PHB), Polyhydroxyalkanoat (PHA)&  Glykogen
 				- Polyphosphate:
-					- werden bei Phosphatüberschuss synthetisiert & sind Phospha[📂Unfertiges/Mikrobiologie/Magnetosomen](%F0%9F%93%82Unfertiges/Mikrobiologie/Magnetosomen.md)für Pospholipidbiosynthesen
-			- [Magnetosomen](Magnetosomen.md):
+					- werden bei Phosphatüberschuss synthetisiert & sind Phospha[📂Unfertiges/Magnetosomen](%F0%9F%93%82Unfertiges/Magnetosomen.md)für Pospholipidbiosynthesen
+			- [📂Unfertiges/Magnetosomen](%F0%9F%93%82Unfertiges/Magnetosomen.md):
 				- Funktion: Bewegung abwärts zu Sedimentschichten mit geringerer $$ O_2 $$-Konzentration
 				- vor allem bei aquatischen MO (Bsp.:  __Magnetospirillum magnetotactium__ )
 			- [📂Unfertiges/Mikrobiologie/Bakteriengeißeln](%F0%9F%93%82Unfertiges/Mikrobiologie/Bakteriengei%C3%9Feln.md)
@@ -304,7 +304,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 			- Konjugation #Stub
 				- Genaustausch von [Bakterien](Bakterien.md) über Plasmid
 			- Protoplasten #Stub
-				- Bezeichnung für den von der Zellwand eingeschlossenen Teil der Zelle bei [Bakterien](Bakterien.md), [Pflanzen](Pflanzen.md) und [Pilze (Fungi, Mycota)](Pilze-(Fungi,-Mycota).md)n
+				- Bezeichnung für den von der Zellwand eingeschlossenen Teil der Zelle bei [Bakterien](Bakterien.md), [📂Unfertiges/Pflanzen](%F0%9F%93%82Unfertiges/Pflanzen.md) und [Pilze (Fungi, Mycota)](Pilze-(Fungi,-Mycota).md)n
 		--------------------- Portal ---------------------
 			- Konjugation #Stub
 				- Genaustausch von [Bakterien](Bakterien.md) über Plasmid
@@ -521,7 +521,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 			- Saprotroph (saprophytisch):: Abbau von totem organischen Material
 			- Symbiontisch:
 				- [📂Unfertiges/Flechten](%F0%9F%93%82Unfertiges/Flechten.md)
-				- [Mykorrhiza](Mykorrhiza.md) __ 
+				- [📂Unfertiges/Mykorrhiza](%F0%9F%93%82Unfertiges/Mykorrhiza.md) __ 
 			- Parasitär
 				- z.B.: [Nemathophage Pilze](Nemathophage-Pilze.md)
 		- Pathogene Pilze

@@ -1,8 +1,0 @@
-- Mykorrhiza #Stub
-    - ![](https://remnote-user-data.s3.amazonaws.com/_28vdYruP0XLCZ-T4k7V0vA4_64TCSyOZ5Yx2Rhm-yfJTbURfT4lHkZAAo8NDQV3i5J23-PVDBUug3o2nKjfc7aC9DZ7GEOdUoRGUZ2LBQVzzO29xZjNreW7z0MWmo0F)
-    - Symbiose, bei der ein Pilz mit dem Feinwurzelsystem einer Pflanze in Verbindung steht
-    - Pilz ([Pilze (Fungi, Mycota)](Pilze-(Fungi,-Mycota).md): liefert Mineralien
-    - Pflanze:
-        - liefert organische Verbindungen
-        - "Wurzel-Infrastruktur" (enorme Vergrößerung des Wurzelsystems: $$ 1\cdot10^0m $$ Wurzel: $$ 1\cdot10^3m $$ Pilzhyphen)
-    - 

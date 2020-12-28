@@ -1,5 +1,5 @@
 #Kurs-VO-allgemeine-und-anorganische-Chemie  #Semester-1
-#Stub
+
 ---
 
 Das **Periodensystem der Elemente** (kurz: **PSE**) ist eine strukturierte Darstellung aller 118 bekannten [[chemisches Element|Elemente]] und einer Vielzahl ihrer Eigenschaften.
