@@ -1,9 +1,8 @@
-#Kurs-VO-Mikrobiologie  #Semester-1
+[[Mikrobiologie]] [[VO Mikrobiologie]] [[✒ Arbeitsplatz/1. Semester]]
 
 ---
 
-# Bakteriengeißeln
-- ![](https://www.spektrum.de/lexika/images/bio/fff657.jpg)
+![](https://www.spektrum.de/lexika/images/bio/fff657.jpg)
 - in der Oberfläche der [Zellmembran](Biologie-Bachelor/Mikrobiologie/Prokaryoten/Bakterien/Zellmembran.md) verankertes Fortbewegungsorgan der meisten Bakterien
 - dünne, filamentöse Zellanhänge
 - $$ 5\cdot10^{-6}m $$ bis $$ 2\cdot10^{-5}m $$  lang

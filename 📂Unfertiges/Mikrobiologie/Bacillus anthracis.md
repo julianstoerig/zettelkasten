@@ -1,3 +1,7 @@
+[[Mikrobiologie]] [[VO Mikrobiologie]] [[✒ Arbeitsplatz/1. Semester]]
+
+---
+
 - gram+
 - Stäbchen
 - bildet [📂Unfertiges/Mikrobiologie/Endosporen](%F0%9F%93%82Unfertiges/Mikrobiologie/Endosporen.md) (hier: eigentliche Krankheitserreger!)

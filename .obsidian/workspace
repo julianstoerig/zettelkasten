@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📂Unfertiges/Bacillus anthracis.md",
-            "mode": "preview"
+            "file": "📂Unfertiges/Mikrobiologie/Chitin.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📂Unfertiges/Bacillus anthracis.md",
+                "file": "📂Unfertiges/Mikrobiologie/Chitin.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📂Unfertiges/Bacillus anthracis.md"
+                "file": "📂Unfertiges/Mikrobiologie/Chitin.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📂Unfertiges/Bacillus anthracis.md",
+                "file": "📂Unfertiges/Mikrobiologie/Chitin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📂Unfertiges/Bacillus anthracis.md",
+    "📂Unfertiges/Mikrobiologie/Chitin.md",
+    "📂Unfertiges/Mikrobiologie/Bakteriengeißeln.md",
     "📂Unfertiges/Mikrobiologie/Bacillus anthracis.md",
     "✒ Arbeitsplatz/1. Semester.md",
+    "📂Unfertiges/Bacillus anthracis.md",
     "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
     "✒ Arbeitsplatz/VO-Physik.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
     "✒ Arbeitsplatz/Starrer Körper.md",
-    "✒ Arbeitsplatz/SI-System.md",
-    "✒ Arbeitsplatz/Schwerpunkt (Volumen).md",
-    "✒ Arbeitsplatz/Schwerpunkt (Masse).md"
+    "✒ Arbeitsplatz/SI-System.md"
   ]
 }
