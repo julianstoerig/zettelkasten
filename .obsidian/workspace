@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Schwerpunkt.md",
-            "mode": "source"
+            "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
+                "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt.md"
+                "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt.md",
+                "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+    "✒ Arbeitsplatz/Physik.md",
+    "✒ Arbeitsplatz/Physik der Fortbewegung.md",
+    "✒ Arbeitsplatz/Rotation.md",
+    "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/Schwerpunkt.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
-    "✒ Arbeitsplatz/Physik der Fortbewegung.md",
     "📋 Vorlagen/1-Uni.md",
-    "✒ Arbeitsplatz/Physik.md",
-    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
-    "✒ Arbeitsplatz/Größen und Einheiten.md",
-    "✒ Arbeitsplatz/Rotation.md",
-    "✒ Arbeitsplatz/Starrer Körper.md"
+    "✒ Arbeitsplatz/Größen und Einheiten.md"
   ]
 }
