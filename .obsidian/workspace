@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/VO-Physik.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Kurs-VO-Physik",
+                "query": "tag:#Semester-1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/VO-Physik.md",
+                "file": "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/VO-Physik.md"
+                "file": "✒ Arbeitsplatz/Bahngeschwindigkeit.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/VO-Physik.md",
+                "file": "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +153,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
     "✒ Arbeitsplatz/VO-Physik.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Physik.md",
@@ -161,7 +162,6 @@
     "✒ Arbeitsplatz/Starrer Körper.md",
     "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/Schwerpunkt (Volumen).md",
-    "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
-    "✒ Arbeitsplatz/Rotation.md"
+    "✒ Arbeitsplatz/Schwerpunkt (Masse).md"
   ]
 }
