@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/VO-Physik.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -153,6 +153,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/VO-Physik.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
@@ -161,7 +162,6 @@
     "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/Schwerpunkt (Volumen).md",
     "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
-    "✒ Arbeitsplatz/Rotation.md",
-    "✒ Arbeitsplatz/Physik der Fortbewegung.md"
+    "✒ Arbeitsplatz/Rotation.md"
   ]
 }
