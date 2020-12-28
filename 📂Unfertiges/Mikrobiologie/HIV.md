@@ -1,35 +1,38 @@
-- HIV
-    - ![](https://remnote-user-data.s3.amazonaws.com/WGB6ihWNpu5OTqfR0M3K43OBHc0rMG58e1QaTLo_4FxkawU-7AQA0sATA0DeAIUCWXWvGHsYtcEcRc9VxldBARDGmuN0y9Nx-_c8AVysxyeS47h4RWc9UdWWRsyQWMoi)HIV-2 Virion
-    - **H**uman **I**mmunodeficiency **V**irus
-    - Pandemie: weltweit > 80 Mio Infizierte
-    - Überwindung der Artengrenze: Übertragung Affe$$\rightarrow $$Mensch
-    - Derzeit keine Heilung, nur Bekämpfung der Symptome
-    - Probleme**:**  
-        - hohe Mutationsrate des Virus aufgrund der hohen Fehlerrate von RT([Reverse Transkriptase](%F0%9F%93%82Unfertiges/Mikrobiologie/Reverse%20Transkriptase.md))
-        - Komplexe Replikation ermöglicht dem Virus eine gute Tarnung in der Zelle
-    - Struktur
-        - NS besteht aus zwei (+)ssRNA Strängen, welche jeweils über eine RT([Reverse Transkriptase](%F0%9F%93%82Unfertiges/Mikrobiologie/Reverse%20Transkriptase.md))
-        - Kapsid mit Hülle und Spikes
-    - Replikation
-        - HIV-Virus bind[📂Unfertiges/Mikrobiologie/T-Lymphozyten](%F0%9F%93%82Unfertiges/Mikrobiologie/T-Lymphozyten.md)zyten](T-Lymphozyten.md)
-        - Fusion der Virushülle mit Zellmembran der Wirtszelle $$ \rightarrow $$Freisetzung der viralen NS
-        - Reverse Transkription der beiden (+)ssRNA Stränge zu dsDNA
-        - Integration der dsDNA in Wirtsgenom
-        - ↺ Translation der Virusbestandteile durch Wirts-Zellorganellen
-        - ↺Freisetzung der neu gebildeten Viren durch Knospung ohne die Wirtszelle zu zerstören
-    - AIDS
-        - **A**quired **I**mmuno**d**efficiency **S**yndrom
-        - Übertragung:
-            - Körperflüssigkeiten
-        - Wirkung:
-            - Mehrjährige Latenzphase
-            - Schwächung des Immunsystems durch Schwächen der T-Lymphozyten $$ \rightarrow $$ Zusatz-/Hyperinfektion
-        - Therapie:
-            - Beispiele:
-                - HAART:: **h**ighly **a**ctive **a**ntiretroviral **t**herapy
-                - CART:: **c**ombined **a**ntiretroviral **t**herapy
-                - Chemotherapeutische Wirkstoffe
-            - Wirkweise:
-                - Hemmung der [Reverse Transkriptase](%F0%9F%93%82Unfertiges/Mikrobiologie/Reverse%20Transkriptase.md)  stoppt virale NS-Synthese  
-                - Hemmung der Protease: verhindert Bildung neuer Viruspartikel
-                - Fusionshemmer: Fusion von Virus und Zelle wird verhindert
+[[Mikrobiologie]] [[VO Mikrobiologie]] [[✒ Arbeitsplatz/1. Semester]]
+
+---
+
+- ![](https://remnote-user-data.s3.amazonaws.com/WGB6ihWNpu5OTqfR0M3K43OBHc0rMG58e1QaTLo_4FxkawU-7AQA0sATA0DeAIUCWXWvGHsYtcEcRc9VxldBARDGmuN0y9Nx-_c8AVysxyeS47h4RWc9UdWWRsyQWMoi)HIV-2 Virion
+- **H**uman **I**mmunodeficiency **V**irus
+- Pandemie: weltweit > 80 Mio Infizierte
+- Überwindung der Artengrenze: Übertragung Affe$$\rightarrow $$Mensch
+- Derzeit keine Heilung, nur Bekämpfung der Symptome
+- Probleme**:**  
+	- hohe Mutationsrate des Virus aufgrund der hohen Fehlerrate von RT([Reverse Transkriptase](%F0%9F%93%82Unfertiges/Mikrobiologie/Reverse%20Transkriptase.md))
+	- Komplexe Replikation ermöglicht dem Virus eine gute Tarnung in der Zelle
+- Struktur
+	- NS besteht aus zwei (+)ssRNA Strängen, welche jeweils über eine RT([Reverse Transkriptase](%F0%9F%93%82Unfertiges/Mikrobiologie/Reverse%20Transkriptase.md))
+	- Kapsid mit Hülle und Spikes
+- Replikation
+	- HIV-Virus bind[📂Unfertiges/Mikrobiologie/T-Lymphozyten](%F0%9F%93%82Unfertiges/Mikrobiologie/T-Lymphozyten.md)zyten](T-Lymphozyten.md)
+	- Fusion der Virushülle mit Zellmembran der Wirtszelle $$ \rightarrow $$Freisetzung der viralen NS
+	- Reverse Transkription der beiden (+)ssRNA Stränge zu dsDNA
+	- Integration der dsDNA in Wirtsgenom
+	- ↺ Translation der Virusbestandteile durch Wirts-Zellorganellen
+	- ↺Freisetzung der neu gebildeten Viren durch Knospung ohne die Wirtszelle zu zerstören
+- AIDS
+	- **A**quired **I**mmuno**d**efficiency **S**yndrom
+	- Übertragung:
+		- Körperflüssigkeiten
+	- Wirkung:
+		- Mehrjährige Latenzphase
+		- Schwächung des Immunsystems durch Schwächen der T-Lymphozyten $$ \rightarrow $$ Zusatz-/Hyperinfektion
+	- Therapie:
+		- Beispiele:
+			- HAART:: **h**ighly **a**ctive **a**ntiretroviral **t**herapy
+			- CART:: **c**ombined **a**ntiretroviral **t**herapy
+			- Chemotherapeutische Wirkstoffe
+		- Wirkweise:
+			- Hemmung der [Reverse Transkriptase](%F0%9F%93%82Unfertiges/Mikrobiologie/Reverse%20Transkriptase.md)  stoppt virale NS-Synthese  
+			- Hemmung der Protease: verhindert Bildung neuer Viruspartikel
+			- Fusionshemmer: Fusion von Virus und Zelle wird verhindert

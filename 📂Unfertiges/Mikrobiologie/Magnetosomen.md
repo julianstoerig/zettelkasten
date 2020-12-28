@@ -1,8 +1,1 @@
 - [Zelleinschlüsse](Biologie-Bachelor/Mikrobiologie/Prokaryoten/Bakterien/Zelleinschlüsse.md) des Eisenminerals $$ Fe_3O_4 $$, die "Magnetotaxis", die Orientierung entlang eines Magnetfeldes, ermöglichen
---------------------- Portal ---------------------
-	- Biologie Bachelor
-		- Mikrobiologie
-			- Prokaryoten
-				- Bakterien
-					- Zelleinschlüsse
-						- [📂Unfertiges/Mikrobiologie/Magnetosomen](%F0%9F%93%82Unfertiges/Mikrobiologie/Magnetosomen.md):

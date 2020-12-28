@@ -1,3 +1,7 @@
+[[Mikrobiologie]] [[VO Mikrobiologie]] [[✒ Arbeitsplatz/1. Semester]]
+
+---
+
 - Humanes Mikrobiom: Gesamtheit der MO in & auf uns   
 - ca. $$ 10^{14} $$ Zellen
 - Bsp.: Darmmikrobiota: 1-2kg
