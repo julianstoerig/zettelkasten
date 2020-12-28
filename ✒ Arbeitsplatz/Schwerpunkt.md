@@ -10,10 +10,8 @@ $$
 
 Theoretisch sind dies *kleine Massepunkte*, also z.B. die Moleküle aus denen ein Stoff besteht. Da dies jedoch oft nicht praktikabel ist vergrößert man die Teilkörper soweit dies möglich ist, also bis die Unterschiede in der [[✒ Arbeitsplatz/SI-System|Massedichte]] der Teilkörper zu groß werden.
 
-
-
 Noch einfacher ist die Gleichung für Körper mit homogener [[SI-System|Massendichte]], bei denen sich der gesamte Körper als ein einziger Teilkörper darstellen lässt.
 
 $$
-\vec{r}_s = \sum\limits_{i}^n\vec{r}_i = 
+\vec{r}_s = \sum\limits_{i}^n\vec{r}_i = \frac{\vec{r}_1 \cdot m_1}{m_1}
 $$
