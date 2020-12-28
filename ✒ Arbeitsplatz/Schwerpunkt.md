@@ -8,9 +8,9 @@ $$
 \vec{r}_s = \frac{\sum\limits_i^n m_i \cdot \vec{r}_i}{\sum\limits_i^n m_i}
 $$
 
-Um diese Berechnung praktikabel zu machen ist es zweckmäßig, den Körper in verschiedene Teilkörper zu unterteilen, deren [[✒ Arbeitsplatz/SI-System|Massedichten]] jeweils als homogen betrachtet werden.
+Theoretisch sind dies *kleine Massepunkte*, also z.B. die Moleküle aus 
 
-Noch einfacher ist die Gleichung für Körper mit homogener [[SI-System|Massendichte]], bei denen sich $\sum\limits_i^n\vec{m_i}$ im Zähler gegen den Nenner kürzen lässt.
+Noch einfacher ist die Gleichung für Körper mit homogener [[SI-System|Massendichte]], bei denen sich .
 
 $$
 \vec{r}_s = \sum\limits_{i}^n\vec{r}_i
