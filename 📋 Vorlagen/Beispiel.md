@@ -1,0 +1,4 @@
+[[Fachgebiet]] [[Kursname]] [[Semester]]
+
+---
+
