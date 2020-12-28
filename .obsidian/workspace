@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pflanzen.md",
+            "file": "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pflanzen.md",
+                "file": "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pflanzen.md"
+                "file": "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pflanzen.md",
+                "file": "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
     "width": 420.6000061035156
   },
   "lastOpenFiles": [
+    "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md",
+    "Polymere.md",
+    "Phospholipid.md",
+    "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
     "Pflanzen.md",
     "Periodensystem der Elemente.md",
     "📂Unfertiges/Mikrobiologie/Mykorrhiza.md",
-    "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
     "📂Unfertiges/Mikrobiologie/Magnetosomen.md",
     "📂Unfertiges/Mikrobiologie/Lysozym.md",
-    "📂Unfertiges/Mikrobiologie/Legionella-pneumoniae.md",
-    "📂Unfertiges/Mikrobiologie/Konjugation.md",
-    "📂Unfertiges/Mikrobiologie/Influenzavirus-A.md",
-    "📂Unfertiges/Mikrobiologie/Humanes-Mikrobiom.md"
+    "📂Unfertiges/Mikrobiologie/Legionella-pneumoniae.md"
   ]
 }

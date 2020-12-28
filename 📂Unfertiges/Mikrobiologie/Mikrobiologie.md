@@ -60,7 +60,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 					- Protonenmotorische Kraft: ATP Synthese
 			- Struktur
 				- ![](https://remnote-user-data.s3.amazonaws.com/k1yWWNT8eHI3OXA3oPSZgjhxTEd6A9oMcKSjJXK7rsUq2nqyfCBxvnHNGW94Zr39utYkU0eE2ljyE0FCqxIPWjlFzyYfuDh-FNSz2m0p_8hesdHSVqXJstLkhY8WX4dr)  ![](https://remnote-user-data.s3.amazonaws.com/BKIeTteXlBGKm8V24mHLRxNGBjoFfaMp4dsWg1ertf57-VYoSCf3M4zq56r6QM13lNhmHSISRVcxs_FdQ27ltbCELW6GLpnhtRGl7FSa87DDTya8DfjTpjD0VtsghaE8)  
-				- [Phospholipid](Phospholipid.md)-Doppelschicht (Bilayer) mit eingelagerten Molekülen:
+				- [📂Unfertiges/Phospholipid](%F0%9F%93%82Unfertiges/Phospholipid.md)-Doppelschicht (Bilayer) mit eingelagerten Molekülen:
 				- Membranproteinen:
 					- integrale Membranproteine: 
 						- durchdringen die Membran komplett
@@ -145,8 +145,8 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- [Periplasma](Periplasma.md)
 		- Zelleinschlüsse
 			- Energiereserven bei [Bakterien](Bakterien.md), [Archaea](Archaea.md):
-				- [Polymere](Polymere.md)  als Kohlenstoff-Speicher (C-Speicher):
-					- bei C-Überschuss werden [Polymere](Polymere.md) synthetisiert & für die Energiegewinnung u. Biosynthesen genutzt, z. B. Poly-β-hydroxybuttersäure (PHB), Polyhydroxyalkanoat (PHA)&  Glykogen
+				- [📂Unfertiges/Polymere](%F0%9F%93%82Unfertiges/Polymere.md)  als Kohlenstoff-Speicher (C-Speicher):
+					- bei C-Überschuss werden [📂Unfertiges/Polymere](%F0%9F%93%82Unfertiges/Polymere.md) synthetisiert & für die Energiegewinnung u. Biosynthesen genutzt, z. B. Poly-β-hydroxybuttersäure (PHB), Polyhydroxyalkanoat (PHA)&  Glykogen
 				- Polyphosphate:
 					- werden bei Phosphatüberschuss synthetisiert & sind Phospha[📂Unfertiges/Magnetosomen](%F0%9F%93%82Unfertiges/Magnetosomen.md)für Pospholipidbiosynthesen
 			- [📂Unfertiges/Magnetosomen](%F0%9F%93%82Unfertiges/Magnetosomen.md):
@@ -612,9 +612,9 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- kann während Bewegung Nahrung aufnehmen
 			- amöboide Bewegung aufgrund Cytoplasmaströmung
 		- ·   __ Beispiel: Physarum __ (Gattung)
-[📂Unfertiges/Mikrobiologie/Pseuodplasmodium](%F0%9F%93%82Unfertiges/Mikrobiologie/Pseuodplasmodium.md)ycota__ )
+[📂Unfertiges/Pseuodplasmodium](%F0%9F%93%82Unfertiges/Pseuodplasmodium.md)ycota__ )
 			- Masse aus Einzelzellen  
-			- bilden [Pseuodplasmodium](Pseuodplasmodium.md)  
+			- bilden [📂Unfertiges/Pseuodplasmodium](%F0%9F%93%82Unfertiges/Pseuodplasmodium.md)  
 			- Bsp.  __Dictyostelium  __ (Gattung)
 - Mikrobielle Ernährung
 - Mikrobielle Umweltansprüche

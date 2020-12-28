@@ -1,0 +1,1 @@
+Ketten, die sich aus mehreren Monomereinheiten zusammensetzen
