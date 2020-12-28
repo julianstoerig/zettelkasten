@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Rotation.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -117,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,14 +147,14 @@
   },
   "lastOpenFiles": [
     "✒ Arbeitsplatz/Rotation.md",
-    "✒ Arbeitsplatz/Schwerpunkt (Volumen).md",
     "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
+    "✒ Arbeitsplatz/Schwerpunkt (Volumen).md",
+    "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/Flagellum.md",
     "📂Unfertiges/Mikrobiologie/Chitin.md",
     "📂Unfertiges/Clostridium.md",
     "📂Unfertiges/Chitin.md",
     "Zoonose.md",
-    "📂Unfertiges/Mikrobiologie/Virushülle.md",
-    "📂Unfertiges/Mikrobiologie/Tetanustoxin.md"
+    "📂Unfertiges/Mikrobiologie/Virushülle.md"
   ]
 }
