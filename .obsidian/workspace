@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 Vorlagen/1-Uni.md",
+            "file": "Aerosol.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/1-Uni.md",
+                "file": "Aerosol.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📋 Vorlagen/1-Uni.md"
+                "file": "Aerosol.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/1-Uni.md",
+                "file": "Aerosol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +153,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Aerosol.md",
     "📋 Vorlagen/1-Uni.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
@@ -161,7 +162,6 @@
     "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
     "✒ Arbeitsplatz/Starrer Körper.md",
-    "✒ Arbeitsplatz/SI-System.md",
-    "✒ Arbeitsplatz/Schwerpunkt (Volumen).md"
+    "✒ Arbeitsplatz/SI-System.md"
   ]
 }

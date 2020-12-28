@@ -1,4 +1,4 @@
-[[Kurs-VO-]] [[Semester-
+[[Kurs-VO-]] [[✒ Arbeitsplatz/1. Semester]]
 
 ---
 
