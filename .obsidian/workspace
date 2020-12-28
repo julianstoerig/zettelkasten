@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
-            "mode": "source"
+            "file": "📂Unfertiges/Bacillus anthracis.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "physik",
+                "query": "Mikrobiologie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
+                "file": "📂Unfertiges/Bacillus anthracis.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md"
+                "file": "📂Unfertiges/Bacillus anthracis.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
+                "file": "📂Unfertiges/Bacillus anthracis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +153,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📂Unfertiges/Bacillus anthracis.md",
+    "✒ Arbeitsplatz/1. Semester.md",
     "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
     "✒ Arbeitsplatz/VO-Physik.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
@@ -160,8 +162,6 @@
     "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/Schwerpunkt (Volumen).md",
     "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
-    "✒ Arbeitsplatz/Rotation.md",
-    "README.md",
-    "✒ Arbeitsplatz/Physik der Fortbewegung.md"
+    "✒ Arbeitsplatz/Rotation.md"
   ]
 }
