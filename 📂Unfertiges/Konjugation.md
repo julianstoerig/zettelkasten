@@ -1,0 +1,2 @@
+- Genaustausch von [Bakterien](Bakterien.md) über Plasmid
+- Konj. nur durch Pilis möglich; keine Pilis-> keine Konj.

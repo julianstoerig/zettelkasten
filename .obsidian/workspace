@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📂Unfertiges/Mikrobiologie/Humanes-Mikrobiom.md",
+            "file": "📂Unfertiges/Mikrobiologie/Magnetosomen.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Humanes-Mikrobiom.md",
+                "file": "📂Unfertiges/Mikrobiologie/Magnetosomen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Humanes-Mikrobiom.md"
+                "file": "📂Unfertiges/Mikrobiologie/Magnetosomen.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Humanes-Mikrobiom.md",
+                "file": "📂Unfertiges/Mikrobiologie/Magnetosomen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
     "width": 420.6000061035156
   },
   "lastOpenFiles": [
+    "📂Unfertiges/Mikrobiologie/Magnetosomen.md",
+    "📂Unfertiges/Mikrobiologie/Lysozym.md",
+    "📂Unfertiges/Mikrobiologie/Legionella-pneumoniae.md",
+    "📂Unfertiges/Mikrobiologie/Konjugation.md",
+    "📂Unfertiges/Mikrobiologie/Influenzavirus-A.md",
     "📂Unfertiges/Mikrobiologie/Humanes-Mikrobiom.md",
     "📂Unfertiges/Mikrobiologie/Hopanoide.md",
     "Homologiekriterien.md",
     "Heteropolymer.md",
-    "📂Unfertiges/Mikrobiologie/Heterocysten.md",
-    "📂Unfertiges/Mikrobiologie/Helicobacter-pylori.md",
-    "Hämorrhagisches-Fieber.md",
-    "freies Radikal.md",
-    "📂Unfertiges/Mikrobiologie/Flechten.md",
-    "📂Unfertiges/Mikrobiologie/Endosporen.md"
+    "📂Unfertiges/Mikrobiologie/Heterocysten.md"
   ]
 }

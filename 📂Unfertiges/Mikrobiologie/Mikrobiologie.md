@@ -127,7 +127,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- Pili
 					- ![](https://www.quia.com/files/quia/users/lmcgee/Bacteria/9AP_ch27/conjugation.gif)  
 					- länger als [Fimbrien](Biologie-Bachelor/Mikrobiologie/Prokaryoten/Bakterien/Oberflächenstruktur/Fimbrien,-Pili:/Fimbrien.md) (bis zu $$ 1\[📂Unfertiges/Mikrobiologie/Konjugation](%F0%9F%93%82Unfertiges/Mikrobiologie/Konjugation.md)$ 1 $$ bis$$ 2 $$ pro Zelle
-					- [Konjugation](Konjugation.md): Herstellung Zell-Zell-Kontakte
+					- [📂Unfertiges/Konjugation](%F0%9F%93%82Unfertiges/Konjugation.md): Herstellung Zell-Zell-Kontakte
 		- Unterschiede zwischen gram+ und gram- [Bakterien](Bakterien.md)
 			- Gram+
 				- ![](https://remnote-user-data.s3.amazonaws.com/mMSg4ksBK17zBUo1P4OO0yloF2_lYP27HTNpO3W2V-PpYotJsl7sq1M3WhiTPfdANzYl5k_6-g9pXm8C6nycR26c4vdLBHDfq8GA7D2Z8yVbbyI4hRVoixBefuH2VFy9)  
@@ -266,12 +266,12 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 						- phloemsaugende Insekten (Zikaden)
 						- Bekämpfung = noch unklar Züchtung resistenter Sorten? Bekämpfung der Vektoren? Antibiotika?
 			- Humanpathogene Bakterien:
-				- Gesundes [Humanes Mikrobiom](Humanes-Mikrobiom.md)
+				- Gesundes [Humanes Mikrobiom](%F0%9F%93%82Unfertiges/Humanes-Mikrobiom.md)
 				- Phasen der Besiedlung:
 					- 
 				- Ausgewählte Vertreter: 
 					- Gram-negativ:
-						- [Legionella pneumoniae](Legionella-pneumoniae.md)
+						- [Legionella pneumoniae](%F0%9F%93%82Unfertiges/Legionella-pneumoniae.md)
 						- [Helicobacter pylori](%F0%9F%93%82Unfertiges/Helicobacter-pylori.md) __ __ 
 				- Gram-positiv: ____ 
 					- [📂Unfertiges/Mikrobiologie/Bacillus anthracis](%F0%9F%93%82Unfertiges/Mikrobiologie/Bacillus%20anthracis.md)
