@@ -12,9 +12,6 @@ Um diese Berechnung praktikabel zu machen ist es zweckmäßig, den Körper in ve
 
 Noch einfacher ist die Gleichung für Körper mit homogener [[SI-System|Massendichte]], bei denen sich $\sum\limits_i^n\vec{m_i}$ im Zähler gegen den Nenner kürzen lässt.
 
-Wenn die [[✒ Arbeitsplatz/SI-System|Massedichte]] des Körpers homogen ist, ist in dieser Gleichung $\frac{r_1 \cdot m_1 + r_2 \cdot m_2}{m_1 + m_2} = \frac{r_1 + r_2}{m_1 + m_2}$ 
-
 $$
-\frac{r_1 \cdot m_1 + r_2 \cdot m_2 + ... + r_n \cdot m_n}{m_1 + m_2 + ... + m_n} =
-\sum\limits_{i}^n\vec{r_i}
+\vec\sum\limits_{i}^n\vec{r_i}
 $$
