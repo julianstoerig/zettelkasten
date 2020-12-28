@@ -6,7 +6,7 @@
 
 In der Biologie treten diese z.B. bei [[📂Unfertiges/Flagellum|Flagellen]] auf. Ebenfalls werden sie für technische Verfahren wie dem Zentrifugieren genutzt.
 
-Man unterscheidet zwischen Winkelgeschwindigkeit und Bahngeschwindigkeit. Welchen Drehwinkel $\omega$ der Radiusvektor $\vec{r}$ in der Zeit $\Delta t$ überstreicht nennt man **Winkelgeschwindigkeit**.
+Man unterscheidet zwischen Winkelgeschwindigkeit und Bahngeschwindigkeit. Die **Winkelgeschwindigkeit** beschreibt welchen Drehwinkel $\omega$ der Radiusvektor $\vec{r}$ in der Zeit $\Delta t$ überstreicht.
 
 $$
 \omega = \frac{\Delta \varphi}{\Delta t} = \varphi'(t)
