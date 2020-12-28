@@ -2,7 +2,7 @@
 
 ---
 
-Der **Schwerpunkt**/**Massenschwerpunkt**/**Massenmittelpunkt $r_s$** gibt den Punkt eines Körpers an, auf den Kraft ausgeübt werden kann, ohne die Rotation des Körpers zu verändern. Hat ein Körper homogene [[✒ Arbeitsplatz/SI-System|Massedichte]], ist sein **Massenschwerpunkt** gleich seinem [[Schwerpunkt (geometrisch)|geometrischen Schwerpunkt]]. Berechnet wird er über die Summe der Schwerpunkte aller Teilkörper, gewichtet durch deren Masse:
+Der **Schwerpunkt**/**Massenschwerpunkt**/**Massenmittelpunkt $r_s$** gibt den Punkt eines Körpers an, auf den Kraft ausgeübt werden kann, ohne die Rotation des Körpers zu verändern. Hat ein Körper homogene [[✒ Arbeitsplatz/SI-System|Massedichte]], ist sein **Massenschwerpunkt** gleich seinem [[Schwerpunkt (geometrisch)|geometrischen Schwerpunkt]]. Hat er dies nicht, wird er über die Summe der Schwerpunkte aller Teilkörper, gewichtet durch deren Masse:
 
 $$
 \vec{r}_s = \frac{\sum\limits_i^n m_i \cdot \vec{r}_i}{\sum\limits_i^n m_i}

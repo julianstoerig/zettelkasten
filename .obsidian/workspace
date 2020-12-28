@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Schwer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
+    "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Schwerpunkt.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
     "✒ Arbeitsplatz/Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
-    "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
-    "📋 Vorlagen/1-Uni.md",
-    "✒ Arbeitsplatz/Größen und Einheiten.md"
+    "📋 Vorlagen/1-Uni.md"
   ]
 }
