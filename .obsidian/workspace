@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
+            "file": "📋 Vorlagen/1-Uni.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
+                "file": "📋 Vorlagen/1-Uni.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Bahngeschwindigkeit.md"
+                "file": "📋 Vorlagen/1-Uni.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
+                "file": "📋 Vorlagen/1-Uni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📋 Vorlagen/1-Uni.md",
+    "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
     "✒ Arbeitsplatz/VO-Physik.md",
-    "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
     "✒ Arbeitsplatz/Starrer Körper.md",
     "✒ Arbeitsplatz/SI-System.md",
-    "✒ Arbeitsplatz/Schwerpunkt (Volumen).md",
-    "✒ Arbeitsplatz/Schwerpunkt (Masse).md"
+    "✒ Arbeitsplatz/Schwerpunkt (Volumen).md"
   ]
 }
