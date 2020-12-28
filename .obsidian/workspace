@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
-            "mode": "preview"
+            "file": "Atom.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chemie",
+                "query": "physik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
+                "file": "Atom.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md"
+                "file": "Atom.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
+                "file": "Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
-    "VSEPR-Strukturmodell.md",
-    "Summenformel.md",
-    "Stoffgemisch.md",
+    "Atom.md",
+    "📋 Vorlagen/Zoologie.md",
+    "📋 Vorlagen/Physik.md",
+    "📋 Vorlagen/Mikrobiologie.md",
+    "📋 Vorlagen/Chemie.md",
+    "📋 Vorlagen/Botanik.md",
+    "📋 Vorlagen/Beispiel.md",
     "Stoff.md",
-    "Spinquantenzahl s.md",
-    "Reinstoffe.md",
-    "Reduktionsmittel.md",
-    "README.md",
-    "Quantenzahlen.md"
+    "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
+    "VSEPR-Strukturmodell.md"
   ]
 }
