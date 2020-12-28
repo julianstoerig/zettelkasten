@@ -15,7 +15,7 @@ $$
 Die Winkelgeschwindigkeit $\omega$ ist indirekt proportional zum Radius $r$.
 
 $$
-\omega \propto \frac{1}{r}
+\rightarrow \omega \propto \frac{1}{r}
 $$
 
 Die uns als klassische Geschwindigkeit bekannte wird hier **Bahngeschwindigkeit** genannt, sie ist als die **Winkelgeschwindigkeit** $\omega$ mal dem Radius $r$ definiert. Alternativ lässt sie sich aus dem Kreuzprodukt des **Winkelgeschwindikgeitsvektors** $\vec{\omega}$ und dem Ortsvektor des [[✒ Arbeitsplatz/Schwerpunkt (Masse)|Schwerpunktes]] des bewegten Körpers vom **Rotationsmittelpunkt** $\vec{m}$ bestimmen.
