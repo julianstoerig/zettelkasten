@@ -12,4 +12,4 @@ $$
 \omega = \frac{\Delta \varphi}{\Delta t} = \varphi'(t)
 $$
 
-Als **Bahngeschwindigkeit** bezeichnet man
+**Bahngeschwindigkeit**
