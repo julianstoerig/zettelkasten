@@ -13,7 +13,7 @@
 - [[freies Radikal]]
 - [[freie Enthalpie]]
 - [[Edelgas]]
-- [[Autotrophie]]
+- [[📂Unfertiges/Mikrobiologie/Autotrophie]]
 - [[📋 Vorlagen/2-Hobbys]]
 - [[📋 Vorlagen/1-Uni]]
 - [[📂Unfertiges/Mikrobiologie/Symmetrie]]

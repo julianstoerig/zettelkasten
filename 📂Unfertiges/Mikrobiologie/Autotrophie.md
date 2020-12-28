@@ -1,4 +1,4 @@
-- Autotrophie #Stub
+- Autotrophie
     - Chemolitotroph
         - Energiegewinnung durch Verwertung anorganischer Verbindungen zur Gewinnung von $$ CO_2 $$ als Energiequelle
         - 

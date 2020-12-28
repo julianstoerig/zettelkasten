@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "730888cf9c379900",
+        "id": "3fe373b3b12612cc",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📂Unfertiges/Mikrobiologie/Autotrophie.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Kurs-VO-Physik",
+                "query": "tag:#Stub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📂Unfertiges/Mikrobiologie/Autotrophie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📂Unfertiges/Mikrobiologie/Autotrophie.md"
+              }
             }
           },
           {
@@ -111,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📂Unfertiges/Mikrobiologie/Autotrophie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,14 +145,15 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 420.6000061035156,
-    "collapsed": true
+    "width": 420.6000061035156
   },
   "lastOpenFiles": [
+    "Autotrophie.md",
+    "✒ Arbeitsplatz/Starrer Körper.md",
     "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
     "✒ Arbeitsplatz/Schwerpunkt (Volumen).md",
     "✒ Arbeitsplatz/Schwerpunkt (geometrisch).md",
@@ -153,8 +161,6 @@
     "✒ Arbeitsplatz/Schwerpunkt.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
     "✒ Arbeitsplatz/Kräftegleichgewicht.md",
-    "✒ Arbeitsplatz/Physik.md",
-    "✒ Arbeitsplatz/Physik der Fortbewegung.md",
-    "✒ Arbeitsplatz/SI-System.md"
+    "✒ Arbeitsplatz/Physik.md"
   ]
 }
