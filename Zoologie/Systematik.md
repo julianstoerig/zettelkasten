@@ -1,3 +1,7 @@
+[[Mikrobiologie]] [[Zoologie]] [[Botanik]] [[VO Mikrobiologie]] [[✒ Arbeitsplatz/1. Semester]]
+
+---
+
 - Systematik
     - Benennung (Nomenklatur)
         - Binominale Nomenklatur

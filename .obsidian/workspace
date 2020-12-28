@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md",
+            "file": "Zoologie/Systematik.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md",
+                "file": "Zoologie/Systematik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md"
+                "file": "Zoologie/Systematik.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md",
+                "file": "Zoologie/Systematik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Zoologie/Systematik.md",
+    "📂Unfertiges/Mikrobiologie/Symmetrie.md",
+    "📂Unfertiges/Mikrobiologie/Sklerotien.md",
+    "Quantenzahlen.md",
     "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md",
     "📂Unfertiges/Mikrobiologie/Protoplasten.md",
     "📂Unfertiges/Mikrobiologie/Porine.md",
     "Periodensystem der Elemente.md",
     "📂Unfertiges/Orbital.md",
-    "📂Unfertiges/Mikrobiologie/Mikroorganismus.md",
-    "📂Unfertiges/Mikrobiologie/Mikrobiologie.md",
-    "📋 Vorlagen/Mikrobiologie.md",
-    "📂Unfertiges/Mikrobiologie/Magnetosomen.md",
-    "📂Unfertiges/Mikrobiologie/Legionella-pneumoniae.md"
+    "📂Unfertiges/Mikrobiologie/Mikroorganismus.md"
   ]
 }
