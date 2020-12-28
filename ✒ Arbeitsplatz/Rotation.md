@@ -6,10 +6,16 @@
 
 In der Biologie treten diese z.B. bei [[📂Unfertiges/Flagellum|Flagellen]] auf. Ebenfalls werden sie für technische Verfahren wie dem Zentrifugieren genutzt.
 
-Man unterscheidet zwischen Winkelgeschwindigkeit und Bahngeschwindigkeit. Welchen Drehwinkel $\omega$ der Radiusvektor $\evec{r}$ in der Zeit $\Delta t$ überstreicht nennt man **Winkelgeschwindigkeit**.
+Man unterscheidet zwischen Winkelgeschwindigkeit und Bahngeschwindigkeit. Welchen Drehwinkel $\omega$ der Radiusvektor $\vec{r}$ in der Zeit $\Delta t$ überstreicht nennt man **Winkelgeschwindigkeit**.
 
 $$
 \omega = \frac{\Delta \varphi}{\Delta t} = \varphi'(t)
+$$
+
+Die Winkelgeschwindigkeit $\omega$ ist indirekt proportional zum Radius $r$.
+
+$$
+\omega \propto \frac{1}{r}
 $$
 
 Die uns als klassische Geschwindigkeit bekannte wird hier **Bahngeschwindigkeit** genannt, sie ist als die **Winkelgeschwindigkeit** $\omega$ mal dem Radius $r$ definiert. Alternativ lässt sie sich aus dem Kreuzprodukt des **Winkelgeschwindikgeitsvektors** $\vec{\omega}$ und dem Ortsvektor des [[✒ Arbeitsplatz/Schwerpunkt (Masse)|Schwerpunktes]] des bewegten Körpers vom **Rotationsmittelpunkt** $\vec{m}$ bestimmen.
@@ -20,10 +26,5 @@ $$
 
 Diese **Bahngeschwindigkeit** ist tangential zur Kreisbahn, sie ändert also laufend ihre Richtung.
 
-Die Winkelgeschwindigkeit $\omega$ ist indirekt proportional zum Radius $r$.
-
-$$
-\omega \propto \frac{1}{r}
-$$
 
 ![[📎 Anhänge/velocity-angular-velocity-circular-disc.svg]]
