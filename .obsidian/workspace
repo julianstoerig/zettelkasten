@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zoologie/Systematik.md",
+            "file": "📂Unfertiges/Mikrobiologie/Virion.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zoologie/Systematik.md",
+                "file": "📂Unfertiges/Mikrobiologie/Virion.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zoologie/Systematik.md"
+                "file": "📂Unfertiges/Mikrobiologie/Virion.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zoologie/Systematik.md",
+                "file": "📂Unfertiges/Mikrobiologie/Virion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +153,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📂Unfertiges/Mikrobiologie/Virion.md",
     "Zoologie/Systematik.md",
     "📂Unfertiges/Mikrobiologie/Symmetrie.md",
     "📂Unfertiges/Mikrobiologie/Sklerotien.md",
@@ -161,7 +162,6 @@
     "📂Unfertiges/Mikrobiologie/Protoplasten.md",
     "📂Unfertiges/Mikrobiologie/Porine.md",
     "Periodensystem der Elemente.md",
-    "📂Unfertiges/Orbital.md",
-    "📂Unfertiges/Mikrobiologie/Mikroorganismus.md"
+    "📂Unfertiges/Orbital.md"
   ]
 }
