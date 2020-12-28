@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1f63b04fa03a64be",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📂Unfertiges/Mikrobiologie/Chitin.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "10f3a31af7972b86",
+        "id": "7e7145d16eb60bea",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📂Unfertiges/Mikrobiologie/Clostridium.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -89,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Clostridium.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -117,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Clostridium.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📂Unfertiges/Mikrobiologie/Clostridium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,9 +142,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.6000061035156
+    "width": 420.6000061035156,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "📂Unfertiges/Mikrobiologie/Chitin.md",
     "📂Unfertiges/Clostridium.md",
     "📂Unfertiges/Chitin.md",
     "Zoonose.md",
@@ -171,7 +155,6 @@
     "📂Unfertiges/Mikrobiologie/T-Lymphozyten.md",
     "Recherchieren.md",
     "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md",
-    "Polymere.md",
-    "Phospholipid.md"
+    "Polymere.md"
   ]
 }
