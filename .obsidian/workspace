@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Rotation.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "✒ Arbeitsplatz/Rotation.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "✒ Arbeitsplatz/Rotation.md"
+              }
             }
           },
           {
@@ -111,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "✒ Arbeitsplatz/Rotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +153,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Rotation.md",
     "📂Unfertiges/Mikrobiologie/Chitin.md",
     "📂Unfertiges/Clostridium.md",
     "📂Unfertiges/Chitin.md",
@@ -154,7 +162,6 @@
     "📂Unfertiges/Mikrobiologie/Tetanustoxin.md",
     "📂Unfertiges/Mikrobiologie/T-Lymphozyten.md",
     "Recherchieren.md",
-    "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md",
-    "Polymere.md"
+    "📂Unfertiges/Mikrobiologie/Pseuodplasmodium.md"
   ]
 }
