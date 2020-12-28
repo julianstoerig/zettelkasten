@@ -1,5 +1,5 @@
-[[[[Kurs-VO-allgemeine-und-anorganische-Chemie]] [[✒ Arbeitsplatz/1. Semester]]
+[[Chemie]] [[Kurs-VO-allgemeine-und-anorganische-Chemie]] [[✒ Arbeitsplatz/1. Semester]]
 
 ---
 
-**Aerosole** sind heterogene [[Stoffgemisch]], bei denen entweder Feststoffpartikel, man bezeichnet es dann auch als **Rauch** (Bsp.: Brandrauch), oder Flüssigkeitstropfen, dann wird es auch **Nebel** (Bsp.: Nebel; Hustenluft) genannt, in einem Gas dispergiert sin
+**Aerosole** sind heterogene [[Stoffgemisch]], bei denen entweder Feststoffpartikel, man bezeichnet es dann auch als **Rauch** (Bsp.: Brandrauch), oder Flüssigkeitstropfen, dann wird es auch **Nebel** (Bsp.: Nebel; Hustenluft) genannt, in einem Gas dispergiert sind.
