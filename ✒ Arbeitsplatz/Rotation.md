@@ -15,5 +15,5 @@ $$
 Die uns als klassische Geschwindigkeit bekannte wird hier **Bahngeschwindigkeit** genannt, sie ist als die Winkelgeschwindigkeit $\omega$ mal dem Radius $r$ definiert. Alternativ lässt sie sich aus dem Kreuzprodukt des Winkelgeschwindikgeitsvektors $\vec{\omega}$ und dem Ortsvektor des [[✒ Arbeitsplatz/Schwerpunkt (Masse)|Schwerpunktes]] des bewegten Körpers vom Rotationsmittelpunkt $\vec{m}$ bestimmen.
 
 $$
-v = \omega \cdot r = \coprod
+v = \omega \cdot r = \vecprod
 $$
