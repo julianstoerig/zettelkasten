@@ -23,7 +23,7 @@ Bei konstanter Winkelgeschwindigkeit $\omega$ ist die Bahngeschwindigkeit $v$ di
 
 $$
 v = \omega \cdot U = \omega \cdot \left( 2 \cdot \pi \cdot r \right) \Rightarrow
-\omega \propto \frac{1}{r}
+v \propto r
 $$
 
 Die uns als klassische Geschwindigkeit bekannte wird hier **Bahngeschwindigkeit** genannt, sie ist als die **Winkelgeschwindigkeit** $\omega$ mal dem Radius $r$ definiert. Alternativ lässt sie sich aus dem Kreuzprodukt des **Winkelgeschwindikgeitsvektors** $\vec{\omega}$ und dem Ortsvektor des [[✒ Arbeitsplatz/Schwerpunkt (Masse)|Schwerpunktes]] des bewegten Körpers vom **Rotationsmittelpunkt** $\vec{m}$ bestimmen.
