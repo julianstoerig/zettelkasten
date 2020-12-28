@@ -20,5 +20,6 @@ $$
 
 Diese **Bahngeschwindigkeit** ist tangential zur Kreisbahn, sie ändert also laufend ihre Richtung.
 
-Während die **Winkelgeschwindigkeit** bei konstanter **Bahngeschwindigkeit** 
+Die Winkelgeschwindigkeit ist 
+
 ![[📎 Anhänge/velocity-angular-velocity-circular-disc.svg]]
