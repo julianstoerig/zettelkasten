@@ -6,4 +6,4 @@
 
 In der Biologie treten diese z.B. bei [[📂Unfertiges/Flagellum|Flagellen]] auf. Ebenfalls werden sie für technische Verfahren wie dem Zentrifugieren genutzt.
 
-$\omega = $
+$\omega = \frac{\Delta \Large\varphi}{}$
