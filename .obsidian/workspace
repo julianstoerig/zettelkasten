@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reinstoffe.md",
-            "mode": "source"
+            "file": "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reinstoffe.md",
+                "file": "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinstoffe.md"
+                "file": "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinstoffe.md",
+                "file": "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
+    "VSEPR-Strukturmodell.md",
+    "Summenformel.md",
+    "Stoffgemisch.md",
+    "Stoff.md",
+    "Spinquantenzahl s.md",
     "Reinstoffe.md",
     "Reduktionsmittel.md",
     "README.md",
-    "Quantenzahlen.md",
-    "Periodensystem der Elemente.md",
-    "Pauli-Prinzip.md",
-    "Oxidationsmittel.md",
-    "Ordnungszahl.md",
-    "Orbitale.md",
-    "Orbital.md"
+    "Quantenzahlen.md"
   ]
 }
