@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Atom.md",
+            "file": "✒ Arbeitsplatz/Physik.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atom.md",
+                "file": "✒ Arbeitsplatz/Physik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atom.md"
+                "file": "✒ Arbeitsplatz/Physik.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atom.md",
+                "file": "✒ Arbeitsplatz/Physik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Atom.md",
-    "📋 Vorlagen/Zoologie.md",
+    "✒ Arbeitsplatz/Physik.md",
     "📋 Vorlagen/Physik.md",
-    "📋 Vorlagen/Mikrobiologie.md",
-    "📋 Vorlagen/Chemie.md",
-    "📋 Vorlagen/Botanik.md",
-    "📋 Vorlagen/Beispiel.md",
-    "Stoff.md",
-    "allg.-und-anorg.-Chemie/Welle-Teilchen-Dualismus.md",
-    "VSEPR-Strukturmodell.md"
+    "Periodensystem der Elemente.md",
+    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+    "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
+    "Isotop.md",
+    "✒ Arbeitsplatz/Größen und Einheiten.md",
+    "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
+    "Atom.md",
+    "📋 Vorlagen/Zoologie.md"
   ]
 }

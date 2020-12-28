@@ -1,4 +1,4 @@
-#Kurs-VO-Physik #Semester-1
+[[Physik]] [[VO Physik]] [[✒ Arbeitsplatz/1. Semester]]
 
 ---
 
