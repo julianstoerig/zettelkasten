@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Orbitale.md",
+            "file": "Ordnungszahl.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Orbitale.md",
+                "file": "Ordnungszahl.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orbitale.md"
+                "file": "Ordnungszahl.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orbitale.md",
+                "file": "Ordnungszahl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +153,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Ordnungszahl.md",
     "Orbitale.md",
     "Orbital.md",
     "Nuklid.md",
@@ -161,7 +162,6 @@
     "n+l-Regel.md",
     "Massenzahl.md",
     "Masse.md",
-    "magnetische Quantenzahl m.md",
-    "kolloidales Stoffgemisch.md"
+    "magnetische Quantenzahl m.md"
   ]
 }
