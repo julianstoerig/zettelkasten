@@ -1,10 +1,10 @@
-Die **Winkelgeschwindigkeit**/**$\omega$** beschreibt welchen Drehwinkel $\omega$ der Radiusvektor $\vec{r}$ in der Zeit $\Delta t$ überstreicht.
+Die **Winkelgeschwindigkeit**/**$\omega$** beschreibt welchen Drehwinkel $\varphi$ der Radiusvektor $\vec{r}$ in der Zeit $\Delta t$ überstreicht.
 
 $$
 \omega = \frac{\Delta \varphi}{\Delta t} = \varphi'(t)
 $$
 
-Bei konstanter Bahngeschwindigkeit $v$ ist die Winkelgeschwindigkeit $\omega$ indirekt proportional zum Radius $r$, da der Kreisumfang $U$ und damit die durch den Körper zurückzulegende Strecke mit steigendem Radius $r$ steigt ($U = 2 \cdot \pi \cdot r$).
+Bei konstanter [[Bahngeschwindigkeit|Bahngeschwindig]] $v$ ist die Winkelgeschwindigkeit $\omega$ indirekt proportional zum Radius $r$, da der Kreisumfang $U$ und damit die durch den Körper zurückzulegende Strecke mit steigendem Radius $r$ steigt ($U = 2 \cdot \pi \cdot r$).
 
 $$
 \omega = \frac{v}{U} = \frac{\frac{\Delta s}{\Delta t}}{2 \cdot \pi \cdot r} \Rightarrow
