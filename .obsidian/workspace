@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "12ae86a6301916cb",
+        "id": "920b05345945bb55",
         "type": "leaf",
         "active": true,
         "state": {
@@ -43,7 +43,7 @@
                 "query": "Mikrobiologie",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -154,6 +154,7 @@
   },
   "lastOpenFiles": [
     "📂Unfertiges/Bacillus anthracis.md",
+    "📂Unfertiges/Mikrobiologie/Bacillus anthracis.md",
     "✒ Arbeitsplatz/1. Semester.md",
     "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
     "✒ Arbeitsplatz/VO-Physik.md",
@@ -161,7 +162,6 @@
     "✒ Arbeitsplatz/Starrer Körper.md",
     "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/Schwerpunkt (Volumen).md",
-    "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
-    "✒ Arbeitsplatz/Rotation.md"
+    "✒ Arbeitsplatz/Schwerpunkt (Masse).md"
   ]
 }
