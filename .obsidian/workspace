@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aerosol.md",
+            "file": "📋 Vorlagen/1-Uni.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Semester-1",
+                "query": "uni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Aerosol.md",
+                "file": "📋 Vorlagen/1-Uni.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aerosol.md"
+                "file": "📋 Vorlagen/1-Uni.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerosol.md",
+                "file": "📋 Vorlagen/1-Uni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,8 +153,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Aerosol.md",
     "📋 Vorlagen/1-Uni.md",
+    "Aerosol.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
     "✒ Arbeitsplatz/VO-Physik.md",

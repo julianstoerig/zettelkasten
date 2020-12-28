@@ -1,4 +1,4 @@
-[[Kurs-VO-]] [[✒ Arbeitsplatz/1. Semester]]
+[[Chemie]] [[Kurs-VO-allgemeine-und-anorganische-Chemie]] [[✒ Arbeitsplatz/1. Semester]]
 
 ---
 
