@@ -3,7 +3,7 @@
 - [[Stoff|Stoffe]]
 - [[chemisches Element|Elemente]]
 - [[Periodensystem der Elemente|PSE]]
-- [[Elektronenkonfiguration|Elektronenkonfigurationen]]
+- [[📂Unfertiges/Elektronenkonfiguration|Elektronenkonfigurationen]]
 
 ## Altfragen
 

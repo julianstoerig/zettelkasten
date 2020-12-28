@@ -10,8 +10,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Elektronenkonfiguration.md",
-            "mode": "preview"
+            "file": "📂Unfertiges/Mikrobiologie/Endosporen.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2fbc00ce8938b955",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Bacillus anthracis.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Elektronenkonfiguration.md",
+                "file": "📂Unfertiges/Mikrobiologie/Endosporen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektronenkonfiguration.md"
+                "file": "📂Unfertiges/Mikrobiologie/Endosporen.md"
               }
             }
           },
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektronenkonfiguration.md",
+                "file": "📂Unfertiges/Mikrobiologie/Endosporen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +163,8 @@
     "width": 420.6000061035156
   },
   "lastOpenFiles": [
+    "📂Unfertiges/Mikrobiologie/Endosporen.md",
+    "✒ Arbeitsplatz/Untitled.md",
     "Elektronenkonfiguration.md",
     "📂Unfertiges/Mikrobiologie/Clostridium.md",
     "📂Unfertiges/Mikrobiologie/Chitin.md",
@@ -159,8 +172,6 @@
     "✒ Arbeitsplatz/Starrer Körper.md",
     "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
     "✒ Arbeitsplatz/Schwerpunkt (Volumen).md",
-    "✒ Arbeitsplatz/Schwerpunkt (geometrisch).md",
-    "✒ Arbeitsplatz/Rotation.md",
-    "✒ Arbeitsplatz/Schwerpunkt.md"
+    "✒ Arbeitsplatz/Schwerpunkt (geometrisch).md"
   ]
 }
