@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Rotation.md",
+            "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md",
+                "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md"
+                "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md",
+                "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +153,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/Kräftegleichgewicht.md",
@@ -161,7 +162,6 @@
     "✒ Arbeitsplatz/1. Semester.md",
     "README.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
-    "✒ Arbeitsplatz/VO-Physik.md",
-    "Antioxidans.md"
+    "✒ Arbeitsplatz/VO-Physik.md"
   ]
 }
