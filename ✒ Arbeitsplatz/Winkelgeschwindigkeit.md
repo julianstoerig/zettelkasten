@@ -15,4 +15,8 @@ $$
 \omega \propto \frac{1}{r}
 $$
 
-Auch über die **Umlaufzeit**/**Periode $T$** 
+Auch über die **Umlaufzeit**/**Periode $T$** lässt sie sich definieren.
+
+$$
+\omega = \frac{2\pi}{T}
+$$
