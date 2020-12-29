@@ -4,15 +4,16 @@
 
 - [[✒ Arbeitsplatz/Größen und Einheiten.md]]
 - [[✒ Arbeitsplatz/SI-System.md]]
+
 Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Zeit.
 
 ## Arten der Bewegung
 
-[[✒ Arbeitsplatz/Kräftefreie Bewegung.md]]
+- [[✒ Arbeitsplatz/Kräftefreie Bewegung.md]]
 
-[[✒ Arbeitsplatz/Translation (Physik).md]]
+- [[✒ Arbeitsplatz/Translation (Physik).md]]
 
-[[✒ Arbeitsplatz/Rotation.md]]
+- [[✒ Arbeitsplatz/Rotation.md]]
 	- [[✒ Arbeitsplatz/Winkelgeschwindigkeit.md]]
 	- [[✒ Arbeitsplatz/Bahngeschwindigkeit.md]]
 
@@ -20,14 +21,16 @@ Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Z
 
 ### Freier Fall
 
+- [[✒ Arbeitsplatz/Schwerpunkt (Masse).md]]
+- [[✒ Arbeitsplatz/Schwerpunkt (Volumen).md]]
+- [[✒ Arbeitsplatz/Starrer Körper.md]]
+
 ## Kräfte
+
+- [[✒ Arbeitsplatz/Kräftegleichgewicht.md]]
 
 ### Newton'sche Axiome
 
 ### Masse und Trägheit
 
 ## Energie
-- [[✒ Arbeitsplatz/Kräftegleichgewicht.md]]
-- [[✒ Arbeitsplatz/Schwerpunkt (Masse).md]]
-- [[✒ Arbeitsplatz/Schwerpunkt (Volumen).md]]
-- [[✒ Arbeitsplatz/Starrer Körper.md]]
