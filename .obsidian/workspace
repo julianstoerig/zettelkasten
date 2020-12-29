@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/SI-System.md",
+            "file": "✒ Arbeitsplatz/Rotation.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/SI-System.md",
+                "file": "✒ Arbeitsplatz/Rotation.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/SI-System.md"
+                "file": "✒ Arbeitsplatz/Rotation.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/SI-System.md",
+                "file": "✒ Arbeitsplatz/Rotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,12 +153,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/VO Physik.md",
     "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/1. Semester.md",
-    "✒ Arbeitsplatz/Rotation.md",
     "README.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
     "✒ Arbeitsplatz/VO-Physik.md",
