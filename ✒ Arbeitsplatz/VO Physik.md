@@ -25,7 +25,6 @@ Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Z
 
 ### Freier Fall
 
-
 ## Kräfte
 
 - [[✒ Arbeitsplatz/Kräftegleichgewicht.md]]
