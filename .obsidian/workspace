@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Physik.md",
+            "file": "Antioxidans.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Physik.md",
+                "file": "Antioxidans.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Physik.md"
+                "file": "Antioxidans.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Physik.md",
+                "file": "Antioxidans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +153,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Antioxidans.md",
     "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
     "✒ Arbeitsplatz/SI-System.md",
@@ -161,7 +162,6 @@
     "✒ Arbeitsplatz/Größen und Einheiten.md",
     "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
     "✒ Arbeitsplatz/1. Semester.md",
-    "✒ Arbeitsplatz/VO Physik.md",
-    "Zoologie.md"
+    "✒ Arbeitsplatz/VO Physik.md"
   ]
 }
