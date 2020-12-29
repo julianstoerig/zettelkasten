@@ -17,6 +17,12 @@ Meine Notizen sind geordnet, in **Domänen**.
 
 [[Chemie]]
 
+## Kurse
+
+[[✒ Arbeitsplatz/VO Physik|VO Physik]]
+
+[[VO Botanik]]
+
 ## Setup und Workflows für meinen Zettelkasten und meine wissenschaftliche Arbeit
 
 ### Obsidian-Setup
@@ -26,7 +32,3 @@ Meine Notizen sind geordnet, in **Domänen**.
 ### Workflow-Dokumentation
 
 [[Zotero Paper workflow|Papers importieren]]
-
-## Warum README?
-
-Dieses Projekt ist nicht nur hier auf ["Obsidian publish"](https://publish.obsidian.md/julian-storig), sondern auch auf ["github"](https://www.github.com/julianstoerig/zettelkasten) verfügbar. Dort kann man sich eine aktuelle .zip-Datei des Projektes herunterladen.

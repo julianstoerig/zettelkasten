@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/VO Physik.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/VO Physik.md",
+                "file": "README.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/VO Physik.md"
+                "file": "README.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/VO Physik.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +153,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "README.md",
     "✒ Arbeitsplatz/VO Physik.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
@@ -161,7 +162,6 @@
     "Antioxidans.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
     "✒ Arbeitsplatz/SI-System.md",
-    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
-    "✒ Arbeitsplatz/Größen und Einheiten.md"
+    "✒ Arbeitsplatz/Kräftegleichgewicht.md"
   ]
 }
