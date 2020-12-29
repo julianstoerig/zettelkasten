@@ -14,3 +14,5 @@ $$
 \omega = \frac{v}{U} = \frac{\frac{\Delta s}{\Delta t}}{2 \cdot \pi \cdot r} \Rightarrow
 \omega \propto \frac{1}{r}
 $$
+
+Auch über die **Umlaufzeit**/**Periode $T$** 
