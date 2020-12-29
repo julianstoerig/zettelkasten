@@ -1,3 +1,6 @@
+- [[✒ Arbeitsplatz/Schwerpunkt (Masse).md]]
+- [[✒ Arbeitsplatz/Schwerpunkt (Volumen).md]]
+- [[✒ Arbeitsplatz/Starrer Körper.md]]
 [[Physik]] [[✒ Arbeitsplatz/1. Semester]]
 
 ---
@@ -10,11 +13,8 @@ Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Z
 ## Arten der Bewegung
 
 - [[✒ Arbeitsplatz/Kräftefreie Bewegung.md]]
-
 - [[✒ Arbeitsplatz/Translation (Physik).md]]
-
 - [[✒ Arbeitsplatz/Rotation.md]]
-	
 	- [[✒ Arbeitsplatz/Winkelgeschwindigkeit.md]]
 	- [[✒ Arbeitsplatz/Bahngeschwindigkeit.md]]
 
@@ -22,9 +22,6 @@ Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Z
 
 ### Freier Fall
 
-- [[✒ Arbeitsplatz/Schwerpunkt (Masse).md]]
-- [[✒ Arbeitsplatz/Schwerpunkt (Volumen).md]]
-- [[✒ Arbeitsplatz/Starrer Körper.md]]
 
 ## Kräfte
 
