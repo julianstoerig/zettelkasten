@@ -1,4 +1,4 @@
-[[Mikrobiologie]] [[Zoologie]] [[Botanik]] [[VO Mikrobiologie]] [[VO Zoologie]] [[VO Botanik]] [[✒ Arbeitsplatz/1. Semester]]
+[[Mikrobiologie]] [[Zoologie]] [[Botanik]] [[VO Mikrobiologie]] [[VO Zoologie]] [[VO Botanik]] [[1. Semester]]
 
 ---
 

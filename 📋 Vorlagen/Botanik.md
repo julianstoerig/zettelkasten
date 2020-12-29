@@ -1,4 +1,4 @@
-[[Botanik]] [[VO Botanik]] [[✒ Arbeitsplatz/1. Semester]]
+[[Botanik]] [[VO Botanik]] [[1. Semester]]
 
 ---
 

@@ -1,4 +1,4 @@
-[[Physik]] [[✒ Arbeitsplatz/1. Semester]]
+[[Physik]] [[1. Semester]]
 
 ---
 

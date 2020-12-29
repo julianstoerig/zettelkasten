@@ -1,4 +1,4 @@
-[[Physik]] [[VO Physik]] [[✒ Arbeitsplatz/1. Semester]]
+[[Physik]] [[VO Physik]] [[1. Semester]]
 
 ---
 

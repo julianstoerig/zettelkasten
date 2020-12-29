@@ -1,4 +1,4 @@
-[[Mikrobiologie]] [[VO Mikrobiologie]] [[✒ Arbeitsplatz/1. Semester]]
+[[Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
 
 ---
 
