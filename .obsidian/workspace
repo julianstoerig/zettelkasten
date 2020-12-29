@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Semester.md",
+            "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. Semester.md",
+                "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Semester.md"
+                "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Semester.md",
+                "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+    "✒ Arbeitsplatz/VO Physik.md",
+    "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/1. Semester.md",
     "✒ Arbeitsplatz/Rotation.md",
-    "✒ Arbeitsplatz/Physik.md",
     "README.md",
-    "✒ Arbeitsplatz/VO Physik.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
     "✒ Arbeitsplatz/VO-Physik.md",
     "Antioxidans.md",
-    "✒ Arbeitsplatz/Translation (Physik).md",
-    "✒ Arbeitsplatz/SI-System.md"
+    "✒ Arbeitsplatz/Translation (Physik).md"
   ]
 }

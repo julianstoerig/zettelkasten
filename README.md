@@ -4,7 +4,7 @@ Auf dieser Seite veröffentliche ich **meine Aufzeichnungen** von denen die meis
 
 ## Domänen:
 
-[[✒ Arbeitsplatz/Physik]]
+[[Physik]]
 
 [[📂Unfertiges/Mikrobiologie/Mikrobiologie]]
 
