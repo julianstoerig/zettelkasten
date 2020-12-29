@@ -1,6 +1,3 @@
-- [[✒ Arbeitsplatz/Schwerpunkt (Masse).md]]
-- [[✒ Arbeitsplatz/Schwerpunkt (Volumen).md]]
-- [[✒ Arbeitsplatz/Starrer Körper.md]]
 [[Physik]] [[✒ Arbeitsplatz/1. Semester]]
 
 ---
@@ -9,6 +6,12 @@
 - [[✒ Arbeitsplatz/SI-System.md]]
 
 Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Zeit.
+
+## Eigenschaften von Körpern
+
+- [[✒ Arbeitsplatz/Schwerpunkt (Masse).md]]
+- [[✒ Arbeitsplatz/Schwerpunkt (Volumen).md]]
+- [[✒ Arbeitsplatz/Starrer Körper.md]]
 
 ## Arten der Bewegung
 
