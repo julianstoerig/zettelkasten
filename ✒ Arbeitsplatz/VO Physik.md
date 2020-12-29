@@ -10,11 +10,11 @@ Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Z
 
 [[✒ Arbeitsplatz/Kräftefreie Bewegung.md]]
 
-### Translationen
+[[✒ Arbeitsplatz/Translation (Physik).md]]
 
-- [[✒ Arbeitsplatz/Translation (Physik).md]]
-
-### Rotation
+[[✒ Arbeitsplatz/Rotation.md]]
+	- [[✒ Arbeitsplatz/Winkelgeschwindigkeit.md]]
+	- [[✒ Arbeitsplatz/Bahngeschwindigkeit.md]]
 
 ### Beschleunigte Bewegungen
 
@@ -27,9 +27,6 @@ Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Z
 ### Masse und Trägheit
 
 ## Energie
-- [[✒ Arbeitsplatz/Rotation.md]]
-	- [[✒ Arbeitsplatz/Winkelgeschwindigkeit.md]]
-	- [[✒ Arbeitsplatz/Bahngeschwindigkeit.md]]
 - [[✒ Arbeitsplatz/Kräftegleichgewicht.md]]
 - [[✒ Arbeitsplatz/Schwerpunkt (Masse).md]]
 - [[✒ Arbeitsplatz/Schwerpunkt (Volumen).md]]
