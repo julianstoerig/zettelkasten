@@ -21,7 +21,9 @@ Meine Notizen sind geordnet, in **Domänen**.
 
 [[✒ Arbeitsplatz/VO Physik|VO Physik]]
 
-[[VO Botanik]]
+[[VO Botanik|VO Botanik]]
+[[VO Mikrobiologie|Mikrobiologie]]
+[[VO allgemeine und anorganische Chemie|VO allgemeine und anorganische Chemie]]
 
 ## Setup und Workflows für meinen Zettelkasten und meine wissenschaftliche Arbeit
 
