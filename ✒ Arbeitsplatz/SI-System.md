@@ -27,3 +27,4 @@ Alle weiteren Einheiten des **SI-Systems** sind kohärent, d.h. durch simple Mul
 | Volumen         |  $V$   | Liter                     |           l            | $\mathrm{1l=1dm^3=1dm\cdot1dm\cdot1dm}$ |
 | Geschwindigkeit |  $v$   | Meter pro Sekunde         | $\mathrm{\frac{m}{s}}$ |         $\mathrm{\frac{m}{s}}$          |
 | Massendichte    | $\rho$ | Gramm pro Kubikcentimeter |    $\frac{g}{cm^3}$    |            $\frac{g}{cm^3}$             |
+| Kraft           |  $F$   | Newton                    |                        |                                         |
