@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "✒ Arbeitsplatz/Rotation.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "✒ Arbeitsplatz/Rotation.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "✒ Arbeitsplatz/Rotation.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "✒ Arbeitsplatz/Rotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,11 +153,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Rotation.md",
+    "✒ Arbeitsplatz/Physik.md",
     "README.md",
     "✒ Arbeitsplatz/VO Physik.md",
-    "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
-    "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/VO-Physik.md",
     "Antioxidans.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
