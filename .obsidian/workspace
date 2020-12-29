@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8364cde02eeed856",
+        "id": "2c77c6917675b841",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Untitled.md",
+            "file": "Mountainbike.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md",
+                "file": "Mountainbike.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md"
+                "file": "Mountainbike.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md",
+                "file": "Mountainbike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +153,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Mountainbike.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
@@ -161,7 +162,6 @@
     "✒ Arbeitsplatz/VO Physik.md",
     "✒ Arbeitsplatz/Physik.md",
     "✒ Arbeitsplatz/1. Semester.md",
-    "README.md",
-    "✒ Arbeitsplatz/Physik der Fortbewegung.md"
+    "README.md"
   ]
 }
