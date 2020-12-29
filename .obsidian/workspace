@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2c77c6917675b841",
+        "id": "1b6e2f9f221a8261",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mountainbike.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mountainbike.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mountainbike.md"
-              }
+              "state": {}
             }
           },
           {
@@ -117,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mountainbike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
