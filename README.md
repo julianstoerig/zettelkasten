@@ -2,8 +2,6 @@ Auf dieser Seite veröffentliche ich **meine Aufzeichnungen** von denen die meis
 
 ---
 
-Meine Notizen sind geordnet, in **Domänen**.
-
 ## Domänen:
 
 [[✒ Arbeitsplatz/Physik]]

@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "✒ Arbeitsplatz/VO Physik.md",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "✒ Arbeitsplatz/VO Physik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "✒ Arbeitsplatz/VO Physik.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "✒ Arbeitsplatz/VO Physik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,8 +153,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
     "✒ Arbeitsplatz/VO Physik.md",
+    "README.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Physik der Fortbewegung.md",
     "✒ Arbeitsplatz/Physik.md",
