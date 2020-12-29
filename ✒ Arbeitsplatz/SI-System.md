@@ -4,7 +4,7 @@
 
 Das **SI-System**/**internationale Einheitensystem**/**Système international d'unités** ist das am weitesten verbreitete Einheitensystem und das international in der Wissenschaft genutzte Einheitensystem.
 
-Im **SI-System** werden  [[✒ Arbeitsplatz/SI-System|sieben Basiseinheiten]], die seit 2019 alle durch Naturkonstanten definiert werden, verwendet, um alle [[✒ Arbeitsplatz/SI-System|anderen Einheiten]] zu errechnen.
+Im **SI-System** werden sieben Basiseinheiten, die seit 2019 alle durch Naturkonstanten definiert werden, verwendet, um alle anderen Einheiten zu errechnen.
 
 ## Basiseinheiten
 
