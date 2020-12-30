@@ -1,1 +1,1 @@
-Dieser [[Python/Datatypes|Datentyp]] bezeichnet
+Der [[Python/Datatypes|Datentyp]] **Integer**/**Int**/**int** bezeichnet ganze Zahlen.
