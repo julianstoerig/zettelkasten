@@ -20,7 +20,7 @@ import PyQt5.QtWidgets as qtw
 
 Wir definieren hier das Fenster durch dieKlasse `MainWindow`, die von `QWidget` erbt.
 
-Auch den Konstruktor dieser Klasse 
+Auch den Konstruktor dieser Klasse rufen wir mit `super().__init__()` auf.
 
 ```python
 
