@@ -6,25 +6,27 @@
       {
         "id": "1b6e2f9f221a8261",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Python/Datatypes.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "6dc4fd9ecd070f9e",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Float.md",
+            "file": "✒ Arbeitsplatz/Untitled.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "da7675dc0f7a0a25"
+      },
+      {
+        "id": "3102732f9085c4bb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Untitled.md",
+            "mode": "preview"
+          }
+        },
+        "group": "da7675dc0f7a0a25"
       }
     ],
     "direction": "vertical"
@@ -89,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Float.md",
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -118,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Float.md"
+                "file": "✒ Arbeitsplatz/Untitled.md"
               }
             }
           },
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Float.md",
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,10 +166,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Float.md",
-    "Python/Datatypes.md",
-    "✒ Arbeitsplatz/Integer.md",
     "✒ Arbeitsplatz/Untitled.md",
+    "Python/Datatypes.md",
+    "✒ Arbeitsplatz/Float.md",
+    "✒ Arbeitsplatz/Integer.md",
     "✒ Arbeitsplatz/Mountainbike.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
