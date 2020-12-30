@@ -34,6 +34,8 @@ super().__init__()
 
 #### Fenstertitel
 
+
+
 ```python
 self.setWindowTitle("Titel")
 ```
