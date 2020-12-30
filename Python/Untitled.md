@@ -18,27 +18,30 @@ import PyQt5.QtWidgets as qtw
 
 ### Fenster
 
-Wir definieren hier das Fenster durch die Klasse `MainWindow`, die von `QWidget` erbt.
+Wir definieren hier das Fenster durch dieKlasse `MainWindow`, die von `QWidget` erbt.
 
 ```python
 
 class MainWindow(qtw.QWidget):
 
- def __init__(self):
+def __init__(self):
 
- super().__init__()
+super().__init__()
 
 ```
 
 #### Fenstertitel
+
 ```python
 self.setWindowTitle("Titel")
 ```
+
 #### Widgets
 
 ```python
 self.show()
 ```
+
 ### Instanzieren von GUI Objekten
 
 #### Diese Klasse kümmert sich um Backend GUI Zeug mit dem Ich mich nicht beschäftigen muss
@@ -47,6 +50,7 @@ self.show()
 app = qtw.QApplication([])  
 mw = MainWindow()
 ```
+
 ### "Fenster öffnen" durch die Backend-Klasse
 
 ```python
