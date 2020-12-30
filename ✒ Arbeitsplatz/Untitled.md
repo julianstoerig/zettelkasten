@@ -36,29 +36,18 @@ self.setWindowTitle("Titel")
 
 #### Widgets
 
-  
-self.show()
-
-  
+  self.show()
 
 ### Instanzieren von GUI Objekten
 
-  
-
 #### Diese Klasse kümmert sich um Backend GUI Zeug mit dem Ich mich nicht beschäftigen muss
 
-  
-
-app = qtw.QApplication([])
-
-  
+app = qtw.QApplication([])  
 
 mw = MainWindow()
 
-  
-
 ### "Fenster öffnen" durch die Backend-Klasse
 
-  
-
+```python
 app.exec_()
+```
