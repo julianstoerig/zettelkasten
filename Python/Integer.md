@@ -1,0 +1,1 @@
+Dieser [[Python/Datatypes|Datentyp]] bezeichnet

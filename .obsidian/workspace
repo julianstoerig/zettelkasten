@@ -6,11 +6,22 @@
       {
         "id": "1b6e2f9f221a8261",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Python/Datatypes.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "3a63fd162ba57e33",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Python/Integer.md",
             "mode": "source"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Python/Datatypes.md",
+                "file": "Python/Integer.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Datatypes.md"
+                "file": "Python/Integer.md"
               }
             }
           },
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Datatypes.md",
+                "file": "Python/Integer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +164,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Integer.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Mountainbike.md",
     "✒ Arbeitsplatz/Rotation.md",
@@ -161,7 +173,6 @@
     "✒ Arbeitsplatz/Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/VO Physik.md",
     "✒ Arbeitsplatz/Physik.md",
-    "✒ Arbeitsplatz/1. Semester.md",
-    "README.md"
+    "✒ Arbeitsplatz/1. Semester.md"
   ]
 }
