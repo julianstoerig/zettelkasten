@@ -2,7 +2,7 @@
 
   
 
-**PyQt5** ist zusammen mit **kivy** und **Tkinter** eine der populärsten GUI-Bibliotheken für [[Python|Python]]. Es handelt sich dabei um eine Adaption des GUIs der bekannten **C++**-Bibliothek **Qt**
+**PyQt5** ist zusammen mit **kivy** und **Tkinter** eine der populärsten GUI-Bibliotheken für [[Python|Python]]. Es handelt sich dabei um eine Adaption des GUIs der bekannten **C++**-Bibliothek **Qt**.
 
   
 
@@ -14,7 +14,7 @@
 
   
 
-Für ein einfaches GUI muss nur ein Teil der Bibliothek, ``python PyQt5.QtWidgets``` importiert werden, der standardmäßig zu `qtw` gekürzt wird.
+Für ein einfaches GUI muss nur ein Teil der Bibliothek, `PyQt5.QtWidgets` importiert werden, der standardmäßig zu `qtw` gekürzt wird.
 
   
 
@@ -82,4 +82,4 @@ mw = MainWindow()
 
   
 
-app.exec_(
+app.exec_()
