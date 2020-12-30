@@ -1,1 +1,1 @@
-**Datentypen** bezeichnen die verschiedenen Arten von Daten, die in einer [[Variable|Variable]] gespeichert werden können. Python unterscheidet zwischen [[Python/Integer|Integer]], [[Float|Float]], [[String|String]] und [[Boolean|Boolean]].
+**Datentypen** bezeichnen die verschiedenen Arten von Daten, die in einer [[Variable|Variable]] gespeichert werden können. Python unterscheidet zwischen [[Python/Integer|Integer]], [[Python/Float|Float]], [[String|String]] und [[Boolean|Boolean]].

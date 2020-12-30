@@ -4,26 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "1b6e2f9f221a8261",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "da7675dc0f7a0a25"
-      },
-      {
-        "id": "3102732f9085c4bb",
+        "id": "8c860173c54246af",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Untitled.md",
+            "file": "Python/Untitled.md",
+            "mode": "source"
+          }
+        },
+        "group": "f6ff2a9bcadd4f56"
+      },
+      {
+        "id": "a39813ca071b73d6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Python/Untitled.md",
             "mode": "preview"
           }
         },
-        "group": "da7675dc0f7a0a25"
+        "group": "f6ff2a9bcadd4f56"
       }
     ],
     "direction": "vertical"
@@ -88,6 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Python/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -115,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/Untitled.md"
+              }
             }
           },
           {
@@ -124,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,15 +166,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Python/Untitled.md",
+    "✒ Arbeitsplatz/Float.md",
     "✒ Arbeitsplatz/Untitled.md",
     "Python/Datatypes.md",
-    "✒ Arbeitsplatz/Float.md",
     "✒ Arbeitsplatz/Integer.md",
     "✒ Arbeitsplatz/Mountainbike.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
     "✒ Arbeitsplatz/SI-System.md",
-    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
-    "✒ Arbeitsplatz/VO Physik.md"
+    "✒ Arbeitsplatz/Kräftegleichgewicht.md"
   ]
 }
