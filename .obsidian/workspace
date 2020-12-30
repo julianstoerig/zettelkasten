@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Untitled.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "da7675dc0f7a0a25"
       },
@@ -91,7 +88,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -119,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
