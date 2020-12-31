@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c860173c54246af",
+        "id": "bac086916d750743",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/Untitled.md",
-            "mode": "source"
-          }
-        },
-        "group": "f6ff2a9bcadd4f56"
-      },
-      {
-        "id": "a39813ca071b73d6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Python/Untitled.md",
+            "file": "✒ Arbeitsplatz/Rotation.md",
             "mode": "preview"
           }
-        },
-        "group": "f6ff2a9bcadd4f56"
+        }
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Python/Untitled.md",
+                "file": "✒ Arbeitsplatz/Rotation.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -120,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Untitled.md"
+                "file": "✒ Arbeitsplatz/Rotation.md"
               }
             }
           },
@@ -130,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Untitled.md",
+                "file": "✒ Arbeitsplatz/Rotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,13 +153,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Rotation.md",
     "Python/Untitled.md",
     "✒ Arbeitsplatz/Float.md",
     "✒ Arbeitsplatz/Untitled.md",
     "Python/Datatypes.md",
     "✒ Arbeitsplatz/Integer.md",
     "✒ Arbeitsplatz/Mountainbike.md",
-    "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
     "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/Kräftegleichgewicht.md"
