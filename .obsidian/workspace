@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "05e41023f894b94d",
+        "id": "085fe0abfcb391a8",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Untitled.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "✒ Arbeitsplatz/Untitled.md"
+              }
             }
           },
           {
@@ -111,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,10 +145,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
     "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
     "📋 Vorlagen/Beispiel.md",
-    "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Rotation.md",
     "Python/Untitled.md",
     "✒ Arbeitsplatz/Float.md",
