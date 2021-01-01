@@ -2,4 +2,4 @@
 
 ## Wetter
 
-Innsbruck: {{weatherInnsbruck}}
+Innsbruck: {{allgemeineWetterlageInnsbruck}}
