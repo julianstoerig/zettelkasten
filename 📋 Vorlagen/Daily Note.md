@@ -2,3 +2,4 @@
 
 {{weatherInnsbruck}}
 {{weatherMunich}}
+
