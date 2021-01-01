@@ -80,11 +80,11 @@
               "state": {
                 "file": "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
                 "options": {
-                  "search": "",
-                  "localJumps": 2,
+                  "search": "-path: \"📂 Unferrtiges\"",
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
