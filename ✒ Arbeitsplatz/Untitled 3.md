@@ -3,6 +3,6 @@
 
 ## Wetter
 
-allgemeine Wetterlages: ⛅️  -0°C
+Gefühltes Wetter: ⛅️  -0°C
 
 Temperatur: +2°C
