@@ -3,6 +3,6 @@
 
 ## Wetter
 
-Innsbruck: ⛅️  +2°C
+Innsbruck: Partly cloudy +2°C
 
 Innsbruck: ⛅️  +2°C
