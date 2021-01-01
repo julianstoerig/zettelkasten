@@ -10,4 +10,5 @@
 
 ## Zu Erledigen
 
-- [ ] Für 3 Stundenarbei
+- [ ] Für 2 Stunden arbeiten
+- [ ] Für 2 Stunden arbeiten
