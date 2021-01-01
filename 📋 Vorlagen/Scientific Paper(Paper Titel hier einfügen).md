@@ -31,4 +31,9 @@ Spezielles Thema: [[]]
 
 
 
-## Kontext (wie das Paper im Verhältnis zu anderen Arbeiten im Feld steht)
+## Kontext (wie das Paper im Verhältnis zu anderen Arbeiten im Feld steht; wie es zu Schlüsselproblemen und Ergebnissen des Feldes durch andere und dich selbst steht)
+
+
+
+
+## 
