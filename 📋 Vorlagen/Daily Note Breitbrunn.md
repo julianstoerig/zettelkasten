@@ -4,11 +4,11 @@
 
 🛰: {{AllgWetterBreitbrunn}}
 
-🌡: {{Temp}}
+🌡: {{TempBreitbrunn}}
 
-💧: {{Regen}}
+💧: {{RegenBreitbrunn}}
 
-🌬: {{Wind}}
+🌬: {{WindBreitbrunn}}
 
 ## Zu Erledigen
 

@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 Vorlagen/Daily Note Breitbrunn.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Untitled 1.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Daily Note Breitbrunn.md",
+                "file": "✒ Arbeitsplatz/Untitled 1.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Daily Note Breitbrunn.md",
+                "file": "✒ Arbeitsplatz/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +142,7 @@
     "width": 420.6000061035156
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Untitled 1.md",
     "📋 Vorlagen/Daily Note Breitbrunn.md",
     "✒ Arbeitsplatz/Untitled.md",
     "📋 Vorlagen/Untitled.md",
@@ -150,7 +151,6 @@
     "📖 Journal/2021-01-01.md",
     "✒ Arbeitsplatz/2020-12-31.md",
     "📖 Journal/2020-12-31.md",
-    "Antioxidans.md",
-    "✒ Arbeitsplatz/Untitled 3.md"
+    "Antioxidans.md"
   ]
 }
