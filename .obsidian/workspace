@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 Vorlagen/Daily Note Breitbrunn.md",
-            "mode": "preview"
+            "file": "📋 Vorlagen/Botanik.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Daily Note Breitbrunn.md",
+                "file": "📋 Vorlagen/Botanik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Daily Note Breitbrunn.md",
+                "file": "📋 Vorlagen/Botanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +147,8 @@
     "width": 379
   },
   "lastOpenFiles": [
+    "📋 Vorlagen/Botanik.md",
+    "📋 Vorlagen/Beispiel.md",
     "📋 Vorlagen/Daily Note Breitbrunn.md",
     "📋 Vorlagen/Daily Note.md",
     "✒ Arbeitsplatz/📅 Noch Einzutragen.md",
@@ -154,8 +156,6 @@
     "📋 Vorlagen/Untitled.md",
     "📖 Journal/2021-01-01.md",
     "✒ Arbeitsplatz/Untitled 1.md",
-    "✒ Arbeitsplatz/Untitled.md",
-    "📋 Vorlagen/Daily Note 1.md",
-    "✒ Arbeitsplatz/2020-12-31.md"
+    "✒ Arbeitsplatz/Untitled.md"
   ]
 }

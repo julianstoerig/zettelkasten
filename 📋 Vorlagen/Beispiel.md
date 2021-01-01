@@ -1,4 +1,4 @@
-[[Fachgebiet]] [[Kursname]] [[Semester]]
+[[Fachgebiet]] [[Kursname]] [[Semester]] [[{{tp_today}}]]
 
 ---
 
