@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 Vorlagen/Daily Note.md",
+            "file": "✒ Arbeitsplatz/Untitled.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,22 +102,12 @@
             }
           },
           {
-            "id": "e4b71d5626032376",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "📋 Vorlagen/Daily Note.md"
-              }
-            }
-          },
-          {
             "id": "70a9ce091072f366",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -145,9 +135,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Untitled.md",
     "📋 Vorlagen/Daily Note.md",
     "✒ Arbeitsplatz/Untitled 1.md",
-    "✒ Arbeitsplatz/Untitled.md",
     "📋 Vorlagen/Untitled.md",
     "1. Semester.md",
     "✒ Arbeitsplatz/Translation (Physik).md",

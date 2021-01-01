@@ -1,3 +1,4 @@
 <button type\="button" id\="render"\>\[\[{{tp\_yesterday}}|Yesterday\]\]</button\> <button type\="button" id\="render"\>\[\[{{tp\_tomorrow}}|Tomorrow\]\]</button\>
 
-{{tp_daily_quote}}
+> Stop complaining. Start creating.
+> &mdash; <cite>Dale Patridge</cite>
