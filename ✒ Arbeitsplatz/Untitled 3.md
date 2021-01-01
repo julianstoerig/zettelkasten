@@ -5,4 +5,4 @@
 
 allgemeine Wetterlages: ⛅️  -0°C
 
-tatsächliche Temperatur
+Temperatur: +2°C
