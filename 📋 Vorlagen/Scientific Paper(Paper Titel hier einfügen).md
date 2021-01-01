@@ -45,7 +45,7 @@ Spezielles Thema: [[]]
 
 
 
-## Referenzen im Paper (Die offensichtlich mit eigener Arbeit)
+## Referenzen im Paper (Die offensichtlich mit eigener Arbeit in Verbindung stehen und die oft in anderen Papers zum Thema zitiert werden)
 
 
 
