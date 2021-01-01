@@ -3,10 +3,11 @@
 ## Wetter
 
 |                         |                |
-|:-----------------------:|:--------------:|
-| 🛰 Allgemeine Wetterlage | {{AllgWetter}} |
-|      🌡 Temperatur       |    {{Temp}}    |
-|     💧 Niederschlag     |   {{Regen}}    |
-|         🌬 Wind          |    {{Wind}}    |
+|:----------------------- |:--------------:|
+| | {{AllgWetter}} |
+|             |    {{Temp}}    |
+| 💧 Niederschlag         |   {{Regen}}    |
+| 🌬 Wind                  |    {{Wind}}    |
 🛰 Allgemeine Wetterlage: 
 
+🛰 Allgemeine Wetterlage
