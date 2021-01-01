@@ -1,2 +1,9 @@
 [[person]]
 
+[[]]
+
+## Eigenschaften / Vorlieben
+
+
+
+## 
