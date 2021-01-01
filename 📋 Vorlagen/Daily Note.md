@@ -1,5 +1,3 @@
-{{tp_daily_quote}}
-
 ## Wetter
 
 🛰: {{AllgWetter}}
@@ -9,3 +7,4 @@
 💧: {{Regen}}
 
 🌬: {{Wind}}
+
