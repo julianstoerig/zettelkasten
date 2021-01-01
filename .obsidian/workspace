@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bac086916d750743",
+        "id": "05e41023f894b94d",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md"
-              }
+              "state": {}
             }
           },
           {
@@ -117,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +138,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Translation (Physik).md",
     "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
     "📋 Vorlagen/Beispiel.md",
     "✒ Arbeitsplatz/Untitled.md",
@@ -153,7 +147,6 @@
     "✒ Arbeitsplatz/Float.md",
     "Python/Datatypes.md",
     "✒ Arbeitsplatz/Integer.md",
-    "✒ Arbeitsplatz/Mountainbike.md",
-    "✒ Arbeitsplatz/Winkelgeschwindigkeit.md"
+    "✒ Arbeitsplatz/Mountainbike.md"
   ]
 }
