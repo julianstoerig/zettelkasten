@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📖 Journal/2021-01-01.md",
+            "file": "Antioxidans.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📖 Journal/2021-01-01.md",
+                "file": "Antioxidans.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖 Journal/2021-01-01.md",
+                "file": "Antioxidans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +142,7 @@
     "width": 420.6000061035156
   },
   "lastOpenFiles": [
+    "Antioxidans.md",
     "📖 Journal/2021-01-01.md",
     "📖 Journal/2020-12-31.md",
     "📋 Vorlagen/Daily Note.md",
@@ -150,7 +151,6 @@
     "✒ Arbeitsplatz/Untitled 2.md",
     "✒ Arbeitsplatz/Untitled 1.md",
     "📋 Vorlagen/Untitled.md",
-    "1. Semester.md",
-    "✒ Arbeitsplatz/Translation (Physik).md"
+    "1. Semester.md"
   ]
 }
