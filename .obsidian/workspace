@@ -6,6 +6,7 @@
       {
         "id": "07a4fd76a40d9c64",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,7 +18,6 @@
       {
         "id": "0146062e387b7dcb",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled 3.md",
+                "file": "📋 Vorlagen/Daily Note.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled 3.md",
+                "file": "📋 Vorlagen/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Untitled 3.md",
     "📋 Vorlagen/Daily Note.md",
+    "✒ Arbeitsplatz/Untitled 3.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Untitled 2.md",
     "✒ Arbeitsplatz/Untitled 1.md",
