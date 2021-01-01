@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📖 Journal/2021-01-01.md",
+            "file": "📖 Logbuch/2021-01-01.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📖 Journal/2021-01-01.md",
+                "file": "📖 Logbuch/2021-01-01.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖 Journal/2021-01-01.md",
+                "file": "📖 Logbuch/2021-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
