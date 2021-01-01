@@ -1,3 +1,4 @@
+ [[{{tp_today}}]]
 [[{{tp_yesterday}}]]|[[{{tp_tomorrow}}]]
 
 [[📅 Noch Einzutragen]]

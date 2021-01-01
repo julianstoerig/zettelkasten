@@ -1,4 +1,4 @@
-[[📋 Vorlagen/Physik]] [[VO Physik]] [[1. Semester]]
+[[📋 Vorlagen/Physik]] [[VO Physik]] [[1. Semester]] [[{{tp_today}}]]
 
 ---
 
