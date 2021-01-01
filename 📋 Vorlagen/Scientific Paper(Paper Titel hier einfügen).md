@@ -22,7 +22,7 @@ Spezielles Thema: [[]]
 
 
 
-## Ergebnis(-se)
+## Ergebnisse
 
 
 
@@ -31,4 +31,4 @@ Spezielles Thema: [[]]
 
 
 
-## 
+## Kontext (wie das Paper im Verhältnis zu anderen Arbeiten im Feld steht)
