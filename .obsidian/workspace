@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Scientific Paper(insert paper title here).md",
+            "file": "✒ Arbeitsplatz/Scientific Paper(Paper Titel hier einfügen).md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Scientific Paper(insert paper title here).md",
+                "file": "✒ Arbeitsplatz/Scientific Paper(Paper Titel hier einfügen).md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Scientific Paper(insert paper title here).md"
+                "file": "✒ Arbeitsplatz/Scientific Paper(Paper Titel hier einfügen).md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Scientific Paper(insert paper title here).md",
+                "file": "✒ Arbeitsplatz/Scientific Paper(Paper Titel hier einfügen).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
