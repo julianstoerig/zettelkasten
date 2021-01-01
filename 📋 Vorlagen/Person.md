@@ -2,7 +2,7 @@
 
 ## Eigenschaften / Vorlieben
 
-
+- 
 
 ## 	Kontakt
 
