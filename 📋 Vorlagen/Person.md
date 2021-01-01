@@ -12,4 +12,3 @@
 | Mobil    |         |
 | Festnetz |         |
 | Adresse  |         |
-|          |         |
