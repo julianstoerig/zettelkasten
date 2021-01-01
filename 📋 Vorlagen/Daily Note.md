@@ -4,7 +4,7 @@
 
 {{AllgWetter}}
 
-🌡{{Temp}}
+🌡: {{Temp}}
 
 💧: {{Regen}}
 
