@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "947743ffe9ddb4f7",
+        "id": "065d9d2dbee4b3b5",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 Vorlagen/Person.md",
-            "mode": "preview"
+            "file": "📋 Vorlagen/Daily Note.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Person.md",
+                "file": "📋 Vorlagen/Daily Note.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Person.md",
+                "file": "📋 Vorlagen/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,13 +142,13 @@
     "width": 420.6000061035156
   },
   "lastOpenFiles": [
+    "📋 Vorlagen/Daily Note.md",
     "📋 Vorlagen/Person.md",
     "📋 Vorlagen/Untitled.md",
     "📖 Journal/2021-01-01.md",
     "✒ Arbeitsplatz/Untitled 1.md",
     "✒ Arbeitsplatz/Untitled.md",
     "📋 Vorlagen/Daily Note Breitbrunn.md",
-    "📋 Vorlagen/Daily Note.md",
     "📋 Vorlagen/Daily Note 1.md",
     "✒ Arbeitsplatz/2020-12-31.md",
     "📖 Journal/2020-12-31.md"

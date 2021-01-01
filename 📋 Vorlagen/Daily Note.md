@@ -1,5 +1,7 @@
 [[{{tp_yesterday}}]]|[[{{tp_tomorrow}}]]
 
+[[]]
+
 ## Wetter
 
 🛰: {{AllgWetter}}
