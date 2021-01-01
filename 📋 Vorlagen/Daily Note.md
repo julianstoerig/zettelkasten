@@ -2,10 +2,10 @@
 
 ## Wetter
 
-{{allgemeineWetterlageInnsbruck}}
+{{AllgWetter}}
 
-Temperatur: {{tempInnsbruck}}
+{{Temp}}
 
-Rel. Luftfeuchte: {{humInnsbruck}}
+{{Regen}}
 
-Windgeschwindigkeit: {{windInnsbruck}}
+{{Wind}}

@@ -3,10 +3,10 @@
 
 ## Wetter
 
-⛅️  +2°C 0.0mm ↑0km/h
+⛅️
 
-Temperatur: +2°C
++2°C
 
-Rel. Luftfeuchte: 55%
+0.0mm
 
-Windgeschwindigkeit: ↑0km/h
+↑0km/h
