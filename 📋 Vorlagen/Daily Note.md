@@ -2,12 +2,7 @@
 
 ## Wetter
 
-|                         |                |
-|:----------------------- |:--------------:|
-| | {{AllgWetter}} |
-|             |    {{Temp}}    |
-| 💧 Niederschlag         |   {{Regen}}    |
-| 🌬 Wind                  |    {{Wind}}    |
-🛰 Allgemeine Wetterlage: 
-
-🛰 Allgemeine Wetterlage
+🛰: {{AllgWetter}}
+🌡: {{Temp}}
+💧: 
+🌬: 
