@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅 Noch Einzutragen.md",
+            "file": "📋 Vorlagen/Daily Note Breitbrunn.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📅 Noch Einzutragen.md",
+                "file": "📋 Vorlagen/Daily Note Breitbrunn.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Noch Einzutragen.md",
+                "file": "📋 Vorlagen/Daily Note Breitbrunn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,14 +147,14 @@
     "width": 379
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/📅 Noch Einzutragen.md",
+    "📋 Vorlagen/Daily Note Breitbrunn.md",
     "📋 Vorlagen/Daily Note.md",
+    "✒ Arbeitsplatz/📅 Noch Einzutragen.md",
     "📋 Vorlagen/Person.md",
     "📋 Vorlagen/Untitled.md",
     "📖 Journal/2021-01-01.md",
     "✒ Arbeitsplatz/Untitled 1.md",
     "✒ Arbeitsplatz/Untitled.md",
-    "📋 Vorlagen/Daily Note Breitbrunn.md",
     "📋 Vorlagen/Daily Note 1.md",
     "✒ Arbeitsplatz/2020-12-31.md"
   ]
