@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Untitled.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Untitled 3.md",
+            "mode": "source"
           }
         }
       }
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md",
+                "file": "✒ Arbeitsplatz/Untitled 3.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md",
+                "file": "✒ Arbeitsplatz/Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,10 +146,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Untitled 3.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Untitled 2.md",
     "✒ Arbeitsplatz/Untitled 1.md",
-    "✒ Arbeitsplatz/Untitled 3.md",
     "📋 Vorlagen/Daily Note.md",
     "📋 Vorlagen/Untitled.md",
     "1. Semester.md",
