@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Rotation.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Scientific Paper(insert paper title here).md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md",
+                "file": "✒ Arbeitsplatz/Scientific Paper(insert paper title here).md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md"
+                "file": "✒ Arbeitsplatz/Scientific Paper(insert paper title here).md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md",
+                "file": "✒ Arbeitsplatz/Scientific Paper(insert paper title here).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,10 +153,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Rotation.md",
     "Python/Untitled.md",
     "✒ Arbeitsplatz/Float.md",
-    "✒ Arbeitsplatz/Untitled.md",
     "Python/Datatypes.md",
     "✒ Arbeitsplatz/Integer.md",
     "✒ Arbeitsplatz/Mountainbike.md",
