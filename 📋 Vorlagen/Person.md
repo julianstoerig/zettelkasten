@@ -1,6 +1,4 @@
-[[person]]
-
-[[]]
+[[Person]] [[Kenne durch]] [[]]
 
 ## Eigenschaften / Vorlieben
 
