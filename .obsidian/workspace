@@ -125,6 +125,14 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "2f0eb18cfb21ed8e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
