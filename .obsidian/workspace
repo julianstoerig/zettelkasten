@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 Vorlagen/Zoologie.md",
+            "file": "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Zoologie.md",
+                "file": "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Zoologie.md",
+                "file": "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,8 +147,8 @@
     "width": 379
   },
   "lastOpenFiles": [
-    "📋 Vorlagen/Zoologie.md",
     "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
+    "📋 Vorlagen/Zoologie.md",
     "📋 Vorlagen/Physik.md",
     "📋 Vorlagen/Person.md",
     "📋 Vorlagen/Mikrobiologie.md",
