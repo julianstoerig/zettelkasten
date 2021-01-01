@@ -7,4 +7,5 @@ Gefühltes Wetter: {{allgemeineWetterlageInnsbruck}}
 Temperatur: {{tempInnsbruck}}
 
 Rel. Luftfeuchte: {{humInnsbruck}}
+
 Windgeschwindigkeit: {{windInnsbruck}}

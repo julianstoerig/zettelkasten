@@ -7,5 +7,6 @@ Gefühltes Wetter: ⛅️  -0°C
 
 Temperatur: +2°C
 
-Rel. Luftfeuchte: 55%}}
+Rel. Luftfeuchte: 55%
+
 Windgeschwindigkeit: ↑0km/h
