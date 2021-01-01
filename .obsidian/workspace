@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "085fe0abfcb391a8",
+        "id": "07a4fd76a40d9c64",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Untitled.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -117,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +138,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "1. Semester.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
     "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
@@ -153,7 +147,6 @@
     "Python/Untitled.md",
     "✒ Arbeitsplatz/Float.md",
     "Python/Datatypes.md",
-    "✒ Arbeitsplatz/Integer.md",
-    "✒ Arbeitsplatz/Mountainbike.md"
+    "✒ Arbeitsplatz/Integer.md"
   ]
 }
