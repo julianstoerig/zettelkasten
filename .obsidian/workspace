@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 Vorlagen/Untitled.md",
+            "file": "📋 Vorlagen/Person.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Untitled.md",
+                "file": "📋 Vorlagen/Person.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Untitled.md",
+                "file": "📋 Vorlagen/Person.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
