@@ -2,5 +2,3 @@
 
 {{weatherInnsbruck}}
 {{weatherMunich}}
-
-{{weatherIstanbul}}
