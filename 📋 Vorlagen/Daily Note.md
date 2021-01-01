@@ -1,4 +1,7 @@
 {{tp_daily_quote}}
 
-{{weatherInnsbruck}}
+## Wetter
+
+Innsbruck: {{weatherInnsbruck}}
+
 {{weatherMunich}}
