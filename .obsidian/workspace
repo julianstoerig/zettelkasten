@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 Vorlagen/Daily Note.md",
+            "file": "📖 Journal/2021-01-01.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
+                "file": "📖 Journal/2021-01-01.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
+                "file": "📖 Journal/2021-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +135,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📖 Journal/2021-01-01.md",
     "📋 Vorlagen/Daily Note.md",
     "✒ Arbeitsplatz/Untitled 3.md",
     "✒ Arbeitsplatz/Untitled.md",
@@ -143,7 +144,6 @@
     "📋 Vorlagen/Untitled.md",
     "1. Semester.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
-    "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
-    "📋 Vorlagen/Beispiel.md"
+    "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md"
   ]
 }
