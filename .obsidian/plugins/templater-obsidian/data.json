@@ -1,1 +1,1 @@
-{"command_timeout":5,"template_folder":"📋 Vorlagen","templates_pairs":[["{{weatherInnsbruck}}","curl \"wttr.in/Innsbruck?format=3\""],["weatherMu",""]],"locale":"de"}
+{"command_timeout":5,"template_folder":"📋 Vorlagen","templates_pairs":[["{{weatherInnsbruck}}","curl \"wttr.in/Innsbruck?format=3\""],["{{weatherMunich}}","curl \"wttr.in/Munchen?format=3\""]],"locale":"de"}
