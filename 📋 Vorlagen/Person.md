@@ -5,5 +5,9 @@
 
 
 ## 	Kontakt
-| Art |     |
-| --- | --- |
+| Art      | Adresse |
+| -------- | ------- |
+| E-Mail   |         |
+| Mobil    |         |
+| Festnetz |         |
+| Adresse         |         |
