@@ -1,7 +1,7 @@
-[[Person]] [[Kenne durch]] [[]]
+[[Person]] [[Kenne woher]]
 
 ## Eigenschaften / Vorlieben
 
 
 
-## 
+## 	
