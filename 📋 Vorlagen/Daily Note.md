@@ -3,5 +3,3 @@
 ## Wetter
 
 Innsbruck: {{weatherInnsbruck}}
-
-{{weatherMunich}}
