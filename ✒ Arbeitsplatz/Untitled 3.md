@@ -7,4 +7,4 @@ Gefühltes Wetter: ⛅️  -0°C
 
 Temperatur: +2°C
 
-Windgeschwindigkeit: 
+Windgeschwindigkeit: ↑0km/h
