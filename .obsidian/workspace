@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📖 Journal/2021-01-01.md",
+            "file": "📋 Vorlagen/Daily Note.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📖 Journal/2021-01-01.md",
+                "file": "📋 Vorlagen/Daily Note.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖 Journal/2021-01-01.md",
+                "file": "📋 Vorlagen/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,9 +142,9 @@
     "width": 420.6000061035156
   },
   "lastOpenFiles": [
+    "📋 Vorlagen/Daily Note.md",
     "📖 Journal/2021-01-01.md",
     "✒ Arbeitsplatz/2020-12-31.md",
-    "📋 Vorlagen/Daily Note.md",
     "📖 Journal/2020-12-31.md",
     "Antioxidans.md",
     "✒ Arbeitsplatz/Untitled 3.md",
