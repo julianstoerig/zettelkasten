@@ -1,14 +1,14 @@
-[[2020-12-31]]|[[2021-01-02]]
+[[{{tp_yesterday}}]]|[[{{tp_tomorrow}}]]
 
 ## Wetter
 
-🛰: ⛅️
+🛰: {{AllgWetterBreitbrunn}}
 
-🌡: -1°C
+🌡: {{Temp}}
 
-💧: 0.0mm
+💧: {{Regen}}
 
-🌬: →7km/h
+🌬: {{Wind}}
 
 ## Zu Erledigen
 
