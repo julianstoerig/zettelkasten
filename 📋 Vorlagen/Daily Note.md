@@ -3,3 +3,4 @@
 {{weatherInnsbruck}}
 {{weatherMunich}}
 
+{{weatherIstanbul}}
