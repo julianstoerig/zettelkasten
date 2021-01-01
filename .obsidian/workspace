@@ -7,7 +7,6 @@
         "id": "07a4fd76a40d9c64",
         "type": "leaf",
         "dimension": 44.646680942184155,
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -20,6 +19,7 @@
         "id": "0146062e387b7dcb",
         "type": "leaf",
         "dimension": 55.35331905781584,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -91,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
+                "file": "✒ Arbeitsplatz/Untitled 3.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
+                "file": "✒ Arbeitsplatz/Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,8 +148,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📋 Vorlagen/Daily Note.md",
     "✒ Arbeitsplatz/Untitled 3.md",
+    "📋 Vorlagen/Daily Note.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Untitled 2.md",
     "✒ Arbeitsplatz/Untitled 1.md",
