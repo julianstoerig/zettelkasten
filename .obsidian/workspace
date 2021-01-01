@@ -6,25 +6,12 @@
       {
         "id": "07a4fd76a40d9c64",
         "type": "leaf",
-        "dimension": 44.646680942184155,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "📋 Vorlagen/Daily Note.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "0146062e387b7dcb",
-        "type": "leaf",
-        "dimension": 55.35331905781584,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Untitled 3.md",
-            "mode": "preview"
           }
         }
       }
