@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 Vorlagen/Daily Note.md",
+            "file": "📖 Journal/2020-12-31.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2b953da1e3e5e1da",
+        "id": "1e5ee8c73b3677d9",
         "type": "tabs",
         "children": [
           {
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
+                "file": "📖 Journal/2020-12-31.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,12 +102,20 @@
             }
           },
           {
+            "id": "2f0eb18cfb21ed8e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
             "id": "70a9ce091072f366",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
+                "file": "📖 Journal/2020-12-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,24 +133,16 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "2f0eb18cfb21ed8e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 420.6000061035156,
-    "collapsed": true
+    "width": 420.6000061035156
   },
   "lastOpenFiles": [
+    "📖 Journal/2020-12-31.md",
     "📋 Vorlagen/Daily Note.md",
     "📖 Journal/2021-01-01.md",
     "✒ Arbeitsplatz/Untitled 3.md",
@@ -151,7 +151,6 @@
     "✒ Arbeitsplatz/Untitled 1.md",
     "📋 Vorlagen/Untitled.md",
     "1. Semester.md",
-    "✒ Arbeitsplatz/Translation (Physik).md",
-    "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md"
+    "✒ Arbeitsplatz/Translation (Physik).md"
   ]
 }
