@@ -37,3 +37,12 @@ Spezielles Thema: [[]]
 
 
 ## Signifikanz (in Relation zum Feld und eigener Arbeit)
+
+
+
+
+## Wichtige Figuren und Tabellen
+
+
+
+## Im Paper zi
