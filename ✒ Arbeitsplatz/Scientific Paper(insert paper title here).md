@@ -1,5 +1,5 @@
-## Metadata
+## Metadaten
 
-Notable Authors: [[]]
+Nennenswerte Authoren: [[]]
 Year published: #
-Citation (APA)
+Citation (APA): (insert Zotero reference)
