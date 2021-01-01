@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "065d9d2dbee4b3b5",
+        "id": "f937349aeedfc3ca",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,6 +68,7 @@
       {
         "id": "12005cb28b674cbf",
         "type": "tabs",
+        "dimension": 39.82035928143712,
         "children": [
           {
             "id": "507982df27520917",
@@ -78,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,6 +103,7 @@
       {
         "id": "1e5ee8c73b3677d9",
         "type": "tabs",
+        "dimension": 60.17964071856288,
         "children": [
           {
             "id": "2f0eb18cfb21ed8e",
@@ -121,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379
+    "width": 250
   },
   "lastOpenFiles": [
     "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
