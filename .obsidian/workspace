@@ -6,12 +6,23 @@
       {
         "id": "07a4fd76a40d9c64",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "📋 Vorlagen/Daily Note.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0146062e387b7dcb",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Untitled.md",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +146,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📋 Vorlagen/Daily Note.md",
-    "✒ Arbeitsplatz/Untitled 1.md",
     "✒ Arbeitsplatz/Untitled.md",
+    "✒ Arbeitsplatz/Untitled 2.md",
+    "✒ Arbeitsplatz/Untitled 1.md",
+    "✒ Arbeitsplatz/Untitled 3.md",
+    "📋 Vorlagen/Daily Note.md",
     "📋 Vorlagen/Untitled.md",
     "1. Semester.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
     "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
-    "📋 Vorlagen/Beispiel.md",
-    "✒ Arbeitsplatz/Rotation.md",
-    "Python/Untitled.md"
+    "📋 Vorlagen/Beispiel.md"
   ]
 }
