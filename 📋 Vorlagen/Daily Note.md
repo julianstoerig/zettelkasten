@@ -2,7 +2,7 @@
 
 ## Wetter
 
-{{AllgWetter}}
+🛰{{AllgWetter}}
 
 🌡: {{Temp}}
 
