@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "📅 Noch Einzutragen.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1e5ee8c73b3677d9",
+        "id": "12005cb28b674cbf",
         "type": "tabs",
         "children": [
           {
@@ -100,7 +100,13 @@
                 }
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1e5ee8c73b3677d9",
+        "type": "tabs",
+        "children": [
           {
             "id": "2f0eb18cfb21ed8e",
             "type": "leaf",
@@ -134,12 +140,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 420.6000061035156
+    "width": 379
   },
   "lastOpenFiles": [
     "✒ Arbeitsplatz/📅 Noch Einzutragen.md",
