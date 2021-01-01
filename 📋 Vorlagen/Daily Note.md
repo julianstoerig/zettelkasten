@@ -2,4 +2,6 @@
 
 ## Wetter
 
-Innsbruck: {{allgemeineWetterlageInnsbruck}}
+allgemeine Wetterlages: {{allgemeineWetterlageInnsbruck}}
+
+tatsächliche Temperatur

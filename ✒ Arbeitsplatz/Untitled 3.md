@@ -3,4 +3,6 @@
 
 ## Wetter
 
-Innsbruck: ⛅️  -0°C
+allgemeine Wetterlages: ⛅️  -0°C
+
+tatsächliche Temperatur
