@@ -5,3 +5,5 @@
 Gefühltes Wetter: {{allgemeineWetterlageInnsbruck}}
 
 Temperatur: {{tempInnsbruck}}
+
+Windgeschwindigkeit: {{windInnsbruck}}
