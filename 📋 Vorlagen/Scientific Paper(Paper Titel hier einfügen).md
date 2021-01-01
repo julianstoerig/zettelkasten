@@ -6,7 +6,7 @@
 
 Nennenswerte Authoren: [[]]
 
-Year published: #
+Year published: [[]]
 
 Citation (APA): (insert Zotero reference)
 
