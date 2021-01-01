@@ -4,8 +4,8 @@
 
 {{AllgWetter}}
 
-{{Temp}}
+🌡{{Temp}}
 
-{{Regen}}
+💧: {{Regen}}
 
-{{Wind}}
+🌬: {{Wind}}
