@@ -1,4 +1,4 @@
-[[{{yesterday}}]]|[[{{tomorrow}}]]
+[[{{tp_yesterday}}]]|[[{{tp_tomorrow}}]]
 
 ## Wetter
 
