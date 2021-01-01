@@ -1,3 +1,5 @@
+[[{{yesterday}}]]|[[{{tomorrow}}]]
+
 ## Wetter
 
 🛰: {{AllgWetter}}
