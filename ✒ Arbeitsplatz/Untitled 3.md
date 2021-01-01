@@ -4,3 +4,4 @@
 Innsbruck: ⛅️  +2°C
 London: 🌫  +3°C
 
+{{weatherIstanbul}}
