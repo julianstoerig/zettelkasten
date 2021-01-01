@@ -1,3 +1,5 @@
 ## Metadata
 
-Notable Auth
+Notable Authors: [[]]
+Year published: #
+Citation (APA)
