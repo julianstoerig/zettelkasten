@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Translation (Physik).md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
+                "file": "✒ Arbeitsplatz/Translation (Physik).md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
+                "file": "✒ Arbeitsplatz/Translation (Physik).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +150,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Translation (Physik).md",
+    "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Größen und Einheiten.md",
     "✒ Arbeitsplatz/Beschleunigung.md",
     "✒ Arbeitsplatz/Geschwindigkeit.md",
@@ -157,8 +159,6 @@
     "✒ Arbeitsplatz/SI-System.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
-    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
-    "✒ Arbeitsplatz/Newtonsche Axiome.md",
-    "✒ Arbeitsplatz/Freier Fall.md"
+    "✒ Arbeitsplatz/Kräftegleichgewicht.md"
   ]
 }
