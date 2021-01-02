@@ -6,3 +6,5 @@ Im **Kräftegleichgewicht** heben sich alle Kräfte $F_1-F_n$ auf einen Körper 
 $$
 \vec{F}_r=0 = \sum\limits_{i}^{n} \vec{F}_n
 $$
+
+Daraus folgt, dass alle Körper auf die keine Kraft ausgeübt wird, sich im **Kräftegleichgewicht** 
