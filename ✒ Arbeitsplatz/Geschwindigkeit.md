@@ -7,7 +7,7 @@ $$
 Sie lässt sich durch einen Vektor $\vec{v}$ beschreiben, dessen Richtung die Bewegungsrichtung eines Körpers darstellt.
 
 Seine Länge beschreibt die [[✒ Arbeitsplatz/Geschwindigkeit|Geschwindigkeit]] des Körpers.
-Diese setzt sich aus de
+Diese setzt sich aus den Teilbewegungen für jede Dimension eines $n$-dimensionalen Vektorraumes zusammen. Dabei sind Werte von $n
 
 $$
 |\vec{v}| = \left|
