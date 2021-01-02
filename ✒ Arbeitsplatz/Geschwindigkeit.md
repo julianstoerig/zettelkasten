@@ -6,7 +6,7 @@ $$
 
 Sie lässt sich durch einen Vektor $\vec{v}$ beschreiben, dessen Richtung die Bewegungsrichtung eines Körpers darstellt.
 
-essen Länge die [[✒ Arbeitsplatz/Geschwindigkeit|Geschwindigkeit]] eines Körpers beschreibt.
+Seine Länge beschreibt die [[✒ Arbeitsplatz/Geschwindigkeit|Geschwindigkeit]] des Körpers.
 
 $$
 |\vec{v}| = \left|
@@ -14,6 +14,7 @@ $$
 v_1 \cr
 v_2 \cr
 v_3 \cr
+...
 \end{pmatrix}\right|
 = \sqrt{v_1^2 + v_2^2 + v_3^2}
 $$
