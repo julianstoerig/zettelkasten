@@ -2,7 +2,7 @@ Isaac Newton stellte drei **Axiome**/**Gesetze** zur Wirkweise von**Kräften** a
 
 ## erstes Axiom
 
-Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstanter [[Geschwindigkeit]]. Sein Bewegungsvektor $\vec{v}$ ist also konstant
+Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstanter [[Geschwindigkeit]]. Sein Bewegungsvektor $\vec{v}$ ist also konstant.
 ## zweites Axiom
 
 ## drittes Axiom
