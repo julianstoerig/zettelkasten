@@ -2,7 +2,7 @@ Der **Freie Fall** ist im Vakuum eine [[✒ Arbeitsplatz/Bewegung mit konstanter
 
 Auch kurze Zeiträume ohne Bodenkontakt, wie z.B. ein Sprung, lassen sich als **freier Fall**
  beschreiben.
-Im Vakuum (oder unter Vernachlässigung des [[Luftwiderstand|Luftwiderstands]]) lässt er sich wie folgt beschreiben.
+Im Vakuum (oder unter Vernachlässigung des [[Luftwiderstand|Luftwiderstands]]) lässt er sich wie folgt beschreiben:
 
 Nimmt man einen konstanten Wert für die Beschleunigung durch Gravitation an, so ist dies auf der Erde meist $g = 9.81 \mathrm{\frac{m}{s^2}}$.
 

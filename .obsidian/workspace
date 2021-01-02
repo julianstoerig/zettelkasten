@@ -4,14 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "46071a9bc3da645c",
+        "id": "93a976ec79cf8226",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Newtonsche Axiome.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c974684d8431df05",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Freier Fall.md",
-            "mode": "source"
+            "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Freier Fall.md",
+                "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Freier Fall.md",
+                "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +161,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+    "✒ Arbeitsplatz/Untitled 1.md",
     "✒ Arbeitsplatz/Freier Fall.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
@@ -157,8 +170,6 @@
     "📅 Noch Einzutragen.md",
     "✒ Arbeitsplatz/Beschleunigung.md",
     "✒ Arbeitsplatz/SI-System.md",
-    "📖 Logbuch/2021-01-01.md",
-    "📖 Logbuch/2021-01-02.md",
-    "📋 Vorlagen/Daily Note Breitbrunn.md"
+    "📖 Logbuch/2021-01-01.md"
   ]
 }
