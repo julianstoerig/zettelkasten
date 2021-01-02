@@ -19,7 +19,7 @@ Treten Integrale von Integralen auf, so wird das äußerste Integral in normaler
 
 Dies gilt allerdings nur für die Integralsymbole, der Rest der Symbole, auch innerhalb der inneren Integrale, bleibt weiterhin `\normalsize`. Um dies zu erreichen wird ein `\ normalsize` Tag nach dem Integralsymbol eingefügt
 
-Beispiel [[✒ Arbeitsplatz/Kräftegleichgewicht|Kräftegleichgewicht]]:
+Beispiel [[Kräftegleichgewicht|Kräftegleichgewicht]]:
 
 ```MathJax
 \int \left( \small \int \normalsize a(t) \mathrm{d}t \right) \mathrm{d}t

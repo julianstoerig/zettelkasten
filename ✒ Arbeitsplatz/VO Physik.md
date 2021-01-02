@@ -22,7 +22,7 @@ Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Z
 - [[✒ Arbeitsplatz/Translation (Physik).md]]
 - [[✒ Arbeitsplatz/Rotation.md]]
 	- [[✒ Arbeitsplatz/Winkelgeschwindigkeit.md]]
-	- [[✒ Arbeitsplatz/Bahngeschwindigkeit.md]]
+	- [[Bahngeschwindigkeit]]
 
 #### Beschleunigte Bewegungen
 - [[✒ Arbeitsplatz/Beschleunigung]]
@@ -30,7 +30,7 @@ Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Z
 
 ### Kräfte
 
-- [[✒ Arbeitsplatz/Kräftegleichgewicht.md]]
+- [[Kräftegleichgewicht]]
 
 #### Newton'sche Axiome
 
