@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Beschleunigung.md",
+            "file": "✒ Arbeitsplatz/Geschwindigkeit.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Beschleunigung.md",
+                "file": "✒ Arbeitsplatz/Geschwindigkeit.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Beschleunigung.md",
+                "file": "✒ Arbeitsplatz/Geschwindigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +150,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Geschwindigkeit.md",
+    "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
     "✒ Arbeitsplatz/Beschleunigung.md",
     "✒ Arbeitsplatz/VO Physik.md",
     "📖 Logbuch/2021-01-02.md",
     "📅 Noch Einzutragen.md",
-    "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
     "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
     "📋 Vorlagen/Zoologie.md",
     "📋 Vorlagen/Physik.md",
-    "📋 Vorlagen/Person.md",
-    "📋 Vorlagen/Mikrobiologie.md"
+    "📋 Vorlagen/Person.md"
   ]
 }
