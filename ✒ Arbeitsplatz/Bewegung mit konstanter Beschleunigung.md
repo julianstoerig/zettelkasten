@@ -19,5 +19,5 @@ x(t) = \int v(t) \mathrm{d}t =  \int \left(\small \int \normalsize a(t) \mathrm{
 a t^2
 $$
 
---- 
+---
 Grundsätzlich modellieren wir diese so, dass für den [[Ort]] $x$ zu Beginn der Bewegung gilt, dass $x(0) = 0$ ist. Außerdem beginnen wir unsere Betrachtung mit dem Beginn der Bewegung, weshalb auch für die [[✒ Arbeitsplatz/Geschwindigkeit]]|Geschwindigkeit]] $v$ zu Beobachtungsbeginn gilt, $v(0) = 0$.
