@@ -17,7 +17,7 @@ Treten Integrale von Integralen auf, so wird das äußerste Integral in normaler
 
 `\tiny` (4. Integral und folgende)
 
-Dies gilt allerdings nur für die Integralsymbole, der Rest der Symbole, auch innerhalb der inneren Integrale, bleibt weiterhin `\normalsize`. Um dies zu erreichen wird ein ``
+Dies gilt allerdings nur für die Integralsymbole, der Rest der Symbole, auch innerhalb der inneren Integrale, bleibt weiterhin `\normalsize`. Um dies zu erreichen wird ein `\ normalsize` Tag nach dem Integralsymbol eingefügt
 
 Beispiel [[✒ Arbeitsplatz/Kräftegleichgewicht|Kräftegleichgewicht]]:
 
@@ -25,3 +25,7 @@ Beispiel [[✒ Arbeitsplatz/Kräftegleichgewicht|Kräftegleichgewicht]]:
 \int \left( \small \int \normalsize a(t) \mathrm{d}t \right) \mathrm{d}t
 ```
 
+produziert:
+$$
+\int \left(\small \int \normalsize a(t) \mathrm{d}t \right) \mathrm{d}t
+$$
