@@ -8,5 +8,5 @@ Sie lässt sich durch einen Vektor $\vec{v}$ beschreiben, dessen Richtung die Be
 
 $$
 |\vec{v}| = |
-
+\begin
 $$
