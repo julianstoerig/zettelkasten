@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f937349aeedfc3ca",
+        "id": "7550494a70b7b5e0",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📖 Logbuch/2021-01-02.md",
-            "mode": "source"
+            "file": "✒ Arbeitsplatz/VO Physik.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📖 Logbuch/2021-01-02.md",
+                "file": "✒ Arbeitsplatz/VO Physik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖 Logbuch/2021-01-02.md",
+                "file": "✒ Arbeitsplatz/VO Physik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
     "width": 280
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/VO Physik.md",
     "📖 Logbuch/2021-01-02.md",
     "📅 Noch Einzutragen.md",
     "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
@@ -157,7 +158,6 @@
     "📋 Vorlagen/Physik.md",
     "📋 Vorlagen/Person.md",
     "📋 Vorlagen/Mikrobiologie.md",
-    "📋 Vorlagen/Daily Note Breitbrunn.md",
-    "📋 Vorlagen/Daily Note.md"
+    "📋 Vorlagen/Daily Note Breitbrunn.md"
   ]
 }
