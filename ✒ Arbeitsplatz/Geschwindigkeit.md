@@ -10,7 +10,7 @@ $$
 
 Sie lässt sich durch einen Vektor $\vec{v}$ beschreiben, dessen Richtung die Bewegungsrichtung eines Körpers darstellt.
 
-Seine Länge beschreibt die **Geschwindigkeit** des Körpers. Diese setzt sich aus den Teilgeschwindigkeiten für jede Dimension eines $n$-dimensionalen ($n) Vektorraumes zusammen. Dabei sind Werte von $n = {1,2,3}$ typisch, da wir normalerweise Bewegungen in unserer Welt, also in einer bis drei Dimensionen betrachten.
+Seine Länge beschreibt die **Geschwindigkeit** des Körpers. Diese setzt sich aus den Teilgeschwindigkeiten für jede Dimension eines $n$-dimensionalen ($n \in \mathbb N$) Vektorraumes zusammen. Dabei sind Werte von $n = {1,2,3}$ typisch, da wir normalerweise Bewegungen in unserer Welt, also in einer bis drei Dimensionen betrachten.
 
 $$
 |\vec{v}| = \left|
