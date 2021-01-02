@@ -1,0 +1,1 @@
+Bei **gleichmäßig beschleunigten Bewegungen** ist die Beschleunigung $

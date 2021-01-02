@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅 Noch Einzutragen.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Gleichmäßig beschleunigte Bewegung.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📅 Noch Einzutragen.md",
+                "file": "✒ Arbeitsplatz/Gleichmäßig beschleunigte Bewegung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Noch Einzutragen.md",
+                "file": "✒ Arbeitsplatz/Gleichmäßig beschleunigte Bewegung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +150,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📅 Noch Einzutragen.md",
+    "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Beschleunigung.md",
+    "📅 Noch Einzutragen.md",
     "✒ Arbeitsplatz/SI-System.md",
     "📖 Logbuch/2021-01-01.md",
     "📖 Logbuch/2021-01-02.md",
     "📋 Vorlagen/Daily Note Breitbrunn.md",
     "📋 Vorlagen/Daily Note.md",
     "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
-    "📋 Vorlagen/Mikrobiologie.md",
-    "✒ Arbeitsplatz/Geschwindigkeit.md"
+    "📋 Vorlagen/Mikrobiologie.md"
   ]
 }
