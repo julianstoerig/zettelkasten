@@ -19,5 +19,5 @@ $$
 Seine Beschleunigung $a$ mit [[Luftwiderstand|atmosphärischem Widerstand]] lässt sich mit Hilfe des Luftwiderstandsbeiwert $c_W$ auch beschreiben.
 
 $$
-a_freier Fall = g - c_W\cdot A_{fallender Körper} \cdot (v(t))
+a_{freier Fall} = g - c_W \cdot A_{fallender Körper} \cdot v(t)^2
 $$
