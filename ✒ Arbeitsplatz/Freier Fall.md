@@ -13,11 +13,11 @@ $$
 Die Geschwindigkeit dabei ist
 
 $$
-v(t) = gt = \sqrt[]{2 g \Delta x}
+v(t) = gt = \sqrt[2]{2 g \Delta x}
 $$
 
-Seine Beschleunigung mit [[Luftwiderstand|atmosphärischem Widerstand]] lässt sich auch beschreiben.
+Seine Beschleunigung $a$ mit [[Luftwiderstand|atmosphärischem Widerstand]] lässt sich mit Hilfe des Luftwiderstandskoeffizienten auch beschreiben.
 
 $$
-a_{freier Fall} = g - c_w \cdot v(t)
+a = g - c_w \cdot v(t)
 $$
