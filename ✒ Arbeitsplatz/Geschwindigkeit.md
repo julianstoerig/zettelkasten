@@ -4,7 +4,9 @@ $$
 v = \frac{\Delta s}{\Delta t}
 $$
 
-Sie lässt sich durch einen Vektor $\vec{v}$ beschreiben, dessen Richtung die Bewegungsrichtung eines Körpers und dessen Länge die [[✒ Arbeitsplatz/Geschwindigkeit|Geschwindigkeit]] eines Körpers beschreibt.
+Sie lässt sich durch einen Vektor $\vec{v}$ beschreiben, dessen Richtung die Bewegungsrichtung eines Körpers darstellt.
+
+essen Länge die [[✒ Arbeitsplatz/Geschwindigkeit|Geschwindigkeit]] eines Körpers beschreibt.
 
 $$
 |\vec{v}| = \left|
