@@ -2,4 +2,8 @@ Der **Freie Fall** ist im Vakuum eine [[✒ Arbeitsplatz/Bewegung mit konstanter
 
 
 
-Seine Beschleunigung in der Erdatmosphäre lässt sich dudort ist $a = g - c_w v(t)$.
+Seine Beschleunigung in der Erdatmosphäre lässt sich auch beschreiben.
+
+$$
+a_{frei} = g - c_w \cdot v(t)
+$$
