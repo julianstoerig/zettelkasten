@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📖 Logbuch/2021-01-02.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -68,7 +71,7 @@
       {
         "id": "12005cb28b674cbf",
         "type": "tabs",
-        "dimension": 45.808383233532936,
+        "dimension": 45.80838323353293,
         "children": [
           {
             "id": "507982df27520917",
@@ -76,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📖 Logbuch/2021-01-02.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -103,7 +107,7 @@
       {
         "id": "1e5ee8c73b3677d9",
         "type": "tabs",
-        "dimension": 54.191616766467064,
+        "dimension": 54.19161676646707,
         "children": [
           {
             "id": "2f0eb18cfb21ed8e",
@@ -119,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📖 Logbuch/2021-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +149,15 @@
     "width": 280
   },
   "lastOpenFiles": [
+    "📖 Logbuch/2021-01-02.md",
+    "📅 Noch Einzutragen.md",
+    "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
     "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
     "📋 Vorlagen/Zoologie.md",
     "📋 Vorlagen/Physik.md",
     "📋 Vorlagen/Person.md",
     "📋 Vorlagen/Mikrobiologie.md",
     "📋 Vorlagen/Daily Note Breitbrunn.md",
-    "📋 Vorlagen/Daily Note.md",
-    "📋 Vorlagen/Chemie.md",
-    "📋 Vorlagen/Botanik.md",
-    "📋 Vorlagen/Beispiel.md"
+    "📋 Vorlagen/Daily Note.md"
   ]
 }
