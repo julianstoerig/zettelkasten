@@ -19,3 +19,5 @@ Treten Integrale von Integralen auf, so wird das äußerste Integral in normaler
 
 Dies gilt allerdings nur für die Integralsymbole, der Rest der Symbole, auch innerhalb der inneren Integrale, bleibt weiterhin `\normalsize`.
 
+Beispiel [[✒ Arbeitsplatz/Kräftegleichgewicht|Kräftegleichgewic]]
+
