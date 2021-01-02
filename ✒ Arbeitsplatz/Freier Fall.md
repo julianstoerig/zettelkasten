@@ -22,3 +22,5 @@ Seine Beschleunigung $a$ mit [[Luftwiderstand|atmosphärischem Widerstand]] läs
 $$
 a_{freier~Fall} = g - c_W \cdot A_{fallender~Körper} \cdot v(t)^2
 $$
+
+Das Maximum dieser Funktion beschreibt die Maximalgeschwindigkeit $v_{max**Terminalgeschwindigkeit** des fallenden Körpers.
