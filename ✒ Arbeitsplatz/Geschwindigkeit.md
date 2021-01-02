@@ -8,5 +8,9 @@ Sie lässt sich durch einen Vektor $\vec{v}$ beschreiben, dessen Richtung die Be
 
 $$
 |\vec{v}| = |
-\begin
+\begin{pmatrix}
+a_1
+a_2
+a_3
+\end{pmatrix}|
 $$
