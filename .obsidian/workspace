@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+            "file": "✒ Arbeitsplatz/Newtonsche Axiome.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+                "file": "✒ Arbeitsplatz/Newtonsche Axiome.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Kräftegleichgewicht.md",
+                "file": "✒ Arbeitsplatz/Newtonsche Axiome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +150,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
+    "✒ Arbeitsplatz/Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/Geschwindigkeit.md",
     "✒ Arbeitsplatz/Bewegung.md",
     "✒ Arbeitsplatz/Isaac Newton.md",

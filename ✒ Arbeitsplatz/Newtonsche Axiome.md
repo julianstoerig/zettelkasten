@@ -2,7 +2,7 @@ Isaac Newton stellte drei **Axiome**/**Gesetze** zur Wirkweise von**Kräften** a
 
 ## erstes Axiom: Trägheitssatz
 
-Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstanter [[Geschwindigkeit]]. **Sein Bewegungsvektor $\vec{v}$ ist** also **konstant**.
+Ist ein Körper kräftefrei, oder befindet er sich im [[✒ Arbeitsplatz/Kräftegleichgewicht|Kräftegleichgewicht]], so bleibt er in Ruhe oder bewegt sich geradlinig mit konstanter [[Geschwindigkeit]]. **Sein Bewegungsvektor $\vec{v}$ ist** also **konstant**.
 
 Das auf einen Körper eine Kraft ausgeübt werden muss, um seinen Bewegungszustand zu ändern, bezeichnet man als **Trägheit der Masse**.
 
