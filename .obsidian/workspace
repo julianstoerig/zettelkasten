@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5ea79aa2bb001820",
+        "id": "1b617e82086d5e8d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 Vorlagen/Daily Note.md",
+            "file": "✒ Arbeitsplatz/Beschleunigung.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
+                "file": "✒ Arbeitsplatz/Beschleunigung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
+                "file": "✒ Arbeitsplatz/Beschleunigung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,12 +150,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📋 Vorlagen/Daily Note.md",
-    "📖 Logbuch/2021-01-02.md",
-    "📖 Logbuch/2021-01-01.md",
-    "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
     "✒ Arbeitsplatz/Beschleunigung.md",
+    "📖 Logbuch/2021-01-01.md",
+    "📖 Logbuch/2021-01-02.md",
     "📋 Vorlagen/Daily Note Breitbrunn.md",
+    "📋 Vorlagen/Daily Note.md",
+    "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
     "📋 Vorlagen/Mikrobiologie.md",
     "✒ Arbeitsplatz/Geschwindigkeit.md",
     "📋 Vorlagen/Beispiel.md",

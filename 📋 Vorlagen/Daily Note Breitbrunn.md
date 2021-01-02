@@ -12,7 +12,7 @@
 
 🌬: {{WindBreitbrunn}}
 
-## Zu Erledigen
+## Aktivitäts-Log
 
 - [ ] Für 2 Stunden arbeiten
 - [ ] Für 2 Stunden arbeiten
