@@ -1,1 +1,0 @@
-**Bewegungen mit konstanter Beschleunigung**

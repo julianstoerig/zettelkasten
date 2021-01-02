@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
+            "file": "✒ Arbeitsplatz/Gleichmäßig beschleunigte Bewegung.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
+                "file": "✒ Arbeitsplatz/Gleichmäßig beschleunigte Bewegung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
+                "file": "✒ Arbeitsplatz/Gleichmäßig beschleunigte Bewegung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +150,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Gleichmäßig beschleunigte Bewegung.md",
+    "✒ Arbeitsplatz/Untitled.md",
     "📅 Noch Einzutragen.md",
     "✒ Arbeitsplatz/Beschleunigung.md",
     "✒ Arbeitsplatz/SI-System.md",
