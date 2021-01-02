@@ -1,0 +1,1 @@
+**Beschleunigung** ist die Änderung der Geschwindigkeit pro Zeit.

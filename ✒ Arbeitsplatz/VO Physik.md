@@ -25,7 +25,7 @@ Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Z
 	- [[✒ Arbeitsplatz/Bahngeschwindigkeit.md]]
 
 #### Beschleunigte Bewegungen
-	- [[✒ Arbeitsplatz/]]
+- [[✒ Arbeitsplatz/Beschleunigung]]
 #### Freier Fall
 
 ### Kräfte
