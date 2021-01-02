@@ -1,1 +1,5 @@
-Der **Freie Fall** ist im Vakuum eine [[✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung|gleichmäßig beschleunigte Bewegung]]. In der Erdatmosphäre ist er hingegen durch [[Luftwiderstand|Luftwiderstand]] verändert. Seine Beschleunigung dort ist $a = $.
+Der **Freie Fall** ist im Vakuum eine [[✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung|gleichmäßig beschleunigte Bewegung]]. In der Erdatmosphäre ist er hingegen durch [[Luftwiderstand|Luftwiderstand]] verändert.
+
+
+
+Seine Beschleunigung in der Erdatmosphäre lässt sich dudort ist $a = g - c_w v(t)$.
