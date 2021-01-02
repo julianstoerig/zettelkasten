@@ -1,1 +1,1 @@
-Isaac Newton stellte drei **Axiome**/**Gesetze** zur Wirkweise von [[Kraft|Kräften]] auf.
+Isaac Newton stellte drei **Axiome**/**Gesetze** zur Wirkweise von**Kräften** auf.
