@@ -6,7 +6,7 @@ Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstan
 
 ## zweites Axiom
 
-Die Formel zur Berechnung einer Kraft $\vec{F}$ lautet **$\vec{F} = m \cdot \vec{a}$**. Kräfte werden als Vektoren dargestellt.
+Kräfte werden als Vektoren dargestellt. Die Formel zur Berechnung einer Kraft $\vec{F}$ lautet **$\vec{F} = m \cdot \vec{a}$**.
 
 ## drittes Axiom
 
