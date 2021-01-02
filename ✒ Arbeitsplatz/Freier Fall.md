@@ -1,1 +1,1 @@
-Der **Freie Fall** ist im Vakuum eine [[✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung|gleichmäßig beschleunigte Bewegung]]
+Der **Freie Fall** ist im Vakuum eine [[✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung|gleichmäßig beschleunigte Bewegung]]. In der Erdatmosphäre ist er hingegen durch [[|Luftwiderstand]]
