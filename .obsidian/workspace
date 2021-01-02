@@ -10,18 +10,18 @@
           {
             "id": "1b617e82086d5e8d",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
+                "file": "✒ Arbeitsplatz/Freier Fall.md",
                 "mode": "preview"
               }
             }
           },
           {
-            "id": "40f2d1c6dbcf556e",
+            "id": "1499e9066bc7e794",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "neovis",
               "state": {}
@@ -94,7 +94,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -138,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +163,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
     "✒ Arbeitsplatz/Freier Fall.md",
+    "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
     "✒ Arbeitsplatz/Gleichmäßig beschleunigte Bewegung.md",
     "✒ Arbeitsplatz/Untitled.md",
     "📅 Noch Einzutragen.md",
