@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1b617e82086d5e8d",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Freier Fall.md",
-            "mode": "preview"
+        "id": "ef4d37be385ae657",
+        "type": "split",
+        "children": [
+          {
+            "id": "1b617e82086d5e8d",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "40f2d1c6dbcf556e",
+            "type": "leaf",
+            "state": {
+              "type": "neovis",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -79,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Freier Fall.md",
+                "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Freier Fall.md",
+                "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +165,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
     "✒ Arbeitsplatz/Freier Fall.md",
     "✒ Arbeitsplatz/Gleichmäßig beschleunigte Bewegung.md",
     "✒ Arbeitsplatz/Untitled.md",
@@ -158,7 +174,6 @@
     "✒ Arbeitsplatz/SI-System.md",
     "📖 Logbuch/2021-01-01.md",
     "📖 Logbuch/2021-01-02.md",
-    "📋 Vorlagen/Daily Note Breitbrunn.md",
-    "📋 Vorlagen/Daily Note.md"
+    "📋 Vorlagen/Daily Note Breitbrunn.md"
   ]
 }
