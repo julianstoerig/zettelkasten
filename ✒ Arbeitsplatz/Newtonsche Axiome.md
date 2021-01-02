@@ -4,6 +4,8 @@ Isaac Newton stellte drei **Axiome**/**Gesetze** zur Wirkweise von**Kräften** a
 
 Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstanter [[Geschwindigkeit]]. **Sein Bewegungsvektor $\vec{v}$ ist** also **konstant**.
 
+Das auf einen Körper eine Kraft ausgeübt werden muss, um seinen Bewegungszustand zu ändern, bezeichnet man als **Trägheit der Masse**
+
 ## zweites Axiom: 
 
 Kräfte werden als Vektoren dargestellt. Die Formel zur Berechnung einer Kraft $\vec{F}$ lautet **$\vec{F} = m \cdot \vec{a}$**.
