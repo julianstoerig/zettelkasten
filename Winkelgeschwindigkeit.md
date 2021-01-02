@@ -2,7 +2,7 @@
 
 ---
 
-Die **Winkelgeschwindigkeit**/**$\omega$** beschreibt welchen Drehwinkel $\varphi$ der Radiusvektor $\vec{r}$ in der Zeit $\Delta t$ überstreicht.
+Die **Winkelgeschwindigkeit $\omega$** beschreibt welchen Drehwinkel $\varphi$ der Radiusvektor $\vec{r}$ in der Zeit $\Delta t$ überstreicht.[^1]
 
 $$
 \omega = \frac{\Delta \varphi}{\Delta t} = \varphi'(t)
@@ -20,3 +20,5 @@ Auch über die **Umlaufzeit**/**Periode $T$** lässt sie sich definieren.
 $$
 \omega = \frac{2\pi}{T}
 $$
+
+[^1] = 

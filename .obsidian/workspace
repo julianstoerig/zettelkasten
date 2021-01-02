@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
+            "file": "Winkelgeschwindigkeit.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
+                "file": "Winkelgeschwindigkeit.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
+                "file": "Winkelgeschwindigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +150,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Winkelgeschwindigkeit.md",
+    "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
     "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
     "✒ Arbeitsplatz/Translation (Physik).md",
     "✒ Arbeitsplatz/Untitled.md",
@@ -157,8 +159,6 @@
     "✒ Arbeitsplatz/Beschleunigung.md",
     "✒ Arbeitsplatz/Geschwindigkeit.md",
     "✒ Arbeitsplatz/VO Physik.md",
-    "✒ Arbeitsplatz/SI-System.md",
-    "✒ Arbeitsplatz/Rotation.md",
-    "✒ Arbeitsplatz/Bahngeschwindigkeit.md"
+    "✒ Arbeitsplatz/SI-System.md"
   ]
 }

@@ -21,7 +21,7 @@ Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Z
 - [[✒ Arbeitsplatz/Kräftefreie Bewegung.md]]
 - [[Translation (Physik)]]
 - [[✒ Arbeitsplatz/Rotation.md]]
-	- [[✒ Arbeitsplatz/Winkelgeschwindigkeit.md]]
+	- [[Winkelgeschwindigkeit]]
 	- [[Bahngeschwindigkeit]]
 
 #### Beschleunigte Bewegungen
