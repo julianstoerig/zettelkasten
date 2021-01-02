@@ -2,7 +2,7 @@
 
 ---
 
-Im **Kräftegleichgewicht** heben sich alle Kräfte $F_1-F_n$ auf einen Körper gegenseitig auf: Die resultierende Kraft ist $\vec{F}_r=\vec{0}$.
+Im **Kräftegleichgewicht** heben sich alle Kräfte $F_1-F_n$ auf einen Körper gegenseitig auf: Die resultierende Kraft ist $\vec{F}_r=0$.
 $$
-\vec{F}_r=\vec{0} = \sum\limits_{i}^{n} \vec{F}_n
+\vec{F}_r=0 = \sum\limits_{i}^{n} \vec{F}_n
 $$
