@@ -10,6 +10,12 @@ $$
 \Delta x = \frac{1}{2} g t^2
 $$
 
+Die Geschwindigkeit dabei ist
+
+$$
+v(t) = gt = \root{^1}_{2}
+$$
+
 Seine Beschleunigung mit [[Luftwiderstand|atmosphärischem Widerstand]] lässt sich auch beschreiben.
 
 $$
