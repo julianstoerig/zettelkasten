@@ -4,5 +4,8 @@ $$
 a = \frac{\Delta v}{\Delta t}
 $$
 
-Sie ist also auch die 1. Ableitung der Geschwindigkeit.
+Sie ist also auch die 1. Ableitung der Geschwindigkeit und daher auch die 2. Ableitung 
 
+$$
+a = v'
+$$
