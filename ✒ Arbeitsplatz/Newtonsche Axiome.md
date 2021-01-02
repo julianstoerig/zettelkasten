@@ -6,5 +6,11 @@ Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstan
 
 ## zweites Axiom
 
-Die Formel zur Berechnung einer Kraft 
+Die Formel zur Berechnung einer Kraft $F$ lautet
+
+$$
+F = m \cdot a
+$$
+
 ## drittes Axiom
+
