@@ -2,7 +2,7 @@
 
 ---
 
-Die **Beschleunigung $a$** ist die Änderung der [[✒ Arbeitsplatz/Geschwindigkeit|Geschwindigkeit]] $v$ pro Zeit $t$.
+Die **Beschleunigung $a$** ist die Änderung der [[✒ Arbeitsplatz/Geschwindigkeit|Geschwindigkeit]] $v$ pro [[✒ Arbeitsplatz/SI-System|Zeit]] $t$.
 
 $$
 a = \frac{\Delta v}{\Delta t}
