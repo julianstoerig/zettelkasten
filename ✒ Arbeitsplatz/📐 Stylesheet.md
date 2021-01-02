@@ -17,5 +17,5 @@ Treten Integrale von Integralen auf, so wird das äußerste Integral in normaler
 
 `\tiny` (4. Integral und folgende)
 
-Dies gilt allerdings nur für die Integralsymbole, der Rest der Symboleauch inn
+Dies gilt allerdings nur für die Integralsymbole, der Rest der Symbole, auch innerhalb der inneren Integrale, bleibt weiterhin `\normalsize`.
 
