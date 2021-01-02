@@ -22,7 +22,7 @@ Das **PSE** ist in 7 *Perioden* von Oben nach unten eingeteilt., dabei steht jed
 
 Es ist in 18 *Gruppen* geteilt, von denen die wichtigsten hier genannt sind.
 
-An der Struktur des **PSE** lässt sich auch erkennen, bei der [[📂Zettelstapel/Elektronenkonfiguration]] welcher [[chemisches Element|Elemente]], welche [[📂Zettelstapel/Mikrobiologie/Orbitale]] zur Ionisierung gefüllt bzw. geleert werden müssen:
+An der Struktur des **PSE** lässt sich auch erkennen, bei der [[📂Zettelstapel/Elektronenkonfiguration]] welcher [[chemisches Element|Elemente]], welche [[📂Zettelstapel/Orbitale]] zur Ionisierung gefüllt bzw. geleert werden müssen:
 
 | Gruppen                                                     | Orbitale                  |
 | ----------------------------------------------------------- | ------------------------- |
