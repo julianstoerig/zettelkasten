@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7550494a70b7b5e0",
+        "id": "5ea79aa2bb001820",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Beschleunigung.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -79,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Beschleunigung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Beschleunigung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
