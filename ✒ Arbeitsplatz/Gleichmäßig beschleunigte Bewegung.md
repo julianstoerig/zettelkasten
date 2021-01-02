@@ -1,4 +1,7 @@
 Bei **gleichmäßig beschleunigten Bewegungen** ist die [[✒ Arbeitsplatz/Beschleunigung|Beschleunigung]] konstant.
 
 $$
-a = \frac{\Delta v}{\Delta t}
+a = \frac{\Delta v}{\Delta t} = konst.
+$$
+
+Die [[✒ Arbeitsplatz/Geschwindigkeit|Geschwindigkeit]]
