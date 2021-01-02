@@ -1,4 +1,4 @@
-[[Physik]] [[VO Physik]] [[1. Semester]]
+[[Physik]] [[VO Physik]] [[1. Semester]] [[📖 Logbuch/2021-01-01]]
 
 ---
 
