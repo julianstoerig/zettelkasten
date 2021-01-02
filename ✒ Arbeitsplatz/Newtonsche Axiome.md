@@ -8,7 +8,7 @@ Isaac Newton stellte drei **Axiome**/**Gesetze** zur Wirkweise von**Kräften** a
 
 Ist ein Körper kräftefrei, oder befindet er sich im [[✒ Arbeitsplatz/Kräftegleichgewicht|Kräftegleichgewicht]], so bleibt er in Ruhe oder bewegt sich geradlinig mit konstanter [[Geschwindigkeit]]. **Sein Bewegungsvektor $\vec{v}$ ist** also **konstant**.
 
-Das auf einen Körper eine Kraft ausgeübt werden muss, um seinen Bewegungszustand zu ändern, bezeichnet man als **Trägheit der Masse**.
+Einen Körper für den dies gilt, bezeichnet man auch als **Inertialsystem**, eine 
 
 ## zweites Axiom: Die Berechnung einer Kraft
 
