@@ -1,4 +1,4 @@
-[[Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
+[[📂Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
 
 ---
 

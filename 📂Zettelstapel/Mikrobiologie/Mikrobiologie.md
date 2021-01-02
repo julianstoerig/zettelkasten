@@ -1,4 +1,4 @@
-[[Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
+[[📂Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
 
 ---
 
@@ -8,8 +8,8 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 	- Mikrobiologie:: Der Teil der Biologie, der sich mit Mikroorganismen beschäftigt
 	- Mikroorganismien vs Makroorganismen:
 		- ![](https://remnote-user-data.s3.amazonaws.com/7Su3_KvL1i67BtJRkAZaTHw5HejTYVeFKm-Xa_OQEjBqvjbqXjUYOtOdu35AAt-oqPC9B6JSDh18ez35WxRL2bw_PhfQc_8QfQA3i7SVMjkUmOm3z_RCx3vFkph-x44X)
-		- [[📂Unfertiges/Mikrobiologie/Mikroorganismus]]
-- [[📂Unfertiges/Mikrobiologie/Virus]]
+		- [[📂Zettelstapel/Mikrobiologie/Mikroorganismus]]
+- [[📂Zettelstapel/Mikrobiologie/Virus]]
 	- 
 - Prokaryoten
 	- Bakterien
@@ -60,7 +60,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 					- Protonenmotorische Kraft: ATP Synthese
 			- Struktur
 				- ![](https://remnote-user-data.s3.amazonaws.com/k1yWWNT8eHI3OXA3oPSZgjhxTEd6A9oMcKSjJXK7rsUq2nqyfCBxvnHNGW94Zr39utYkU0eE2ljyE0FCqxIPWjlFzyYfuDh-FNSz2m0p_8hesdHSVqXJstLkhY8WX4dr)  ![](https://remnote-user-data.s3.amazonaws.com/BKIeTteXlBGKm8V24mHLRxNGBjoFfaMp4dsWg1ertf57-VYoSCf3M4zq56r6QM13lNhmHSISRVcxs_FdQ27ltbCELW6GLpnhtRGl7FSa87DDTya8DfjTpjD0VtsghaE8)  
-				- [📂Unfertiges/Mikrobiologie/Phospholipid](%F0%9F%93%82Unfertiges/Mikrobiologie/Phospholipid.md)-Doppelschicht (Bilayer) mit eingelagerten Molekülen:
+				- [📂Zettelstapel/Mikrobiologie/Phospholipid](%F0%9F%93%82Zettelstapel/Mikrobiologie/Phospholipid.md)-Doppelschicht (Bilayer) mit eingelagerten Molekülen:
 				- Membranproteinen:
 					- integrale Membranproteine: 
 						- durchdringen die Membran komplett
@@ -96,7 +96,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 						- Gramnegative [Bakterien](Bakterien.md): bis zu 5
 						- Grampositive [Bakterien](Bakterien.md): bis zu 40
 				- Spaltung der 1,4-β-glykosydischen Bindung durch:
-					- Lysierung der Zelle$$ \rightarrow $$ Zelle plat[📂Unfertiges/Mikrobiologie/Protoplasten](%F0%9F%93%82Unfertiges/Mikrobiologie/Protoplasten.md)toplasten](Protoplasten.md)
+					- Lysierung der Zelle$$ \rightarrow $$ Zelle plat[📂Zettelstapel/Mikrobiologie/Protoplasten](%F0%9F%93%82Zettelstapel/Mikrobiologie/Protoplasten.md)toplasten](Protoplasten.md)
 		- Oberflächenstruktur
 			- Kapseln, Schleime:
 				- ![](http://www.heynkes.de/biologie/Bilder/Average_prokaryote_cell496x404.svg)  
@@ -127,7 +127,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- Pili
 					- ![](https://www.quia.com/files/quia/users/lmcgee/Bacteria/9AP_ch27/conjugation.gif)  
 					- länger als [Fimbrien](Biologie-Bachelor/Mikrobiologie/Prokaryoten/Bakterien/Oberflächenstruktur/Fimbrien,-Pili:/Fimbrien.md) (bis zu $$ 1\[📂Unfertiges/Mikrobiologie/Konjugation](%F0%9F%93%82Unfertiges/Mikrobiologie/Konjugation.md)$ 1 $$ bis$$ 2 $$ pro Zelle
-					- [📂Unfertiges/Mikrobiologie/Konjugation](%F0%9F%93%82Unfertiges/Mikrobiologie/Konjugation.md): Herstellung Zell-Zell-Kontakte
+					- [📂Zettelstapel/Mikrobiologie/Konjugation](%F0%9F%93%82Zettelstapel/Mikrobiologie/Konjugation.md): Herstellung Zell-Zell-Kontakte
 		- Unterschiede zwischen gram+ und gram- [Bakterien](Bakterien.md)
 			- Gram+
 				- ![](https://remnote-user-data.s3.amazonaws.com/mMSg4ksBK17zBUo1P4OO0yloF2_lYP27HTNpO3W2V-PpYotJsl7sq1M3WhiTPfdANzYl5k_6-g9pXm8C6nycR26c4vdLBHDfq8GA7D2Z8yVbbyI4hRVoixBefuH2VFy9)  
@@ -141,18 +141,18 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 					- Lipopolysaccharide (Endotoxine)
 					- Proteine
 					- Lipoproteine
-				- [Porine](Porine.md)
-				- [Periplasma](Periplasma.md)
+				- [📂Zettelstapel/Mikrobiologie/Porine](%F0%9F%93%82Zettelstapel/Mikrobiologie/Porine.md)
+				- [📂Zettelstapel/Mikrobiologie/Periplasma](%F0%9F%93%82Zettelstapel/Mikrobiologie/Periplasma.md)
 		- Zelleinschlüsse
 			- Energiereserven bei [Bakterien](Bakterien.md), [Archaea](Archaea.md):
 				- [📂Unfertiges/Polymere](%F0%9F%93%82Unfertiges/Polymere.md)  als Kohlenstoff-Speicher (C-Speicher):
 					- bei C-Überschuss werden [📂Unfertiges/Polymere](%F0%9F%93%82Unfertiges/Polymere.md) synthetisiert & für die Energiegewinnung u. Biosynthesen genutzt, z. B. Poly-β-hydroxybuttersäure (PHB), Polyhydroxyalkanoat (PHA)&  Glykogen
 				- Polyphosphate:
-					- werden bei Phosphatüberschuss synthetisiert & sind Phospha[📂Unfertiges/Mikrobiologie/Magnetosomen](%F0%9F%93%82Unfertiges/Mikrobiologie/Magnetosomen.md)für Pospholipidbiosynthesen
-			- [📂Unfertiges/Mikrobiologie/Magnetosomen](%F0%9F%93%82Unfertiges/Mikrobiologie/Magnetosomen.md):
+					- werden bei Phosphatüberschuss synthetisiert & sind Phospha[📂Zettelstapel/Mikrobiologie/Magnetosomen](%F0%9F%93%82Zettelstapel/Mikrobiologie/Magnetosomen.md)für Pospholipidbiosynthesen
+			- [📂Zettelstapel/Mikrobiologie/Magnetosomen](%F0%9F%93%82Zettelstapel/Mikrobiologie/Magnetosomen.md):
 				- Funktion: Bewegung abwärts zu Sedimentschichten mit geringerer $$ O_2 $$-Konzentration
 				- vor allem bei aquatischen MO (Bsp.:  __Magnetospirillum magnetotactium__ )
-			- [📂Unfertiges/Mikrobiologie/Bakteriengeißeln](%F0%9F%93%82Unfertiges/Mikrobiologie/Bakteriengei%C3%9Feln.md)
+			- [📂Zettelstapel/Mikrobiologie/Bakteriengeißeln](%F0%9F%93%82Zettelstapel/Mikrobiologie/Bakteriengei%C3%9Feln.md)
 		- Ökologische Bedeutung der Beweglichkeit von Zellen:
 			- ermöglicht Kontakt mit anderen Zellen
 			- rasche & dichte Besiedelung der Umgebung
@@ -163,7 +163,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- Osmotaxis:: Bewegung als Reaktion auf hohe Ionenstärke
 				- Hydrotaxis:: Bewegung als Reaktion auf Wasser
 		- Zelldifferenzierung (spezielle Formen von Zellen):
-			- [Endosporen](Endosporen.md) als Dauerform gram+ Bakterien
+			- [📂Zettelstapel/Mikrobiologie/Endosporen](%F0%9F%93%82Zettelstapel/Mikrobiologie/Endosporen.md) als Dauerform gram+ Bakterien
 			- [📂Unfertiges/Heterocysten](%F0%9F%93%82Unfertiges/Heterocysten.md) als Dauerform von Cyanobakterien
 		- Nährstoffaufnahme:
 			- ![](https://remnote-user-data.s3.amazonaws.com/jjUMlFdGacsRkaZU4dKiOTU7phSYBSdauZoTOF_HH-0WC6gDrHokZsUj-m1tTUHgvOgr6sP8CqZfeMuHC8N7i8aAWFA_b3Fm23AFf5yOVcAYDgqCPdRbYpA7zASiCqSR)  
@@ -270,11 +270,11 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 				- Phasen der Besiedlung:
 					- 
 				- Ausgewählte Vertreter: 
-	[Legionella pneumoniae](%F0%9F%93%82Unfertiges/Mikrobiologie/Legionella-pneumoniae.md)es/Legionella-pneumoniae.md)
-						- [Helicobacter pylori](%F0%9F%93%82Unfertiges/Mikrobiologie/Helicobacter-pylori.md) __ __ 
+	[Legionella pneumoniae](%F0%9F%93%82Zettelstapel/Mikrobiologie/Legionella-pneumoniae.md)es/Legionella-pneumoniae.md)
+						- [Helicobacter pylori](%F0%9F%93%82Zettelstapel/Mikrobiologie/Helicobacter-pylori.md) __ __ 
 				- Gram-positiv: ____ 
-					- [📂Unfertiges/Mikrobiologie/Bacillus anthracis](%F0%9F%93%82Unfertiges/Mikrobiologie/Bacillus%20anthracis.md)
-					- Gattung __ __ [📂Unfertiges/Mikrobiologie/Clostridium](%F0%9F%93%82Unfertiges/Mikrobiologie/Clostridium.md)
+					- [📂Zettelstapel/Mikrobiologie/Bacillus anthracis](%F0%9F%93%82Zettelstapel/Mikrobiologie/Bacillus%20anthracis.md)
+					- Gattung __ __ [📂Zettelstapel/Mikrobiologie/Clostridium](%F0%9F%93%82Zettelstapel/Mikrobiologie/Clostridium.md)
 					- Antibiotikaresistenz
 						- Mikrobielle Antibiotikabildung in der Natur
 							- als Abwehrmechanismus
@@ -346,7 +346,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 			- Geißeln
 				- Bewegung durch** Rotation**
 				- dünner als bakterielle Geißeln
-				- keine Verwandts[📂Unfertiges/Mikrobiologie/Bakteriengeißeln](%F0%9F%93%82Unfertiges/Mikrobiologie/Bakteriengei%C3%9Feln.md) anderer Geißelmotor als [Bakteriengeißeln](Bakteriengeißeln.md) (protonenmotorische Kraft): Energie kommt direkt von [ATP](ATP.md)
+				- keine Verwandts[📂Zettelstapel/Mikrobiologie/Bakteriengeißeln](%F0%9F%93%82Zettelstapel/Mikrobiologie/Bakteriengei%C3%9Feln.md) anderer Geißelmotor als [📂Zettelstapel/Mikrobiologie/Bakteriengeißeln](%F0%9F%93%82Zettelstapel/Mikrobiologie/Bakteriengei%C3%9Feln.md) (protonenmotorische Kraft): Energie kommt direkt von [ATP](ATP.md)
 		- Viren der Archaea
 			- DNA-Viren (meist ds DNA)
 			- enorme Diversität
@@ -519,10 +519,10 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 					- Bildung von Aflatoxinen u.a. Pilzgiften
 			- Saprotroph (saprophytisch):: Abbau von totem organischen Material
 			- Symbiontisch:
-				- [📂Unfertiges/Mikrobiologie/Flechten](%F0%9F%93%82Unfertiges/Mikrobiologie/Flechten.md)
+				- [📂Zettelstapel/Mikrobiologie/Flechten](%F0%9F%93%82Zettelstapel/Mikrobiologie/Flechten.md)
 				- [📂Unfertiges/Mykorrhiza](%F0%9F%93%82Unfertiges/Mykorrhiza.md) __ 
 			- Parasitär
-				- z.B.: [Nemathophage Pilze](Nemathophage-Pilze.md)
+				- z.B.: [Nemathophage Pilze](%F0%9F%93%82Zettelstapel/Mikrobiologie/Nemathophage-Pilze.md)
 		- Pathogene Pilze
 			- Phytopatogene Pilze
 				- große Wirtschaftliche Bedeutung: $$ 15\%-25\% $$ Ertragsverlust
@@ -545,7 +545,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 					- Überwinterung der Pflanze
 					- Überdauerndes Mycel: auf Pflanzenrückständen im Boden (Fußkrankheiten des Getreides)
 					- Sporen in und an Saat- und Pflanzgut (Getreidesteinbrand)
-					- [Sklerotien](Sklerotien.md) (z. B. Mutterkorn)
+					- [📂Zettelstapel/Mikrobiologie/Sklerotien](%F0%9F%93%82Zettelstapel/Mikrobiologie/Sklerotien.md) (z. B. Mutterkorn)
 					- Dauersporen (z. B. Kartoffelkrebs)
 				- Symptome:
 					- Äußerlich sichtbar
@@ -556,7 +556,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 						- Ausscheidungen („Honigtau“: Mutterkorn)
 					- Äußerlich nicht sichtbar (= gefährlicher)
 						- Mycel in Gefäßen der Pflanze
-						- [Sklerotien](Sklerotien.md) im Inneren von Stängeln
+						- [📂Zettelstapel/Mikrobiologie/Sklerotien](%F0%9F%93%82Zettelstapel/Mikrobiologie/Sklerotien.md) im Inneren von Stängeln
 						- Physiologische Veränderungen
 				- Bekämpfung:
 					- Resistenzzüchtung

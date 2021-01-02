@@ -6,7 +6,7 @@ Die ***n*+*l*-Regel**/**Mandelung-Regel**/**Klechkowski-Regel**/**Moeller-Regel*
 
 ## Regel
 
-Die [[📂Unfertiges/Orbital|Orbitale]] mit kleinerem [[Hauptquantenzahl n|n]]+[[Nebenquantenzahl l|l]]-Wert werden zuerst befüllt, ist Dieser bei zwei Orbitalen gleich, wird zuerst das mit niedrigerem [[Hauptquantenzahl n|n]]-Wert befüllt. Dies ist der Fall, da dies die Orbitale mit niedrigstem Energieniveau und daher die stabilsten sind.
+Die [[📂Zettelstapel/Orbital|Orbitale]] mit kleinerem [[Hauptquantenzahl n|n]]+[[Nebenquantenzahl l|l]]-Wert werden zuerst befüllt, ist Dieser bei zwei Orbitalen gleich, wird zuerst das mit niedrigerem [[Hauptquantenzahl n|n]]-Wert befüllt. Dies ist der Fall, da dies die Orbitale mit niedrigstem Energieniveau und daher die stabilsten sind.
 
 ![[Orbitale von 1s bis 6d nach Energieniveau.png]]
 

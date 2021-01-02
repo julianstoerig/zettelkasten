@@ -5,7 +5,7 @@
 Die **magnetische [[Quantenzahlen|Quantenzahl]] m
 ** beschreibt das Orbital eines Elektrons.
 
-| m                | [[📂Unfertiges/Orbital]]                    |
+| m                | [[📂Zettelstapel/Orbital]]                    |
 | ---------------- | ------------------------------ |
 | $0$                | ein [[s-Orbital]]              |
 | $-1,0,1$           | drei [[p-Orbital\|p-Orbitale]] |

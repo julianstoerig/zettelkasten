@@ -1,4 +1,4 @@
-[[Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
+[[📂Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
 
 ---
 
@@ -28,4 +28,4 @@
 						- Humanpathogene Bakterien:
 							- Ausgewählte Vertreter: 
 								- Gram-negativ:
-									- [Legionella pneumoniae](%F0%9F%93%82Unfertiges/Mikrobiologie/Legionella-pneumoniae.md)
+									- [Legionella pneumoniae](%F0%9F%93%82Zettelstapel/Mikrobiologie/Legionella-pneumoniae.md)

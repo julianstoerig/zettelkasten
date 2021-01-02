@@ -1,4 +1,4 @@
-[[Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
+[[📂Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
 
 ---
 
@@ -35,4 +35,4 @@
 						- Humanpathogene Bakterien:
 							- Ausgewählte Vertreter: 
 								- Gram-negativ:
-									- [Helicobacter pylori](%F0%9F%93%82Unfertiges/Mikrobiologie/Helicobacter-pylori.md) __ __ 
+									- [Helicobacter pylori](%F0%9F%93%82Zettelstapel/Mikrobiologie/Helicobacter-pylori.md) __ __ 

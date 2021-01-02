@@ -1,9 +1,9 @@
-[[Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
+[[📂Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
 
 ---
 
-**Symmetrien** bezeichnen bei Viren die verschiedenen Strukturen der Kapside. Dabei unterscheidet man zwischen [[📂Unfertiges/Mikrobiologie/einfache Symmetrie|einfach symmetrischen]] und [[komplexe Symmetrie|komplex symmetrischen]] Kapsiden.
-- [[📂Unfertiges/Mikrobiologie/einfache Symmetrie]]
+**Symmetrien** bezeichnen bei Viren die verschiedenen Strukturen der Kapside. Dabei unterscheidet man zwischen [[📂Zettelstapel/Mikrobiologie/einfache Symmetrie|einfach symmetrischen]] und [[komplexe Symmetrie|komplex symmetrischen]] Kapsiden.
+- [[📂Zettelstapel/Mikrobiologie/einfache Symmetrie]]
 - Komplexe Symmetrie
 	- ist eine Virusstruktur regelmäßig, jedoch weder ikosaedrisch noch helikal, bezeichnet man sie als komplex symmetrisch
 	- Bspw.: T4-Phagen

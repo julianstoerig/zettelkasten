@@ -1,4 +1,4 @@
-[[Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
+[[📂Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
 
 ---
 
@@ -36,8 +36,8 @@
 			- Prokaryoten
 				- Bakterien
 					- Zelleinschlüsse
-						- [Bakteriengeißeln](Bakteriengeißeln.md)
+						- [📂Zettelstapel/Mikrobiologie/Bakteriengeißeln](%F0%9F%93%82Zettelstapel/Mikrobiologie/Bakteriengei%C3%9Feln.md)
 				- Archaea
 					- Bewegung
 						- Geißeln
-							- anderer Geißelmotor als [Bakteriengeißeln](Bakteriengeißeln.md) (protonenmotorische Kraft): Energie kommt direkt von [ATP](ATP.md)
+							- anderer Geißelmotor als [📂Zettelstapel/Mikrobiologie/Bakteriengeißeln](%F0%9F%93%82Zettelstapel/Mikrobiologie/Bakteriengei%C3%9Feln.md) (protonenmotorische Kraft): Energie kommt direkt von [ATP](ATP.md)

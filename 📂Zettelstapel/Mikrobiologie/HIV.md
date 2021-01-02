@@ -1,4 +1,4 @@
-[[Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
+[[📂Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
 
 ---
 
@@ -8,13 +8,13 @@
 - Überwindung der Artengrenze: Übertragung Affe$$\rightarrow $$Mensch
 - Derzeit keine Heilung, nur Bekämpfung der Symptome
 - Probleme**:**  
-	- hohe Mutationsrate des Virus aufgrund der hohen Fehlerrate von RT([Reverse Transkriptase](%F0%9F%93%82Unfertiges/Mikrobiologie/Reverse%20Transkriptase.md))
+	- hohe Mutationsrate des Virus aufgrund der hohen Fehlerrate von RT([Reverse Transkriptase](%F0%9F%93%82Zettelstapel/Mikrobiologie/Reverse%20Transkriptase.md))
 	- Komplexe Replikation ermöglicht dem Virus eine gute Tarnung in der Zelle
 - Struktur
-	- NS besteht aus zwei (+)ssRNA Strängen, welche jeweils über eine RT([Reverse Transkriptase](%F0%9F%93%82Unfertiges/Mikrobiologie/Reverse%20Transkriptase.md))
+	- NS besteht aus zwei (+)ssRNA Strängen, welche jeweils über eine RT([Reverse Transkriptase](%F0%9F%93%82Zettelstapel/Mikrobiologie/Reverse%20Transkriptase.md))
 	- Kapsid mit Hülle und Spikes
 - Replikation
-	- HIV-Virus bind[📂Unfertiges/Mikrobiologie/T-Lymphozyten](%F0%9F%93%82Unfertiges/Mikrobiologie/T-Lymphozyten.md)zyten](T-Lymphozyten.md)
+	- HIV-Virus bind[📂Zettelstapel/Mikrobiologie/T-Lymphozyten](%F0%9F%93%82Zettelstapel/Mikrobiologie/T-Lymphozyten.md)zyten](T-Lymphozyten.md)
 	- Fusion der Virushülle mit Zellmembran der Wirtszelle $$ \rightarrow $$Freisetzung der viralen NS
 	- Reverse Transkription der beiden (+)ssRNA Stränge zu dsDNA
 	- Integration der dsDNA in Wirtsgenom
@@ -33,6 +33,6 @@
 			- CART:: **c**ombined **a**ntiretroviral **t**herapy
 			- Chemotherapeutische Wirkstoffe
 		- Wirkweise:
-			- Hemmung der [Reverse Transkriptase](%F0%9F%93%82Unfertiges/Mikrobiologie/Reverse%20Transkriptase.md)  stoppt virale NS-Synthese  
+			- Hemmung der [Reverse Transkriptase](%F0%9F%93%82Zettelstapel/Mikrobiologie/Reverse%20Transkriptase.md)  stoppt virale NS-Synthese  
 			- Hemmung der Protease: verhindert Bildung neuer Viruspartikel
 			- Fusionshemmer: Fusion von Virus und Zelle wird verhindert

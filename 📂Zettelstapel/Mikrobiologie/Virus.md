@@ -1,18 +1,18 @@
-[[Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
+[[📂Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
 
 ---
 
-**Viren** sind infektiöse organische Partikel, die sich als [[📂Unfertiges/Mikrobiologie/Virion|Virionen]] extrazellulär verbreiten, sich aber als obligate Zellparasiten vermehren. Sie unterscheiden sich von echten [[📂Unfertiges/Mikrobiologie/Mikroorganismus|Mikroorganismen]] und [[Organismus|Organismen (Leben)]] allgemein dadurch, dass sie weder über eine zelluläre Organisation, noch eigenen [[Metabolismus]] verfügen.
+**Viren** sind infektiöse organische Partikel, die sich als [[📂Zettelstapel/Mikrobiologie/Virion|Virionen]] extrazellulär verbreiten, sich aber als obligate Zellparasiten vermehren. Sie unterscheiden sich von echten [[📂Zettelstapel/Mikrobiologie/Mikroorganismus|Mikroorganismen]] und [[Organismus|Organismen (Leben)]] allgemein dadurch, dass sie weder über eine zelluläre Organisation, noch eigenen [[Metabolismus]] verfügen.
 
 Sie sind zwischen $2,4-20 \cdot 10^{-8}m$  groß. 
 
 Sie verfügen über ein Genom nur aus einer Art von [[Nukleinsäure]] besteht.
 
-Einige wenige **Viren** verfügen außerdem noch über Replikationsproteine, wie z.B. [[📂Unfertiges/Mikrobiologie/HIV|HI-Viren]], an deren DNA-Strängen jeweils ein [[📂Unfertiges/Mikrobiologie/Reverse Transkriptase]] hängt.
+Einige wenige **Viren** verfügen außerdem noch über Replikationsproteine, wie z.B. [[📂Zettelstapel/Mikrobiologie/HIV|HI-Viren]], an deren DNA-Strängen jeweils ein [[📂Zettelstapel/Mikrobiologie/Reverse Transkriptase]] hängt.
 
 Dieses Genom ist vom [[✒ Arbeitsplatz/Kapsid]], einer Struktur aus kleinen regelmäßigen Proteinbausteinen, den [[Kapsomeren]], umgeben. Diese strukturelle Einheit aus Genom und Kapsid nennt man **Nukleokapsid**.
 
-Bei manchen **Viren** ist das **Nukleokapsid** noch zusätzlich von einer [[📂Unfertiges/Mikrobiologie/Virushülle]] umgeben.
+Bei manchen **Viren** ist das **Nukleokapsid** noch zusätzlich von einer [[📂Zettelstapel/Mikrobiologie/Virushülle]] umgeben.
 
  ![](https://remnote-user-data.s3.amazonaws.com/dYW4dXFjlqbRiZ7wy-AvkqvGB4Lm7-v67q5_mTAwsq6J-7KyVeenHy_32MjPwA7dPdWy-kCyJdE8yI1A05kOQ-lPd4LySJd1ul1AP7QOjC4U9Cf5C0nIS6kHPoCYt8ty)
  
@@ -136,7 +136,7 @@ Replikation
 						- Struktur
 							- Fadenförmig
 							- Hülle mit Spikes
-						- Übertrag[📂Unfertiges/Mikrobiologie/Zoonose](%F0%9F%93%82Unfertiges/Mikrobiologie/Zoonose.md)es/Zoonose.md):
+						- Übertrag[📂Zettelstapel/Mikrobiologie/Zoonose](%F0%9F%93%82Zettelstapel/Mikrobiologie/Zoonose.md)es/Zoonose.md):
 								- C  Erkranktes Tier (Primaten) $$ \rightarrow $$ Mensch
 								- Mensch $$ \rightarrow $$ Mensch (Schleimhäute, Körpersekrete)
 								- Kontaminierte Gegenstände, Blut, Verletzungen…
@@ -148,7 +148,7 @@ Replikation
 							- Marburgvirus
 						- Wirkung:
 							- Inkubationszeit: 2-21 Tage
-							- Ebolafieber: [Hämorrhagisches Fieber](%F0%9F%93%82Unfertiges/Mikrobiologie/H%C3%A4morrhagisches-Fieber.md)
+							- Ebolafieber: [Hämorrhagisches Fieber](%F0%9F%93%82Zettelstapel/Mikrobiologie/H%C3%A4morrhagisches-Fieber.md)
 							- Fieber
 					- Flaviviridae:
 						- Genom
@@ -261,7 +261,7 @@ Replikation
 							- Humanes T-Zell Leukämievirus
 							- felines Leukämievirus
 						- Lentiviren: Komplexes Genom
-							- [📂Unfertiges/Mikrobiologie/HIV](%F0%9F%93%82Unfertiges/Mikrobiologie/HIV.md)-1 (HI-Virus in Europa) & 2 (humanes Immunschwächevirus / human immunodefficiency virus)
+							- [📂Zettelstapel/Mikrobiologie/HIV](%F0%9F%93%82Zettelstapel/Mikrobiologie/HIV.md)-1 (HI-Virus in Europa) & 2 (humanes Immunschwächevirus / human immunodefficiency virus)
 							- 
 				- Struktur
 					- in ihren Viruspartikeln ist das Nukleokapsid von einer mit viralen Glykoproteinen durchsetzten Virushülle umschlossen

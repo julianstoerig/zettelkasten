@@ -1,4 +1,4 @@
-[[Mikrobiologie]] [[Zoologie]] [[Botanik]] [[VO Mikrobiologie]] [[VO Zoologie]] [[VO Botanik]] [[1. Semester]]
+[[📋 Vorlagen/Mikrobiologie]] [[Zoologie]] [[Botanik]] [[VO Mikrobiologie]] [[VO Zoologie]] [[VO Botanik]] [[1. Semester]]
 
 ---
 
@@ -54,7 +54,7 @@
                 - Systematik, die die Entstehungsgeschichte der Arten in den Artbegriff miteinbezieht
                 - Apomorphie
                     - in der Phylogenese eines Taxons neu entstandenes Merkmal
-                    - Um Apomorphien von nicht apomorphen Strukturen mit gleicher Funktion (z.B. Flügel bei Fledermäusen und Vögeln, die sich unabhängig voneinander entwickelt haben) zu unterscheiden, verwendet man die sog. [📂Unfertiges/Mikrobiologie/Homologiekriterien](%F0%9F%93%82Unfertiges/Mikrobiologie/Homologiekriterien.md)
+                    - Um Apomorphien von nicht apomorphen Strukturen mit gleicher Funktion (z.B. Flügel bei Fledermäusen und Vögeln, die sich unabhängig voneinander entwickelt haben) zu unterscheiden, verwendet man die sog. [📂Zettelstapel/Mikrobiologie/Homologiekriterien](%F0%9F%93%82Zettelstapel/Mikrobiologie/Homologiekriterien.md)
                     - Autapomorphie:: Bezeichnung im ranghöchsten, sie aufweisenden Taxon
                     - Synapomorphie:: Bezeichnung für eine Apomorphie in den Taxa, die gemeinsam das Taxon mit der Autapomorphie bilden
                     - (Sym-)Plesiomorphie:: auch  __primitives Merkmal__ , Bezeichnung in den Taxa, mindestens zwei Ränge unter dem ranghöchsten die Apomorphie aufweisenden Taxon

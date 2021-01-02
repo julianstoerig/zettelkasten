@@ -1,10 +1,10 @@
-[[Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
+[[📂Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
 
 ---
 
 - gram+
 - Stäbchen
-- bildet [📂Unfertiges/Mikrobiologie/Endosporen](%F0%9F%93%82Unfertiges/Mikrobiologie/Endosporen.md) (hier: eigentliche Krankheitserreger!)
+- bildet [📂Zettelstapel/Mikrobiologie/Endosporen](%F0%9F%93%82Zettelstapel/Mikrobiologie/Endosporen.md) (hier: eigentliche Krankheitserreger!)
 - aerob
 - im Boden
 - Auslöser für Krankheitsbild: Anthratoxin-Komplex (besteht aus drei Proteinen)

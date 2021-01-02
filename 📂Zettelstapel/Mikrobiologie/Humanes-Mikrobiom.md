@@ -1,4 +1,4 @@
-[[Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
+[[📂Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
 
 ---
 
@@ -16,4 +16,4 @@
 				- Bakterien
 					- Pathogene Bakterien:
 						- Humanpathogene Bakterien:
-							- Gesundes [Humanes Mikrobiom](%F0%9F%93%82Unfertiges/Mikrobiologie/Humanes-Mikrobiom.md)
+							- Gesundes [Humanes Mikrobiom](%F0%9F%93%82Zettelstapel/Mikrobiologie/Humanes-Mikrobiom.md)

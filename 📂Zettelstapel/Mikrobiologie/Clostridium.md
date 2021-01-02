@@ -1,4 +1,4 @@
-[[Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
+[[📂Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
 
 ---
 
@@ -18,7 +18,7 @@
 	-  __C. tetani__ 
 		- löst Tetanus (Wundstarrkrampf) aus
 		- gelangt durch tiefe Wunden in Körper $$ \rightarrow $$ Auskeimung von Endosporen im anoxischen Bereich
-		- produziert [📂Unfertiges/Mikrobiologie/Tetanustoxin](%F0%9F%93%82Unfertiges/Mikrobiologie/Tetanustoxin.md)
+		- produziert [📂Zettelstapel/Mikrobiologie/Tetanustoxin](%F0%9F%93%82Zettelstapel/Mikrobiologie/Tetanustoxin.md)
 	-  __C. botulinum__ ::  __:__ 
 		- Nahrungsmittelvergiftung
 		- Biowaffe
@@ -33,4 +33,4 @@
 					- Pathogene Bakterien:
 						- Humanpathogene Bakterien:
 							- Gram-positiv: ____ 
-								- Gattung __ __ [📂Unfertiges/Mikrobiologie/Clostridium](%F0%9F%93%82Unfertiges/Mikrobiologie/Clostridium.md)
+								- Gattung __ __ [📂Zettelstapel/Mikrobiologie/Clostridium](%F0%9F%93%82Zettelstapel/Mikrobiologie/Clostridium.md)

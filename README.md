@@ -6,7 +6,7 @@ Auf dieser Seite veröffentliche ich **meine Aufzeichnungen** von denen die meis
 
 [[Physik]]
 
-[[📂Unfertiges/Mikrobiologie/Mikrobiologie]]
+[[📂Zettelstapel/Mikrobiologie/Mikrobiologie]]
 
 [[Zoologie]]
 
