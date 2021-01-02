@@ -9,4 +9,10 @@ Einheitlichkeit ist besonders für das Verständnis mathematischer, physikalisch
 
 Treten Integrale von Integralen auf, so wird das äußerste Integral in normaler Größe gelassen, die Integralsymbole jedes weiteren Integrals seiner Position entsprechend um jeweils einen Grad verkleinert. Die Reihenfolge der Tags sieht dabei so aus:
 
-`\normalsize`(äußerstes Integral, implizit)$\righar`\small`(1. Integral, ab hier explizit````
+`\normalsize` (äußerstes Integral, implizit)
+
+`\small` (1. Integral, ab hier explizit)
+
+`\Tiny` 
+
+`\tiny`
