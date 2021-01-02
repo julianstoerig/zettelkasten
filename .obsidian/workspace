@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c974684d8431df05",
+        "id": "d0a428b7474d28ef",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Beschleunigung.md",
+            "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Beschleunigung.md",
+                "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Beschleunigung.md",
+                "file": "✒ Arbeitsplatz/Größen und Einheiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +150,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Größen und Einheiten.md",
     "✒ Arbeitsplatz/Beschleunigung.md",
+    "✒ Arbeitsplatz/Geschwindigkeit.md",
+    "✒ Arbeitsplatz/VO Physik.md",
+    "✒ Arbeitsplatz/SI-System.md",
+    "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
     "✒ Arbeitsplatz/Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
-    "✒ Arbeitsplatz/Freier Fall.md",
-    "✒ Arbeitsplatz/Geschwindigkeit.md",
-    "allgemeine und Anorganische Chemie.md",
-    "Antioxidans.md",
-    "ATP.md",
-    "✒ Arbeitsplatz/📐 Stylesheet.md"
+    "✒ Arbeitsplatz/Freier Fall.md"
   ]
 }

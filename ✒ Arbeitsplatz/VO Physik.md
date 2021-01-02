@@ -3,7 +3,7 @@
 ---
 
 - [[✒ Arbeitsplatz/Größen und Einheiten.md]]
-- [[✒ Arbeitsplatz/SI-System.md]]
+- [[SI-System]]
 
 
 ## Eigenschaften von Körpern
@@ -25,7 +25,7 @@ Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Z
 	- [[Bahngeschwindigkeit]]
 
 #### Beschleunigte Bewegungen
-- [[✒ Arbeitsplatz/Beschleunigung]]
+- [[Beschleunigung]]
 #### Freier Fall
 
 ### Kräfte
