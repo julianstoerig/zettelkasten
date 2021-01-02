@@ -10,4 +10,8 @@ $$
 v(t) = a \cdot t
 $$
 
-Der [[|Weg]] wächst quadratisch.
+Der [[Ort|Weg]] wächst quadratisch.
+
+$$
+x(t) = \int v(t) dt
+$$
