@@ -16,3 +16,7 @@ $$
 x(t) = \int v(t) \mathrm{d}t =  \int \left(\int a(t) \mathrm{d}t \right) \mathrm{d}t =\frac{1}{2}
 a t^2
 $$
+
+--- 
+
+Grundsätzlich modellieren wir diese so, das der [[Ort]] zu Beginn der Bewegung, bzw. zum Betrachtungsbeginn
