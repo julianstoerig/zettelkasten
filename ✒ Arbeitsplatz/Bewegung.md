@@ -1,1 +1,0 @@
-**Bewegung** ist die Änderung desr [[Ort|Position]] eines Körpers 
