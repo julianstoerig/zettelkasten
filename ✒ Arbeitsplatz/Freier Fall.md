@@ -4,7 +4,9 @@ Im Vakuum (oder unter Vernachlässigung des [[Luftwiderstand|Luftwiderstands]]) 
 
 Nimmt man einen konstanten Wert für die Beschleunigung durch Gravitation an, so ist dies auf der Erde meist $g = 9.81 \mathrm{\frac{m}{s^2}}$.
 
-Seine Beschleunigung in der Erdatmosphäre lässt sich auch beschreiben.
+Die gefallene Strecke
+
+Seine Beschleunigung mit [[Luftwiderstand|atmosphärischem Widerstand]] lässt sich auch beschreiben.
 
 $$
 a_{freier Fall} = g - c_w \cdot v(t)
