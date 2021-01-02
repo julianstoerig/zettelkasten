@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/VO Physik.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280
+    "width": 280,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "✒ Arbeitsplatz/VO Physik.md",
