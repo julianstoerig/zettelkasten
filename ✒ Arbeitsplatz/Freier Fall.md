@@ -4,7 +4,11 @@ Im Vakuum (oder unter Vernachlässigung des [[Luftwiderstand|Luftwiderstands]]) 
 
 Nimmt man einen konstanten Wert für die Beschleunigung durch Gravitation an, so ist dies auf der Erde meist $g = 9.81 \mathrm{\frac{m}{s^2}}$.
 
-Die gefallene Strecke
+Für die gefallene Strecke $\Delta x$ gilt:
+
+$$
+\Delta x = \frac{1}{2} g t^2
+$$
 
 Seine Beschleunigung mit [[Luftwiderstand|atmosphärischem Widerstand]] lässt sich auch beschreiben.
 
