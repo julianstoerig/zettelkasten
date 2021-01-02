@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Beschleunigung.md",
-            "mode": "preview"
+            "file": "📋 Vorlagen/Daily Note.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Beschleunigung.md",
+                "file": "📋 Vorlagen/Daily Note.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Beschleunigung.md",
+                "file": "📋 Vorlagen/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +150,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📋 Vorlagen/Daily Note.md",
+    "📋 Vorlagen/Daily Note Breitbrunn.md",
     "✒ Arbeitsplatz/Beschleunigung.md",
     "📖 Logbuch/2021-01-02.md",
-    "📋 Vorlagen/Daily Note Breitbrunn.md",
     "✒ Arbeitsplatz/Bahngeschwindigkeit.md",
     "✒ Arbeitsplatz/Geschwindigkeit.md",
     "📋 Vorlagen/Beispiel.md",
     "📋 Vorlagen/Botanik.md",
     "📋 Vorlagen/Chemie.md",
-    "📋 Vorlagen/Person.md",
-    "📋 Vorlagen/Zoologie.md"
+    "📋 Vorlagen/Person.md"
   ]
 }
