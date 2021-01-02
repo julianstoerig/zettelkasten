@@ -4,7 +4,7 @@
 
 **Orbitale** sind Wahrscheinlichkeitsräume für den Aufenthalt von Elektronen um den [[Nuklid|Atomkern]]. Sie treten dabei bei allen Elementen regelmäßig auf und lassen sich grundsätzlich in verschiedene Formen einteilen. Form-unabhängig, passen in jedes dieser Orbitale maximal zwei Elektronen.
 
-Diesen werden die Elektronen in der [[📂Zettelstapel/Elektronenkonfiguration]] zugeordnet.
+Diesen werden die Elektronen in der [[📂Zettelstapel/Allgemeine und Anorganische Chemie/Elektronenkonfiguration]] zugeordnet.
 
 ## einfache Orbitalformen
 
