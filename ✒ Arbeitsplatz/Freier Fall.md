@@ -1,0 +1,1 @@
+Der **Freie Fall** ist im Vakuum eine [[✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung|gleichmäßig beschleunigte Bewegung]]

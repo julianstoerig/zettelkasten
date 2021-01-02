@@ -1,6 +1,6 @@
 Bei **gleichmäßig beschleunigten Bewegungen** ist die [[✒ Arbeitsplatz/Beschleunigung|Beschleunigung]] konstant.
 
-Ein Beispiel ist der [[Freie Fall]] im Vakuum.
+Ein Beispiel ist der [[Freier Fall|Freie Fall]] im Vakuum.
 
 $$
 a(t) = \frac{\Delta v}{\Delta t} = konst.
