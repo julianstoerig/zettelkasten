@@ -1,1 +1,5 @@
-**Beschleunigung** ist die Änderung der Geschwindigkeit pro Zeit.
+Die **Beschleunigung $a$** ist die Änderung der Geschwindigkeit $v$ pro Zeit $t$.
+
+$$
+
+$$
