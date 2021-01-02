@@ -16,8 +16,8 @@ $$
 v(t) = gt = \sqrt[2]{2 g \Delta x}
 $$
 
-Seine Beschleunigung $a$ mit [[Luftwiderstand|atmosphärischem Widerstand]] lässt sich mit Hilfe des Luftwiderstandskoeffizienten auch beschreiben.
+Seine Beschleunigung $a$ mit [[Luftwiderstand|atmosphärischem Widerstand]] lässt sich mit Hilfe des Luftwiderstandsbeiwert $c_W$ auch beschreiben.
 
 $$
-a = g - c_w \cdot v(t)
+a = g - c_W \cdot v(t)
 $$
