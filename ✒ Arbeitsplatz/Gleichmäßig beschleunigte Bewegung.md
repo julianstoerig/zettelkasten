@@ -19,4 +19,4 @@ $$
 
 --- 
 
-Grundsätzlich modellieren wir diese so, das der [[Ort]] zu Beginn der Bewegung gleich $x = 0$ ist. Außerdem beginnen wir unsere Betrachtung mit dem Beginn der Bewegung, weshalb auch die [[✒ Arbeitsplatz/Geschwindigkeit]]|Geschwindigkeit]] $v$ zu Beobachtungsbeginn $
+Grundsätzlich modellieren wir diese so, dass für den [[Ort]] $x$ zu Beginn der Bewegung gilt, dass $x = 0$ ist. Außerdem beginnen wir unsere Betrachtung mit dem Beginn der Bewegung, weshalb auch für die [[✒ Arbeitsplatz/Geschwindigkeit]]|Geschwindigkeit]] $v$ zu Beobachtungsbeginn gilt, $v(0) = 0$.
