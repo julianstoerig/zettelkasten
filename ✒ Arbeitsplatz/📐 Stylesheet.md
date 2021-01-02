@@ -3,4 +3,8 @@ Die Einhaltung dieser sorgt nicht nur für ein einheitliches Aussehen in meiner 
 
 ## MathJax
 
-Einheitlichkeit ist besonders für das Verständnis mathematischer, physikalischer und chemischer G
+Einheitlichkeit ist besonders für das Verständnis mathematischer, physikalischer und chemischer Gleichungen relevant.
+
+### Integrale integrieren
+
+Treten Integrale von Integralen auf
