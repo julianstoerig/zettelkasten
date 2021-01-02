@@ -19,4 +19,4 @@ $$
 
 --- 
 
-Grundsätzlich modellieren wir diese so, das der [[Ort]] zu Beginn der Bewegung, bzw. zum Betrachtungsbeginn
+Grundsätzlich modellieren wir diese so, das der [[Ort]] zu Beginn der Bewegung gleich $x = 0$ ist.
