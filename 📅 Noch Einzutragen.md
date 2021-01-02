@@ -2,6 +2,6 @@ Hier sammle ich Aufgaben, die noch zu erledigen sind, bevor ich sie am morgen ei
 
 ## Noch einzutragen
 
-- [ ] Integrieren wiederholen
-- [ ] Eintrag zur [[Geschwindigkeit]], zum [[Ort]] und zur [[B]] ergänzen
+- [ ] [[Integration|Integrieren]] wiederholen, evtl. Eintrag dazu schreiben
+- [ ] Eintrag zur [[Geschwindigkeit]], zum [[Ort]] und zur [[✒ Arbeitsplatz/Beschleunigung]] im Hinblick auf die [[Integration]] ergänzen
 - [ ] 
