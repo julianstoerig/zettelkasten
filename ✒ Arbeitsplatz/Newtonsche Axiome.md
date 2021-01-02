@@ -2,7 +2,7 @@ Isaac Newton stellte drei **Axiome**/**Gesetze** zur Wirkweise von**Kräften** a
 
 ## erstes Axiom
 
-Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstanter [[Geschwindigkeit]]. Sein Bewegungsvektor $\vec{v}$ ist also konstant.
+Ein kräftefreier Körper bleibt in Ruhe oder bewegt sich geradlinig mit konstanter [[Geschwindigkeit]]. **Sein Bewegungsvektor $\vec{v}$ ist** also **konstant**.
 
 ## zweites Axiom
 
@@ -13,5 +13,5 @@ Die Formel zur Berechnung einer Kraft $\vec{F}$ lautet **$\vec{F} = m \cdot \vec
 **Actio gegengleich Reactio: Kräfte treten immer paarweise auf**, d.h. wenn ein Körper $A$  auf einen Körper $B$ eine Kraft $\vec{F}_{A \rightarrow B}$ ausübt, übt Körper $B$ eine gleich große, der Kraft $\vec{F}_{A \rightarrow B}$ aber entgegengerichtete Kraft auf Körper $A$ aus.
 
 $$
-\vec{F}_{A \rightarrow B}$ = -$\vec{F}_{B \rightarrow A}
+\vec{F}_{A \rightarrow B} = -\vec{F}_{B \rightarrow A}
 $$
