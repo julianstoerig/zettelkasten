@@ -13,7 +13,7 @@ $$
 Die Geschwindigkeit dabei ist
 
 $$
-v(t) = gt = \root{^1}_{2}
+v(t) = gt = \root[]
 $$
 
 Seine Beschleunigung mit [[Luftwiderstand|atmosphärischem Widerstand]] lässt sich auch beschreiben.
