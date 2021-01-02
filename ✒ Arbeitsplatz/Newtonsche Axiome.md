@@ -1,3 +1,7 @@
+[[Physik]] [[VO Physik]] [[1. Semester]] [[2021-01-02]]
+
+---
+
 Isaac Newton stellte drei **Axiome**/**Gesetze** zur Wirkweise von**Kräften** auf, deren Essenz diese ist:
 
 ## erstes Axiom: Trägheitssatz
