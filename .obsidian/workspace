@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Translation (Physik).md",
+            "file": "Translation (Physik).md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Translation (Physik).md",
+                "file": "Translation (Physik).md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Translation (Physik).md",
+                "file": "Translation (Physik).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
