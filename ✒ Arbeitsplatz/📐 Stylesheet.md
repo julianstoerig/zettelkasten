@@ -13,6 +13,9 @@ Treten Integrale von Integralen auf, so wird das äußerste Integral in normaler
 
 `\small` (1. Integral, ab hier explizit)
 
-`\Tiny` 
+`\Tiny` (3. Integral)
 
-`\tiny`
+`\tiny` (4. Integral und folgende)
+
+Dies gilt allerdings nur für die Integralsymbole, der Rest der Symboleauch inn
+
