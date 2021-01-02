@@ -15,7 +15,7 @@ $$
 Der [[Ort|Weg]] wächst quadratisch.
 
 $$
-x(t) = \int v(t) \mathrm{d}t =  \int \left(\int a(t) \mathrm{d}t \right) \mathrm{d}t =\frac{1}{2}
+x(t) = \int v(t) \mathrm{d}t =  \int \left(\small\int a(t) \mathrm{d}t \right) \mathrm{d}t =\frac{1}{2}
 a t^2
 $$
 
