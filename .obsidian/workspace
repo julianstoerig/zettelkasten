@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Freier Fall.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -76,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "✒ Arbeitsplatz/Freier Fall.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -119,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "✒ Arbeitsplatz/Freier Fall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
