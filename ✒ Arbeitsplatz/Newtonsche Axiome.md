@@ -10,4 +10,4 @@ Die Formel zur Berechnung einer Kraft $\vec{F}$ lautet $\vec{F} = m \cdot \vec{a
 
 ## drittes Axiom
 
-**Actio gegengleich Reactio**: Kräfte treten
+**Actio gegengleich Reactio**: Kräfte treten immer paarweise auf, d.h. wenn ein Körper $A$  auf einen Körper $B$ eine Kraft $\vec{F}_{_
