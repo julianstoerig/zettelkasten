@@ -6,11 +6,22 @@
       {
         "id": "6268e9afdf03f494",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Nuklid.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "7324dfce3079be6e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Atom.md",
             "mode": "source"
           }
         }
@@ -79,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nuklid.md",
+                "file": "Atom.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuklid.md",
+                "file": "Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +162,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Atom.md",
     "Nuklid.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
     "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
@@ -159,7 +171,6 @@
     "Ordnungszahl.md",
     "✒ Arbeitsplatz/Superpositionsprinzip.md",
     "✒ Arbeitsplatz/Untitled.md",
-    "Kräftegleichgewicht.md",
-    "✒ Arbeitsplatz/Kräftefreie Bewegung.md"
+    "Kräftegleichgewicht.md"
   ]
 }

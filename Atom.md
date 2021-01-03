@@ -2,7 +2,7 @@
 
 ---
 
-Ein **Atom** ist eine funktionelle Einheit, die die Grundlage für die [[Chemie]] und einen großen Teil der [[Physik]] bildet. Sie besteht aus einem [[Nuklid|Kern]] und einer Hülle, wobei ein Großteil der Masse im aus Protonen und Neutronen bstehenden Kern konzentriert ist, nur $\approx0,5\%$ der Atommasse sind in den den Kern umfliegenden Elektronen lokalisiert.
+Ein **Atom** ist eine funktionelle Einheit, die die Grundlage für die [[Chemie]] und einen großen Teil der [[Physik]] bildet. Sie besteht aus einem [[Nuklid|Kern]] und einer Hülle, wobei fast die Gesamtheit der Masse im aus Protonen und Neutronen bstehenden Kern konzentriert ist, nur $\approx0,5\%$ der Atommasse sind in den den Kern umfliegenden Elektronen lokalisiert.
 
 Abhängig von der Zahl der Protonen im Kern der Atome ([[Ordnungszahl]]) werden sie in Kategorien, sog. [[chemisches Element| Elemente]] eingeteilt.
 
