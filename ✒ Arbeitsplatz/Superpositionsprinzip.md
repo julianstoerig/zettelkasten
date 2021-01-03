@@ -3,3 +3,5 @@ Das **Superpositionsprinzip** besagt, dass sich alle Kräfte $\vec{F}_i$ ($i  = 
 $$
 \vec{F}_r = \sum\limits_{i = 0}^{n} \vec{F}_n
 $$
+
+Wirken z.B. auf einen Körper zwei Kräfte, die Gravitation $F_G$ und eine Sprungkraft $F_S$, so lassen 
