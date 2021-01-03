@@ -1,6 +1,16 @@
 Dieses **Stylesheet** beinhaltet die Richtlinien für Formatierung innerhalb meines Zettelkastens.
 Die Einhaltung dieser sorgt nicht nur für ein einheitliches Aussehen in meiner Webpräsenz, sondern erhöht auch meine Arbeitsgeschwindigkeit, da eine Vielzahl der Entscheidungen zum Stil eines jeden Dokumentes schon im Vorhinein feststehen.
 
+## Zettel
+
+### Titel
+
+Der Titel jedes Zettels steht im Titel(Dateinamen), nicht im Zettel selbst
+
+### Überschriften
+
+Überschriften in Zetteln beginnen mit `##`, Unterüberschriften füge nfür jede Ebene ein weiteres Nummernzeichen `#` hinzu.
+
 ## MathJax
 
 Einheitlichkeit ist besonders für das Verständnis mathematischer, physikalischer und chemischer Gleichungen relevant.

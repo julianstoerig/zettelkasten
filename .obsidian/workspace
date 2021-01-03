@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Winkelgeschwindigkeit.md",
-            "mode": "source"
+            "file": "📖 Logbuch/2021-01-02.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Winkelgeschwindigkeit.md",
+                "file": "📖 Logbuch/2021-01-02.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winkelgeschwindigkeit.md",
+                "file": "📖 Logbuch/2021-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +150,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Winkelgeschwindigkeit.md",
+    "📖 Logbuch/2021-01-02.md",
+    "📐 Stylesheet.md",
+    "📖 Logbuch/2021-01-01.md",
+    "✒ Arbeitsplatz/Rotation.md",
+    "📅 Noch Einzutragen.md",
+    "✒ Arbeitsplatz/Freier Fall.md",
+    "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
     "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
-    "✒ Arbeitsplatz/Winkelgeschwindigkeit.md",
-    "✒ Arbeitsplatz/Translation (Physik).md",
-    "✒ Arbeitsplatz/Untitled.md",
-    "✒ Arbeitsplatz/Größen und Einheiten.md",
-    "✒ Arbeitsplatz/Beschleunigung.md",
-    "✒ Arbeitsplatz/Geschwindigkeit.md",
-    "✒ Arbeitsplatz/VO Physik.md",
-    "✒ Arbeitsplatz/SI-System.md"
+    "Winkelgeschwindigkeit.md",
+    "✒ Arbeitsplatz/Winkelgeschwindigkeit.md"
   ]
 }
