@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gleichge",
+                "query": "Kern",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -55,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -119,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +150,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
+    "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbitale.md",
+    "📂Zettelstapel/Mikrobiologie/Virus.md",
+    "Ordnungszahl.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
     "✒ Arbeitsplatz/Superpositionsprinzip.md",
     "✒ Arbeitsplatz/Untitled.md",
     "Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
-    "1. Semester.md",
-    "SI-System.md",
-    "✒ Arbeitsplatz/Integration.md",
-    "📋 Vorlagen/Mathematik.md",
-    "Geschwindigkeit.md"
+    "1. Semester.md"
   ]
 }
