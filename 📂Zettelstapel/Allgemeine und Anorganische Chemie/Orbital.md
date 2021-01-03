@@ -8,13 +8,13 @@ Diesen werden die Elektronen in der [[📂Zettelstapel/Allgemeine und Anorganisc
 
 ## einfache Orbitalformen
 
->Legende:
->
-> x,y,z: Raumdimensionen
-> 
-> orange: positiver Teil der Wellenfunktion
-> 
-> blau: negativer Teil der Wellenfunktion
+### Legende
+
+x,y,z: Raumdimensionen
+ 
+orange: positiver Teil der Wellenfunktion
+ 
+blau: negativer Teil der Wellenfunktion
 
 ### S-Orbitale
 
