@@ -6,5 +6,5 @@ $$
 F(x)' = f(x)
 $$
 $$
-\bbox[5px, border: 2px solid white]{x \in D_f}
+\bbox[5px, border: 2px solid #d0d0d0]{x \in D_f}
 $$
