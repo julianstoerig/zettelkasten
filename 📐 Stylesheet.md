@@ -17,7 +17,7 @@ Einheitlichkeit ist besonders für das Verständnis mathematischer, physikalisch
 
 ### Definitionsbereiche
 
-Diese werden in eigenem `$$...$$` MathJax Equation Feld angegeben und mit einem Rechteck der Farbe `#d0d0d0` in der Breite `2px` umgeben.
+Diese werden in eigenem `$$...$$` MathJax Equation Feld angegeben und mit einem Rechteck der Farbe `#d0d0d0` in der Breite `2px` im Abstand `5px` umgeben.
 
 Beispiel:
 
@@ -26,6 +26,8 @@ $$
 \bbox[5px, border: 2px solid #d0d0d0]{x \in D_f}
 $$
 ```
+
+produziert:
 
 $$
 \bbox[5px, border: 2px solid #d0d0d0]{x \in D_f}
@@ -48,7 +50,9 @@ Dies gilt allerdings nur für die Integralsymbole, der Rest der Symbole, auch in
 Beispiel [[Kräftegleichgewicht|Kräftegleichgewicht]]:
 
 ```Latex
+$$
 \int \left( \small \int \normalsize a(t) \mathrm{d}t \right) \mathrm{d}t
+$$
 ```
 
 produziert:
