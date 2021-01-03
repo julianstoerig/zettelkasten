@@ -4,6 +4,7 @@ Dabei gilt eine Funktion dann als Stammfunktion, wenn für sie gilt
 
 $$
 F(x)' = f(x)
-
+$$
+$$
 \bbox[5px, border: 2px solid white]{x \in D_f}
 $$
