@@ -1,0 +1,1 @@
+Die **Integration** ist das Bilden einer Stammfunktion zu einer gegeben 
