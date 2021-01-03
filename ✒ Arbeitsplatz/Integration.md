@@ -15,4 +15,4 @@ $$
 F'(x)=f(x)=2 m x
 $$
 
-Es sind also sowohl $F(x)=1,64x^2+4$, als auch $F(x)=1.64x^2-140.3058$
+Es sind also sowohl $F(x) = 1.64 x^2 + 4$, als auch $F(x) = 1.64 x^2 - 140.3058$ Stammfunktionen von $f(x) = 3.28$.
