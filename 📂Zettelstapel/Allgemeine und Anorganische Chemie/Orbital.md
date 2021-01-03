@@ -32,11 +32,11 @@ $p_x$
 
 ![[p_x-Orbital.png]]
 
-$$p_y$$
+$p_y$
 
 ![[p_y-Orbital.png]]
 
-$$p_z$$
+$p_z$
 
 ![[p_z-Orbital.png]]  
 
@@ -44,22 +44,22 @@ $$p_z$$
 
 "Doppel-Hantel"-förmig
 
-$$d_{xy}$$
+$d_{xy}$
 
 ![[d_xy-Orbital.png]] 
 
-$$d_{xz}$$
+$d_{xz}$
 
 ![[d_xz-Orbital.png]]  
 
-$$d_{yz}$$
+$d_{yz}$
 
 ![[d_yz-Orbital.png]]  
 
-$$d_{x^2-y^2}$$
+$d_{x^2-y^2}$
 
 ![[d_x2-y2-Orbital.png]]  
 
-$$d_{z^2}$$
+$d_{z^2}$
 
 ![[d_z2-Orbital.png]]
