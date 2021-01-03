@@ -6,12 +6,23 @@
       {
         "id": "d0a428b7474d28ef",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/Integration.md",
-            "mode": "preview"
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "aaab9fd1d8e9d360",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Geschwindigkeit.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Integration.md",
+                "file": "Geschwindigkeit.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Integration.md",
+                "file": "Geschwindigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +161,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Geschwindigkeit.md",
     "✒ Arbeitsplatz/Integration.md",
     "📐 Stylesheet.md",
     "📖 Logbuch/2021-01-03.md",
@@ -158,7 +170,6 @@
     "📅 Noch Einzutragen.md",
     "📋 Vorlagen/Daily Note Breitbrunn.md",
     "📋 Vorlagen/Daily Note.md",
-    "✒ Arbeitsplatz/Rotation.md",
-    "✒ Arbeitsplatz/Freier Fall.md"
+    "✒ Arbeitsplatz/Rotation.md"
   ]
 }
