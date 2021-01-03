@@ -12,9 +12,9 @@ Diesen werden die Elektronen in der [[📂Zettelstapel/Allgemeine und Anorganisc
 
 x,y,z: Raumdimensionen
  
-orange: positiver Teil der Wellenfunktion
+orange: Teil der Wellenfunktion
  
-blau: negativer Teil der Wellenfunktion
+blau: Teil der Wellenfunktion mit negativem Vorzeichen
 
 ### S-Orbitale
 
@@ -28,7 +28,7 @@ blau: negativer Teil der Wellenfunktion
 
 - in drei verschiedenen Orientierungen:
 
-$$p_x$$
+$p_x$
 
 ![[p_x-Orbital.png]]
 
