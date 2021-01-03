@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📖 Logbuch/2021-01-03.md",
+            "file": "📖 Logbuch/2021-01-02.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📖 Logbuch/2021-01-03.md",
+                "file": "📖 Logbuch/2021-01-02.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖 Logbuch/2021-01-03.md",
+                "file": "📖 Logbuch/2021-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,11 +150,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📖 Logbuch/2021-01-02.md",
+    "📖 Logbuch/2021-01-01.md",
     "📖 Logbuch/2021-01-03.md",
     "📋 Vorlagen/Daily Note Breitbrunn.md",
-    "📖 Logbuch/2021-01-02.md",
     "📐 Stylesheet.md",
-    "📖 Logbuch/2021-01-01.md",
     "✒ Arbeitsplatz/Rotation.md",
     "📅 Noch Einzutragen.md",
     "✒ Arbeitsplatz/Freier Fall.md",
