@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
-            "mode": "preview"
+            "file": "Nuklid.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kern",
+                "query": "Kräfte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
+                "file": "Nuklid.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
+                "file": "Nuklid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,19 +146,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280,
-    "collapsed": true
+    "width": 280
   },
   "lastOpenFiles": [
+    "Nuklid.md",
+    "✒ Arbeitsplatz/Newtonsche Axiome.md",
     "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
     "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbitale.md",
     "📂Zettelstapel/Mikrobiologie/Virus.md",
     "Ordnungszahl.md",
-    "✒ Arbeitsplatz/Newtonsche Axiome.md",
     "✒ Arbeitsplatz/Superpositionsprinzip.md",
     "✒ Arbeitsplatz/Untitled.md",
     "Kräftegleichgewicht.md",
-    "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
-    "1. Semester.md"
+    "✒ Arbeitsplatz/Kräftefreie Bewegung.md"
   ]
 }
