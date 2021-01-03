@@ -4,4 +4,4 @@ $$
 \vec{F}_r = \sum\limits_{i = 0}^{n} \vec{F}_n
 $$
 
-Wirken z.B. auf einen Körper zwei Kräfte, die Gravitation $F_G$ und eine Sprungkraft $F_S$, so lassen 
+Wirken z.B. auf einen Körper zwei Kräfte, die Gravitation $F_G = \mathrm{N}$ und eine Sprungkraft $F_S = 200~\mathrm{N}$, so lassen 
