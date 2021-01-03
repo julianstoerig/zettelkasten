@@ -17,7 +17,10 @@ Einheitlichkeit ist besonders für das Verständnis mathematischer, physikalisch
 
 ### Definitionsbereiche
 
-Diese werden in eigenem ``$$...$$`` MathJax Equation Feld
+Diese werden in eigenem `$$...$$` MathJax Equation Feld angegeben und mit einem Rechteck der Farbe `#d0d0d0` in 
+$$
+\bbox[5px, border: 2px solid #d0d0d0]{x \in D_f}
+$$
 
 ### Integrale integrieren
 
