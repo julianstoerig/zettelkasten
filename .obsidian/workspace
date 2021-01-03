@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6dae80bf8affffc2",
+        "id": "6268e9afdf03f494",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Newtonsche Axiome.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -58,12 +55,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 224,
-    "collapsed": true
+    "width": 224
   },
   "right": {
     "id": "a3b0eee1ddc0955b",
@@ -80,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Newtonsche Axiome.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -124,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Newtonsche Axiome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

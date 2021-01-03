@@ -4,21 +4,15 @@
 
 Isaac Newton stellte drei **Axiome**/**Gesetze** zur Wirkweise von **Kräften** auf, die noch heute die zu seinen Ehren benannte [[Newtonsche Mechanik|Newtonsche Mechanik]] prägen.
 
----
-
 ## erstes Axiom: Trägheitssatz
 
 Befindet sich ein Körper im [[Kräftegleichgewicht|Kräftegleichgewicht]], so bleibt er in Ruhe oder bewegt sich geradlinig mit konstanter [[Geschwindigkeit]]. **Sein Bewegungsvektor $\vec{v}$ ist** also **konstant**.
 
 Einen Körper für den dies gilt, bezeichnet man auch als **Inertialsystem**, eine Änderung seines Bewegungszustandes lässt sich nur durch Krafteinwirkung von außen erzwingen, da jede interne Kraftaufwendung nach dem **dritten Newtonschen Axiom** durch die ihr entgegengerichtete Gegenkraft nach dem **Trägheitssatz** aufgehoben würde.
 
----
-
 ## zweites Axiom: Die Berechnung einer Kraft
 
 Kräfte werden als Vektoren dargestellt. Die Formel zur Berechnung einer Kraft $\vec{F}$ lautet **$\vec{F} = m \cdot \vec{a}$**.
-
----
 
 ## drittes Axiom: actio gegengleich re-actio
 
@@ -27,8 +21,6 @@ Kräfte werden als Vektoren dargestellt. Die Formel zur Berechnung einer Kraft $
 $$
 \vec{F}_{A \rightarrow B} = -\vec{F}_{B \rightarrow A}
 $$
-
----
 
 ## Das Superpositionsprinzip
 
