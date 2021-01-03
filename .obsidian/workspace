@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Integration.md",
+            "file": "📐 Stylesheet.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Integration.md",
+                "file": "📐 Stylesheet.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Integration.md",
+                "file": "📐 Stylesheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +150,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📐 Stylesheet.md",
     "✒ Arbeitsplatz/Integration.md",
     "📖 Logbuch/2021-01-03.md",
     "📖 Logbuch/2021-01-02.md",
@@ -157,7 +158,6 @@
     "📅 Noch Einzutragen.md",
     "📋 Vorlagen/Daily Note Breitbrunn.md",
     "📋 Vorlagen/Daily Note.md",
-    "📐 Stylesheet.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Freier Fall.md"
   ]
