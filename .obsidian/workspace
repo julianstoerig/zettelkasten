@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📐 Stylesheet.md",
-            "mode": "source"
+            "file": "✒ Arbeitsplatz/Integration.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📐 Stylesheet.md",
+                "file": "✒ Arbeitsplatz/Integration.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📐 Stylesheet.md",
+                "file": "✒ Arbeitsplatz/Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +150,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📐 Stylesheet.md",
     "✒ Arbeitsplatz/Integration.md",
+    "📐 Stylesheet.md",
     "📖 Logbuch/2021-01-03.md",
     "📖 Logbuch/2021-01-02.md",
     "📖 Logbuch/2021-01-01.md",
