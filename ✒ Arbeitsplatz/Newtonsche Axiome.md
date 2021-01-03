@@ -2,7 +2,7 @@
 
 ---
 
-Isaac Newton stellte drei **Axiome**/**Gesetze** zur Wirkweise von**Kräften** auf, deren Essenz diese ist:
+Isaac Newton stellte drei **Axiome**/**Gesetze** zur Wirkweise von **Kräften** auf, die noch heute die zu seinen Ehren benannte [[Newtonsche Me]]
 
 ---
 
