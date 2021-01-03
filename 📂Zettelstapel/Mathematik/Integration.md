@@ -1,4 +1,4 @@
-[[Mathematik]] [[nicht Uni]] [[2021-01-03]] #Stub 
+[[Mathematik]] [[nicht Uni]] [[2021-01-03]]
 
 ---
 
