@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
+            "file": "Geschwindigkeit.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
+                "file": "Geschwindigkeit.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
+                "file": "Geschwindigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +151,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Geschwindigkeit.md",
     "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
     "✒ Arbeitsplatz/Freier Fall.md",
     "Atom.md",
@@ -159,7 +160,6 @@
     "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
     "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbitale.md",
     "📂Zettelstapel/Mikrobiologie/Virus.md",
-    "Ordnungszahl.md",
-    "✒ Arbeitsplatz/Superpositionsprinzip.md"
+    "Ordnungszahl.md"
   ]
 }
