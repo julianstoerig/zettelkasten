@@ -4,10 +4,15 @@ Dabei gilt eine Funktion dann als Stammfunktion, wenn für jeden Wert $x$ für d
 
 ## Regeln der Integration
 
-## Y-Achsenverschiebung
+### Y-Achsenverschiebung
 
 da bei der Ableitung der Funktion $F(x)$ zu $f(x)$ alle Summanden ohne Variable wegfallen, sind diese  in der Stammfunktion beliebig.
 
 $$
-F(x)=m \cdot x^2 + t
-F'(x)=f(x)=m \cdot m \cdot x
+F(x)=m x^2 + t
+$$
+$$
+F'(x)=f(x)=2 m x
+$$
+
+Kennen wir also nur $f(x)$
