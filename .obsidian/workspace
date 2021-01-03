@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d0a428b7474d28ef",
+        "id": "d79cea29efe01fdd",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 Vorlagen/Mikrobiologie.md",
+            "file": "✒ Arbeitsplatz/Integration.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Mikrobiologie.md",
+                "file": "✒ Arbeitsplatz/Integration.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Mikrobiologie.md",
+                "file": "✒ Arbeitsplatz/Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +150,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Integration.md",
+    "📋 Vorlagen/Mathematik.md",
+    "📋 Vorlagen/Beispiel.md",
     "📋 Vorlagen/Mikrobiologie.md",
     "📋 Vorlagen/Beispiel 1.md",
-    "📋 Vorlagen/Beispiel.md",
-    "✒ Arbeitsplatz/Integration.md",
     "Geschwindigkeit.md",
     "📐 Stylesheet.md",
     "📖 Logbuch/2021-01-03.md",
     "📖 Logbuch/2021-01-02.md",
-    "📖 Logbuch/2021-01-01.md",
-    "📅 Noch Einzutragen.md"
+    "📖 Logbuch/2021-01-01.md"
   ]
 }

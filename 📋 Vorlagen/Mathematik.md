@@ -1,4 +1,4 @@
-[[Mathematik]] [[1. Semester]] [[{{tp_today}}]]
+[[Mathematik]] [[nicht-Uni]] [[{{tp_today}}]]
 
 ---
 
