@@ -3,5 +3,5 @@ Die **Integration** ist das Bilden einer Stammfunktion $F(x)$ zu einer gegebenen
 Dabei gilt eine Funktion dann als Stammfunktion, wenn für sie gilt
 
 $$
-F(x)' = f(x)
+F(x)' = f(x); x \in D_f
 $$
