@@ -6,4 +6,7 @@ Dabei gilt eine Funktion dann als Stammfunktion, wenn für jeden Wert $x$ für d
 
 ## Y-Achsenverschiebung
 
-da bei der Ableitung der Funktion $F(x)$ zu $f(x)$ alle Summanden ohne Variable
+da bei der Ableitung der Funktion $F(x)$ zu $f(x)$ alle Summanden ohne Variable wegfallen, sind diese  in der Stammfunktion beliebig.
+
+$$
+F(x)=m\
