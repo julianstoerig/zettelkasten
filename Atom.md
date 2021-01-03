@@ -6,11 +6,7 @@ Ein **Atom** ist eine funktionelle Einheit, die die Grundlage für die [[Chemie]
 
 Abhängig von der Zahl der Protonen im Kern eines Atoms ([[Ordnungszahl]]), werden sie in Kategorien, sog. [[chemisches Element| Elemente]] eingeteilt.
 
-In einem ungeladenen [[Atom]] ist die Anzahl der Protonen gleich der Anzahl der Elektronen.
-
-Während die Protonen fest im Atomkern verankert sind, sind die Elektronen je nach Art des Stoffes mehr oder weniger stark gebunden.
-
-Elektronen können ein Atom auch komplett verlassen. Als „Atomrumpf“ bleibt dann ein positiv geladenes Ion („Kation“) zurück. Das Element ändert sich dabei nicht – charakteristisch für jedes [[chemisches Element|chemische Element]] ist nur die Anzahl der Protonen im Atomkern.
+In einem ungeladenen [[Atom]] ist die Anzahl der Protonen gleich der Anzahl der Elektronen. Da Sie jedoch im Gegensatz zu Protonen, die fest im Kern verankert sind, weniger stark gebunden sind, können können ein Atom auch komplett verlassen. Als „Atomrumpf“ bleibt dann ein positiv geladenes Ion („Kation“) zurück. Das Element ändert sich dabei nicht – charakteristisch für jedes [[chemisches Element|chemische Element]] ist nur die Anzahl der Protonen im Atomkern.
 
 Protonen und Elektronen sind gleich stark geladen.
 
