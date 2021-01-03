@@ -15,4 +15,4 @@ $$
 F'(x)=f(x)=2 m x
 $$
 
-Kennen wir also nur $f(x)$
+Es sind also sowohl $F(x)=1,64x^2+4$, als auch $F(x)=1.64x^2-140.3058$
