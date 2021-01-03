@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "dbf1b40a6f36553d",
+        "id": "4b691814c1e66aca",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Geschwindigkeit.md",
+            "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Geschwindigkeit.md",
+                "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschwindigkeit.md",
+                "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +151,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Geschwindigkeit.md",
     "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
+    "Geschwindigkeit.md",
     "✒ Arbeitsplatz/Freier Fall.md",
     "Atom.md",
     "Nuklid.md",
