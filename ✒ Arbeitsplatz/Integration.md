@@ -4,4 +4,6 @@ Dabei gilt eine Funktion dann als Stammfunktion, wenn für jeden Wert $x$ für d
 
 ## Regeln der Integration
 
-Bei der 
+## Y-Achsenverschiebung
+
+da bei der Ableitung der Funktion $F(x)$ zu $f(x)$ alle Summanden ohne Variable
