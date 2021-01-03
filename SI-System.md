@@ -22,10 +22,10 @@ Im **SI-System** werden sieben Basiseinheiten, die seit 2019 alle durch Naturkon
 
 Alle weiteren Einheiten des **SI-Systems** sind kohärent, d.h. durch simple Multiplikation aus den Basiseinheiten errechnet.
 
-| Größe           | Symbol | Einheit                      |    Einheitenzeichen    |         Definition der Einheit          |
-|:--------------- |:------:|:---------------------------- |:----------------------:|:---------------------------------------:|
-| Volumen         |  $V$   | Liter                        |           l            | $\mathrm{1l=1dm^3=1dm\cdot1dm\cdot1dm}$ |
-| Geschwindigkeit |  $v$   | Meter pro Sekunde            | $\mathrm{\frac{m}{s}}$ |         $\mathrm{\frac{m}{s}}$          |
-| Beschleunigung  |  $a$   | Meter pro Sekunde im Quadrat | $\frac{m}{}                       |                                         |
-| Massendichte    | $\rho$ | Gramm pro Kubikcentimeter    |    $\frac{g}{cm^3}$    |            $\frac{g}{cm^3}$             |
-| Kraft           |  $F$   | Newton                       |          $N$           |              $F=m \cdot a$              |
+| Größe           | Symbol | Einheit                      |     Einheitenzeichen     |         Definition der Einheit          |
+|:--------------- |:------:|:---------------------------- |:------------------------:|:---------------------------------------:|
+| Volumen         |  $V$   | Liter                        |            l             | $\mathrm{1l=1dm^3=1dm\cdot1dm\cdot1dm}$ |
+| Geschwindigkeit |  $v$   | Meter pro Sekunde            |  $\mathrm{\frac{m}{s}}$  |         $\mathrm{\frac{m}{s}}$          |
+| Beschleunigung  |  $a$   | Meter pro Sekunde im Quadrat | $\mathrm{\frac{m}{s^2}}$ | $\mathrm{\frac{m}{s^2}}$                                        |
+| Massendichte    | $\rho$ | Gramm pro Kubikcentimeter    |     $\frac{g}{cm^3}$     |            $\frac{g}{cm^3}$             |
+| Kraft           |  $F$   | Newton                       |           $N$            |              $F=m \cdot a$              |
