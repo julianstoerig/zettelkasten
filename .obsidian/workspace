@@ -6,17 +6,6 @@
       {
         "id": "6dae80bf8affffc2",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Superpositionsprinzip.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "b5885f44de225630",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
@@ -163,6 +152,7 @@
   },
   "lastOpenFiles": [
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
+    "✒ Arbeitsplatz/Superpositionsprinzip.md",
     "✒ Arbeitsplatz/Untitled.md",
     "Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
@@ -170,7 +160,6 @@
     "SI-System.md",
     "✒ Arbeitsplatz/Integration.md",
     "📋 Vorlagen/Mathematik.md",
-    "Geschwindigkeit.md",
-    "📋 Vorlagen/Beispiel.md"
+    "Geschwindigkeit.md"
   ]
 }
