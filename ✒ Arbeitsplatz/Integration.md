@@ -9,10 +9,10 @@ Dabei gilt eine Funktion dann als Stammfunktion, wenn für jeden Wert $x$ für d
 da bei der Ableitung der Funktion $F(x)$ zu $f(x)$ alle Summanden ohne Variable wegfallen, sind diese  in der Stammfunktion beliebig.
 
 $$
-F(x)=m x^2 + t
+F(x)=m \dot x^2 + t
 $$
 $$
-F'(x)=f(x)=2 m x
+F'(x)=f(x)=2 \cdot m \cdot x
 $$
 
-Es sind also sowohl $F(x) = 1.64 x^2 + 4$, als auch $F(x) = 1.64 x^2 - 140.3058$ Stammfunktionen von $f(x) = 3.28$.
+Es sind also sowohl $F(x) = 1.64 \dot x^2 + 4$, als auch $F(x) = 1.64 \cdot x^2 - 140.3058$ Stammfunktionen von $f(x) = 3.28 \cdot x$.
