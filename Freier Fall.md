@@ -18,11 +18,11 @@ $$
 v(t) = gt = \sqrt[2]{2 g \Delta x}
 $$
 
-Seine Beschleunigung $a$ mit [[Luftwiderstand|atmosphärischem Widerstand]] lässt sich mit Hilfe des Luftwiderstandsbeiwert $c_W$ auch beschreiben.
+<!--Seine Beschleunigung $a$ mit [[Luftwiderstand|atmosphärischem Widerstand]] lässt sich mit Hilfe des Luftwiderstandsbeiwert $c_W$ auch beschreiben.
 
 ==Achtung, diese Formel ist nicht überprüft, vor Verwendung unbedingt kontrollieren.==
 $$
 a_{freier~Fall} = g - c_W \cdot A_{fallender~Körper} \cdot v(t)^2
 $$
 
-Das Maximum dieser Funktion beschreibt die Maximalgeschwindigkeit $v_{max}$/**Terminalgeschwindigkeit** des fallenden Körpers.
+Das Maximum dieser Funktion beschreibt die Maximalgeschwindigkeit $v_{max}$/**Terminalgeschwindigkeit** des fallenden Körpers.-->
