@@ -10,4 +10,4 @@ da bei der Ableitung der Funktion $F(x)$ zu $f(x)$ alle Summanden ohne Variable 
 
 $$
 F(x)=m \cdot x^2 + t
-F'(x)=f(x)=m \cdot x
+F'(x)=f(x)=m \cdot m \cdot x
