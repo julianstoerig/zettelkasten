@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SI-System.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beschleuni",
+                "query": "si-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "SI-System.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -119,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SI-System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +150,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "SI-System.md",
     "✒ Arbeitsplatz/Integration.md",
     "📋 Vorlagen/Mathematik.md",
     "Geschwindigkeit.md",
@@ -153,7 +159,6 @@
     "📋 Vorlagen/Beispiel 1.md",
     "📐 Stylesheet.md",
     "📖 Logbuch/2021-01-03.md",
-    "📖 Logbuch/2021-01-02.md",
-    "📖 Logbuch/2021-01-01.md"
+    "📖 Logbuch/2021-01-02.md"
   ]
 }
