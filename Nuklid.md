@@ -2,4 +2,4 @@
 
 ---
 
-**Nuklide** sind durch *Kernkräfte* zusammengehaltene Körper, die aus Protonen und Neutronen besteht und den Kern von [[Atom|Atomen]] darstellen.
+**Nuklide** sind durch die [[starke Kernkraft|starke Kernkraft]] zusammengehaltene Körper, die aus Protonen und Neutronen besteht und den Kern von [[Atom|Atomen]] darstellen.
