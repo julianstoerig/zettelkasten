@@ -28,4 +28,4 @@ Alle weiteren Einheiten des **SI-Systems** sind kohärent, d.h. durch simple Mul
 | Geschwindigkeit |  $v$   | Meter pro Sekunde            |  $\mathrm{\frac{m}{s}}$  |         $\mathrm{\frac{m}{s}}$          |
 | Beschleunigung  |  $a$   | Meter pro Sekunde im Quadrat | $\mathrm{\frac{m}{s^2}}$ | $\mathrm{\frac{m}{s^2}}$                                        |
 | Massendichte    | $\rho$ | Gramm pro Kubikcentimeter    |     $\frac{g}{cm^3}$     |            $\frac{g}{cm^3}$             |
-| Kraft           |  $F$   | Newton                       |           $N$            |              $F=m \cdot a$              |
+| Kraft           |  $F$   | Newton                       |           $\mathrm{N}$            |              $F = m \cdot a = \mathrm{\frac{kg \cdot m}{s^2}}$              |
