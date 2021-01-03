@@ -6,23 +6,23 @@
       {
         "id": "6268e9afdf03f494",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Nuklid.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
       {
         "id": "7324dfce3079be6e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Atom.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atom.md",
+                "file": "Nuklid.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atom.md",
+                "file": "Nuklid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,8 +162,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Atom.md",
     "Nuklid.md",
+    "Atom.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
     "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
     "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbitale.md",
