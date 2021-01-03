@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "beschleuni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
