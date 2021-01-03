@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d79cea29efe01fdd",
+        "id": "251d8e5efbb9dc2d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/Integration.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,10 +152,10 @@
   "lastOpenFiles": [
     "✒ Arbeitsplatz/Integration.md",
     "📋 Vorlagen/Mathematik.md",
+    "Geschwindigkeit.md",
     "📋 Vorlagen/Beispiel.md",
     "📋 Vorlagen/Mikrobiologie.md",
     "📋 Vorlagen/Beispiel 1.md",
-    "Geschwindigkeit.md",
     "📐 Stylesheet.md",
     "📖 Logbuch/2021-01-03.md",
     "📖 Logbuch/2021-01-02.md",

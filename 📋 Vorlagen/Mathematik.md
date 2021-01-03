@@ -1,4 +1,4 @@
-[[Mathematik]] [[nicht-Uni]] [[{{tp_today}}]]
+[[Mathematik]] [[nicht Uni]] [[{{tp_today}}]]
 
 ---
 
