@@ -6,7 +6,6 @@
       {
         "id": "6dae80bf8affffc2",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,11 +17,12 @@
       {
         "id": "b5885f44de225630",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "✒ Arbeitsplatz/Newtonsche Axiome.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -91,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Superpositionsprinzip.md",
+                "file": "✒ Arbeitsplatz/Newtonsche Axiome.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Superpositionsprinzip.md",
+                "file": "✒ Arbeitsplatz/Newtonsche Axiome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,10 +162,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Newtonsche Axiome.md",
     "✒ Arbeitsplatz/Untitled.md",
     "Kräftegleichgewicht.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
-    "✒ Arbeitsplatz/Newtonsche Axiome.md",
     "1. Semester.md",
     "SI-System.md",
     "✒ Arbeitsplatz/Integration.md",

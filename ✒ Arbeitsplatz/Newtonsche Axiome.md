@@ -21,3 +21,7 @@ Kräfte werden als Vektoren dargestellt. Die Formel zur Berechnung einer Kraft $
 $$
 \vec{F}_{A \rightarrow B} = -\vec{F}_{B \rightarrow A}
 $$
+
+## Das Superpositionsprinzip
+
+Das [[✒ Arbeitsplatz/SuperpositionsprinzipSuperpositionsprinzip]] wird häufig als viertes Newtonsches Axiom genannt.
