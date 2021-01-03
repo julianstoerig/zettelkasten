@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6268e9afdf03f494",
+        "id": "dbf1b40a6f36553d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nuklid.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7324dfce3079be6e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Atom.md",
+            "file": "✒ Arbeitsplatz/Freier Fall.md",
             "mode": "source"
           }
         }
@@ -69,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -90,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nuklid.md",
+                "file": "✒ Arbeitsplatz/Freier Fall.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -134,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuklid.md",
+                "file": "✒ Arbeitsplatz/Freier Fall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,15 +151,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Nuklid.md",
+    "✒ Arbeitsplatz/Freier Fall.md",
     "Atom.md",
+    "Nuklid.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
     "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
     "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbitale.md",
     "📂Zettelstapel/Mikrobiologie/Virus.md",
     "Ordnungszahl.md",
     "✒ Arbeitsplatz/Superpositionsprinzip.md",
-    "✒ Arbeitsplatz/Untitled.md",
-    "Kräftegleichgewicht.md"
+    "✒ Arbeitsplatz/Untitled.md"
   ]
 }

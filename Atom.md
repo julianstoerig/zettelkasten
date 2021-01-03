@@ -8,7 +8,7 @@ Abhängig von der Zahl der Protonen im Kern eines Atoms ([[Ordnungszahl]]), werd
 
 In einem ungeladenen [[Atom]] ist die Anzahl der Protonen gleich der Anzahl der Elektronen. Da Sie jedoch im Gegensatz zu Protonen, die fest im Kern verankert sind, weniger stark gebunden sind, können sie ein Atom auch komplett verlassen. Als „Atomrumpf“ bleibt dann ein positiv geladenes Ion („Kation“) zurück. Das Element ändert sich dabei nicht, charakteristisch für jedes [[chemisches Element|chemische Element]] ist nur die Anzahl der Protonen im Atomkern.
 
-Protonen und Elektronen sind gleich stark geladen.
+Der Betrag der Ladung von Protonen und Elektronen ist gleich.
 
 Da jedes Atom gleich viele positive wie negative Ladungsträger besitzt, ist seine Gesamtladung, d.h. die Summe aller Ladungen, gleich null. Von außen betrachtet erscheint ein Atom deshalb als ein elektrisch neutrales Teilchen.
 
