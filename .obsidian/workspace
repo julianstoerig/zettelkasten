@@ -6,22 +6,11 @@
       {
         "id": "d0a428b7474d28ef",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Integration.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "aaab9fd1d8e9d360",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Geschwindigkeit.md",
+            "file": "✒ Arbeitsplatz/Integration.md",
             "mode": "source"
           }
         }
@@ -90,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Geschwindigkeit.md",
+                "file": "✒ Arbeitsplatz/Integration.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -134,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschwindigkeit.md",
+                "file": "✒ Arbeitsplatz/Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,8 +150,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Geschwindigkeit.md",
     "✒ Arbeitsplatz/Integration.md",
+    "Geschwindigkeit.md",
     "📐 Stylesheet.md",
     "📖 Logbuch/2021-01-03.md",
     "📖 Logbuch/2021-01-02.md",

@@ -2,9 +2,10 @@ Die **Integration** ist das Bilden einer Stammfunktion $F(x)$ zu einer gegebenen
 
 Dabei gilt eine Funktion dann als Stammfunktion, wenn für sie gilt
 
+
 $$
-F(x)' = f(x)
-$$
-$$
-\bbox[5px, border: 2px solid #d0d0d0]{x \in D_f}
+\begin{matrix}
+F(x)' = f(x) \cr
+x \in D_f \cr
+\end{matrix}
 $$
