@@ -1,1 +1,1 @@
-Obwohl die Ausstattung von **Pflanzenzellen** aufgrund ihrer großen
+Trotz der großen Diversität von **Pflanzenzellen**, gibt es für ihre Zellen typs
