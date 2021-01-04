@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "📖 Logbuch/2021-01-04.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -142,11 +142,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 280
+    "width": 280,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "📖 Logbuch/2021-01-04.md",
