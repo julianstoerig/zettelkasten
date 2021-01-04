@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "cfcb44887653a4c5",
+        "id": "cc935ea0c45a52f5",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📖 Logbuch/2021-01-04.md",
+            "file": "Day Planners/Day Planner-20210104.md",
             "mode": "source"
           }
         }
@@ -69,17 +69,24 @@
     "type": "split",
     "children": [
       {
-        "id": "12005cb28b674cbf",
+        "id": "f96e8745e6e54d9c",
         "type": "tabs",
-        "dimension": 45.80838323353293,
         "children": [
+          {
+            "id": "674589a60e55bcfe",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
           {
             "id": "507982df27520917",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📖 Logbuch/2021-01-04.md",
+                "file": "Day Planners/Day Planner-20210104.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -101,28 +108,6 @@
                 }
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "1e5ee8c73b3677d9",
-        "type": "tabs",
-        "dimension": 54.19161676646707,
-        "children": [
-          {
-            "id": "70a9ce091072f366",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "📖 Logbuch/2021-01-04.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
           },
           {
             "id": "d5aea1c6de186752",
@@ -133,6 +118,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "70a9ce091072f366",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day Planners/Day Planner-20210104.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
         ]
       }
@@ -141,6 +141,7 @@
     "width": 280
   },
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20210104.md",
     "📖 Logbuch/2021-01-04.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
     "Kräftegleichgewicht.md",
@@ -149,7 +150,6 @@
     "Botanik.md",
     "Python/Untitled.md",
     "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
-    "📅 Noch Einzutragen.md",
-    "📖 Logbuch/2021-01-03.md"
+    "📅 Noch Einzutragen.md"
   ]
 }
