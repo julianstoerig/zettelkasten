@@ -110,14 +110,6 @@
         "dimension": 54.19161676646707,
         "children": [
           {
-            "id": "2f0eb18cfb21ed8e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "70a9ce091072f366",
             "type": "leaf",
             "state": {
@@ -142,13 +134,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 280,
-    "collapsed": true
+    "width": 280
   },
   "lastOpenFiles": [
     "📖 Logbuch/2021-01-04.md",
