@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Untitled.md",
+            "file": "Python/Untitled.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md",
+                "file": "Python/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md",
+                "file": "Python/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +149,8 @@
     "width": 280
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Untitled.md",
     "Python/Untitled.md",
+    "✒ Arbeitsplatz/Untitled.md",
     "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
     "📖 Logbuch/2021-01-04.md",
     "📅 Noch Einzutragen.md",
