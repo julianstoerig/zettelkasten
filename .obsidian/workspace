@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "acbb0705b43bb008",
+        "id": "ae17daeba7068ad2",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/Untitled.md",
+            "file": "Botanik.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Python/Untitled.md",
+                "file": "Botanik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Untitled.md",
+                "file": "Botanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
     "width": 280
   },
   "lastOpenFiles": [
+    "Botanik.md",
     "Python/Untitled.md",
     "✒ Arbeitsplatz/Untitled.md",
     "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
@@ -157,7 +158,6 @@
     "📖 Logbuch/2021-01-03.md",
     "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
     "Geschwindigkeit.md",
-    "✒ Arbeitsplatz/Freier Fall.md",
-    "Atom.md"
+    "✒ Arbeitsplatz/Freier Fall.md"
   ]
 }
