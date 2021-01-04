@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📐 Stylesheet.md",
+            "file": "allgemeine und Anorganische Chemie.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📐 Stylesheet.md",
+                "file": "allgemeine und Anorganische Chemie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📐 Stylesheet.md",
+                "file": "allgemeine und Anorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +124,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "allgemeine und Anorganische Chemie.md",
     "📐 Stylesheet.md",
     "📖 Logbuch/2021-01-04.md",
     "📅 Noch Einzutragen.md",
     "Antioxidans.md",
     "✒ Arbeitsplatz/Radikalfänger.md",
-    "allgemeine und Anorganische Chemie.md",
     "📖 Logbuch/2021-01-02.md",
     "Day Planners/Day Planner-20210104.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
