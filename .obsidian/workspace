@@ -4,16 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "41024819d19c068f",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📖 Logbuch/2021-01-04.md",
-            "mode": "preview"
+        "id": "d733612d0222fea7",
+        "type": "split",
+        "children": [
+          {
+            "id": "41024819d19c068f",
+            "type": "leaf",
+            "dimension": 70.05988023952095,
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📐 Stylesheet.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "cfcb44887653a4c5",
+            "type": "leaf",
+            "dimension": 29.94011976047904,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📖 Logbuch/2021-01-04.md",
+                "mode": "preview"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -79,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📖 Logbuch/2021-01-04.md",
+                "file": "📐 Stylesheet.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖 Logbuch/2021-01-04.md",
+                "file": "📐 Stylesheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +171,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📐 Stylesheet.md",
     "📖 Logbuch/2021-01-04.md",
     "✒ Arbeitsplatz/Untitled.md",
     "Botanik.md",
@@ -159,7 +180,6 @@
     "📅 Noch Einzutragen.md",
     "📖 Logbuch/2021-01-03.md",
     "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
-    "Geschwindigkeit.md",
-    "✒ Arbeitsplatz/Freier Fall.md"
+    "Geschwindigkeit.md"
   ]
 }
