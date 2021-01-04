@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
-            "mode": "preview"
+            "file": "📖 Logbuch/2021-01-03.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
+                "file": "📖 Logbuch/2021-01-03.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
+                "file": "📖 Logbuch/2021-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,24 +142,22 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 280,
-    "collapsed": true
+    "width": 280
   },
   "lastOpenFiles": [
+    "📖 Logbuch/2021-01-03.md",
+    "📅 Noch Einzutragen.md",
+    "📖 Logbuch/2021-01-04.md",
     "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
     "Geschwindigkeit.md",
     "✒ Arbeitsplatz/Freier Fall.md",
     "Atom.md",
     "Nuklid.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
-    "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
-    "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbitale.md",
-    "📂Zettelstapel/Mikrobiologie/Virus.md",
-    "Ordnungszahl.md"
+    "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md"
   ]
 }
