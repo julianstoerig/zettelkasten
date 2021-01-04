@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📖 Logbuch/2021-01-04.md",
-            "mode": "source"
+            "file": "✒ Arbeitsplatz/Untitled.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📖 Logbuch/2021-01-04.md",
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖 Logbuch/2021-01-04.md",
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,7 @@
     "width": 280
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Untitled.md",
     "📖 Logbuch/2021-01-04.md",
     "📅 Noch Einzutragen.md",
     "📖 Logbuch/2021-01-03.md",
@@ -157,7 +158,6 @@
     "✒ Arbeitsplatz/Freier Fall.md",
     "Atom.md",
     "Nuklid.md",
-    "✒ Arbeitsplatz/Newtonsche Axiome.md",
-    "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md"
+    "✒ Arbeitsplatz/Newtonsche Axiome.md"
   ]
 }
