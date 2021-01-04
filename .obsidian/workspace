@@ -6,7 +6,6 @@
       {
         "id": "76ceab8ab6c52377",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,10 +17,11 @@
       {
         "id": "b47b9ca5d9f6cab6",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅 Noch Einzutragen.md",
+            "file": "📐 Stylesheet.md",
             "mode": "preview"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📖 Logbuch/2021-01-04.md",
+                "file": "📐 Stylesheet.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖 Logbuch/2021-01-04.md",
+                "file": "📐 Stylesheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📖 Logbuch/2021-01-04.md",
+    "📐 Stylesheet.md",
     "📅 Noch Einzutragen.md",
+    "📖 Logbuch/2021-01-04.md",
     "Antioxidans.md",
     "✒ Arbeitsplatz/Radikalfänger.md",
     "allgemeine und Anorganische Chemie.md",
     "📖 Logbuch/2021-01-02.md",
     "Day Planners/Day Planner-20210104.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
-    "Kräftegleichgewicht.md",
-    "📐 Stylesheet.md"
+    "Kräftegleichgewicht.md"
   ]
 }
