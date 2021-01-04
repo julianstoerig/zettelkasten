@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅 Noch Einzutragen.md",
+            "file": "allgemeine und Anorganische Chemie.md",
             "mode": "preview"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📅 Noch Einzutragen.md",
+                "file": "allgemeine und Anorganische Chemie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Noch Einzutragen.md",
+                "file": "allgemeine und Anorganische Chemie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📅 Noch Einzutragen.md",
+    "allgemeine und Anorganische Chemie.md",
     "📖 Logbuch/2021-01-04.md",
+    "📖 Logbuch/2021-01-02.md",
+    "📅 Noch Einzutragen.md",
     "Day Planners/Day Planner-20210104.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
     "Kräftegleichgewicht.md",
     "📐 Stylesheet.md",
     "✒ Arbeitsplatz/Untitled.md",
-    "Botanik.md",
-    "Python/Untitled.md",
-    "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md"
+    "Botanik.md"
   ]
 }
