@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20210104.md",
+            "file": "📖 Logbuch/2021-01-04.md",
             "mode": "source"
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Day Planners/Day Planner-20210104.md",
+                "file": "📖 Logbuch/2021-01-04.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20210104.md",
+                "file": "📖 Logbuch/2021-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,8 +141,8 @@
     "width": 280
   },
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20210104.md",
     "📖 Logbuch/2021-01-04.md",
+    "Day Planners/Day Planner-20210104.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
     "Kräftegleichgewicht.md",
     "📐 Stylesheet.md",
