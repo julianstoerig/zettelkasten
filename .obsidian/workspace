@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅 Noch Einzutragen.md",
+            "file": "📂Zettelstapel/Mathematik/Integration.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📅 Noch Einzutragen.md",
+                "file": "📂Zettelstapel/Mathematik/Integration.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Noch Einzutragen.md",
+                "file": "📂Zettelstapel/Mathematik/Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📂Zettelstapel/Mathematik/Integration.md",
     "📅 Noch Einzutragen.md",
     "allgemeine und Anorganische Chemie.md",
     "📐 Stylesheet.md",
@@ -132,7 +133,6 @@
     "✒ Arbeitsplatz/Radikalfänger.md",
     "📖 Logbuch/2021-01-02.md",
     "Day Planners/Day Planner-20210104.md",
-    "✒ Arbeitsplatz/Newtonsche Axiome.md",
-    "Kräftegleichgewicht.md"
+    "✒ Arbeitsplatz/Newtonsche Axiome.md"
   ]
 }
