@@ -27,14 +27,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86e7f78624f4120f",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "58e389a8b5bf0b72",
             "type": "leaf",
             "state": {
@@ -58,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
