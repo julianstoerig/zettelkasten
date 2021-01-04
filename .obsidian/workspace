@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📂Zettelstapel/Mathematik/Integration.md",
+            "file": "📖 Logbuch/2021-01-03.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📂Zettelstapel/Mathematik/Integration.md",
+                "file": "📖 Logbuch/2021-01-03.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📂Zettelstapel/Mathematik/Integration.md",
+                "file": "📖 Logbuch/2021-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📖 Logbuch/2021-01-03.md",
     "📂Zettelstapel/Mathematik/Integration.md",
     "📅 Noch Einzutragen.md",
     "allgemeine und Anorganische Chemie.md",
@@ -132,7 +133,6 @@
     "Antioxidans.md",
     "✒ Arbeitsplatz/Radikalfänger.md",
     "📖 Logbuch/2021-01-02.md",
-    "Day Planners/Day Planner-20210104.md",
-    "✒ Arbeitsplatz/Newtonsche Axiome.md"
+    "Day Planners/Day Planner-20210104.md"
   ]
 }
