@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -76,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -119,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,9 +149,9 @@
     "width": 280
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Untitled.md",
     "Botanik.md",
     "Python/Untitled.md",
-    "✒ Arbeitsplatz/Untitled.md",
     "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
     "📖 Logbuch/2021-01-04.md",
     "📅 Noch Einzutragen.md",

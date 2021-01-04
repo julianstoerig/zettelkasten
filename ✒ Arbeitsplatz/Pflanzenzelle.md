@@ -1,0 +1,1 @@
+Obwohl die Ausstattung von **Pflanzenzellen** aufgrund ihrer großen
