@@ -6,12 +6,23 @@
       {
         "id": "cc935ea0c45a52f5",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "📖 Logbuch/2021-01-04.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c4f6fba96b17ad77",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "📅 Noch Einzutragen.md",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📖 Logbuch/2021-01-04.md",
+                "file": "📅 Noch Einzutragen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,22 +113,12 @@
             }
           },
           {
-            "id": "d5aea1c6de186752",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
             "id": "70a9ce091072f366",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖 Logbuch/2021-01-04.md",
+                "file": "📅 Noch Einzutragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +135,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📅 Noch Einzutragen.md",
     "📖 Logbuch/2021-01-04.md",
     "Day Planners/Day Planner-20210104.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
@@ -142,7 +144,6 @@
     "✒ Arbeitsplatz/Untitled.md",
     "Botanik.md",
     "Python/Untitled.md",
-    "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
-    "📅 Noch Einzutragen.md"
+    "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md"
   ]
 }
