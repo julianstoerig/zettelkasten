@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "76ceab8ab6c52377",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📖 Logbuch/2021-01-04.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "b47b9ca5d9f6cab6",
         "type": "leaf",
         "active": true,
@@ -22,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "📐 Stylesheet.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -136,8 +125,8 @@
   },
   "lastOpenFiles": [
     "📐 Stylesheet.md",
-    "📅 Noch Einzutragen.md",
     "📖 Logbuch/2021-01-04.md",
+    "📅 Noch Einzutragen.md",
     "Antioxidans.md",
     "✒ Arbeitsplatz/Radikalfänger.md",
     "allgemeine und Anorganische Chemie.md",
