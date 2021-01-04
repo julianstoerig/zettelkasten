@@ -1,9 +1,8 @@
 ```mermaid
-
 classDiagram
 class Shape{
-<<	interface\>\>
+	<<interface\>\>
 	noOfVertices
 	draw()
-} class Color{ <<enumeration\>\> RED BLUE GREEN WHITE BLACK }
+}
 ```
