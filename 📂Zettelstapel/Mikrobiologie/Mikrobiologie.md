@@ -296,20 +296,20 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 									- Klebsiella pneumoniae
 		--------------------- Portal ---------------------
 			- Biologie Bachelor
--- Avoided infinite recursion --                 - Porine #Stub
+-- Avoided infinite recursion --                 - Porine 
 				- Spezielle integrale Membranproteine gramnegativer[Bakterien](Bakterien.md), die deren äußere Membran permeabel machen
-			- Periplasma #Stub
+			- Periplasma 
 				- Raum zwischen Zellmembran und äußerer Membran bei gramnegativen [Bakterien](Bakterien.md)
-			- Konjugation #Stub
+			- Konjugation 
 				- Genaustausch von [Bakterien](Bakterien.md) über Plasmid
-			- Protoplasten #Stub
+			- Protoplasten 
 				- Bezeichnung für den von der Zellwand eingeschlossenen Teil der Zelle bei [Bakterien](Bakterien.md), [📂Unfertiges/Pflanzen](%F0%9F%93%82Unfertiges/Pflanzen.md) und [Pilze (Fungi, Mycota)](Pilze-(Fungi,-Mycota).md)n
 		--------------------- Portal ---------------------
-			- Konjugation #Stub
+			- Konjugation 
 				- Genaustausch von [Bakterien](Bakterien.md) über Plasmid
-			- Periplasma #Stub
+			- Periplasma 
 				- Raum zwischen Zellmembran und äußerer Membran bei gramnegativen [Bakterien](Bakterien.md)
-			- Porine #Stub
+			- Porine 
 				- Spezielle integrale Membranproteine gramnegativer[Bakterien](Bakterien.md), die deren äußere Membran permeabel machen
 			- Biologie Bachelor
 -- Avoided infinite recursion --             - 

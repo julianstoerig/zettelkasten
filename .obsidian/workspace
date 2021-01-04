@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kräfte",
+                "query": "tag:#Stub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -119,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +149,7 @@
     "width": 280
   },
   "lastOpenFiles": [
+    "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
     "✒ Arbeitsplatz/Untitled.md",
     "📖 Logbuch/2021-01-04.md",
     "📅 Noch Einzutragen.md",
@@ -152,7 +158,6 @@
     "Geschwindigkeit.md",
     "✒ Arbeitsplatz/Freier Fall.md",
     "Atom.md",
-    "Nuklid.md",
-    "✒ Arbeitsplatz/Newtonsche Axiome.md"
+    "Nuklid.md"
   ]
 }
