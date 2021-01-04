@@ -1,3 +1,3 @@
-```mermaid
-A -> B
+```query
+
 ```
