@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4b691814c1e66aca",
+        "id": "acbb0705b43bb008",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
-            "mode": "source"
+            "file": "✒ Arbeitsplatz/Untitled.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
     "width": 280
   },
   "lastOpenFiles": [
-    "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
     "✒ Arbeitsplatz/Untitled.md",
+    "Python/Untitled.md",
+    "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
     "📖 Logbuch/2021-01-04.md",
     "📅 Noch Einzutragen.md",
     "📖 Logbuch/2021-01-03.md",
     "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
     "Geschwindigkeit.md",
     "✒ Arbeitsplatz/Freier Fall.md",
-    "Atom.md",
-    "Nuklid.md"
+    "Atom.md"
   ]
 }
