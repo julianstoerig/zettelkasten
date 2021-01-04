@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
+            "file": "📖 Logbuch/2021-01-04.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
+                "file": "📖 Logbuch/2021-01-04.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
+                "file": "📖 Logbuch/2021-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,11 +149,11 @@
     "width": 280
   },
   "lastOpenFiles": [
+    "📖 Logbuch/2021-01-04.md",
     "✒ Arbeitsplatz/Untitled.md",
     "Botanik.md",
     "Python/Untitled.md",
     "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
-    "📖 Logbuch/2021-01-04.md",
     "📅 Noch Einzutragen.md",
     "📖 Logbuch/2021-01-03.md",
     "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
