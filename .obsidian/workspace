@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.33334350585938
+    "width": 207.33334350585938,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "📖 Logbuch/2021-01-04.md",
