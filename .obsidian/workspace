@@ -65,14 +65,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "674589a60e55bcfe",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "507982df27520917",
             "type": "leaf",
             "state": {
