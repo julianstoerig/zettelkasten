@@ -2,4 +2,3 @@ Hier sammle ich Aufgaben, die noch zu erledigen sind, bevor ich sie am morgen ei
 
 ## Noch einzutragen
 
-- [>] testtask >[[2021-01-06]] ^task-3776
