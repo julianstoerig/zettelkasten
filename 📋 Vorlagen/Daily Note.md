@@ -12,10 +12,5 @@
 
 🌬: {{Wind}}
 
-## Aktivitäts-Log
-
-- [ ] Für 2 Stunden arbeiten
-- [ ] 
-
 ## Konversations-Log
 

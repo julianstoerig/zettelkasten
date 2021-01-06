@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d14fb68491fe7542",
+        "id": "6175b1351716e90b",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📋 Vorlagen/Daily Note.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +67,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +111,8 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
+    "📋 Vorlagen/Daily Note Breitbrunn.md",
     "📋 Vorlagen/Daily Note.md",
     "📖 Logbuch/2021-01-06.md",
     "📅 Noch Einzutragen.md",
@@ -123,8 +120,6 @@
     "📖 Logbuch/2021-01-04.md",
     "📖 Logbuch/2021-01-03.md",
     "📂Zettelstapel/Mathematik/Integration.md",
-    "allgemeine und Anorganische Chemie.md",
-    "📐 Stylesheet.md",
-    "Antioxidans.md"
+    "allgemeine und Anorganische Chemie.md"
   ]
 }
