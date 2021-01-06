@@ -2,4 +2,4 @@ Hier sammle ich Aufgaben, die noch zu erledigen sind, bevor ich sie am morgen ei
 
 ## Noch einzutragen
 
-- [ ] test task
+- [ ] test task 📅 every week on Tuesday, Thursday, Sunday
