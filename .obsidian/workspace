@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f4f4fc1fa59ae556",
+        "id": "909f11d82ea0616a",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅 Aufgaben.md",
+            "file": "📋 Vorlagen/Daily Note.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📅 Aufgaben.md",
+                "file": "📋 Vorlagen/Daily Note.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Aufgaben.md",
+                "file": "📋 Vorlagen/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +116,9 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
-    "📅 Noch Einzutragen.md",
-    "📖 Logbuch/2021-01-06.md",
     "📋 Vorlagen/Daily Note.md",
+    "📖 Logbuch/2021-01-06.md",
+    "📅 Noch Einzutragen.md",
     "📋 Vorlagen/Daily Note Breitbrunn.md",
     "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
     "📖 Logbuch/2021-01-05.md",
