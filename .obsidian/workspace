@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅 Noch Einzutragen.md",
+            "file": "📅 Aufgaben.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📅 Noch Einzutragen.md",
+                "file": "📅 Aufgaben.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Noch Einzutragen.md",
+                "file": "📅 Aufgaben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
