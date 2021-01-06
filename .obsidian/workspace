@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📖 Logbuch/2021-01-06.md",
-            "mode": "source"
+            "file": "📋 Vorlagen/Daily Note.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📖 Logbuch/2021-01-06.md",
+                "file": "📋 Vorlagen/Daily Note.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖 Logbuch/2021-01-06.md",
+                "file": "📋 Vorlagen/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📋 Vorlagen/Daily Note.md",
     "📖 Logbuch/2021-01-06.md",
     "📅 Noch Einzutragen.md",
     "📖 Logbuch/2021-01-05.md",
@@ -124,7 +125,6 @@
     "📂Zettelstapel/Mathematik/Integration.md",
     "allgemeine und Anorganische Chemie.md",
     "📐 Stylesheet.md",
-    "Antioxidans.md",
-    "✒ Arbeitsplatz/Radikalfänger.md"
+    "Antioxidans.md"
   ]
 }
