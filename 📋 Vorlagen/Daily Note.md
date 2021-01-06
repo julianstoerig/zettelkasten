@@ -12,5 +12,5 @@
 
 🌬: {{Wind}}
 
-## Konversations-Log
+## Konversationen
 

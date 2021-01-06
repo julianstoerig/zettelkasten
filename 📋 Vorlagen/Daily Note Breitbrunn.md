@@ -12,5 +12,5 @@
 
 🌬: {{WindBreitbrunn}}
 
-## Konversations-Log
+## Konversationen
 

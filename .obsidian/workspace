@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6175b1351716e90b",
+        "id": "f4f4fc1fa59ae556",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📅 Noch Einzutragen.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📅 Noch Einzutragen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📅 Noch Einzutragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,11 +116,11 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
-    "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
-    "📋 Vorlagen/Daily Note Breitbrunn.md",
-    "📋 Vorlagen/Daily Note.md",
-    "📖 Logbuch/2021-01-06.md",
     "📅 Noch Einzutragen.md",
+    "📖 Logbuch/2021-01-06.md",
+    "📋 Vorlagen/Daily Note.md",
+    "📋 Vorlagen/Daily Note Breitbrunn.md",
+    "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
     "📖 Logbuch/2021-01-05.md",
     "📖 Logbuch/2021-01-04.md",
     "📖 Logbuch/2021-01-03.md",
