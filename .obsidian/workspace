@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 Vorlagen/Daily Note.md",
+            "file": "📅 Aufgaben.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
+                "file": "📅 Aufgaben.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Vorlagen/Daily Note.md",
+                "file": "📅 Aufgaben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📅 Aufgaben.md",
+    "📋 Vorlagen/Daily Note Breitbrunn.md",
     "📋 Vorlagen/Daily Note.md",
     "📖 Logbuch/2021-01-06.md",
     "📅 Noch Einzutragen.md",
-    "📋 Vorlagen/Daily Note Breitbrunn.md",
     "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
     "📖 Logbuch/2021-01-05.md",
     "📖 Logbuch/2021-01-04.md",
     "📖 Logbuch/2021-01-03.md",
-    "📂Zettelstapel/Mathematik/Integration.md",
-    "allgemeine und Anorganische Chemie.md"
+    "📂Zettelstapel/Mathematik/Integration.md"
   ]
 }
