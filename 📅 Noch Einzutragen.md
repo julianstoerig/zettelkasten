@@ -1,5 +1,5 @@
-Hier sammle ich Aufgaben, die noch zu erledigen sind, bevor ich sie am morgen eines Tages in die "Zu Erledigen"-Kategorie eintrage.
+Hier sammle ich Alle Aufgaben, bevor sie einem Termin zugewiesen werden.
 
-## Noch einzutragen
+## Einmalige Tätigkeiten
 
-- [ ] test task 📅 every week on Tuesday, Thursday, Sunday
+## Regelm
