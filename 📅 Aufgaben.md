@@ -6,4 +6,4 @@ Hier sammle ich Alle Aufgaben, bevor sie einem Termin zugewiesen werden.
 
 ## Regelmäßige Aufgaben
 
-- [ ] Uni arbeiten
+- [ ] Uni Zeug 📅 every day ^task-jten

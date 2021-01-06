@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅 Aufgaben.md",
+            "file": "✒ Arbeitsplatz/Untitled 1.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📅 Aufgaben.md",
+                "file": "✒ Arbeitsplatz/Untitled 1.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Aufgaben.md",
+                "file": "✒ Arbeitsplatz/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Untitled 1.md",
+    "📖 Logbuch/2021-01-06.md",
     "📅 Aufgaben.md",
     "📋 Vorlagen/Daily Note Breitbrunn.md",
     "📋 Vorlagen/Daily Note.md",
-    "📖 Logbuch/2021-01-06.md",
     "📅 Noch Einzutragen.md",
     "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
     "📖 Logbuch/2021-01-05.md",
     "📖 Logbuch/2021-01-04.md",
-    "📖 Logbuch/2021-01-03.md",
-    "📂Zettelstapel/Mathematik/Integration.md"
+    "📖 Logbuch/2021-01-03.md"
   ]
 }
