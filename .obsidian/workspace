@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d4b3a7a28379c00e",
+        "id": "6346532b2464d178",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Rotation.md",
+            "file": "Winkelgeschwindigkeit.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md",
+                "file": "Winkelgeschwindigkeit.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Rotation.md",
+                "file": "Winkelgeschwindigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "Winkelgeschwindigkeit.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Radikalfänger.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
@@ -131,7 +132,6 @@
     "📖 Logbuch/2021-01-06.md",
     "📅 Aufgaben.md",
     "📋 Vorlagen/Daily Note Breitbrunn.md",
-    "📋 Vorlagen/Daily Note.md",
-    "📅 Noch Einzutragen.md"
+    "📋 Vorlagen/Daily Note.md"
   ]
 }
