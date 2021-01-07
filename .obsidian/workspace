@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0b1bb370f12d0542",
+        "id": "bc965f180c2d3ebb",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Stoffgemisch.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -25,7 +22,7 @@
       {
         "id": "e3ead141db9481f4",
         "type": "tabs",
-        "dimension": 58.532934131736525,
+        "dimension": 58.53293413173653,
         "children": [
           {
             "id": "58e389a8b5bf0b72",
@@ -56,7 +53,7 @@
       {
         "id": "3076d5943e2b5caa",
         "type": "tabs",
-        "dimension": 41.467065868263475,
+        "dimension": 41.46706586826347,
         "children": [
           {
             "id": "507982df27520917",
@@ -64,7 +61,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Stoffgemisch.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stoffgemisch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
