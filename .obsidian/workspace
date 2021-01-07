@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Newtonsche Axiome.md",
+            "file": "Stoffgemisch.md",
             "mode": "preview"
           }
         }
@@ -25,7 +25,7 @@
       {
         "id": "e3ead141db9481f4",
         "type": "tabs",
-        "dimension": 61.227544910179645,
+        "dimension": 58.532934131736525,
         "children": [
           {
             "id": "58e389a8b5bf0b72",
@@ -56,7 +56,7 @@
       {
         "id": "3076d5943e2b5caa",
         "type": "tabs",
-        "dimension": 38.772455089820355,
+        "dimension": 41.467065868263475,
         "children": [
           {
             "id": "507982df27520917",
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Newtonsche Axiome.md",
+                "file": "Stoffgemisch.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -77,12 +77,12 @@
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 0.616524216524217,
+                  "lineSizeMultiplier": 0.337321937321937,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.218842507415351
+                  "scale": 0.1318702852432775
                 }
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Newtonsche Axiome.md",
+                "file": "Stoffgemisch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Stoffgemisch.md",
+    "homogenes Stoffgemisch.md",
+    "1. Semester.md",
+    "Geschwindigkeit.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
     "✒ Arbeitsplatz/Pflanzenzelle.md",
     "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
     "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
     "✒ Arbeitsplatz/Botanik.md",
-    "Geschwindigkeit.md",
-    "Bahngeschwindigkeit.md",
-    "Winkelgeschwindigkeit.md",
-    "✒ Arbeitsplatz/Rotation.md",
-    "✒ Arbeitsplatz/Radikalfänger.md"
+    "Bahngeschwindigkeit.md"
   ]
 }
