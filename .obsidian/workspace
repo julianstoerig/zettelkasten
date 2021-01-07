@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Botanik.md",
+            "file": "✒ Arbeitsplatz/Rotation.md",
             "mode": "preview"
           }
         }
@@ -25,6 +25,7 @@
       {
         "id": "e3ead141db9481f4",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "58e389a8b5bf0b72",
@@ -55,6 +56,7 @@
       {
         "id": "3076d5943e2b5caa",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "507982df27520917",
@@ -62,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Botanik.md",
+                "file": "✒ Arbeitsplatz/Rotation.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Botanik.md",
+                "file": "✒ Arbeitsplatz/Rotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +123,15 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Rotation.md",
+    "✒ Arbeitsplatz/Radikalfänger.md",
+    "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
     "✒ Arbeitsplatz/Botanik.md",
     "✒ Arbeitsplatz/Untitled 1.md",
     "📖 Logbuch/2021-01-06.md",
     "📅 Aufgaben.md",
     "📋 Vorlagen/Daily Note Breitbrunn.md",
     "📋 Vorlagen/Daily Note.md",
-    "📅 Noch Einzutragen.md",
-    "📋 Vorlagen/Scientific Paper(Paper Titel hier einfügen).md",
-    "📖 Logbuch/2021-01-05.md",
-    "📖 Logbuch/2021-01-04.md"
+    "📅 Noch Einzutragen.md"
   ]
 }
