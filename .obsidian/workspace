@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Geschwindigkeit.md",
+            "file": "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Geschwindigkeit.md",
+                "file": "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschwindigkeit.md",
+                "file": "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
+    "✒ Arbeitsplatz/Botanik.md",
+    "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
     "Geschwindigkeit.md",
     "Bahngeschwindigkeit.md",
     "Winkelgeschwindigkeit.md",
     "✒ Arbeitsplatz/Rotation.md",
     "✒ Arbeitsplatz/Radikalfänger.md",
-    "✒ Arbeitsplatz/Kräftefreie Bewegung.md",
-    "✒ Arbeitsplatz/Botanik.md",
     "✒ Arbeitsplatz/Untitled 1.md",
-    "📖 Logbuch/2021-01-06.md",
-    "📅 Aufgaben.md"
+    "📖 Logbuch/2021-01-06.md"
   ]
 }
