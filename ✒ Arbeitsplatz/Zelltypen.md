@@ -1,3 +1,12 @@
+[[✒ Arbeitsplatz/Botanik]] [[VO Botanik]] [[VO Zoologie]] [[VO Mikrobiologie]] [[1. Semester]] [[2021-01-08]]
+
+---
+
+
+
+
+---
+
 [[📂Zettelstapel/Mikrobiologie/Bakteriengeißeln.md]]
 
 [[📂Zettelstapel/Mikrobiologie/Endosporen.md]]
