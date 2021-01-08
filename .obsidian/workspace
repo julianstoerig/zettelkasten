@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Botanik.md",
-            "mode": "preview"
+            "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Botanik.md",
+                "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Botanik.md",
+                "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Pflanzenzelle.md",
     "✒ Arbeitsplatz/Botanik.md",
     "✒ Arbeitsplatz/Untitled.md",
     "1. Semester.md",
@@ -132,7 +133,6 @@
     "Stoffgemisch.md",
     "homogenes Stoffgemisch.md",
     "Geschwindigkeit.md",
-    "✒ Arbeitsplatz/Newtonsche Axiome.md",
-    "✒ Arbeitsplatz/Pflanzenzelle.md"
+    "✒ Arbeitsplatz/Newtonsche Axiome.md"
   ]
 }
