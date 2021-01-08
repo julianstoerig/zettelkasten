@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Botanik.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -33,7 +30,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Stub",
+                "query": "x",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -50,8 +47,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3076d5943e2b5caa",
@@ -64,7 +60,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Botanik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Botanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +118,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📂Zettelstapel/Mikrobiologie/Pflanzen.md",
     "✒ Arbeitsplatz/Botanik.md",
     "✒ Arbeitsplatz/Pflanzenzelle.md",
     "✒ Arbeitsplatz/Untitled.md",
@@ -132,7 +127,6 @@
     "Antioxidans.md",
     "Stoffgemisch.md",
     "homogenes Stoffgemisch.md",
-    "Geschwindigkeit.md",
-    "✒ Arbeitsplatz/Newtonsche Axiome.md"
+    "Geschwindigkeit.md"
   ]
 }
