@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bc965f180c2d3ebb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Antioxidans.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "644062284ffe2caf",
+        "id": "4f23722c81929baa",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Atom.md",
+            "file": "✒ Arbeitsplatz/Botanik.md",
             "mode": "preview"
           }
         }
@@ -75,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atom.md",
+                "file": "✒ Arbeitsplatz/Botanik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atom.md",
+                "file": "✒ Arbeitsplatz/Botanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Botanik.md",
     "Atom.md",
     "Antioxidans.md",
     "Stoffgemisch.md",
@@ -143,7 +133,6 @@
     "Geschwindigkeit.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
     "✒ Arbeitsplatz/Pflanzenzelle.md",
-    "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md",
-    "✒ Arbeitsplatz/Kräftefreie Bewegung.md"
+    "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md"
   ]
 }
