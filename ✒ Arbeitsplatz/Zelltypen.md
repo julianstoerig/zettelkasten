@@ -2,7 +2,6 @@
 
 ---
 
-Organismen sind nach der Systematik in verschiedene Gruppen eingeteilt
 
 
 ---
