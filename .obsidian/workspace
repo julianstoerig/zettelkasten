@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4f23722c81929baa",
+        "id": "76c21009ac172b31",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zoologie/Systematik.md",
+            "file": "✒ Arbeitsplatz/Zellen.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3076d5943e2b5caa",
@@ -63,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zoologie/Systematik.md",
+                "file": "✒ Arbeitsplatz/Zellen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zoologie/Systematik.md",
+                "file": "✒ Arbeitsplatz/Zellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Zellen.md",
     "Zoologie/Systematik.md",
     "✒ Arbeitsplatz/Untitled 1.md",
     "✒ Arbeitsplatz/Botanik.md",
@@ -131,7 +133,6 @@
     "✒ Arbeitsplatz/Untitled.md",
     "1. Semester.md",
     "Atom.md",
-    "Antioxidans.md",
-    "Stoffgemisch.md"
+    "Antioxidans.md"
   ]
 }
