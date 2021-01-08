@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Zellen.md",
+            "file": "Zoologie/Systematik.md",
             "mode": "source"
           }
         }
@@ -33,7 +33,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Zelle",
+                "query": "systema",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -50,8 +50,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3076d5943e2b5caa",
@@ -64,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Zellen.md",
+                "file": "Zoologie/Systematik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Zellen.md",
+                "file": "Zoologie/Systematik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +123,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Zoologie/Systematik.md",
     "✒ Arbeitsplatz/Untitled 1.md",
     "✒ Arbeitsplatz/Botanik.md",
     "📂Zettelstapel/Mikrobiologie/Pflanzen.md",
@@ -132,7 +132,6 @@
     "1. Semester.md",
     "Atom.md",
     "Antioxidans.md",
-    "Stoffgemisch.md",
-    "homogenes Stoffgemisch.md"
+    "Stoffgemisch.md"
   ]
 }
