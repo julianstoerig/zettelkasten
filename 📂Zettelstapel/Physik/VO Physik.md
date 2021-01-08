@@ -8,7 +8,7 @@
 
 ## Eigenschaften von Körpern
 
-- [[✒ Arbeitsplatz/Schwerpunkt (Masse).md]]
+- [[📂Zettelstapel/Physik/Schwerpunkt (Masse)]]
 - [[📂Zettelstapel/Physik/Schwerpunkt (Volumen)]]
 - [[📂Zettelstapel/Physik/Starrer Körper]]
 

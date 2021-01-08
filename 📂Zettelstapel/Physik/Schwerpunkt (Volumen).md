@@ -10,4 +10,4 @@ $$
 \vec{r}_s=\frac{\sum\limits_i (\vec{r}_{s,i} \cdot V_i)}{\sum\limits_i V_i}
 $$
 
-In Körpern mit homogener Masseverteilung entspricht der **Volumenschwerpunkt** auch dem [[✒ Arbeitsplatz/Schwerpunkt (Masse)|Massenschwerpunkt]].
+In Körpern mit homogener Masseverteilung entspricht der **Volumenschwerpunkt** auch dem [[📂Zettelstapel/Physik/Schwerpunkt (Masse)|Massenschwerpunkt]].

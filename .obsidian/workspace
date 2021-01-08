@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
-            "mode": "source"
+            "file": "📂Zettelstapel/Physik/Schwerpunkt (Masse).md",
+            "mode": "preview"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
+                "file": "📂Zettelstapel/Physik/Schwerpunkt (Masse).md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
+                "file": "📂Zettelstapel/Physik/Schwerpunkt (Masse).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
