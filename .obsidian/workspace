@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Botanik.md",
+            "file": "1. Semester.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Botanik.md",
+                "file": "1. Semester.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Botanik.md",
+                "file": "1. Semester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +124,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "1. Semester.md",
     "✒ Arbeitsplatz/Botanik.md",
     "Atom.md",
     "Antioxidans.md",
     "Stoffgemisch.md",
     "homogenes Stoffgemisch.md",
-    "1. Semester.md",
     "Geschwindigkeit.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
     "✒ Arbeitsplatz/Pflanzenzelle.md",

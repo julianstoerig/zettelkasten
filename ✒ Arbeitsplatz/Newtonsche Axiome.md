@@ -1,4 +1,4 @@
-[[Physik]] [[VO Physik]] [[1. Semester]] [[2021-01-02]]
+[[Physik]] [[📂Zettelstapel/Physik/VO Physik]] [[1. Semester]] [[2021-01-02]]
 
 ---
 
@@ -24,4 +24,4 @@ $$
 
 ## Das Superpositionsprinzip
 
-Das [[✒ Arbeitsplatz/Superpositionsprinzip|Superpositionsprinzip]] wird häufig als viertes Newtonsches Axiom genannt.
+Das [[📂Zettelstapel/Physik/Superpositionsprinzip|Superpositionsprinzip]] wird häufig als viertes Newtonsches Axiom genannt.

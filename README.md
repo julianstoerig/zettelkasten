@@ -16,7 +16,7 @@ Auf dieser Seite veröffentliche ich **meine Aufzeichnungen** von denen die meis
 
 ## Kurse
 
-[[✒ Arbeitsplatz/VO Physik|VO Physik]]
+[[📂Zettelstapel/Physik/VO Physik|VO Physik]]
 
 [[VO Botanik|VO Botanik]]
 [[VO Mikrobiologie|Mikrobiologie]]
