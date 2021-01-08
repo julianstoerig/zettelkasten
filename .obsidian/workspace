@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Untitled.md",
+            "file": "✒ Arbeitsplatz/Botanik.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md",
+                "file": "✒ Arbeitsplatz/Botanik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md",
+                "file": "✒ Arbeitsplatz/Botanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +124,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Botanik.md",
     "✒ Arbeitsplatz/Untitled.md",
     "1. Semester.md",
-    "✒ Arbeitsplatz/Botanik.md",
     "Atom.md",
     "Antioxidans.md",
     "Stoffgemisch.md",
