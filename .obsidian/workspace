@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
+            "file": "✒ Arbeitsplatz/Botanik.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
+                "file": "✒ Arbeitsplatz/Botanik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
+                "file": "✒ Arbeitsplatz/Botanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Pflanzenzelle.md",
     "✒ Arbeitsplatz/Botanik.md",
+    "✒ Arbeitsplatz/Pflanzenzelle.md",
     "✒ Arbeitsplatz/Untitled.md",
     "1. Semester.md",
     "Atom.md",
