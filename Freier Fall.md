@@ -1,4 +1,4 @@
-Der **Freie Fall** ist im Vakuum eine [[✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung|gleichmäßig beschleunigte Bewegung]]. In der Erdatmosphäre ist er hingegen durch [[Luftwiderstand|Luftwiderstand]] so verändert, dass theoretisch nach einer gewissen Zeit eine Maximalgeschwindigkeit $v_{max}$ erreicht wird, die sog. **Terminalgeschwindigkeit**, die sich z.B. Vögel und Fallschirmspringer zu Nutze machen, wenn sie aus großer Höhe abspringen.
+Der **Freie Fall** ist im Vakuum eine [[📂Zettelstapel/Physik/Bewegung mit konstanter Beschleunigung|gleichmäßig beschleunigte Bewegung]]. In der Erdatmosphäre ist er hingegen durch [[Luftwiderstand|Luftwiderstand]] so verändert, dass theoretisch nach einer gewissen Zeit eine Maximalgeschwindigkeit $v_{max}$ erreicht wird, die sog. **Terminalgeschwindigkeit**, die sich z.B. Vögel und Fallschirmspringer zu Nutze machen, wenn sie aus großer Höhe abspringen.
 
 Auch kurze Zeiträume ohne Bodenkontakt, wie z.B. ein Sprung, lassen sich als **freier Fall**
  beschreiben.

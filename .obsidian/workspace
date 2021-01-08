@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Semester.md",
+            "file": "✒ Arbeitsplatz/Untitled.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. Semester.md",
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Semester.md",
+                "file": "✒ Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Untitled.md",
     "1. Semester.md",
     "✒ Arbeitsplatz/Botanik.md",
     "Atom.md",
@@ -132,7 +133,6 @@
     "homogenes Stoffgemisch.md",
     "Geschwindigkeit.md",
     "✒ Arbeitsplatz/Newtonsche Axiome.md",
-    "✒ Arbeitsplatz/Pflanzenzelle.md",
-    "✒ Arbeitsplatz/Bewegung mit konstanter Beschleunigung.md"
+    "✒ Arbeitsplatz/Pflanzenzelle.md"
   ]
 }

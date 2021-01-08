@@ -18,9 +18,9 @@ Bewegung ist die Veränderung des Ortes, relativ zu einem Bezugssystem, in der Z
 
 ### Arten der Bewegung
 
-- [[✒ Arbeitsplatz/Kräftefreie Bewegung.md]]
+- [[📂Zettelstapel/Physik/Kräftefreie Bewegung]]
 - [[Translation (Physik)]]
-- [[✒ Arbeitsplatz/Rotation.md]]
+- [[📂Zettelstapel/Physik/Rotation]]
 	- [[Winkelgeschwindigkeit]]
 	- [[Bahngeschwindigkeit]]
 
