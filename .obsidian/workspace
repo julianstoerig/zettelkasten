@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "🛠 - Methodik/Untitled.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "🛠 - Methodik/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "🛠 - Methodik/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "🛠 - Methodik/Untitled.md",
     "Untitled.md",
     "1. Semester.md",
     "✒ Arbeitsplatz/Zellen.md",
@@ -132,7 +133,6 @@
     "✒ Arbeitsplatz/Pflanzenzelle.md",
     "✒ Arbeitsplatz/Untitled.md",
     "Physik.md",
-    "Atom.md",
-    "Nuklid.md"
+    "Atom.md"
   ]
 }
