@@ -1,1 +1,1 @@
-**Note** ist eine Bezeichnung fürf
+**Note** ist eine Bezeichnung für eine [[Atomic Notes|gewissen Standards]] folgende
