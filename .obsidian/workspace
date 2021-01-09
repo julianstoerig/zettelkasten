@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "22f208b859384a2f",
+        "id": "8d9a52ec8b4efd9c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📅 - Logbuch/2021-01-09.md",
+            "file": "🛠 - Methodik/⏰ - Morgenroutine.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📅 - Logbuch/2021-01-09.md",
+                "file": "🛠 - Methodik/⏰ - Morgenroutine.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 - Logbuch/2021-01-09.md",
+                "file": "🛠 - Methodik/⏰ - Morgenroutine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "🛠 - Methodik/⏰ - Morgenroutine.md",
+    "🛠 - Methodik/📋 - Vorlagen/Daily Note Breitbrunn.md",
+    "🛠 - Methodik/📋 - Vorlagen/Daily Note.md",
     "📅 - Logbuch/2021-01-09.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📋 - Vorlagen/Mikrobiologie.md",
     "📋 - Vorlagen/Daily Note.md",
     "📋 - Vorlagen/Daily Note Breitbrunn.md",
     "📋 - Vorlagen/Mathematik.md",
-    "🛠 - Methodik/Untitled.md",
-    "Untitled.md",
-    "1. Semester.md",
-    "✒ Arbeitsplatz/Zellen.md"
+    "🛠 - Methodik/Untitled.md"
   ]
 }
