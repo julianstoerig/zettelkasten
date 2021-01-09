@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -61,6 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "1. Semester.md",
     "✒ Arbeitsplatz/Zellen.md",
     "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
@@ -127,7 +133,6 @@
     "✒ Arbeitsplatz/Untitled.md",
     "Physik.md",
     "Atom.md",
-    "Nuklid.md",
-    "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md"
+    "Nuklid.md"
   ]
 }

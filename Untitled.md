@@ -1,0 +1,1 @@
+[test](C:\Users\julia\zettelkasten\.obsidian\snippets\)
