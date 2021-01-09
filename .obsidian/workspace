@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "✒ Arbeitsplatz/Zellen.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -22,7 +25,7 @@
       {
         "id": "e3ead141db9481f4",
         "type": "tabs",
-        "dimension": 58.53293413173653,
+        "dimension": 59.46745562130178,
         "children": [
           {
             "id": "58e389a8b5bf0b72",
@@ -53,7 +56,7 @@
       {
         "id": "3076d5943e2b5caa",
         "type": "tabs",
-        "dimension": 41.46706586826347,
+        "dimension": 40.532544378698226,
         "children": [
           {
             "id": "507982df27520917",
@@ -61,6 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "✒ Arbeitsplatz/Zellen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "✒ Arbeitsplatz/Zellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,8 +124,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "1. Semester.md",
     "✒ Arbeitsplatz/Zellen.md",
+    "1. Semester.md",
     "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
     "✒ Arbeitsplatz/Botanik.md",
     "✒ Arbeitsplatz/Pflanzenzelle.md",
