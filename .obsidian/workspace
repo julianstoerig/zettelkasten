@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/test.md",
-            "mode": "source"
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "preview"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/test.md",
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/test.md",
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +125,7 @@
   },
   "lastOpenFiles": [
     "📝 - Arbeitsplatz/Untitled.md",
+    "📝 - Arbeitsplatz/test.md",
     "🟥 - Aufgaben.md",
     "📎 - Anhänge/Botanik_alle_Teile.pdf",
     "📎 - Anhänge/EngelsFMarxKH_ManifestKommunistischen_s.pdf",
@@ -132,7 +133,6 @@
     "🛠 - Methodik/📋 - Vorlagen/Daily Note Breitbrunn.md",
     "🛠 - Methodik/📋 - Vorlagen/Daily Note.md",
     "📅 - Logbuch/2021-01-09.md",
-    "📋 - Vorlagen/Mikrobiologie.md",
-    "📋 - Vorlagen/Daily Note.md"
+    "📋 - Vorlagen/Mikrobiologie.md"
   ]
 }

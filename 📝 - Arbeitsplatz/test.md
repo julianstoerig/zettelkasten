@@ -1,2 +1,3 @@
 ---
-alias: a no
+alias: aNoteThatLinksToA[[🛠 - Methodik/📋 - Vorlagen/Daily Note]]
+---
