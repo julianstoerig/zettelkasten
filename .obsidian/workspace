@@ -10,6 +10,17 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "✒ Arbeitsplatz/Botanik.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "ba9c6af4c9557e36",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
             "mode": "preview"
           }
@@ -64,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
+                "file": "✒ Arbeitsplatz/Botanik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
+                "file": "✒ Arbeitsplatz/Botanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,10 +135,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Botanik.md",
     "✒ Arbeitsplatz/Pflanzenzelle.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
-    "✒ Arbeitsplatz/Botanik.md",
     "✒ Arbeitsplatz/Zellen.md",
     "Zoologie/Systematik.md",
     "✒ Arbeitsplatz/Untitled 1.md",
