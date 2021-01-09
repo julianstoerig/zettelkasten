@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "🟥 - Aufgaben.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -61,6 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "🟥 - Aufgaben.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🟥 - Aufgaben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +123,9 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "🟥 - Aufgaben.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/test.md",
-    "🟥 - Aufgaben.md",
     "📎 - Anhänge/Botanik_alle_Teile.pdf",
     "📎 - Anhänge/EngelsFMarxKH_ManifestKommunistischen_s.pdf",
     "🛠 - Methodik/⏰ - Morgenroutine.md",
