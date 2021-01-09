@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 - Vorlagen/Daily Note.md",
+            "file": "📋 - Vorlagen/Daily Note Breitbrunn.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 - Vorlagen/Daily Note.md",
+                "file": "📋 - Vorlagen/Daily Note Breitbrunn.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 - Vorlagen/Daily Note.md",
+                "file": "📋 - Vorlagen/Daily Note Breitbrunn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📋 - Vorlagen/Daily Note Breitbrunn.md",
+    "📋 - Vorlagen/Mathematik.md",
     "📋 - Vorlagen/Daily Note.md",
     "📅 - Logbuch/2021-01-09.md",
     "🛠 - Methodik/Untitled.md",
@@ -131,8 +133,6 @@
     "1. Semester.md",
     "✒ Arbeitsplatz/Zellen.md",
     "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
-    "✒ Arbeitsplatz/Botanik.md",
-    "✒ Arbeitsplatz/Pflanzenzelle.md",
-    "✒ Arbeitsplatz/Untitled.md"
+    "✒ Arbeitsplatz/Botanik.md"
   ]
 }
