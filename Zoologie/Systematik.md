@@ -1,4 +1,4 @@
-[[🛠 - Methodik/📋 - Vorlagen/Mikrobiologie]] [[Zoologie]] [[📝 - Arbeitsplatz/Botanik]] [[VO Mikrobiologie]] [[VO Zoologie]] [[VO Botanik]] [[1. Semester]]
+[[System/📋 - Vorlagen/Mikrobiologie]] [[Zoologie]] [[📝 - Arbeitsplatz/Botanik]] [[VO Mikrobiologie]] [[VO Zoologie]] [[VO Botanik]] [[1. Semester]]
 
 ---
 

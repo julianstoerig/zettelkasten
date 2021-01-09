@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🛠 - Methodik/⏰ - Morgenroutine.md",
-            "mode": "preview"
+            "file": "System/🛠 - Methodik.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🛠 - Methodik/⏰ - Morgenroutine.md",
+                "file": "System/🛠 - Methodik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠 - Methodik/⏰ - Morgenroutine.md",
+                "file": "System/🛠 - Methodik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "System/Untitled.md",
     "🛠 - Methodik/⏰ - Morgenroutine.md",
     "📝 - Arbeitsplatz/test.md",
     "🟥 - Aufgaben.md",
@@ -131,7 +132,6 @@
     "📎 - Anhänge/EngelsFMarxKH_ManifestKommunistischen_s.pdf",
     "🛠 - Methodik/📋 - Vorlagen/Daily Note Breitbrunn.md",
     "🛠 - Methodik/📋 - Vorlagen/Daily Note.md",
-    "📅 - Logbuch/2021-01-09.md",
-    "📋 - Vorlagen/Mikrobiologie.md"
+    "📅 - Logbuch/2021-01-09.md"
   ]
 }
