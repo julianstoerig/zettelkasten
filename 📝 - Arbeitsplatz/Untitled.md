@@ -1,1 +1,0 @@
-[[📝 - Arbeitsplatz/test|aNoteThatLinksToA[[🛠 - Methodik/📋 - Vorlagen/Daily Note]]]]
