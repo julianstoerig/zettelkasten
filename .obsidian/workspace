@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Untitled.md",
-            "mode": "preview"
+            "file": "📅 - Logbuch/2021-01-09.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "📅 - Logbuch/2021-01-09.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "📅 - Logbuch/2021-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +124,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📅 - Logbuch/2021-01-09.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📋 - Vorlagen/Mikrobiologie.md",
     "📋 - Vorlagen/Daily Note.md",
     "📋 - Vorlagen/Daily Note Breitbrunn.md",
     "📋 - Vorlagen/Mathematik.md",
-    "📅 - Logbuch/2021-01-09.md",
     "🛠 - Methodik/Untitled.md",
     "Untitled.md",
     "1. Semester.md",
