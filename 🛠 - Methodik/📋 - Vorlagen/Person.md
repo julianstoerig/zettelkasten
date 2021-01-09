@@ -1,4 +1,4 @@
-[[📋 - Vorlagen/Person]] [[Kenne woher]] [[{{tp_today}}]]
+[[🛠 - Methodik/📋 - Vorlagen/Person]] [[Kenne woher]] [[{{tp_today}}]]
 
 ## Eigenschaften / Vorlieben
 

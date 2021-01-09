@@ -1,4 +1,4 @@
-[[📋 - Vorlagen/Mathematik]] [[nicht Uni]] [[2021-01-03]]
+[[🛠 - Methodik/📋 - Vorlagen/Mathematik]] [[nicht Uni]] [[2021-01-03]]
 
 ---
 
