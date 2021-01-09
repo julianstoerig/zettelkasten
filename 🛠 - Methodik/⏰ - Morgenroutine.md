@@ -8,4 +8,4 @@ Hier schreibe ich nach den Morgenseiten meine konkrete Aufgabenplanung für den 
 
 ## Konversationen
 
-Hier führe ich eine Liste der Konversationen des Tages und aller relevanten Inhalte. Ist die Unte
+Hier führe ich eine Liste der Konversationen des Tages und aller relevanten Inhalte.
