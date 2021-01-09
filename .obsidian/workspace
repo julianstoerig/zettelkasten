@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "76c21009ac172b31",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Atom.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "ab2f5c866eb735df",
+        "id": "78e125a934d72519",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Physik.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -75,7 +61,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -118,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
