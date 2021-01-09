@@ -6,11 +6,22 @@
       {
         "id": "76c21009ac172b31",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Atom.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "ab2f5c866eb735df",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Physik.md",
             "mode": "preview"
           }
         }
@@ -64,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atom.md",
+                "file": "Physik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atom.md",
+                "file": "Physik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +135,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Physik.md",
     "Atom.md",
     "Nuklid.md",
     "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
@@ -132,7 +144,6 @@
     "✒ Arbeitsplatz/Pflanzenzelle.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
-    "✒ Arbeitsplatz/Zellen.md",
-    "✒ Arbeitsplatz/Untitled 1.md"
+    "✒ Arbeitsplatz/Zellen.md"
   ]
 }
