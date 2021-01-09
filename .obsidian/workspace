@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/🛠 - Methodik.md",
-            "mode": "preview"
+            "file": "📝 - Arbeitsplatz/first class citizens.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/🛠 - Methodik.md",
+                "file": "📝 - Arbeitsplatz/first class citizens.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/🛠 - Methodik.md",
+                "file": "📝 - Arbeitsplatz/first class citizens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/first class citizens.md",
     "System/🛠 - Methodik.md",
     "📝 - Arbeitsplatz/Note.md",
     "System/Untitled.md",
@@ -131,7 +132,6 @@
     "🟥 - Aufgaben.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📎 - Anhänge/Botanik_alle_Teile.pdf",
-    "📎 - Anhänge/EngelsFMarxKH_ManifestKommunistischen_s.pdf",
-    "🛠 - Methodik/📋 - Vorlagen/Daily Note Breitbrunn.md"
+    "📎 - Anhänge/EngelsFMarxKH_ManifestKommunistischen_s.pdf"
   ]
 }
