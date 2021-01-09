@@ -1,1 +1,1 @@
-[test.py](file://C:\users\julia\general-python\test.txt)
+[test.py](file:///C:/users/julia/general-python/test.txt)
