@@ -1,1 +1,0 @@
-Der [[Python/Datatypes|Datentyp]] **Float** bezeichnet 
