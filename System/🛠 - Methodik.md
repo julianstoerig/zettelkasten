@@ -1,1 +1,1 @@
-In meinem System sind **Notes** **first-class-citizens**
+In meinem System sind [[Note|Notes]] **first-class-citizens**
