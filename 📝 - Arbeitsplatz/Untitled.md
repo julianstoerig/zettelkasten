@@ -1,1 +1,1 @@
-[link](file:///C:/Users/julia/Desktop/test.txt)
+![[📎 - Anhänge/Botanik_alle_Teile.pdf]]
