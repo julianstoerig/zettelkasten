@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🟥 - Aufgaben.md",
-            "mode": "preview"
+            "file": "📝 - Arbeitsplatz/test [[Aerosol]].md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🟥 - Aufgaben.md",
+                "file": "📝 - Arbeitsplatz/test [[Aerosol]].md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟥 - Aufgaben.md",
+                "file": "📝 - Arbeitsplatz/test [[Aerosol]].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "🟥 - Aufgaben.md",
     "📝 - Arbeitsplatz/Untitled.md",
+    "🟥 - Aufgaben.md",
     "📎 - Anhänge/Botanik_alle_Teile.pdf",
     "📎 - Anhänge/EngelsFMarxKH_ManifestKommunistischen_s.pdf",
     "🛠 - Methodik/⏰ - Morgenroutine.md",
