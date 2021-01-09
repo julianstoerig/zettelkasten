@@ -1,1 +1,1 @@
-**Note** ist eine Bezeichnung für eine [[Atomic Notes|gewissen Standards]] folgende
+**Note** ist eine Bezeichnung für eine [[Atomic Notes|gewissen Standards]] folgende `.md` Markdown-Textdatei.

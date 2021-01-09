@@ -6,22 +6,11 @@
       {
         "id": "00f9236f730b71f3",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "System/🛠 - Methodik.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a06befbac76942da",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Note.md",
+            "file": "System/🛠 - Methodik.md",
             "mode": "preview"
           }
         }
@@ -75,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Note.md",
+                "file": "System/🛠 - Methodik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Note.md",
+                "file": "System/🛠 - Methodik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +123,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "System/🛠 - Methodik.md",
     "📝 - Arbeitsplatz/Note.md",
     "System/Untitled.md",
     "🛠 - Methodik/⏰ - Morgenroutine.md",
@@ -142,7 +132,6 @@
     "📝 - Arbeitsplatz/Untitled.md",
     "📎 - Anhänge/Botanik_alle_Teile.pdf",
     "📎 - Anhänge/EngelsFMarxKH_ManifestKommunistischen_s.pdf",
-    "🛠 - Methodik/📋 - Vorlagen/Daily Note Breitbrunn.md",
-    "🛠 - Methodik/📋 - Vorlagen/Daily Note.md"
+    "🛠 - Methodik/📋 - Vorlagen/Daily Note Breitbrunn.md"
   ]
 }
