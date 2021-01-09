@@ -1,0 +1,31 @@
+[[📄 - Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
+
+---
+
+- gram-
+- Stäbchen
+- aerob
+- auf Spezialmedien kultivierbar
+- Habitat: Feuchtbiotop
+- Infektionsquelle: Warm- und Kaltwassersysteme, Kühltürme, Befeuchter von Klimaanlagen, Whirlpools
+- hohe Resistenz: erst bei 63°C abgetötet
+- Übertragung
+	- [[Aerosol]]
+- Erreger von
+	- Legionärskrankheit
+		- Multifokale (= Erkrankung macht sich an mehreren Orten im Körper gleichzeitig bemerkbar) Pneumonie
+		- Letalität 10%
+		- Pontiac-Fieber
+			- ohne Pneumonie
+			- Fieber
+- 
+--------------------- Portal ---------------------
+	- Biologie Bachelor
+		- Mikrobiologie
+			- Prokaryoten
+				- Bakterien
+					- Pathogene Bakterien:
+						- Humanpathogene Bakterien:
+							- Ausgewählte Vertreter: 
+								- Gram-negativ:
+									- [Legionella pneumoniae](%F0%9F%93%84%20-%20Zettelstapel/Mikrobiologie/Legionella-pneumoniae.md)

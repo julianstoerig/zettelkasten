@@ -1,4 +1,4 @@
-[[Physik]] [[Zettelstapel/Physik/VO Physik]] [[1. Semester]] [[2021-01-02]]
+[[Physik]] [[📄 - Zettelstapel/Physik/VO Physik]] [[1. Semester]] [[2021-01-02]]
 
 ---
 

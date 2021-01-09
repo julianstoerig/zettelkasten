@@ -1,0 +1,36 @@
+[[📄 - Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]]
+
+---
+
+- Gattung
+- gram+
+- Stäbchen
+- bilden Endosporen
+- im Boden und Darmtrakt (Mensch, Tier)
+- Auslöser für Krankheitsbild
+	- Exotoxine
+	- Exoenzyme
+	- (exo ausgeschieden)
+- Arten
+	-  __C. perfringens__ 
+		- Gasbrand
+		- Kontamination von Wunden
+	-  __C. tetani__ 
+		- löst Tetanus (Wundstarrkrampf) aus
+		- gelangt durch tiefe Wunden in Körper $$ \rightarrow $$ Auskeimung von Endosporen im anoxischen Bereich
+		- produziert [📄 - Zettelstapel/Mikrobiologie/Tetanustoxin](%F0%9F%93%84%20-%20Zettelstapel/Mikrobiologie/Tetanustoxin.md)
+	-  __C. botulinum__ ::  __:__ 
+		- Nahrungsmittelvergiftung
+		- Biowaffe
+		- Botox
+		- produziert Botulinumtoxin (zählt zu den stärksten bekannten Toxinen):
+			- hemmen die Reizleitung im Bereich der motorischen Endplatten, die Freisetzung von Acetylcholin wird blockiert Verhinderung der Muskelkontraktion$$ \rightarrow $$ (schlaffe) Lähmung$$ \rightarrow  $$ Tod durch Atemlähmung
+--------------------- Portal ---------------------
+	- Biologie Bachelor
+		- Mikrobiologie
+			- Prokaryoten
+				- Bakterien
+					- Pathogene Bakterien:
+						- Humanpathogene Bakterien:
+							- Gram-positiv: ____ 
+								- Gattung __ __ [📄 - Zettelstapel/Mikrobiologie/Clostridium](%F0%9F%93%84%20-%20Zettelstapel/Mikrobiologie/Clostridium.md)
