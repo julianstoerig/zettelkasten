@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🛠 - Methodik/⏰ - Morgenroutine.md",
+            "file": "📋 - Vorlagen/Daily Note.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🛠 - Methodik/⏰ - Morgenroutine.md",
+                "file": "📋 - Vorlagen/Daily Note.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠 - Methodik/⏰ - Morgenroutine.md",
+                "file": "📋 - Vorlagen/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📋 - Vorlagen/Daily Note.md",
+    "📅 - Logbuch/2021-01-09.md",
     "🛠 - Methodik/Untitled.md",
     "Untitled.md",
     "1. Semester.md",
@@ -131,8 +133,6 @@
     "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
     "✒ Arbeitsplatz/Botanik.md",
     "✒ Arbeitsplatz/Pflanzenzelle.md",
-    "✒ Arbeitsplatz/Untitled.md",
-    "Physik.md",
-    "Atom.md"
+    "✒ Arbeitsplatz/Untitled.md"
   ]
 }
