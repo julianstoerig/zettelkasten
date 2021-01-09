@@ -6,7 +6,7 @@ Auf dieser Seite veröffentliche ich **meine Aufzeichnungen** von denen die meis
 
 [[Physik]]
 
-[[📂Zettelstapel/Mikrobiologie/Mikrobiologie]]
+[[Zettelstapel/Mikrobiologie/Mikrobiologie]]
 
 [[Zoologie]]
 
@@ -16,7 +16,7 @@ Auf dieser Seite veröffentliche ich **meine Aufzeichnungen** von denen die meis
 
 ## Kurse
 
-[[📂Zettelstapel/Physik/VO Physik|VO Physik]]
+[[Zettelstapel/Physik/VO Physik|VO Physik]]
 
 [[VO Botanik|VO Botanik]]
 [[VO Mikrobiologie|Mikrobiologie]]

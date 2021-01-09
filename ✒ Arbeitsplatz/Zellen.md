@@ -1,4 +1,4 @@
-[[✒ Arbeitsplatz/Botanik]] [[Zoologie]] [[📂Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Botanik]] [[VO Zoologie]] [[VO Mikrobiologie]] [[1. Semester]] [[2021-01-08]]
+[[✒ Arbeitsplatz/Botanik]] [[Zoologie]] [[Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Botanik]] [[VO Zoologie]] [[VO Mikrobiologie]] [[1. Semester]] [[2021-01-08]]
 
 ---
 
@@ -18,40 +18,40 @@ Zellen
 
 ---
 
-[[📂Zettelstapel/Mikrobiologie/Bakteriengeißeln.md]]
+[[Zettelstapel/Mikrobiologie/Bakteriengeißeln]]
 
-[[📂Zettelstapel/Mikrobiologie/Endosporen.md]]
+[[Zettelstapel/Mikrobiologie/Endosporen]]
 
-[[📂Zettelstapel/Mikrobiologie/Helicobacter-pylori.md]]
+[[Zettelstapel/Mikrobiologie/Helicobacter-pylori]]
 
-[[📂Zettelstapel/Mikrobiologie/HIV.md]]
+[[Zettelstapel/Mikrobiologie/HIV]]
 
-[[📂Zettelstapel/Mikrobiologie/Humanes-Mikrobiom.md]]
+[[Zettelstapel/Mikrobiologie/Humanes-Mikrobiom]]
 
 [[Keimbahn -Soma.md]]
 
-[[📂Zettelstapel/Mikrobiologie/Magnetosomen.md]]
+[[Zettelstapel/Mikrobiologie/Magnetosomen]]
 
 [[Metazoa.md]]
 
-[[📂Zettelstapel/Mikrobiologie/Mikrobiologie.md]]
+[[Zettelstapel/Mikrobiologie/Mikrobiologie]]
 
-[[📂Zettelstapel/Mikrobiologie/Mikroorganismus.md]]
+[[Zettelstapel/Mikrobiologie/Mikroorganismus]]
 
 [[✒ Arbeitsplatz/Pflanzenzelle.md]]
 
-[[📂Zettelstapel/Mikrobiologie/Protoplasten.md]]
+[[Zettelstapel/Mikrobiologie/Protoplasten]]
 
-[[📂Zettelstapel/Mikrobiologie/Pseuodplasmodium.md]]
+[[Zettelstapel/Mikrobiologie/Pseuodplasmodium]]
 
 [[Zoologie/Systematik.md]]
 
-[[📂Zettelstapel/Mikrobiologie/T-Lymphozyten.md]]
+[[Zettelstapel/Mikrobiologie/T-Lymphozyten]]
 
-[[📂Zettelstapel/Mikrobiologie/Virion.md]]
+[[Zettelstapel/Mikrobiologie/Virion]]
 
-[[📂Zettelstapel/Mikrobiologie/Virus.md]]
+[[Zettelstapel/Mikrobiologie/Virus]]
 
-[[📂Zettelstapel/Mikrobiologie/Virushülle.md]]
+[[Zettelstapel/Mikrobiologie/Virushülle]]
 
 [[Zoologie.md]]

@@ -12,7 +12,7 @@ Ihm ihm stehen verwandte [[chemisches Element|chemische Elemente]] nebeneinander
 
 ![[Gruppen und Perioden farblich markiert.png]]
 
-Das **PSE** ist in 7 *Perioden* von Oben nach unten eingeteilt., dabei steht jede Periode von oben für die Füllung eben jener Schale in der [[📂Zettelstapel/Allgemeine und Anorganische Chemie/Elektronenkonfiguration]] der [[chemisches Element|Elemente]] der Periode (Bsp.: $\ce{Be}$ ist in der 2. Periode, bei $\ce{Be}$ wird also die 2. Schale gefüllt). 
+Das **PSE** ist in 7 *Perioden* von Oben nach unten eingeteilt., dabei steht jede Periode von oben für die Füllung eben jener Schale in der [[Zettelstapel/Allgemeine und Anorganische Chemie/Elektronenkonfiguration]] der [[chemisches Element|Elemente]] der Periode (Bsp.: $\ce{Be}$ ist in der 2. Periode, bei $\ce{Be}$ wird also die 2. Schale gefüllt). 
 
 ### Gruppen
 
@@ -22,7 +22,7 @@ Das **PSE** ist in 7 *Perioden* von Oben nach unten eingeteilt., dabei steht jed
 
 Es ist in 18 *Gruppen* geteilt, von denen die wichtigsten hier genannt sind.
 
-An der Struktur des **PSE** lässt sich auch erkennen, bei der [[📂Zettelstapel/Allgemeine und Anorganische Chemie/Elektronenkonfiguration]] welcher [[chemisches Element|Elemente]], welche [[📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbitale]] zur Ionisierung gefüllt bzw. geleert werden müssen:
+An der Struktur des **PSE** lässt sich auch erkennen, bei der [[Zettelstapel/Allgemeine und Anorganische Chemie/Elektronenkonfiguration]] welcher [[chemisches Element|Elemente]], welche [[📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbitale]] zur Ionisierung gefüllt bzw. geleert werden müssen:
 
 | Gruppen                                                     | Orbitale                  |
 | ----------------------------------------------------------- | ------------------------- |
