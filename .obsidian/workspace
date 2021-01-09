@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "736754f9f453859c",
+        "id": "22f208b859384a2f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "🛠 - Methodik/📋 - Vorlagen/Mikrobiologie.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -64,7 +61,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🛠 - Methodik/📋 - Vorlagen/Mikrobiologie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠 - Methodik/📋 - Vorlagen/Mikrobiologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
