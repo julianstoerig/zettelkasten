@@ -10,8 +10,8 @@ Da dies energetisch sehr ungünstig ist, sind diese Elektronen extrem reaktiv.
 
 ### $\ce{Cl}$ Radikal
 
-![[Pasted image 20201217133004.png]]
+![[📎 - Anhänge/Pasted image 20201217133004.png]]
 
 ### Biradikaler $\ce{O2}$
 
-![[Pasted image 20201217133224.png]]
+![[📎 - Anhänge/Pasted image 20201217133224.png]]

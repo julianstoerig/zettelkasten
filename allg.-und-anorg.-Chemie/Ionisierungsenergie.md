@@ -12,4 +12,4 @@ $$
 
 **Ionisierungsenergie** im gekürzten [[Periodensystem der Elemente|PSE]] ohne Lanthanide und Actinide.
 
-![[Pasted image 20201217162217.png]]
+![[📎 - Anhänge/Pasted image 20201217162217.png]]

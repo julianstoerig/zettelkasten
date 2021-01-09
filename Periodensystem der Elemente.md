@@ -10,7 +10,7 @@ Ihm ihm stehen verwandte [[chemisches Element|chemische Elemente]] nebeneinander
 
 ### Perioden
 
-![[Gruppen und Perioden farblich markiert.png]]
+![[📎 - Anhänge/Gruppen und Perioden farblich markiert.png]]
 
 Das **PSE** ist in 7 *Perioden* von Oben nach unten eingeteilt., dabei steht jede Periode von oben für die Füllung eben jener Schale in der [[📄 - Zettelstapel/Allgemeine und Anorganische Chemie/Elektronenkonfiguration]] der [[chemisches Element|Elemente]] der Periode (Bsp.: $\ce{Be}$ ist in der 2. Periode, bei $\ce{Be}$ wird also die 2. Schale gefüllt). 
 
@@ -18,7 +18,7 @@ Das **PSE** ist in 7 *Perioden* von Oben nach unten eingeteilt., dabei steht jed
 
 ^12d82c
 
-![[Pasted image 20201216200324.png]]
+![[📎 - Anhänge/Pasted image 20201216200324.png]]
 
 Es ist in 18 *Gruppen* geteilt, von denen die wichtigsten hier genannt sind.
 
@@ -33,39 +33,39 @@ An der Struktur des **PSE** lässt sich auch erkennen, bei der [[📄 - Zettelst
 
 ### Aggregatzustände
 
-![[Pasted image 20201216204027.png]]
+![[📎 - Anhänge/Pasted image 20201216204027.png]]
 
 Aggregatzustände aller [[chemisches Element|Elemente]] bei [[Normalbedingungen]].
 
 ### Metalle, Nichtmetalle und Halbmetalle
 
-![[Pasted image 20201216204601.png]]
+![[📎 - Anhänge/Pasted image 20201216204601.png]]
 
 Farbliche Markierung der [[Metalle]] und [[Nichtmetalle]], die [[Halbmetalle]] sind mit Elementsymbol genannt.
 
 ### natürliche radioaktive Elemente
 
-![[Pasted image 20201216204900.png]]
+![[📎 - Anhänge/Pasted image 20201216204900.png]]
 
 Alle natürlich vorkommenden adioaktiven [[chemisches Element|Elemente]].
 
 ### künstliche Elemente
 
-![[Pasted image 20201216205055.png]]
+![[📎 - Anhänge/Pasted image 20201216205055.png]]
 
 Alle Radioaktiven [[chemisches Element|Elemente]] inklusive aller künstlich erzeugten [[chemisches Element|Elemente]].
 Diese kommen aufgrund ihrer minimalen Halbwärtszeiten nicht natürlich vor.
 
 ### Atomradien
 
-![[Pasted image 20201216205743.png]]
+![[📎 - Anhänge/Pasted image 20201216205743.png]]
 
 Auch Trends im Atomradius lassen sich am **PSE** erkennen.
 
 ## einfaches PSE
 
-![[einfaches PSE.svg]]
+![[📎 - Anhänge/einfaches PSE.svg]]
 
 ---
 
-![[Einfaches PSE-Legende.png]]-->
+![[📎 - Anhänge/Einfaches PSE-Legende.png]]-->

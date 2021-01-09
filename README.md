@@ -10,7 +10,7 @@ Auf dieser Seite veröffentliche ich **meine Aufzeichnungen** von denen die meis
 
 [[Zoologie]]
 
-[[✒ Arbeitsplatz/Botanik]]
+[[📝 - Arbeitsplatz/Botanik]]
 
 [[Chemie]]
 

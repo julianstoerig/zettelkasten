@@ -10,14 +10,14 @@ In der Chemie wird häufig nur von der "Hundschen Regel" gesprochen, es handelt 
 
 Sie besagt, dass, wenn mehrere Orbitale gleichen Energieniveaus verfügbar sind,
 
-![[Elektronenkonfiguration von B.png]]
+![[📎 - Anhänge/Elektronenkonfiguration von B.png]]
 
 diese zunächst alle mit je einem Elektron mit identischer [[Spinquantenzahl s|Spinorientierung]] besetzt werden müssen.
 
-![[Elektronenkonfiguration von N.png]]
+![[📎 - Anhänge/Elektronenkonfiguration von N.png]]
 
 Erst anschließend werden sie der Reihe nach mit je einem zweiten Elektron umgekehrten [[Spinquantenzahl s|Spins]] besetzt.
 
-![[Elektronenkonfiguration von Ne.png]]
+![[📎 - Anhänge/Elektronenkonfiguration von Ne.png]]
 
 Dies wahrt maximale Spinmultiplizität.

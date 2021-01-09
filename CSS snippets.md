@@ -28,7 +28,7 @@
 }
  ```
  
-![[Pasted image 20201218130604.png]]
+![[📎 - Anhänge/Pasted image 20201218130604.png]]
  
  ## blockquotes
  
@@ -46,7 +46,7 @@ blockquote:before {
 blockquote p { display: inline; }
 ```
 
-![[Pasted image 20201218130643.png]]
+![[📎 - Anhänge/Pasted image 20201218130643.png]]
 
 ### remove blockquotes left margin
 
@@ -57,4 +57,4 @@ blockquote {
 }
 ```
 
-![[Pasted image 20201218130942.png]]
+![[📎 - Anhänge/Pasted image 20201218130942.png]]

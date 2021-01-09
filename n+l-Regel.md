@@ -8,10 +8,10 @@ Die ***n*+*l*-Regel**/**Mandelung-Regel**/**Klechkowski-Regel**/**Moeller-Regel*
 
 Die [[📄 - Zettelstapel/Allgemeine und Anorganische Chemie/Orbital|Orbitale]] mit kleinerem [[Hauptquantenzahl n|n]]+[[Nebenquantenzahl l|l]]-Wert werden zuerst befüllt, ist Dieser bei zwei Orbitalen gleich, wird zuerst das mit niedrigerem [[Hauptquantenzahl n|n]]-Wert befüllt. Dies ist der Fall, da dies die Orbitale mit niedrigstem Energieniveau und daher die stabilsten sind.
 
-![[Orbitale von 1s bis 6d nach Energieniveau.png]]
+![[📎 - Anhänge/Orbitale von 1s bis 6d nach Energieniveau.png]]
 
 ## Besetzung der Elektronen von $\ce{H}$ bis $\ce{Kr}$
 
-![[Elektronenkonfigurationen von H bis Ca.png]]
+![[📎 - Anhänge/Elektronenkonfigurationen von H bis Ca.png]]
 
-![[Elektronenkonfigurationen von Sc bis Kr.png]]
+![[📎 - Anhänge/Elektronenkonfigurationen von Sc bis Kr.png]]

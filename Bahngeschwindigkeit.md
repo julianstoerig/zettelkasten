@@ -10,7 +10,7 @@ $$
 
 Diese **Bahngeschwindigkeit** ist tangential zur Kreisbahn, sie ändert also laufend ihre Richtung.
 
-![[📎 Anhänge/velocity-angular-velocity-circular-disc.svg]]
+![[📎 - Anhänge/velocity-angular-velocity-circular-disc.svg]]
 
 Bei konstanter Winkelgeschwindigkeit $\omega$ ist die Bahngeschwindigkeit $v$ direkt proportional zum Radius $r$, da der Kreisumfang $U$ und damit die durch den Körper zurückzulegende Strecke mit steigendem Radius $r$ steigt.
 

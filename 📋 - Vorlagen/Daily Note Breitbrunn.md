@@ -1,6 +1,6 @@
 [[{{tp_yesterday}}]]|[[{{tp_tomorrow}}]]
 
-[[📅 Aufgaben]]
+[[📅 - Aufgaben]]
 
 ## Wetter
 
