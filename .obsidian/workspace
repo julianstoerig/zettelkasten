@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8d9a52ec8b4efd9c",
+        "id": "cdc337756817ecd8",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "📎 - Anhänge/EngelsFMarxKH_ManifestKommunistischen_s.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,7 +61,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📎 - Anhänge/EngelsFMarxKH_ManifestKommunistischen_s.pdf",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📎 - Anhänge/EngelsFMarxKH_ManifestKommunistischen_s.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +119,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📎 - Anhänge/Botanik_alle_Teile.pdf",
     "📎 - Anhänge/EngelsFMarxKH_ManifestKommunistischen_s.pdf",
     "📝 - Arbeitsplatz/Untitled.md",
     "🛠 - Methodik/⏰ - Morgenroutine.md",
@@ -131,7 +128,6 @@
     "📅 - Logbuch/2021-01-09.md",
     "📋 - Vorlagen/Mikrobiologie.md",
     "📋 - Vorlagen/Daily Note.md",
-    "📋 - Vorlagen/Daily Note Breitbrunn.md",
-    "📋 - Vorlagen/Mathematik.md"
+    "📋 - Vorlagen/Daily Note Breitbrunn.md"
   ]
 }
