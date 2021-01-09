@@ -2,4 +2,4 @@
 
 ---
 
-**Nuklide** sind Körper, die aus Protonen und Neutronen besteht und den Kern von [[Atom|Atomen]] darstellen.
+**Nuklide** sind Körper, die aus Protonen und Neutronen bestehen und den Kern von [[Atom|Atomen]] darstellen.

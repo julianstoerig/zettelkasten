@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
+            "file": "Atom.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
+                "file": "Atom.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
+                "file": "Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Atom.md",
+    "Nuklid.md",
     "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
     "Zoologie/Systematik.md",
     "✒ Arbeitsplatz/Botanik.md",
@@ -131,8 +133,6 @@
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
     "✒ Arbeitsplatz/Zellen.md",
-    "✒ Arbeitsplatz/Untitled 1.md",
-    "📂Zettelstapel/Mikrobiologie/Pflanzen.md",
-    "1. Semester.md"
+    "✒ Arbeitsplatz/Untitled 1.md"
   ]
 }
