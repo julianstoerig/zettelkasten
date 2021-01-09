@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✒ Arbeitsplatz/Untitled.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -64,7 +61,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +119,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "✒ Arbeitsplatz/Zellen.md",
     "✒ Arbeitsplatz/Untitled.md",
     "Physik.md",
     "Atom.md",
@@ -132,7 +128,6 @@
     "Zoologie/Systematik.md",
     "✒ Arbeitsplatz/Botanik.md",
     "✒ Arbeitsplatz/Pflanzenzelle.md",
-    "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
-    "✒ Arbeitsplatz/Zellen.md"
+    "✒ Arbeitsplatz/Schwerpunkt (Masse).md"
   ]
 }
