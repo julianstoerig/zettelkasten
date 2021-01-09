@@ -4,4 +4,8 @@
 
 ## Tagesplan
 
-Hier schreibe ich nach den Morgenseiten meine konkreten 
+Hier schreibe ich nach den Morgenseiten meine konkrete Aufgabenplanung für den Tag fest.
+
+## Konversationen
+
+Hier führe ich eine Liste der Konversationen des Tages und aller relevanten Inhalte. Ist die Unte
