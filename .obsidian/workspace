@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "📝 - Arbeitsplatz/Untitled.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -117,11 +117,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "76c5c8ea192ff8c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c10c20847b5c3986",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 207.33334350585938,
-    "collapsed": true
+    "width": 207.33334350585938
   },
   "lastOpenFiles": [
     "📝 - Arbeitsplatz/Untitled.md",
