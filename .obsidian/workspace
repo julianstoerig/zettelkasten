@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✒ Arbeitsplatz/Zellen.md",
+            "file": "1. Semester.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Zellen.md",
+                "file": "1. Semester.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Zellen.md",
+                "file": "1. Semester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "1. Semester.md",
     "✒ Arbeitsplatz/Zellen.md",
+    "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md",
+    "✒ Arbeitsplatz/Botanik.md",
     "✒ Arbeitsplatz/Pflanzenzelle.md",
     "✒ Arbeitsplatz/Untitled.md",
     "Physik.md",
     "Atom.md",
     "Nuklid.md",
-    "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md",
-    "Zoologie/Systematik.md",
-    "✒ Arbeitsplatz/Botanik.md",
-    "✒ Arbeitsplatz/Schwerpunkt (Masse).md"
+    "📂Zettelstapel/Allgemeine und Anorganische Chemie/Orbital.md"
   ]
 }
