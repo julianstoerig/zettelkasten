@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -61,6 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled.md",
     "📋 - Vorlagen/Mikrobiologie.md",
     "📋 - Vorlagen/Daily Note.md",
     "📋 - Vorlagen/Daily Note Breitbrunn.md",
@@ -127,7 +133,6 @@
     "🛠 - Methodik/Untitled.md",
     "Untitled.md",
     "1. Semester.md",
-    "✒ Arbeitsplatz/Zellen.md",
-    "📂Zettelstapel/Mikrobiologie/Mikrobiologie.md"
+    "✒ Arbeitsplatz/Zellen.md"
   ]
 }
