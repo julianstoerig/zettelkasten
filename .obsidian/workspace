@@ -6,7 +6,6 @@
       {
         "id": "76c21009ac172b31",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,6 +17,7 @@
       {
         "id": "ba9c6af4c9557e36",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "✒ Arbeitsplatz/Botanik.md",
+                "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✒ Arbeitsplatz/Botanik.md",
+                "file": "✒ Arbeitsplatz/Pflanzenzelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,8 +135,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "✒ Arbeitsplatz/Botanik.md",
     "✒ Arbeitsplatz/Pflanzenzelle.md",
+    "✒ Arbeitsplatz/Botanik.md",
     "✒ Arbeitsplatz/Untitled.md",
     "✒ Arbeitsplatz/Schwerpunkt (Masse).md",
     "✒ Arbeitsplatz/Zellen.md",
