@@ -1,1 +1,0 @@
-![[📎 - Anhänge/Botanik_alle_Teile.pdf]]
