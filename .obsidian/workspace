@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -61,6 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,9 +124,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled.md",
     "📎 - Anhänge/Botanik_alle_Teile.pdf",
     "📎 - Anhänge/EngelsFMarxKH_ManifestKommunistischen_s.pdf",
-    "📝 - Arbeitsplatz/Untitled.md",
     "🛠 - Methodik/⏰ - Morgenroutine.md",
     "🛠 - Methodik/📋 - Vorlagen/Daily Note Breitbrunn.md",
     "🛠 - Methodik/📋 - Vorlagen/Daily Note.md",
