@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1e915af9652abbb9",
+        "id": "b9976c931b8cf150",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Highlights for Botanik_alle_Teile.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -64,7 +61,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Highlights for Botanik_alle_Teile.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Highlights for Botanik_alle_Teile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +118,15 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📎 - Anhänge/Botanik_alle_Teile.pdf",
+    "📝 - Arbeitsplatz/Pflanzenzelle.md",
+    "📝 - Arbeitsplatz/Botanik.md",
     "Highlights for Botanik_alle_Teile.md",
     "📝 - Arbeitsplatz/Untitled.md",
-    "📎 - Anhänge/Botanik_alle_Teile.pdf",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "📅 - Logbuch/2021-01-10.md",
     "System/📋 - Vorlagen/To-Do.md",
     "System/🛠 - Methodik.md",
-    "📝 - Arbeitsplatz/To-Do.md",
-    "System/📋 - Vorlagen/To-Dof.md",
-    "📝 - Arbeitsplatz/Zettel.md"
+    "📝 - Arbeitsplatz/To-Do.md"
   ]
 }
