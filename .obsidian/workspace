@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/📋 - Vorlagen/Beispiel 1.md",
+            "file": "System/📋 - Vorlagen/To-Do.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/📋 - Vorlagen/Beispiel 1.md",
+                "file": "System/📋 - Vorlagen/To-Do.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/📋 - Vorlagen/Beispiel 1.md",
+                "file": "System/📋 - Vorlagen/To-Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
