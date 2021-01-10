@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b9976c931b8cf150",
+        "id": "44b61e0a749c65b2",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "📎 - Anhänge/Botanik_alle_Teile.pdf"
+            "file": "Botanik_alle_Teile.md",
+            "mode": "source"
           }
         }
       }
@@ -63,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📎 - Anhänge/Botanik_alle_Teile.pdf",
+                "file": "Botanik_alle_Teile.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📎 - Anhänge/Botanik_alle_Teile.pdf",
+                "file": "Botanik_alle_Teile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "Botanik_alle_Teile.md",
     "📎 - Anhänge/Botanik_alle_Teile.pdf",
     "📎 - Anhänge/Vorlesung-01.pdf",
     "Highlights for Vorlesung-01.md",
@@ -130,7 +132,6 @@
     "Highlights for Botanik_alle_Teile.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
-    "📅 - Logbuch/2021-01-10.md",
-    "System/📋 - Vorlagen/To-Do.md"
+    "📅 - Logbuch/2021-01-10.md"
   ]
 }
