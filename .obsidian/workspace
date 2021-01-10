@@ -8,8 +8,10 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "📎 - Anhänge/Vorlesung-01.pdf"
+          }
         }
       }
     ],
@@ -61,6 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📎 - Anhänge/Vorlesung-01.pdf",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -103,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📎 - Anhänge/Vorlesung-01.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +122,8 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📎 - Anhänge/Vorlesung-01.pdf",
+    "Highlights for Vorlesung-01.md",
     "📎 - Anhänge/Botanik_alle_Teile.pdf",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
     "📝 - Arbeitsplatz/Botanik.md",
@@ -125,8 +131,6 @@
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "📅 - Logbuch/2021-01-10.md",
-    "System/📋 - Vorlagen/To-Do.md",
-    "System/🛠 - Methodik.md",
-    "📝 - Arbeitsplatz/To-Do.md"
+    "System/📋 - Vorlagen/To-Do.md"
   ]
 }
