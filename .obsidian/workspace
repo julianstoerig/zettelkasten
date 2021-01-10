@@ -33,7 +33,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "systema",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -50,8 +50,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3076d5943e2b5caa",
