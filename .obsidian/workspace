@@ -10,7 +10,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "📎 - Anhänge/Vorlesung-01.pdf"
+            "file": "📎 - Anhänge/Botanik_alle_Teile.pdf"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📎 - Anhänge/Vorlesung-01.pdf",
+                "file": "📎 - Anhänge/Botanik_alle_Teile.pdf",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📎 - Anhänge/Vorlesung-01.pdf",
+                "file": "📎 - Anhänge/Botanik_alle_Teile.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,9 +122,9 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📎 - Anhänge/Botanik_alle_Teile.pdf",
     "📎 - Anhänge/Vorlesung-01.pdf",
     "Highlights for Vorlesung-01.md",
-    "📎 - Anhänge/Botanik_alle_Teile.pdf",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "Highlights for Botanik_alle_Teile.md",
