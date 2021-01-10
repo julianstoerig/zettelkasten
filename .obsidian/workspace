@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/🛠 - Methodik.md",
-            "mode": "preview"
+            "file": "System/📋 - Vorlagen/Beispiel 1.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/🛠 - Methodik.md",
+                "file": "System/📋 - Vorlagen/Beispiel 1.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/🛠 - Methodik.md",
+                "file": "System/📋 - Vorlagen/Beispiel 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "System/📋 - Vorlagen/Beispiel 1.md",
     "System/🛠 - Methodik.md",
     "📝 - Arbeitsplatz/Zettel.md",
     "📝 - Arbeitsplatz/Note.md",
@@ -131,7 +132,6 @@
     "System/Untitled.md",
     "🛠 - Methodik/⏰ - Morgenroutine.md",
     "📝 - Arbeitsplatz/test.md",
-    "🟥 - Aufgaben.md",
-    "📝 - Arbeitsplatz/Untitled.md"
+    "🟥 - Aufgaben.md"
   ]
 }
