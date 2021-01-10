@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Untitled 1.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -61,6 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled 1.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +123,15 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled 1.md",
+    "📝 - Arbeitsplatz/Untitled.md",
+    "Highlights for Botanik_alle_Teile.md",
     "📎 - Anhänge/Botanik_alle_Teile.pdf",
     "📅 - Logbuch/2021-01-10.md",
     "System/📋 - Vorlagen/To-Do.md",
     "System/🛠 - Methodik.md",
     "📝 - Arbeitsplatz/To-Do.md",
     "System/📋 - Vorlagen/To-Dof.md",
-    "📝 - Arbeitsplatz/Zettel.md",
-    "System/📋 - Vorlagen/Beispiel 1.md",
-    "📝 - Arbeitsplatz/Note.md",
-    "System/⏰ - Morgenroutine.md"
+    "📝 - Arbeitsplatz/Zettel.md"
   ]
 }
