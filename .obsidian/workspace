@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "00f9236f730b71f3",
+        "id": "5fcdcc507503d5dc",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "📎 - Anhänge/Botanik_alle_Teile.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,7 +61,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📎 - Anhänge/Botanik_alle_Teile.pdf",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📎 - Anhänge/Botanik_alle_Teile.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
