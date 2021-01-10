@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Zettel.md",
+            "file": "System/🛠 - Methodik.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Zettel.md",
+                "file": "System/🛠 - Methodik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Zettel.md",
+                "file": "System/🛠 - Methodik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,11 +123,11 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "System/🛠 - Methodik.md",
     "📝 - Arbeitsplatz/Zettel.md",
     "📝 - Arbeitsplatz/Note.md",
     "System/⏰ - Morgenroutine.md",
     "📝 - Arbeitsplatz/first class citizens.md",
-    "System/🛠 - Methodik.md",
     "System/Untitled.md",
     "🛠 - Methodik/⏰ - Morgenroutine.md",
     "📝 - Arbeitsplatz/test.md",
