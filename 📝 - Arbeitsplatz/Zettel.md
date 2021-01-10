@@ -1,0 +1,1 @@
+**Zettel** ist die Bezeichnung für eine [[Atomic Notes|gewissen Standards]] folgende  Noti`.md` Markdown-Textdatei innerhalb .

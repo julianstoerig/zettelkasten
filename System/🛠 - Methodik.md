@@ -1,1 +1,1 @@
-In meinem System sind [[Note|Notes]] [[📝 - Arbeitsplatz/First class Citizens]].
+In meinem System sind [[📝 - Arbeitsplatz/Zettel|Notes]] [[📝 - Arbeitsplatz/First class Citizens]].
