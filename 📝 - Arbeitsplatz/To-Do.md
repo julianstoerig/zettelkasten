@@ -1,1 +1,0 @@
-Ein **To-Do** ist eine klar definierte in näherer Zeit zu erledigende Aufgabe. In meinem System als Markdown-Datei nach einer [[System/📋 - Vorlagen/To-Dof|Vorlage]] erstellt.

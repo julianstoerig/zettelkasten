@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/To-Do.md",
-            "mode": "preview"
+            "file": "System/📋 - Vorlagen/To-Do.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/To-Do.md",
+                "file": "System/📋 - Vorlagen/To-Do.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/To-Do.md",
+                "file": "System/📋 - Vorlagen/To-Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/To-Do.md",
-    "System/🛠 - Methodik.md",
     "System/📋 - Vorlagen/To-Do.md",
+    "System/🛠 - Methodik.md",
+    "📝 - Arbeitsplatz/To-Do.md",
+    "System/📋 - Vorlagen/To-Dof.md",
     "📝 - Arbeitsplatz/Zettel.md",
     "System/📋 - Vorlagen/Beispiel 1.md",
     "📝 - Arbeitsplatz/Note.md",
     "System/⏰ - Morgenroutine.md",
     "📝 - Arbeitsplatz/first class citizens.md",
-    "System/Untitled.md",
-    "🛠 - Methodik/⏰ - Morgenroutine.md"
+    "System/Untitled.md"
   ]
 }

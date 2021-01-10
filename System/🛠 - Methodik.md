@@ -1,1 +1,1 @@
-In meinem System sind Markdown-Dateien grundlegend für alles, es ist also alles eine Markdown Datei, sei dies ein [[📝 - Arbeitsplatz/ZettelZettel]] oder ein [[To-Do|To-Do]].
+In meinem System sind Markdown-Dateien grundlegend für alles, es ist also alles eine Markdown Datei, sei dies ein [[📝 - Arbeitsplatz/ZettelZettel]] oder ein [[System/To-Do|To-Do]].
