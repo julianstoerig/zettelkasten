@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/📋 - Vorlagen/To-Do.md",
+            "file": "System/🛠 - Methodik.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/📋 - Vorlagen/To-Do.md",
+                "file": "System/🛠 - Methodik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/📋 - Vorlagen/To-Do.md",
+                "file": "System/🛠 - Methodik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +123,8 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
-    "System/📋 - Vorlagen/Beispiel 1.md",
     "System/🛠 - Methodik.md",
+    "System/📋 - Vorlagen/Beispiel 1.md",
     "📝 - Arbeitsplatz/Zettel.md",
     "📝 - Arbeitsplatz/Note.md",
     "System/⏰ - Morgenroutine.md",
