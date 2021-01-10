@@ -1,1 +1,1 @@
-In meinem System sind Markdown 
+In meinem System sind Markdown-Dateien grundlegend für alles, es ist also alles eine Markdown Datei, sei dies 
