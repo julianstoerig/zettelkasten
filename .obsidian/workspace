@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/📋 - Vorlagen/To-Do.md",
+            "file": "📅 - Logbuch/2021-01-10.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/📋 - Vorlagen/To-Do.md",
+                "file": "📅 - Logbuch/2021-01-10.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/📋 - Vorlagen/To-Do.md",
+                "file": "📅 - Logbuch/2021-01-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📅 - Logbuch/2021-01-10.md",
     "System/📋 - Vorlagen/To-Do.md",
     "System/🛠 - Methodik.md",
     "📝 - Arbeitsplatz/To-Do.md",
@@ -131,7 +132,6 @@
     "System/📋 - Vorlagen/Beispiel 1.md",
     "📝 - Arbeitsplatz/Note.md",
     "System/⏰ - Morgenroutine.md",
-    "📝 - Arbeitsplatz/first class citizens.md",
-    "System/Untitled.md"
+    "📝 - Arbeitsplatz/first class citizens.md"
   ]
 }
