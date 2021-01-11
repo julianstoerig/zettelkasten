@@ -1,4 +1,7 @@
 ```mermaid
 graph TD;
-books[""] --> 
+B["Bücher"] -->;
+S["Skripte"] -->;
+V["Vorlesungen"] -->;
+
 ```
