@@ -14,8 +14,6 @@ L[Literaturnotiz]
 Z[Zettel]
 T[Texte]
 
-F --> B & P & S & V
-
 subgraph verschiedenste Orte
 	B
 	P
