@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Zellen.md",
+            "file": "📄 - Zettelstapel/Mikrobiologie/Bakteriengeißeln.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Zellen.md",
+                "file": "📄 - Zettelstapel/Mikrobiologie/Bakteriengeißeln.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Zellen.md",
+                "file": "📄 - Zettelstapel/Mikrobiologie/Bakteriengeißeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📄 - Zettelstapel/Mikrobiologie/Bakteriengeißeln.md",
     "📝 - Arbeitsplatz/Zellen.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
     "📝 - Arbeitsplatz/Botanik.md",
@@ -131,7 +132,6 @@
     "Botanik_alle_Teile.md",
     "📎 - Anhänge/Vorlesung-01.pdf",
     "Highlights for Vorlesung-01.md",
-    "Highlights for Botanik_alle_Teile.md",
-    "📝 - Arbeitsplatz/Untitled 1.md"
+    "Highlights for Botanik_alle_Teile.md"
   ]
 }
