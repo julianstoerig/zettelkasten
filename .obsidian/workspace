@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📄 - Zettelstapel/Mikrobiologie/Bakteriengeißeln.md",
+            "file": "Atom.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📄 - Zettelstapel/Mikrobiologie/Bakteriengeißeln.md",
+                "file": "Atom.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📄 - Zettelstapel/Mikrobiologie/Bakteriengeißeln.md",
+                "file": "Atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "Atom.md",
+    "allg.-und-anorg.-Chemie/Anion.md",
+    "Zoologie/Systematik.md",
     "📄 - Zettelstapel/Mikrobiologie/Bakteriengeißeln.md",
     "📝 - Arbeitsplatz/Zellen.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📎 - Anhänge/Botanik_alle_Teile.pdf",
-    "Botanik_alle_Teile.md",
-    "📎 - Anhänge/Vorlesung-01.pdf",
-    "Highlights for Vorlesung-01.md",
-    "Highlights for Botanik_alle_Teile.md"
+    "Botanik_alle_Teile.md"
   ]
 }
