@@ -7,6 +7,7 @@ V["Vorlesungen"]
 P["Papers"]
 A["Blog-Artikel"]
 
+T{{"Triage"}}
 
 B & S & V & P & A -->;
 
