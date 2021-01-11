@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/Informationsverarbeitung.md",
-            "mode": "preview"
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/Informationsverarbeitung.md",
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Informationsverarbeitung.md",
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,9 +123,9 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled.md",
     "System/Informationsverarbeitung.md",
     "System/Untitled.md",
-    "📝 - Arbeitsplatz/Untitled.md",
     "Kräftegleichgewicht.md",
     "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
     "System/📋 - Vorlagen/Daily Note.md",
