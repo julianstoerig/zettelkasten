@@ -9,6 +9,7 @@ P["Papers"]
 K("Kindle")
 X("Xodo")
 
+
 L["Literaturnotiz"]
 Z["Zettel"]
 T["Texte"]
@@ -21,7 +22,8 @@ subgraph verschiedenste Orte
 end
 
 B & P -->|Evaluation| K
-
+S --> X
+V --> OP
 
 subgraph Konsum
 	K
