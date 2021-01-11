@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -61,6 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +123,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
     "📎 - Anhänge/Botanik_alle_Teile.pdf",
     "Botanik_alle_Teile.md",
@@ -125,7 +131,6 @@
     "Highlights for Vorlesung-01.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "Highlights for Botanik_alle_Teile.md",
-    "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "📅 - Logbuch/2021-01-10.md"
   ]
