@@ -7,8 +7,8 @@ V["Vorlesungen"]
 P["Papers"]
 A["Blog-Artikel"]
 
-T{{"Triage"}}
+T{{"Zwischenspeicher"}}
 
-B & S & V & P & A -->;
+B & S & V & P & A --> T;
 
 ```
