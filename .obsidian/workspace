@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Untitled.md",
-            "mode": "source"
+            "file": "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
+            "mode": "preview"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "System/📋 - Vorlagen/Daily Note.md",
     "Atom.md",
@@ -131,7 +132,6 @@
     "📄 - Zettelstapel/Mikrobiologie/Bakteriengeißeln.md",
     "📝 - Arbeitsplatz/Zellen.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
-    "📝 - Arbeitsplatz/Botanik.md",
-    "📎 - Anhänge/Botanik_alle_Teile.pdf"
+    "📝 - Arbeitsplatz/Botanik.md"
   ]
 }
