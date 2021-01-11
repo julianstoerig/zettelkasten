@@ -44,4 +44,5 @@ subgraph Obsidian
 	Z --> T
 end
 
+Z -->|neue Frage
 ```
