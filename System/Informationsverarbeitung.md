@@ -7,8 +7,10 @@ V["Vorlesungen"]
 P["Papers"]
 A["Blog-Artikel"]
 
-T{{"Kurzevaluation"}}
+E{{"Evaluation"}}
 
-B & S & V & P & A --> T;
+L["Lite"]
+
+B & S & V & P & A --> E;
 
 ```
