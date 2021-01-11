@@ -9,6 +9,7 @@ A["Blog-Artikel"]
 
 T{{"Zwischenspeicher"}}
 
-B & S & V & P & A --> T;
-
+subgraph 
+	B & S & V & P & A --> T;
+end
 ```
