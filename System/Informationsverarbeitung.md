@@ -22,6 +22,7 @@ end
 
 B & P -->|Evaluation| K
 
+
 subgraph Konsum
 	K
 	X
