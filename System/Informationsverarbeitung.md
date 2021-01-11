@@ -8,10 +8,11 @@ P["Papers"]
 
 E{{"Evaluation"}}
 
+
 L["Literaturnotiz"]
 Z["Zettel"]
 T["Texte"]
-B & S & V & P & A --> E
+B & S & V & P --> E
 
 E --> L
 L --> Z
