@@ -9,8 +9,11 @@ A["Blog-Artikel"]
 
 E{{"Evaluation"}}
 
-L["Lite"]
+L["Literaturnotiz"]
+Z["Permanente Notizen (Zettel)"]
 
-B & S & V & P & A --> E;
+B & S & V & P & A --> E
+
+Z -->Z
 
 ```
