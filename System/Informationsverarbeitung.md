@@ -27,5 +27,3 @@ subgraph Obsidian
 	Z --> T
 end
 ```
-
-[[System/Informationsverarbeitung]]
