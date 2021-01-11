@@ -1,6 +1,8 @@
 ```mermaid
 flowchart TB;
 
+F{Frage}
+
 B["Bücher"]
 S["Skripte"]
 V["Vorlesungen"]
