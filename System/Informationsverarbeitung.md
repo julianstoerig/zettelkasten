@@ -12,8 +12,14 @@ K{{"Konsum"}}
 L["Literaturnotiz"]
 Z["Zettel"]
 T["Texte"]
-subgraph verschiedenste B & S & V & P --> E
 
+subgraph verschiedenste Orte
+	B & S & V & P --> E
+end
+
+subgraph 
+	
+end
 
 E --> K
 K --> L
