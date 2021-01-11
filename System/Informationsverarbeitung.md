@@ -7,9 +7,8 @@ V["Vorlesungen"]
 P["Papers"]
 A["Blog-Artikel"]
 
-T{{"Zwischenspeicher"}}
+T{{"Kurzevalua"}}
 
-subgraph 
-	B & S & V & P & A --> T;
-end
+B & S & V & P & A --> T;
+
 ```
