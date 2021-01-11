@@ -15,7 +15,7 @@ Z["Zettel"]
 T["Texte"]
 
 subgraph verschiedenste Orte
-	B & S & V & P --> E
+	B & S & V & P -->|f| E
 end
 
 subgraph Konsum
@@ -31,4 +31,3 @@ subgraph Obsidian
 	Z --> T
 end
 ```
-
