@@ -7,15 +7,16 @@ V["Vorlesungen"]
 P["Papers"]
 
 E{{"Evaluation"}}
-K["Konsum"]
-
+K{{"Konsum"}}
 
 L["Literaturnotiz"]
 Z["Zettel"]
 T["Texte"]
-B & S & V & P --> E
+subgraph verschiedenste B & S & V & P --> E
 
-E --> L
+
+E --> K
+K --> L
 L --> Z
 Z --> T
 
