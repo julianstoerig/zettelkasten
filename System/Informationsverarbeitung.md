@@ -8,6 +8,7 @@ P["Papers"]
 
 E{{"Evaluation"}}
 K("Kindle")
+X("Xodo")
 
 L["Literaturnotiz"]
 Z["Zettel"]
@@ -19,10 +20,13 @@ end
 
 subgraph Konsum
 	E --> K
+	E--> X
 end
 
 subgraph Obsidian
 	K --> L
+	X --> L
+	
 	L --> Z
 	Z --> T
 end
