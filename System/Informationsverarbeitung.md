@@ -1,8 +1,6 @@
 ```mermaid
 flowchart TB;
 
-F{Frage}
-
 B[Bücher]
 S[Skripte]
 V[Vorlesungen]
@@ -43,7 +41,4 @@ subgraph Obsidian
 	L --> Z
 	Z --> T
 end
-
-Z -->|neue Frage| F
-T -->|neue Frage| F
 ```
