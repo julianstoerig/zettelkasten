@@ -3,18 +3,18 @@ flowchart TB;
 
 F{Frage}
 
-B["Bücher"]
-S["Skripte"]
-V["Vorlesungen"]
-P["Papers"]
+B[Bücher]
+S[Skripte]
+V[Vorlesungen]
+P[Papers]
 
-K("Kindle")
-X("Xodo")
-OP("Online Portal")
+K(Kindle)
+X(Xodo)
+OP(Online Portal)
 
-L["Literaturnotiz"]
-Z["Zettel"]
-T["Texte"]
+L[Literaturnotiz]
+Z[Zettel]
+T[Texte]
 
 subgraph verschiedenste Orte
 	B
