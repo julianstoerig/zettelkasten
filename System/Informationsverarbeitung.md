@@ -17,8 +17,11 @@ subgraph verschiedenste Orte
 	B & S & V & P --> E
 end
 
-subgraph Obsidian
+subgraph ff
 	E --> K
+end
+
+subgraph Obsidian
 	K --> L
 	L --> Z
 	Z --> T
