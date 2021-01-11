@@ -1,5 +1,5 @@
 ```mermaid
-graph TB;
+flowchart TB;
 
 B["Bücher"]
 S["Skripte"]
