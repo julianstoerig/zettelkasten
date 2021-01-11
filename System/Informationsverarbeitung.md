@@ -7,7 +7,7 @@ V["Vorlesungen"]
 P["Papers"]
 
 E{{"Evaluation"}}
-K{"Konsum"}
+K("Kindle")
 
 L["Literaturnotiz"]
 Z["Zettel"]
@@ -17,7 +17,7 @@ subgraph verschiedenste Orte
 	B & S & V & P --> E
 end
 
-subgraph ff
+subgraph Konsum
 	E --> K
 end
 
@@ -27,3 +27,5 @@ subgraph Obsidian
 	Z --> T
 end
 ```
+
+[[System/Informationsverarbeitung]]
