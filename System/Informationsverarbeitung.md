@@ -1,5 +1,5 @@
 ```mermaid
-graph LR;
+graph T;
 
 B["Bücher"]
 S["Skripte"]
@@ -15,10 +15,12 @@ T["Texte"]
 
 subgraph verschiedenste Orte
 	B
+	P
 	S
 	V
-	P
 end
+
+B & P -->|Evaluation| K
 
 subgraph Konsum
 	K
