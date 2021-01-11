@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3e269413182a6b03",
+        "id": "1bb8e671a17e67a7",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
-            "mode": "preview"
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +123,8 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
-    "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
     "📝 - Arbeitsplatz/Untitled.md",
+    "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
     "System/📋 - Vorlagen/Daily Note.md",
     "Atom.md",
     "allg.-und-anorg.-Chemie/Anion.md",
