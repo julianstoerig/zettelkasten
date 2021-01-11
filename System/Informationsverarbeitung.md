@@ -7,6 +7,7 @@ V["Vorlesungen"]
 P["Papers"]
 
 E{{"Evaluation"}}
+K["Konsum"]
 
 
 L["Literaturnotiz"]
