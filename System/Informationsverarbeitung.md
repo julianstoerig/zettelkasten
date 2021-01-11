@@ -17,8 +17,8 @@ subgraph verschiedenste Orte
 	B & S & V & P --> E
 end
 
-subgraph 
-	
+subgraph f
+	f
 end
 
 E --> K
