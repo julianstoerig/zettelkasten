@@ -6,7 +6,6 @@ S["Skripte"]
 V["Vorlesungen"]
 P["Papers"]
 
-E{{"Evaluation"}}
 K("Kindle")
 X("Xodo")
 
@@ -15,7 +14,10 @@ Z["Zettel"]
 T["Texte"]
 
 subgraph verschiedenste Orte
-	B & S & V & P -->|f| E
+	B --> 
+	S --> 
+	V --> 
+	P --> 
 end
 
 subgraph Konsum
