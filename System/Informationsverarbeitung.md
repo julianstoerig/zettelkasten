@@ -1,5 +1,4 @@
 ```mermaid
-GRAPH TD;
-
-A --> B
+graph TD;
+books[""] --> 
 ```
