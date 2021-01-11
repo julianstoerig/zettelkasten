@@ -7,7 +7,7 @@ V["Vorlesungen"]
 P["Papers"]
 A["Blog-Artikel"]
 
-T{{"Kurzevalua"}}
+T{{"Kurzevaluation"}}
 
 B & S & V & P & A --> T;
 
