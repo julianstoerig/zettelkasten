@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "System/Informationsverarbeitung.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -123,6 +123,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "System/Informationsverarbeitung.md",
     "System/Untitled.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "Kräftegleichgewicht.md",
@@ -131,7 +132,6 @@
     "Atom.md",
     "allg.-und-anorg.-Chemie/Anion.md",
     "Zoologie/Systematik.md",
-    "📄 - Zettelstapel/Mikrobiologie/Bakteriengeißeln.md",
-    "📝 - Arbeitsplatz/Zellen.md"
+    "📄 - Zettelstapel/Mikrobiologie/Bakteriengeißeln.md"
   ]
 }
