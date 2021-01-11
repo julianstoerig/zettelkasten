@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "file": "System/Informationsverarbeitung.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "System/Informationsverarbeitung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "System/Informationsverarbeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "System/Untitled.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "Kräftegleichgewicht.md",
     "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
@@ -131,7 +132,6 @@
     "allg.-und-anorg.-Chemie/Anion.md",
     "Zoologie/Systematik.md",
     "📄 - Zettelstapel/Mikrobiologie/Bakteriengeißeln.md",
-    "📝 - Arbeitsplatz/Zellen.md",
-    "📝 - Arbeitsplatz/Pflanzenzelle.md"
+    "📝 - Arbeitsplatz/Zellen.md"
   ]
 }
