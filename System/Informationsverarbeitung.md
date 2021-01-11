@@ -8,7 +8,7 @@ P["Papers"]
 
 K("Kindle")
 X("Xodo")
-
+OP("Online Portal")
 
 L["Literaturnotiz"]
 Z["Zettel"]
@@ -28,6 +28,7 @@ V --> OP
 subgraph Konsum
 	K
 	X
+	OP
 end
 
 K --> L
