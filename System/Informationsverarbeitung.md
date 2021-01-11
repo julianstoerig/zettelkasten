@@ -14,20 +14,21 @@ Z["Zettel"]
 T["Texte"]
 
 subgraph verschiedenste Orte
-	B --> 
-	S --> 
-	V --> 
-	P --> 
+	B --> f
+	S --> f
+	V --> f
+	P --> f
 end
 
 subgraph Konsum
-	E --> K
-	E--> X
+	K
+	X
 end
 
+K --> L
+X --> L
+
 subgraph Obsidian
-	K --> L
-	X --> L
 	
 	L --> Z
 	Z --> T
