@@ -43,4 +43,6 @@ subgraph Obsidian
 	L --> Z
 	Z --> T
 end
+
+Z -->|wirft neue Frage auf| 
 ```
