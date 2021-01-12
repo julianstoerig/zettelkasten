@@ -8,10 +8,9 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "System/📋 - Vorlagen/Beispiel.md",
-            "mode": "preview"
+            "file": "📎 - Anhänge/Vorlesung-01 - Kopie.pdf"
           }
         }
       }
@@ -64,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/📋 - Vorlagen/Beispiel.md",
+                "file": "📎 - Anhänge/Vorlesung-01 - Kopie.pdf",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/📋 - Vorlagen/Beispiel.md",
+                "file": "📎 - Anhänge/Vorlesung-01 - Kopie.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +122,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📎 - Anhänge/Vorlesung-01 - Kopie.pdf",
     "System/📋 - Vorlagen/Beispiel.md",
     "System/📋 - Vorlagen/Daily Note.md",
     "📎 - Anhänge/Pasted image 20201216095001.png",
@@ -131,7 +131,6 @@
     "System/Untitled.md",
     "Kräftegleichgewicht.md",
     "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
-    "Atom.md",
-    "allg.-und-anorg.-Chemie/Anion.md"
+    "Atom.md"
   ]
 }
