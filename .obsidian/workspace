@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1bb8e671a17e67a7",
+        "id": "9dae3edc2d803cb1",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "System/📋 - Vorlagen/Daily Note.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -64,7 +61,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/📋 - Vorlagen/Daily Note.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/📋 - Vorlagen/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
