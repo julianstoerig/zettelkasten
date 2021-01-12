@@ -8,7 +8,7 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -118,6 +118,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📎 - Anhänge/Pasted image 20201216095001.png",
     "System/Informationsverarbeitung.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "System/Untitled.md",
@@ -126,7 +127,6 @@
     "System/📋 - Vorlagen/Daily Note.md",
     "Atom.md",
     "allg.-und-anorg.-Chemie/Anion.md",
-    "Zoologie/Systematik.md",
-    "📄 - Zettelstapel/Mikrobiologie/Bakteriengeißeln.md"
+    "Zoologie/Systematik.md"
   ]
 }
