@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "System/📋 - Vorlagen/Beispiel.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -61,6 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "System/📋 - Vorlagen/Beispiel.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System/📋 - Vorlagen/Beispiel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +123,7 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "System/📋 - Vorlagen/Beispiel.md",
     "System/📋 - Vorlagen/Daily Note.md",
     "📎 - Anhänge/Pasted image 20201216095001.png",
     "System/Informationsverarbeitung.md",
@@ -126,7 +132,6 @@
     "Kräftegleichgewicht.md",
     "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
     "Atom.md",
-    "allg.-und-anorg.-Chemie/Anion.md",
-    "Zoologie/Systematik.md"
+    "allg.-und-anorg.-Chemie/Anion.md"
   ]
 }
