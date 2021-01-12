@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "System/📋 - Vorlagen/Daily Note.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -61,6 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "System/📋 - Vorlagen/Daily Note.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System/📋 - Vorlagen/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,13 +123,13 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "System/📋 - Vorlagen/Daily Note.md",
     "📎 - Anhänge/Pasted image 20201216095001.png",
     "System/Informationsverarbeitung.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "System/Untitled.md",
     "Kräftegleichgewicht.md",
     "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
-    "System/📋 - Vorlagen/Daily Note.md",
     "Atom.md",
     "allg.-und-anorg.-Chemie/Anion.md",
     "Zoologie/Systematik.md"
