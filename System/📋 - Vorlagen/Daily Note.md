@@ -1,4 +1,4 @@
-## Daily Note {{tp_date}}
+## Daily Note {{tp_today}}
 
 [[{{tp_yesterday}}]]|[[{{tp_tomorrow}}]]
 
