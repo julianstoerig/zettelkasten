@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9dae3edc2d803cb1",
+        "id": "ddc5d6797e6120c4",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "📎 - Anhänge/Vorlesung-01 - Kopie.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,7 +61,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📎 - Anhänge/Vorlesung-01 - Kopie.pdf",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📎 - Anhänge/Vorlesung-01 - Kopie.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
