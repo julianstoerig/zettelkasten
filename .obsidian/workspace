@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Untitled.md",
-            "mode": "source"
+            "file": "System/Informationsverarbeitung.md",
+            "mode": "preview"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "System/Informationsverarbeitung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "System/Informationsverarbeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "System/Informationsverarbeitung.md",
+    "📝 - Arbeitsplatz/Untitled 1.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
@@ -131,8 +133,6 @@
     "📅 - Logbuch/2021-01-13.md",
     "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
     "📎 - Anhänge/Vorlesung-01 - Kopie.pdf",
-    "System/📋 - Vorlagen/Beispiel.md",
-    "System/📋 - Vorlagen/Daily Note.md",
-    "📎 - Anhänge/Pasted image 20201216095001.png"
+    "System/📋 - Vorlagen/Beispiel.md"
   ]
 }
