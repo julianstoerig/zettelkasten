@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "System/Informationsverarbeitung.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 264
   },
   "right": {
     "id": "a3b0eee1ddc0955b",
