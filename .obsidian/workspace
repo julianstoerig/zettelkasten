@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4eb36237ad7afd5b",
+        "id": "535954fb7bd76620",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Zellen.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -61,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📅 - Logbuch/2021-01-13.md",
+                "file": "📝 - Arbeitsplatz/Zellen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -95,7 +98,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f96e8745e6e54d9c",
+        "id": "bef90657b6bac5a0",
         "type": "tabs",
         "children": [
           {
@@ -104,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 - Logbuch/2021-01-13.md",
+                "file": "📝 - Arbeitsplatz/Zellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,18 +120,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.33334350585938
+    "width": 207.33334350585938,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Zellen.md",
+    "📝 - Arbeitsplatz/Botanik.md",
+    "📝 - Arbeitsplatz/Pflanzenzelle.md",
     "📅 - Logbuch/2021-01-13.md",
     "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
     "📎 - Anhänge/Vorlesung-01 - Kopie.pdf",
     "System/📋 - Vorlagen/Beispiel.md",
     "System/📋 - Vorlagen/Daily Note.md",
     "📎 - Anhänge/Pasted image 20201216095001.png",
-    "System/Informationsverarbeitung.md",
-    "📝 - Arbeitsplatz/Untitled.md",
-    "System/Untitled.md",
-    "Kräftegleichgewicht.md"
+    "System/Informationsverarbeitung.md"
   ]
 }
