@@ -1,5 +1,11 @@
 ```mermaid
 graph LR
-f --> x
-p -->
+subgraph to
+	subgraph af
+		f
+		p
+	end
+	f --> x
+	p --> t
+
 ```
