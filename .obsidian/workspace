@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -61,6 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
     "📝 - Arbeitsplatz/Zellen.md",
@@ -127,7 +133,6 @@
     "📎 - Anhänge/Vorlesung-01 - Kopie.pdf",
     "System/📋 - Vorlagen/Beispiel.md",
     "System/📋 - Vorlagen/Daily Note.md",
-    "📎 - Anhänge/Pasted image 20201216095001.png",
-    "System/Informationsverarbeitung.md"
+    "📎 - Anhänge/Pasted image 20201216095001.png"
   ]
 }
