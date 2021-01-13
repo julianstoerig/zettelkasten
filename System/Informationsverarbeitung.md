@@ -32,7 +32,7 @@ subgraph Konsum
 end
 
 K --> L
-X --> L
+X --x L
 OP --> Z
 
 subgraph Obsidian	
