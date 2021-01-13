@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📅 - Logbuch/2021-01-13.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -61,6 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📅 - Logbuch/2021-01-13.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📅 - Logbuch/2021-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +123,8 @@
     "width": 207.33334350585938
   },
   "lastOpenFiles": [
+    "📅 - Logbuch/2021-01-13.md",
+    "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
     "📎 - Anhänge/Vorlesung-01 - Kopie.pdf",
     "System/📋 - Vorlagen/Beispiel.md",
     "System/📋 - Vorlagen/Daily Note.md",
@@ -125,8 +132,6 @@
     "System/Informationsverarbeitung.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "System/Untitled.md",
-    "Kräftegleichgewicht.md",
-    "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
-    "Atom.md"
+    "Kräftegleichgewicht.md"
   ]
 }
