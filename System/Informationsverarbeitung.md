@@ -17,9 +17,9 @@ T[Texte]
 subgraph verschiedenste Orte
 	B
 	P
-	S
-	V
 end
+
+subgraph Universi
 
 B & P -->|Evaluation| K
 S ==> X
