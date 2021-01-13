@@ -33,6 +33,7 @@ end
 
 K --> L
 X --> L
+X ==> Z
 OP ==> Z
 
 subgraph Obsidian	
