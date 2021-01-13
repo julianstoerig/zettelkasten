@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Zellen.md",
+            "file": "📝 - Arbeitsplatz/Botanik.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Zellen.md",
+                "file": "📝 - Arbeitsplatz/Botanik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Zellen.md",
+                "file": "📝 - Arbeitsplatz/Botanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +124,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/Zellen.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
+    "📝 - Arbeitsplatz/Zellen.md",
     "📅 - Logbuch/2021-01-13.md",
     "📄 - Zettelstapel/Physik/Newtonsche Axiome.md",
     "📎 - Anhänge/Vorlesung-01 - Kopie.pdf",
