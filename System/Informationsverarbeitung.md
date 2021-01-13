@@ -19,7 +19,10 @@ subgraph verschiedenste Orte
 	P
 end
 
-subgraph Universi
+subgraph Universität
+	S
+	V
+end
 
 B & P -->|Evaluation| K
 S ==> X
@@ -40,5 +43,6 @@ subgraph Obsidian
 	L --> Z
 	Z --> T
 end
+
 
 ```
