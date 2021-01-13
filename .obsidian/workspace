@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ddc5d6797e6120c4",
+        "id": "4eb36237ad7afd5b",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📅 - Logbuch/2021-01-13.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
