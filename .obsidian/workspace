@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "16c6db2d5e458400",
+        "id": "ec3d10d8201f2b38",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/Informationsverarbeitung.md",
-            "mode": "preview"
+            "file": "📝 - Arbeitsplatz/Untitled 1.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/Informationsverarbeitung.md",
+                "file": "📝 - Arbeitsplatz/Untitled 1.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Informationsverarbeitung.md",
+                "file": "📝 - Arbeitsplatz/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "System/Informationsverarbeitung.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
+    "System/Informationsverarbeitung.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
