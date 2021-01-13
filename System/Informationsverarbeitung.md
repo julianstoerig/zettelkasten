@@ -22,8 +22,8 @@ subgraph verschiedenste Orte
 end
 
 B & P -->|Evaluation| K
-S --> X
-V --> OP
+S ==> X
+V ==> OP
 
 subgraph Konsum
 	K
@@ -32,8 +32,8 @@ subgraph Konsum
 end
 
 K --> L
-X --x L
-OP --> Z
+X --> L
+OP ==> Z
 
 subgraph Obsidian	
 	L --> Z
