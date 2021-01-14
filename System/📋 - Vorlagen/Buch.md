@@ -8,7 +8,7 @@ Autor(-en): [[]]
 
 Veröffentlichungsjahr: [[]]
 
-Citation (APA): (Zotero Referenz einfügen)
+Bibliographische Referenz (APA): (Zotero Referenz einfügen)
 
 Allgemeines Thema: [[]]
 
