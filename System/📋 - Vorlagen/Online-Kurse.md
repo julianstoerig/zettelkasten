@@ -32,7 +32,7 @@ Spezielles Thema: [[]]
 
 
 
-## Kontext (wie der Kursim Verhältnis zu anderen Arbeiten im Feld steht; wie es zu Schlüsselproblemen und Ergebnissen des Feldes durch andere und dich selbst steht)
+## Kontext (wie der Kurs im Verhältnis zu anderen Arbeiten im Feld steht; wie es zu Schlüsselproblemen und Ergebnissen des Feldes durch andere und dich selbst steht)
 
 
 
@@ -46,7 +46,7 @@ Spezielles Thema: [[]]
 
 
 
-## Referenzen im Buch (Die offensichtlich mit eigener Arbeit in Verbindung stehen und die oft in anderen Buchs zum Thema zitiert werden)
+## Referenzen im Kurs (Die offensichtlich mit eigener Arbeit in Verbindung stehen und die oft in anderen Buchs zum Thema zitiert werden)
 
 
 

@@ -1,4 +1,4 @@
-# {==Nach Lesen löschen (`ctrl + D`)==: Titel für Papers beginnen mit `+` (ohne whitespace davor oder danach)}
+# {==Nach Lesen löschen (`ctrl + D`)==: Titel für Blog-Artikel beginnen mit `+` (ohne whitespace davor oder danach)}
 [[Fachgebiet]] [[Kursname]] [[1. Semester]] [[2021-01-14]]
 
 ---
@@ -32,7 +32,7 @@ Spezielles Thema: [[]]
 
 
 
-## Kontext (wie das Paper im Verhältnis zu anderen Arbeiten im Feld steht; wie es zu Schlüsselproblemen und Ergebnissen des Feldes durch andere und dich selbst steht)
+## Kontext (wie  im Verhältnis zu anderen Arbeiten im Feld steht; wie es zu Schlüsselproblemen und Ergebnissen des Feldes durch andere und dich selbst steht)
 
 
 
@@ -46,7 +46,7 @@ Spezielles Thema: [[]]
 
 
 
-## Referenzen im Paper (Die offensichtlich mit eigener Arbeit in Verbindung stehen und die oft in anderen Papers zum Thema zitiert werden)
+## Referenzen im Blog-Artikel (Die offensichtlich mit eigener Arbeit in Verbindung stehen und die oft in anderen Papers zum Thema zitiert werden)
 
 
 

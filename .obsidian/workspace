@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/📋 - Vorlagen/Online-Kurse.md",
+            "file": "System/📋 - Vorlagen/Blog-Artikel.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/📋 - Vorlagen/Online-Kurse.md",
+                "file": "System/📋 - Vorlagen/Blog-Artikel.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/📋 - Vorlagen/Online-Kurse.md",
+                "file": "System/📋 - Vorlagen/Blog-Artikel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +123,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "System/📋 - Vorlagen/Online-Kurse.md",
     "System/📋 - Vorlagen/Online-Artikel.md",
+    "System/📋 - Vorlagen/Online-Kurse.md",
     "System/📋 - Vorlagen/Person.md",
     "System/📋 - Vorlagen/Scientific Paper.md",
     "System/📋 - Vorlagen/Buch.md",
