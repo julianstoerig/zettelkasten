@@ -23,10 +23,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e3ead141db9481f4",
+        "id": "aa9390330fbe976d",
         "type": "tabs",
-        "dimension": 59.46745562130178,
+        "dimension": 42.31578947368421,
         "children": [
+          {
+            "id": "71cf44860e0737fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
           {
             "id": "58e389a8b5bf0b72",
             "type": "leaf",
@@ -41,22 +49,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "71cf44860e0737fd",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3076d5943e2b5caa",
         "type": "tabs",
-        "dimension": 40.532544378698226,
+        "dimension": 57.684210526315795,
         "children": [
           {
             "id": "507982df27520917",
