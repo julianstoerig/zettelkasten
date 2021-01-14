@@ -6,13 +6,42 @@
       {
         "id": "ec3d10d8201f2b38",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "System/Informationsverarbeitung.md",
             "mode": "preview"
           }
+        }
+      },
+      {
+        "id": "f4932a2d89db019d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Find unlinked files plugin output.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "bcf7e563ee5c744b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "📎 - Anhänge/Schematische Darstellung einer eukaryotischen Einzellerzelle.png"
+          }
+        }
+      },
+      {
+        "id": "ce263ad03c0d9579",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/Informationsverarbeitung.md",
+                "file": "📎 - Anhänge/Schematische Darstellung einer eukaryotischen Einzellerzelle.png",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Informationsverarbeitung.md",
+                "file": "📎 - Anhänge/Schematische Darstellung einer eukaryotischen Einzellerzelle.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📎 - Anhänge/Schematische Darstellung einer eukaryotischen Einzellerzelle.png",
+    "Find unlinked files plugin output.md",
+    "📎 - Anhänge/Pasted image 20201226182338.png",
     "System/Informationsverarbeitung.md",
     "📄 - Zettelstapel/Physik/Kräftefreie Bewegung.md",
     "📄 - Zettelstapel/Physik/Rotation.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Botanik.md",
-    "📝 - Arbeitsplatz/Pflanzenzelle.md",
-    "📝 - Arbeitsplatz/Zellen.md",
-    "📅 - Logbuch/2021-01-13.md",
-    "📄 - Zettelstapel/Physik/Newtonsche Axiome.md"
+    "📝 - Arbeitsplatz/Pflanzenzelle.md"
   ]
 }
