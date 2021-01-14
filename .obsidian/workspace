@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
-            "mode": "preview"
+            "file": "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
+            "mode": "source"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
+                "file": "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
+                "file": "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,7 @@
     "width": 260
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "System/Informationsverarbeitung.md",
     "1. Semester.md",
@@ -130,7 +131,6 @@
     "System/📋 - Vorlagen/Physik.md",
     "System/📋 - Vorlagen/Mikrobiologie.md",
     "System/📋 - Vorlagen/Mathematik.md",
-    "System/📋 - Vorlagen/Daily Note Breitbrunn.md",
-    "System/📋 - Vorlagen/Daily Note.md"
+    "System/📋 - Vorlagen/Daily Note Breitbrunn.md"
   ]
 }

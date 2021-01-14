@@ -1,0 +1,1 @@
+Aussagekräftige Titel sind deshalb wichtig, weil sie schon ohne Lesen des Textes eine sehr knappe Zusammenfassung der Ergebnisse, noch knapper als das Abstr
