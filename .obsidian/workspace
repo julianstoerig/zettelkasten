@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d21ef4830f1c486e",
+        "id": "3d1c6707b7cf80a1",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "§Zettel.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,7 +60,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "§Zettel.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "§Zettel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +118,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📅 - Logbuch/2021-01-10.md",
     "System/Zettel.md",
     "System/$Morgenroutine.md",
     "System/Informationsverarbeitung.md",
@@ -131,7 +127,6 @@
     "System/⏰ - Morgenroutine.md",
     "System/To-Do.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
-    "📝 - Arbeitsplatz/Untitled.md",
-    "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md"
+    "📝 - Arbeitsplatz/Untitled.md"
   ]
 }
