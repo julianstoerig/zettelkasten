@@ -8,7 +8,6 @@ P[Papers]
 
 K(Kindle)
 X(Xodo)
-OP(Online Portal)
 
 L[Literaturnotiz]
 Z[Zettel]
@@ -27,16 +26,13 @@ end
 B & P --> K 
 S ==> X
 
-subgraph Konsum
-	K
-	X
-	OP
-end
+K
+X
 
 K --> L
 X --> L
 X ==> Z
-OP ==> Z
+V ==> Z
 
 subgraph Obsidian	
 	L --> Z
