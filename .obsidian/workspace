@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fe59e15da1af1b5d",
+        "id": "1c72cc5dbadec7bb",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +122,8 @@
     "width": 260
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
     "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
+    "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "System/Informationsverarbeitung.md",
     "1. Semester.md",
