@@ -31,7 +31,7 @@ Spezielles Thema: [[]]
 
 
 
-## Kontext (wie das Paper im Verhältnis zu anderen Arbeiten im Feld steht; wie es zu Schlüsselproblemen und Ergebnissen des Feldes durch andere und dich selbst steht)
+## Kontext (wie das Buch im Verhältnis zu anderen Arbeiten im Feld steht; wie es zu Schlüsselproblemen und Ergebnissen des Feldes durch andere und dich selbst steht)
 
 
 
@@ -41,11 +41,11 @@ Spezielles Thema: [[]]
 
 
 
-## Wichtige Graphen und Tabellen
+## Wichtige Grafiken und Tabellen
 
 
 
-## Referenzen im Paper (Die offensichtlich mit eigener Arbeit in Verbindung stehen und die oft in anderen Papers zum Thema zitiert werden)
+## Referenzen im Buch (Die offensichtlich mit eigener Arbeit in Verbindung stehen und die oft in anderen Buchs zum Thema zitiert werden)
 
 
 

@@ -42,7 +42,7 @@ Spezielles Thema: [[]]
 
 
 
-## Wichtige Figuren und Tabellen
+## Wichtige Grafiken und Tabellen
 
 
 

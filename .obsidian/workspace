@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4a48242c73438359",
+        "id": "872e368d202d0809",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "System/📋 - Vorlagen/Buch.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,7 +60,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/📋 - Vorlagen/Buch.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/📋 - Vorlagen/Buch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +117,15 @@
     "width": 260
   },
   "lastOpenFiles": [
-    "System/📋 - Vorlagen/Beispiel 1.md",
+    "System/📋 - Vorlagen/Buch.md",
     "System/📋 - Vorlagen/Scientific Paper.md",
+    "System/📋 - Vorlagen/Beispiel 1.md",
     "System/📋 - Vorlagen/Person.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "System/📋 - Vorlagen/Scientific Paper (Paper Titel hier einfügen).md",
     "System/Informationsverarbeitung.md",
     "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
     "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
-    "1. Semester.md",
-    "System/📋 - Vorlagen/Zoologie.md"
+    "1. Semester.md"
   ]
 }
