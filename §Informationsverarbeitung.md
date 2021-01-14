@@ -40,4 +40,6 @@ subgraph Obsidian
 	L --> Z
 	Z --> T
 end
+Z --> F[Frage]
+F --> B & P
 ```
