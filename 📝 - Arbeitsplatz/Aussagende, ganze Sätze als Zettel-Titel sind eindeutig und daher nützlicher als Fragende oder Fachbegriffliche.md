@@ -1,4 +1,4 @@
-[[aussagekräftige Titel sind wichtig|Aussagekräftige Titel sind wichtig]].
+Weil [[aussagekräftige Titel sind wichtig|aussagekräftige Titel wichtig si]].
 ## ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe
 
 Durch die Verwendung ganzer Sätze als [[System/Zettel|Zettel-Titel]], erreicht man höhere Eindeutigkeit als durch die Verwendung einzelner Fachbegriffe, da der Satz neben der Bezeichnung eines Konzepts auch über dessen Status aufklären kann. Der Titel "Aderlass ist eine nutzlose Prozedur", klärt uns mehr auf, als der Titel "Aderlass", der nur die Bezeichnung des Konzepts nennt.
