@@ -5,4 +5,4 @@ Durch die Verwendung ganzer Sätze als [[System/Zettel|Zettel-Titel]], erreicht 
 
 ## Aussagen eignen sich besser als Titel als Fragen
 
-Fragen eignen sich als Tite
+Fragen eignen sich als Titel weniger als Aussagen, da auch sie wie einzelne Fachbegriffe, dem Leser Informationen vorenthalten. Um zum vorherigen Beispiel zurückzukommen: Der Titel "Aderlass "
