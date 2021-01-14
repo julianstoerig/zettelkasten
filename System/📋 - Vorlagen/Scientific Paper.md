@@ -5,11 +5,11 @@
 
 ## Metadaten
 
-Authoren: [[]]
+Autor(-en): [[]]
 
-Year published: [[]]
+Veröffentlichungsjahr: [[]]
 
-Citation (APA): (insert Zotero reference)
+Citation (APA): (Zotero Referenz einfügen)
 
 Allgemeines Thema: [[]]
 
