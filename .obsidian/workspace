@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d62f18ce168a02c3",
+        "id": "a5dcbb81c2a019b6",
         "type": "leaf",
         "active": true,
         "state": {
@@ -118,6 +118,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Größen und Einheiten.md",
+    "📝 - Arbeitsplatz/Untitled 1.md",
     "System/📋 - Vorlagen/Scientific Paper.md",
     "System/📋 - Vorlagen/Online-Kurse.md",
     "System/📋 - Vorlagen/Buch.md",
@@ -125,8 +127,6 @@
     "System/📋 - Vorlagen/Beispiel.md",
     "System/📋 - Vorlagen/Botanik.md",
     "System/📋 - Vorlagen/Online-Artikel.md",
-    "System/📋 - Vorlagen/Person.md",
-    "System/📋 - Vorlagen/Buch 1.md",
-    "📝 - Arbeitsplatz/2021-01-14.md"
+    "System/📋 - Vorlagen/Person.md"
   ]
 }
