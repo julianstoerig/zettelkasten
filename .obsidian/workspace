@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "System/📋 - Vorlagen/Online-Artikel.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "System/📋 - Vorlagen/Online-Artikel.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System/📋 - Vorlagen/Online-Artikel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
     "width": 260
   },
   "lastOpenFiles": [
+    "System/📋 - Vorlagen/Scientific Paper 1.md",
     "System/📋 - Vorlagen/Buch.md",
     "System/📋 - Vorlagen/Scientific Paper.md",
     "System/📋 - Vorlagen/Beispiel 1.md",
@@ -125,7 +131,6 @@
     "System/📋 - Vorlagen/Scientific Paper (Paper Titel hier einfügen).md",
     "System/Informationsverarbeitung.md",
     "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
-    "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
-    "1. Semester.md"
+    "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md"
   ]
 }
