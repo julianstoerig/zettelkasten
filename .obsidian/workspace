@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/Informationsverarbeitung.md",
-            "mode": "preview"
+            "file": "📝 - Arbeitsplatz/Untitled 1.md",
+            "mode": "source"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/Informationsverarbeitung.md",
+                "file": "📝 - Arbeitsplatz/Untitled 1.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Informationsverarbeitung.md",
+                "file": "📝 - Arbeitsplatz/Untitled 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +122,8 @@
     "width": 260
   },
   "lastOpenFiles": [
-    "System/Informationsverarbeitung.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
+    "System/Informationsverarbeitung.md",
     "1. Semester.md",
     "System/📋 - Vorlagen/Zoologie.md",
     "System/📋 - Vorlagen/To-Do.md",
