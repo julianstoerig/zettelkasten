@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Untitled 1.md",
+            "file": "📝 - Arbeitsplatz/Deklarative Zettel-Titel sind eindeutig und daher nützlicher als.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled 1.md",
+                "file": "📝 - Arbeitsplatz/Deklarative Zettel-Titel sind eindeutig und daher nützlicher als.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled 1.md",
+                "file": "📝 - Arbeitsplatz/Deklarative Zettel-Titel sind eindeutig und daher nützlicher als.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
