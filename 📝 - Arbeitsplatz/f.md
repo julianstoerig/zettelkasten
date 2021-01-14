@@ -1,1 +1,0 @@
-[Staticman: Static sites with superpowers](https://staticman.net/)
