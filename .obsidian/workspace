@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/1. Semester.md",
-            "mode": "source"
+            "file": "System/Informationsverarbeitung.md",
+            "mode": "preview"
           }
         }
       }
@@ -25,7 +25,7 @@
       {
         "id": "aa9390330fbe976d",
         "type": "tabs",
-        "dimension": 58.33333333333334,
+        "dimension": 58.33333333333333,
         "children": [
           {
             "id": "71cf44860e0737fd",
@@ -55,7 +55,7 @@
       {
         "id": "3076d5943e2b5caa",
         "type": "tabs",
-        "dimension": 41.66666666666667,
+        "dimension": 41.666666666666664,
         "children": [
           {
             "id": "507982df27520917",
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/1. Semester.md",
+                "file": "System/Informationsverarbeitung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/1. Semester.md",
+                "file": "System/Informationsverarbeitung.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,7 @@
     "width": 260
   },
   "lastOpenFiles": [
+    "System/Informationsverarbeitung.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "1. Semester.md",
     "System/📋 - Vorlagen/Zoologie.md",
@@ -130,7 +131,6 @@
     "System/📋 - Vorlagen/Mikrobiologie.md",
     "System/📋 - Vorlagen/Mathematik.md",
     "System/📋 - Vorlagen/Daily Note Breitbrunn.md",
-    "System/📋 - Vorlagen/Daily Note.md",
-    "System/📋 - Vorlagen/Chemie.md"
+    "System/📋 - Vorlagen/Daily Note.md"
   ]
 }
