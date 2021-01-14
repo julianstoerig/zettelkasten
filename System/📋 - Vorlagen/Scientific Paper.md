@@ -4,7 +4,7 @@
 
 ## Metadaten
 
-Nennenswerte Authoren: [[]]
+Authoren: [[]]
 
 Year published: [[]]
 

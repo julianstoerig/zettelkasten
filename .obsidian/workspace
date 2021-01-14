@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "22b852987b16f559",
+        "id": "a08625a748027b35",
         "type": "leaf",
         "active": true,
         "state": {
@@ -117,15 +117,15 @@
     "width": 260
   },
   "lastOpenFiles": [
+    "System/📋 - Vorlagen/Scientific Paper.md",
+    "📝 - Arbeitsplatz/Untitled 1.md",
+    "System/📋 - Vorlagen/Scientific Paper (Paper Titel hier einfügen).md",
     "System/Informationsverarbeitung.md",
     "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
     "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
-    "📝 - Arbeitsplatz/Untitled 1.md",
     "1. Semester.md",
     "System/📋 - Vorlagen/Zoologie.md",
     "System/📋 - Vorlagen/To-Do.md",
-    "System/📋 - Vorlagen/Physik.md",
-    "System/📋 - Vorlagen/Mikrobiologie.md",
-    "System/📋 - Vorlagen/Mathematik.md"
+    "System/📋 - Vorlagen/Physik.md"
   ]
 }
