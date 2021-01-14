@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b257e2ce3fc481f2",
+        "id": "12ca1c2973cbe7ca",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "System/📋 - Vorlagen/Beispiel 1.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "System/📋 - Vorlagen/Beispiel 1.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System/📋 - Vorlagen/Beispiel 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +123,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "System/📋 - Vorlagen/Beispiel 1.md",
     "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
     "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md",
     "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
@@ -126,7 +132,6 @@
     "📝 - Arbeitsplatz/Untitled 1.md",
     "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
     "Größen und Einheiten.md",
-    "System/📋 - Vorlagen/Scientific Paper.md",
-    "System/📋 - Vorlagen/Online-Kurse.md"
+    "System/📋 - Vorlagen/Scientific Paper.md"
   ]
 }
