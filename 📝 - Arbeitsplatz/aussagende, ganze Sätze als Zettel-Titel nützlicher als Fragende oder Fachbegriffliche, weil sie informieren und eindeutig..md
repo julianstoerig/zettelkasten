@@ -1,1 +1,0 @@
-Weil [[aussagekräftige Titel sind wichtig|aussagekräftige Titel wichtig sind]], muss ich mir die Frage stellen, wie man diese gestaltet.
