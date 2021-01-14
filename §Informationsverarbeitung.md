@@ -20,6 +20,10 @@ L[Literaturnotiz]
 Z[Zettel]
 T[Texte]
 
+Z --> F
+F --> R
+R --> B & P
+
 subgraph Evaluation
 	B
 	P
@@ -43,6 +47,4 @@ subgraph Obsidian
 	L --> Z
 	Z --> T
 end
-Z --> F
-F --> B & P
 ```
