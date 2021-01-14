@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
+            "file": "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
+                "file": "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
+                "file": "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
     "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
     "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md",
     "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel nützlicher als Fragende oder Fachbegriffliche, weil sie informieren und eindeutig..md",
@@ -131,7 +132,6 @@
     "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
     "Größen und Einheiten.md",
     "System/📋 - Vorlagen/Scientific Paper.md",
-    "System/📋 - Vorlagen/Online-Kurse.md",
-    "System/📋 - Vorlagen/Buch.md"
+    "System/📋 - Vorlagen/Online-Kurse.md"
   ]
 }
