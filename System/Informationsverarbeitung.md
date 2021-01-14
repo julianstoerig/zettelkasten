@@ -26,7 +26,6 @@ end
 
 B & P --> K 
 S ==> X
-V ==> OP
 
 subgraph Konsum
 	K
