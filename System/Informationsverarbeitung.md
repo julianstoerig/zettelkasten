@@ -15,12 +15,9 @@ Z[Zettel]
 T[Texte]
 
 subgraph Evaluation
-	K
-end
-
-subgraph verschiedenste Orte
 	B
 	P
+	K
 end
 
 subgraph Universität
