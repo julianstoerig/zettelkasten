@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/📋 - Vorlagen/Online-Artikel.md",
+            "file": "System/📋 - Vorlagen/Scientific Paper.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/📋 - Vorlagen/Online-Artikel.md",
+                "file": "System/📋 - Vorlagen/Scientific Paper.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/📋 - Vorlagen/Online-Artikel.md",
+                "file": "System/📋 - Vorlagen/Scientific Paper.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,12 +123,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "System/📋 - Vorlagen/Scientific Paper.md",
     "System/📋 - Vorlagen/Online-Artikel.md",
     "System/📋 - Vorlagen/Person.md",
     "📝 - Arbeitsplatz/2021-01-14.md",
     "System/📋 - Vorlagen/Scientific Paper 1.md",
     "System/📋 - Vorlagen/Buch.md",
-    "System/📋 - Vorlagen/Scientific Paper.md",
     "System/📋 - Vorlagen/Beispiel 1.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "System/📋 - Vorlagen/Scientific Paper (Paper Titel hier einfügen).md",
