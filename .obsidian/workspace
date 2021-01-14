@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "§Informationsverarbeitung.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "§Informationsverarbeitung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -86,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264,
-    "collapsed": true
+    "width": 264
   },
   "right": {
     "id": "a3b0eee1ddc0955b",
@@ -103,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "§Informationsverarbeitung.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,8 +123,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/Untitled.md",
     "§Informationsverarbeitung.md",
+    "📝 - Arbeitsplatz/Untitled.md",
     "📅 - Logbuch/2021-01-10.md",
     "System/Zettel.md",
     "System/$Morgenroutine.md",
