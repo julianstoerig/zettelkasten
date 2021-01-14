@@ -1,0 +1,1 @@
+Fragen eignen sich als Titel weniger als Aussagen, da auch sie wie einzelne Fachbegriffe, dem Leser Informationen vorenthalten. Um zum vorherigen Beispiel zurückzukommen: Der Titel "Aderlass ist eine nutzlos Prozedur" sagt deutlich mehr als "Ist Aderlass nutzlos?".

@@ -6,6 +6,7 @@
       {
         "id": "a5dcbb81c2a019b6",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,7 +18,6 @@
       {
         "id": "056264c1e9ff6dba",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md",
+                "file": "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel nützlicher als Fragende oder Fachbegriffliche, weil sie informieren und eindeutig..md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md",
+                "file": "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel nützlicher als Fragende oder Fachbegriffliche, weil sie informieren und eindeutig..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,9 +135,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md",
     "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel nützlicher als Fragende oder Fachbegriffliche, weil sie informieren und eindeutig..md",
     "📝 - Arbeitsplatz/Untitled 2.md",
+    "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
     "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
