@@ -6,6 +6,7 @@
       {
         "id": "ec3d10d8201f2b38",
         "type": "leaf",
+        "dimension": 33.333333333333336,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,6 +18,7 @@
       {
         "id": "f4932a2d89db019d",
         "type": "leaf",
+        "dimension": 33.333333333333336,
         "state": {
           "type": "markdown",
           "state": {
@@ -26,22 +28,15 @@
         }
       },
       {
-        "id": "bcf7e563ee5c744b",
+        "id": "ce263ad03c0d9579",
         "type": "leaf",
+        "dimension": 33.333333333333336,
         "active": true,
         "state": {
           "type": "image",
           "state": {
-            "file": "📎 - Anhänge/Schematische Darstellung einer eukaryotischen Einzellerzelle.png"
+            "file": "📎 - Anhänge/Pasted image 20201228162525.png"
           }
-        }
-      },
-      {
-        "id": "ce263ad03c0d9579",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -92,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📎 - Anhänge/Schematische Darstellung einer eukaryotischen Einzellerzelle.png",
+                "file": "📎 - Anhänge/Pasted image 20201228162525.png",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -135,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📎 - Anhänge/Schematische Darstellung einer eukaryotischen Einzellerzelle.png",
+                "file": "📎 - Anhänge/Pasted image 20201228162525.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +147,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📎 - Anhänge/Schematische Darstellung einer eukaryotischen Einzellerzelle.png",
+    "📎 - Anhänge/Pasted image 20201228162525.png",
     "Find unlinked files plugin output.md",
+    "📎 - Anhänge/Pasted image 20210109235322.png",
+    "📎 - Anhänge/Phasendiagramm Wasser.png",
+    "📎 - Anhänge/ski-portrait.jpg",
+    "📎 - Anhänge/Vorlesung-01 - Kopie.pdf",
+    "📎 - Anhänge/Vorlesung-01.pdf",
+    "📎 - Anhänge/Schematische Darstellung einer eukaryotischen Einzellerzelle.png",
     "📎 - Anhänge/Pasted image 20201226182338.png",
-    "System/Informationsverarbeitung.md",
-    "📄 - Zettelstapel/Physik/Kräftefreie Bewegung.md",
-    "📄 - Zettelstapel/Physik/Rotation.md",
-    "📝 - Arbeitsplatz/Untitled 1.md",
-    "📝 - Arbeitsplatz/Untitled.md",
-    "📝 - Arbeitsplatz/Botanik.md",
-    "📝 - Arbeitsplatz/Pflanzenzelle.md"
+    "System/Informationsverarbeitung.md"
   ]
 }
