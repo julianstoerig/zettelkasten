@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "872e368d202d0809",
+        "id": "d62f18ce168a02c3",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "System/📋 - Vorlagen/Buch.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,7 +60,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/📋 - Vorlagen/Buch.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/📋 - Vorlagen/Buch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,14 +118,14 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "System/📋 - Vorlagen/Scientific Paper.md",
+    "System/📋 - Vorlagen/Online-Kurse.md",
     "System/📋 - Vorlagen/Buch.md",
     "System/📋 - Vorlagen/Blog-Artikel.md",
     "System/📋 - Vorlagen/Beispiel.md",
     "System/📋 - Vorlagen/Botanik.md",
     "System/📋 - Vorlagen/Online-Artikel.md",
-    "System/📋 - Vorlagen/Online-Kurse.md",
     "System/📋 - Vorlagen/Person.md",
-    "System/📋 - Vorlagen/Scientific Paper.md",
     "System/📋 - Vorlagen/Buch 1.md",
     "📝 - Arbeitsplatz/2021-01-14.md"
   ]
