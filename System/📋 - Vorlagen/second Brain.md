@@ -1,5 +1,5 @@
-# {==Nach Lesen löschen (`ctrl + D`)==: Titel für X beginnen mit `<special character>` (ohne whitespace davor oder danach)}
-[[Fachgebiet]] [[{{tp_today}}]
+# {==Nach Lesen löschen (`ctrl + D`)==: Titel für X beginnen mit `§` (ohne whitespace davor oder danach)}
+[[Fachgebiet]] [[{{tp_today}}]]
 
 ---
 

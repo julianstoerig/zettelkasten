@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "12ca1c2973cbe7ca",
+        "id": "a6a8bd75cf1e9cf8",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/📋 - Vorlagen/Beispiel 1.md",
+            "file": "📝 - Arbeitsplatz/§aussagekräftige Titel sind wichtig.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/📋 - Vorlagen/Beispiel 1.md",
+                "file": "📝 - Arbeitsplatz/§aussagekräftige Titel sind wichtig.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/📋 - Vorlagen/Beispiel 1.md",
+                "file": "📝 - Arbeitsplatz/§aussagekräftige Titel sind wichtig.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "System/📋 - Vorlagen/Beispiel 1.md",
     "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
+    "System/📋 - Vorlagen/second Brain.md",
+    "System/📋 - Vorlagen/Beispiel 1.md",
     "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md",
     "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
     "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel nützlicher als Fragende oder Fachbegriffliche, weil sie informieren und eindeutig..md",
     "📝 - Arbeitsplatz/Untitled 2.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
-    "Größen und Einheiten.md",
-    "System/📋 - Vorlagen/Scientific Paper.md"
+    "Größen und Einheiten.md"
   ]
 }
