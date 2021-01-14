@@ -33,10 +33,8 @@ S ==> X
 K
 X
 
-K --> L
-X --> L
-X ==> Z
-V ==> Z
+K & X --> L
+X & V ==> Z
 
 subgraph Obsidian	
 	L --> Z
