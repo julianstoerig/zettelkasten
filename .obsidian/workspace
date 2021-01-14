@@ -6,7 +6,7 @@
       {
         "id": "ec3d10d8201f2b38",
         "type": "leaf",
-        "dimension": 33.333333333333336,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,27 +16,13 @@
         }
       },
       {
-        "id": "f4932a2d89db019d",
-        "type": "leaf",
-        "dimension": 33.333333333333336,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Find unlinked files plugin output.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "ce263ad03c0d9579",
         "type": "leaf",
-        "dimension": 33.333333333333336,
+        "dimension": 50,
         "active": true,
         "state": {
-          "type": "image",
-          "state": {
-            "file": "📎 - Anhänge/Pasted image 20201228162525.png"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -87,7 +73,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📎 - Anhänge/Pasted image 20201228162525.png",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -130,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📎 - Anhänge/Pasted image 20201228162525.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,22 +124,49 @@
             }
           }
         ]
+      },
+      {
+        "id": "863f40b8f3ed730e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dd36377c25cee47",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "05d20270a2085962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc94a7aab3b3a858",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 207.33334350585938,
-    "collapsed": true
+    "width": 207.33334350585938
   },
   "lastOpenFiles": [
-    "📎 - Anhänge/Pasted image 20201228162525.png",
     "Find unlinked files plugin output.md",
+    "📎 - Anhänge/Pasted image 20201218130658.png",
+    "📎 - Anhänge/Pasted image 20201228162525.png",
     "📎 - Anhänge/Pasted image 20210109235322.png",
     "📎 - Anhänge/Phasendiagramm Wasser.png",
     "📎 - Anhänge/ski-portrait.jpg",
     "📎 - Anhänge/Vorlesung-01 - Kopie.pdf",
     "📎 - Anhänge/Vorlesung-01.pdf",
     "📎 - Anhänge/Schematische Darstellung einer eukaryotischen Einzellerzelle.png",
-    "📎 - Anhänge/Pasted image 20201226182338.png",
-    "System/Informationsverarbeitung.md"
+    "📎 - Anhänge/Pasted image 20201226182338.png"
   ]
 }
