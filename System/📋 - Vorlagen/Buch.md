@@ -4,7 +4,7 @@
 
 ## Metadaten
 
-Autor (-en): [[]]
+Autor(-en): [[]]
 
 Veröffentlichungsjahr: [[]]
 
