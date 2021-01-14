@@ -6,23 +6,13 @@
       {
         "id": "ec3d10d8201f2b38",
         "type": "leaf",
-        "dimension": 50,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "System/Informationsverarbeitung.md",
             "mode": "preview"
           }
-        }
-      },
-      {
-        "id": "ce263ad03c0d9579",
-        "type": "leaf",
-        "dimension": 50,
-        "active": true,
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -73,6 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "System/Informationsverarbeitung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -115,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System/Informationsverarbeitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,26 +130,13 @@
             }
           }
         ]
-      },
-      {
-        "id": "05d20270a2085962",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc94a7aab3b3a858",
-            "type": "leaf",
-            "state": {
-              "type": "dangling-links",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 207.33334350585938
+    "width": 260
   },
   "lastOpenFiles": [
+    "System/Informationsverarbeitung.md",
     "Find unlinked files plugin output.md",
     "📎 - Anhänge/Pasted image 20201218130658.png",
     "📎 - Anhänge/Pasted image 20201228162525.png",
@@ -166,7 +145,6 @@
     "📎 - Anhänge/ski-portrait.jpg",
     "📎 - Anhänge/Vorlesung-01 - Kopie.pdf",
     "📎 - Anhänge/Vorlesung-01.pdf",
-    "📎 - Anhänge/Schematische Darstellung einer eukaryotischen Einzellerzelle.png",
-    "📎 - Anhänge/Pasted image 20201226182338.png"
+    "📎 - Anhänge/Schematische Darstellung einer eukaryotischen Einzellerzelle.png"
   ]
 }
