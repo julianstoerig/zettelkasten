@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -25,7 +25,7 @@
       {
         "id": "aa9390330fbe976d",
         "type": "tabs",
-        "dimension": 58.333333333333336,
+        "dimension": 58.33333333333334,
         "children": [
           {
             "id": "71cf44860e0737fd",
@@ -50,12 +50,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3076d5943e2b5caa",
         "type": "tabs",
-        "dimension": 41.666666666666664,
+        "dimension": 41.66666666666666,
         "children": [
           {
             "id": "507982df27520917",
@@ -69,10 +70,10 @@
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": false,
+                  "hideUnresolved": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
