@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a6a8bd75cf1e9cf8",
+        "id": "ada90d39e2886fdd",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "System/📋 - Vorlagen/Second Brain.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,7 +60,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/📋 - Vorlagen/Second Brain.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/📋 - Vorlagen/Second Brain.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +118,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled 1.md",
+    "📝 - Arbeitsplatz/Untitled.md",
+    "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md",
+    "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
     "System/📋 - Vorlagen/second Brain.md",
     "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
     "System/📋 - Vorlagen/Beispiel 1.md",
-    "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md",
-    "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
     "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel nützlicher als Fragende oder Fachbegriffliche, weil sie informieren und eindeutig..md",
     "📝 - Arbeitsplatz/Untitled 2.md",
-    "📝 - Arbeitsplatz/Untitled 1.md",
-    "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
-    "Größen und Einheiten.md"
+    "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md"
   ]
 }
