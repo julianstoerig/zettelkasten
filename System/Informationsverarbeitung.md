@@ -19,12 +19,12 @@ subgraph Evaluation
 	P
 end
 
-subgraph keine Evaluation (immer relevant)
+subgraph "keine Evaluation (immer relevant)"
 	S
 	V
 end
 
-B & P --> K & X
+B & P --> K 
 S ==> X
 V ==> OP
 
