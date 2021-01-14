@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
-            "mode": "source"
+            "file": "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
+            "mode": "preview"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
+                "file": "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
+                "file": "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +123,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
     "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
+    "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
     "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md",
     "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel nützlicher als Fragende oder Fachbegriffliche, weil sie informieren und eindeutig..md",
     "📝 - Arbeitsplatz/Untitled 2.md",
