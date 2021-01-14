@@ -1,4 +1,4 @@
-# {Nach Lesen löschen (`ctrl + D`): Titel für Paper beginnen mit @}
+# {==Nach Lesen löschen (`ctrl + D`)==: Titel für Papers beginnen mit `@` (ohne whitespace davor oder danach)}
 [[Fachgebiet]] [[Kursname]] [[1. Semester]] [[{{tp_today}}]]
 
 ---
