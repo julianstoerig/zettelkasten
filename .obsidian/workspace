@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ada90d39e2886fdd",
+        "id": "d21ef4830f1c486e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/To-Do.md",
-            "mode": "preview"
+            "file": "System/§Informationsverarbeitung.md",
+            "mode": "source"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/To-Do.md",
+                "file": "System/§Informationsverarbeitung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/To-Do.md",
+                "file": "System/§Informationsverarbeitung.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "System/Informationsverarbeitung.md",
+    "System/🛠 - Methodik.md",
+    "System/📐 - Stylesheet.md",
+    "System/⏰ - Morgenroutine.md",
     "System/To-Do.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md",
     "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
-    "System/📋 - Vorlagen/second Brain.md",
-    "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
-    "System/📋 - Vorlagen/Beispiel 1.md",
-    "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel nützlicher als Fragende oder Fachbegriffliche, weil sie informieren und eindeutig..md",
-    "📝 - Arbeitsplatz/Untitled 2.md"
+    "System/📋 - Vorlagen/second Brain.md"
   ]
 }
