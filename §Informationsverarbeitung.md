@@ -3,7 +3,7 @@
 ---
 
 ```mermaid
-flowchart TB;
+graph TB;
 
 B[Bücher]
 S[Skripte]
