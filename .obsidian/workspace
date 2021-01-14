@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/§Zettel.md",
+            "file": "§Zettel.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/§Zettel.md",
+                "file": "§Zettel.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/§Zettel.md",
+                "file": "§Zettel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
