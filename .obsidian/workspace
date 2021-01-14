@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/§aussagekräftige Titel sind wichtig.md",
+            "file": "System/📋 - Vorlagen/Second Brain.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/§aussagekräftige Titel sind wichtig.md",
+                "file": "System/📋 - Vorlagen/Second Brain.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/§aussagekräftige Titel sind wichtig.md",
+                "file": "System/📋 - Vorlagen/Second Brain.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +123,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
     "System/📋 - Vorlagen/second Brain.md",
+    "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
     "System/📋 - Vorlagen/Beispiel 1.md",
     "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md",
     "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",

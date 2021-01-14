@@ -1,4 +1,4 @@
-[[second Brain]] [[2021-01-14]]
+[[System/📋 - Vorlagen/Second Brain]] [[2021-01-14]]
 
 ---
 
