@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
+            "file": "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel nützlicher als Fragende oder Fachbegriffliche, weil sie informieren und eindeutig..md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
+                "file": "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel nützlicher als Fragende oder Fachbegriffliche, weil sie informieren und eindeutig..md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
+                "file": "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel nützlicher als Fragende oder Fachbegriffliche, weil sie informieren und eindeutig..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/aussagende, ganze Sätze als Zettel-Titel sind eindeutig und daher nützlicher als Fragende oder Fachbegriffliche.md",
     "📝 - Arbeitsplatz/aussagekräftige Titel sind wichtig.md",
     "Größen und Einheiten.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
@@ -132,7 +133,6 @@
     "System/📋 - Vorlagen/Buch.md",
     "System/📋 - Vorlagen/Blog-Artikel.md",
     "System/📋 - Vorlagen/Beispiel.md",
-    "System/📋 - Vorlagen/Botanik.md",
-    "System/📋 - Vorlagen/Online-Artikel.md"
+    "System/📋 - Vorlagen/Botanik.md"
   ]
 }
