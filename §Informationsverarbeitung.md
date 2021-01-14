@@ -27,7 +27,7 @@ subgraph "keine Evaluation (immer relevant)"
 	V
 end
 
-B & P --> K 
+B & P --> K & X
 S ==> X
 
 K
@@ -40,6 +40,6 @@ subgraph Obsidian
 	L --> Z
 	Z --> T
 end
-Z --> F[Frage]
+Z --> F
 F --> B & P
 ```
