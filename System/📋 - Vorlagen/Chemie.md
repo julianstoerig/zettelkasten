@@ -1,4 +1,4 @@
-[[Chemie]] [[VO allgemeine und anorganische Chemie]] [[1. Semester]] [[{{tp_today}}]]
+[[Chemie]] [[VO allgemeine und anorganische Chemie]] [[{{tp_today}}]]
 
 ---
 

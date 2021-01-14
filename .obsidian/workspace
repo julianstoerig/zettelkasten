@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ec3d10d8201f2b38",
+        "id": "c1870b53a509c830",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SI-System.md",
+            "file": "System/📋 - Vorlagen/To-Do.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SI-System.md",
+                "file": "System/📋 - Vorlagen/To-Do.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SI-System.md",
+                "file": "System/📋 - Vorlagen/To-Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "SI-System.md",
-    "📄 - Zettelstapel/Physik/VO Physik.md",
-    "Physik.md",
-    "Kräftegleichgewicht.md",
-    "📄 - Zettelstapel/Physik/Kräftefreie Bewegung.md",
-    "Zoologie/Systematik.md",
-    "Find unlinked files plugin output.md",
-    "System/Informationsverarbeitung.md",
-    "📎 - Anhänge/Pasted image 20201218130658.png",
-    "📎 - Anhänge/Pasted image 20201228162525.png"
+    "System/📋 - Vorlagen/To-Do.md",
+    "System/📋 - Vorlagen/Physik.md",
+    "System/📋 - Vorlagen/Mikrobiologie.md",
+    "System/📋 - Vorlagen/Mathematik.md",
+    "System/📋 - Vorlagen/Daily Note Breitbrunn.md",
+    "System/📋 - Vorlagen/Daily Note.md",
+    "System/📋 - Vorlagen/Chemie.md",
+    "System/📋 - Vorlagen/Botanik.md",
+    "System/📋 - Vorlagen/Beispiel.md",
+    "SI-System.md"
   ]
 }

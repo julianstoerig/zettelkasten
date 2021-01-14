@@ -1,4 +1,4 @@
-[[System/📋 - Vorlagen/Mikrobiologie]] [[VO Mikrobiologie]] [[1. Semester]] [[{{tp_today}}]]
+[[System/📋 - Vorlagen/Mikrobiologie]] [[VO Mikrobiologie]] [[{{tp_today}}]]
 
 ---
 
