@@ -1,3 +1,4 @@
+# {==Nach Lesen löschen (`ctrl + D`)==: Titel für Bücher beginnen mit `%` (ohne whitespace davor oder danach)}
 [[Fachgebiet]] [[{{tp_today}}]]
 
 ---

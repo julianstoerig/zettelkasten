@@ -32,7 +32,7 @@ Spezielles Thema: [[]]
 
 
 
-## Kontext (wie  im Verhältnis zu anderen Arbeiten im Feld steht; wie es zu Schlüsselproblemen und Ergebnissen des Feldes durch andere und dich selbst steht)
+## Kontext (wie der Artikel im Verhältnis zu anderen Arbeiten im Feld steht; wie es zu Schlüsselproblemen und Ergebnissen des Feldes durch andere und dich selbst steht)
 
 
 

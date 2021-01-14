@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/📋 - Vorlagen/Blog-Artikel.md",
+            "file": "System/📋 - Vorlagen/Buch.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/📋 - Vorlagen/Blog-Artikel.md",
+                "file": "System/📋 - Vorlagen/Buch.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/📋 - Vorlagen/Blog-Artikel.md",
+                "file": "System/📋 - Vorlagen/Buch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,11 +123,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "System/📋 - Vorlagen/Buch.md",
     "System/📋 - Vorlagen/Online-Artikel.md",
     "System/📋 - Vorlagen/Online-Kurse.md",
     "System/📋 - Vorlagen/Person.md",
     "System/📋 - Vorlagen/Scientific Paper.md",
-    "System/📋 - Vorlagen/Buch.md",
     "System/📋 - Vorlagen/Buch 1.md",
     "📝 - Arbeitsplatz/2021-01-14.md",
     "System/📋 - Vorlagen/Scientific Paper 1.md",
