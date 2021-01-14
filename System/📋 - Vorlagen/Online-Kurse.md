@@ -1,4 +1,4 @@
-# {==Nach Lesen löschen (`ctrl + D`)==: Titel für Papers beginnen mit `%` (ohne whitespace davor oder danach)}
+# {==Nach Lesen löschen (`ctrl + D`)==: Titel für Kurse beginnen mit `%` (ohne whitespace davor oder danach)}
 [[Fachgebiet]] [[{{tp_today}}]]
 
 ---
@@ -32,7 +32,7 @@ Spezielles Thema: [[]]
 
 
 
-## Kontext (wie das Buch im Verhältnis zu anderen Arbeiten im Feld steht; wie es zu Schlüsselproblemen und Ergebnissen des Feldes durch andere und dich selbst steht)
+## Kontext (wie der Kursim Verhältnis zu anderen Arbeiten im Feld steht; wie es zu Schlüsselproblemen und Ergebnissen des Feldes durch andere und dich selbst steht)
 
 
 
