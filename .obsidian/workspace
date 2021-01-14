@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3d1c6707b7cf80a1",
+        "id": "e85873c6ba1105e2",
         "type": "leaf",
         "active": true,
         "state": {
@@ -118,6 +118,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled.md",
     "📅 - Logbuch/2021-01-10.md",
     "System/Zettel.md",
     "System/$Morgenroutine.md",
@@ -126,7 +127,6 @@
     "System/📐 - Stylesheet.md",
     "System/⏰ - Morgenroutine.md",
     "System/To-Do.md",
-    "📝 - Arbeitsplatz/Untitled 1.md",
-    "📝 - Arbeitsplatz/Untitled.md"
+    "📝 - Arbeitsplatz/Untitled 1.md"
   ]
 }
