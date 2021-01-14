@@ -5,6 +5,9 @@
 ```mermaid
 graph TB;
 
+F[Frage]
+R[Recherche]
+
 B[Bücher]
 S[Skripte]
 V[Vorlesungen]
