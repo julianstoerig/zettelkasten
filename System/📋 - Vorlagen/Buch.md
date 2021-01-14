@@ -41,7 +41,7 @@ Spezielles Thema: [[]]
 
 
 
-## Wichtige Figuren und Tabellen
+## Wichtige Graphen und Tabellen
 
 
 
