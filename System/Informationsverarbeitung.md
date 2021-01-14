@@ -14,18 +14,17 @@ L[Literaturnotiz]
 Z[Zettel]
 T[Texte]
 
-subgraph Universität
-	S
-	V
-end
 subgraph Evaluation
 	B
 	P
 end
 
+subgraph keine Evaluation (immer relevant)
+	S
+	V
+end
 
-B & P --> K
-B & P --> X
+B & P --> K & X
 S ==> X
 V ==> OP
 
