@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/§Informationsverarbeitung.md",
-            "mode": "source"
+            "file": "System/§Zettel.md",
+            "mode": "preview"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/§Informationsverarbeitung.md",
+                "file": "System/§Zettel.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/§Informationsverarbeitung.md",
+                "file": "System/§Zettel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "System/Zettel.md",
+    "System/$Morgenroutine.md",
     "System/Informationsverarbeitung.md",
     "System/🛠 - Methodik.md",
     "System/📐 - Stylesheet.md",
@@ -130,8 +132,6 @@
     "System/To-Do.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "📝 - Arbeitsplatz/Untitled.md",
-    "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md",
-    "📝 - Arbeitsplatz/Aussagen eignen sich besser als Titel als Fragen.md",
-    "System/📋 - Vorlagen/second Brain.md"
+    "📝 - Arbeitsplatz/ganze Sätze eignen sich besser als Titel als einzelne Fachbegriffe.md"
   ]
 }

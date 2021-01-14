@@ -1,4 +1,3 @@
-# {==Nach Lesen löschen (`ctrl + D`)==: Titel für X beginnen mit `§` (ohne whitespace davor oder danach)}
 [[§Second Brain]] [[2021-01-14]]
 
 ---
