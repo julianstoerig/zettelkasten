@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/Informationsverarbeitung.md",
-            "mode": "preview"
+            "file": "SI-System.md",
+            "mode": "source"
           }
         }
       }
@@ -25,7 +25,7 @@
       {
         "id": "aa9390330fbe976d",
         "type": "tabs",
-        "dimension": 42.31578947368421,
+        "dimension": 58.33333333333334,
         "children": [
           {
             "id": "71cf44860e0737fd",
@@ -55,7 +55,7 @@
       {
         "id": "3076d5943e2b5caa",
         "type": "tabs",
-        "dimension": 57.684210526315795,
+        "dimension": 41.66666666666667,
         "children": [
           {
             "id": "507982df27520917",
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/Informationsverarbeitung.md",
+                "file": "SI-System.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Informationsverarbeitung.md",
+                "file": "SI-System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,35 +116,22 @@
             }
           }
         ]
-      },
-      {
-        "id": "863f40b8f3ed730e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8dd36377c25cee47",
-            "type": "leaf",
-            "state": {
-              "type": "dangling-links",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 260
+    "width": 260,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "System/Informationsverarbeitung.md",
+    "SI-System.md",
+    "📄 - Zettelstapel/Physik/VO Physik.md",
+    "Physik.md",
+    "Kräftegleichgewicht.md",
+    "📄 - Zettelstapel/Physik/Kräftefreie Bewegung.md",
+    "Zoologie/Systematik.md",
     "Find unlinked files plugin output.md",
+    "System/Informationsverarbeitung.md",
     "📎 - Anhänge/Pasted image 20201218130658.png",
-    "📎 - Anhänge/Pasted image 20201228162525.png",
-    "📎 - Anhänge/Pasted image 20210109235322.png",
-    "📎 - Anhänge/Phasendiagramm Wasser.png",
-    "📎 - Anhänge/ski-portrait.jpg",
-    "📎 - Anhänge/Vorlesung-01 - Kopie.pdf",
-    "📎 - Anhänge/Vorlesung-01.pdf",
-    "📎 - Anhänge/Schematische Darstellung einer eukaryotischen Einzellerzelle.png"
+    "📎 - Anhänge/Pasted image 20201228162525.png"
   ]
 }
