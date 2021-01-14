@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c1870b53a509c830",
+        "id": "fe59e15da1af1b5d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/📋 - Vorlagen/To-Do.md",
+            "file": "📝 - Arbeitsplatz/1. Semester.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System/📋 - Vorlagen/To-Do.md",
+                "file": "📝 - Arbeitsplatz/1. Semester.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,8 +106,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/📋 - Vorlagen/To-Do.md",
-                "collapseAll": false,
+                "file": "📝 - Arbeitsplatz/1. Semester.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
@@ -119,19 +119,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260,
-    "collapsed": true
+    "width": 260
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled 1.md",
+    "1. Semester.md",
+    "System/📋 - Vorlagen/Zoologie.md",
     "System/📋 - Vorlagen/To-Do.md",
     "System/📋 - Vorlagen/Physik.md",
     "System/📋 - Vorlagen/Mikrobiologie.md",
     "System/📋 - Vorlagen/Mathematik.md",
     "System/📋 - Vorlagen/Daily Note Breitbrunn.md",
     "System/📋 - Vorlagen/Daily Note.md",
-    "System/📋 - Vorlagen/Chemie.md",
-    "System/📋 - Vorlagen/Botanik.md",
-    "System/📋 - Vorlagen/Beispiel.md",
-    "SI-System.md"
+    "System/📋 - Vorlagen/Chemie.md"
   ]
 }

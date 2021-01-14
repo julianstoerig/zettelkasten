@@ -1,4 +1,4 @@
-[[Zoologie]] [[VO Zoologie]] [[1. Semester]] [[{{tp_today}}]]
+[[Zoologie]] [[VO Zoologie]] [[{{tp_today}}]]
 
 ---
 
