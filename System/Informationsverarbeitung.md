@@ -17,7 +17,6 @@ T[Texte]
 subgraph Evaluation
 	B
 	P
-	K
 end
 
 subgraph Universität
@@ -25,7 +24,8 @@ subgraph Universität
 	V
 end
 
-B & P --> K
+B & P --> K & X
+
 S ==> X
 V ==> OP
 
