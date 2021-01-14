@@ -1,4 +1,4 @@
-# =={Nach Lesen löschen}==
+# {Nach Lesen löschen (`ctrl + D`): Titel für Paper beginnen mit @}
 [[Fachgebiet]] [[Kursname]] [[1. Semester]] [[{{tp_today}}]]
 
 ---
