@@ -6,7 +6,7 @@
 
 ### Copyright 
 
-Copyright © 2018 by Scott E.Page Cover design by Chin-Yee Lai Cover © 2018 Hachette Book Group, Inc. 
+Copyright © 2018 by Scott E. Page Cover design by Chin-Yee Lai Cover © 2018 Hachette Book Group, Inc. 
 
 Hachette Book Group supports the right to free expression and the value of copyright. The purpose of copyright is to encourage writers and artists to produce the creative works that enrich our culture. 
 
