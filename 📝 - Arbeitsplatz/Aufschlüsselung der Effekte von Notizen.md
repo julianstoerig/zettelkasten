@@ -31,8 +31,6 @@ Ps ==> N2
 
 ## Einfachheit / Schwierigkeit der verschiedenen Stufen bei verschiedenen Mitteln
 
-Die Quist zwischen einem und 5 Sterne
-
 |           | Digital  |        Digital        |    Analog     |
 | ---------:|:--------:|:---------------------:|:-------------:|
 |   Eingabe | Tastatur |      Handschrift      |  Handschrift  |
