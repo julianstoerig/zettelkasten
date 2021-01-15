@@ -31,7 +31,7 @@ Ps ==> N2
 
 ## Einfachheit / Schwierigkeit der verschiedenen Stufen bei verschiedenen Mitteln
 
-| Digital   | Digital     | Analog |
-| --------- | ----------- | ------ |
-| Tastatur | Handschrift |   Handschrift     |
-|           |             |        |
+|                  | Digital  | Digital     | Analog      |
+| ---------------- | -------- | ----------- | ----------- |
+| Eingabe          | Tastatur | Handschrift | Handschrift |
+| Progammbeispiele | Obsidian |             |             |
