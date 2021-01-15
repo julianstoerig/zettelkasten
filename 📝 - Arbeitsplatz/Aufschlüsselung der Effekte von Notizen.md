@@ -42,5 +42,5 @@ Ps ==> N2
 |             Wissen rekontextualisieren |       ⭐⭐⭐        |        ⭐⭐                |         ⭐⭐          |     ⭐⭐      |
 |                              Ablenkung |        ⭐         |          ⭐              |          ⭐           |    ⭐⭐⭐     |
 |                           Wiederholung |       ⭐⭐⭐        |     ⭐                   |          ⭐           |      ⭐       |
-|                   Wiederholung (+Anki) | ⭐⭐⭐(nicht nötig) |                        |         ⭐⭐          |     ⭐⭐      |
-|                   Arbeitserleichterung |       ⭐⭐⭐        |                        |         ⭐⭐          |      ⭐       |
+|                   Wiederholung (+Anki) | ⭐⭐⭐(nicht nötig) |       ⭐⭐                 |         ⭐⭐          |     ⭐⭐      |
+|                   Arbeitserleichterung |       ⭐⭐⭐        |          ⭐⭐              |         ⭐⭐          |      ⭐       |
