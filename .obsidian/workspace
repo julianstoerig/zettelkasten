@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/To DO.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/To DO.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/To DO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +123,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/th.md",
     "📝 - Arbeitsplatz/Untitled.md",
+    "📝 - Arbeitsplatz/th.md",
     "📝 - Arbeitsplatz/Aufschlüsselung der Effekte von Notizen.md",
     "§Informationsverarbeitung.md",
     "📅 - Logbuch/2021-01-10.md",
