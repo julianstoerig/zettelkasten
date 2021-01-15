@@ -4,24 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "be170fdef5c34f69",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "📎 - Anhänge/The Model Thinker_ What You Nee - Scott E. Page.pdf"
-          }
-        }
-      },
-      {
         "id": "7a694afa9228cb8f",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "The Model Thinker_ What You Nee - Scott E. Page.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -73,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📎 - Anhänge/The Model Thinker_ What You Nee - Scott E. Page.pdf",
+                "file": "The Model Thinker_ What You Nee - Scott E. Page.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -116,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📎 - Anhänge/The Model Thinker_ What You Nee - Scott E. Page.pdf",
+                "file": "The Model Thinker_ What You Nee - Scott E. Page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +123,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📎 - Anhänge/The Model Thinker_ What You Nee - Scott E. Page.pdf",
     "The Model Thinker_ What You Nee - Scott E. Page.md",
+    "📎 - Anhänge/The Model Thinker_ What You Nee - Scott E. Page.pdf",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/th.md",
     "📝 - Arbeitsplatz/Aufschlüsselung der Effekte von Notizen.md",
