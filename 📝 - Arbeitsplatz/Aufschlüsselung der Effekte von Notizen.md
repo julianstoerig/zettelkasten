@@ -18,7 +18,9 @@ end
 
 subgraph Pt[Wiederholen]
 	N2 -->|lesen| I2
-	A2
+	I2 -->|üben| A2
+	I2 -->|verbessern| N2
+	A2 -->|versehen| I2
 end
 
 Ps ==> Pt
