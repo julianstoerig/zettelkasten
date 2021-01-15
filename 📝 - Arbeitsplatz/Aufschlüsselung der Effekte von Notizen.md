@@ -1,14 +1,15 @@
 ```mermaid
-flowchart LR
+flowchart TD
 
-IQ(Informationsquelle)
+Iq(Informationsquelle)
 N(Notizen)
-H[Hören]
-I --> H
+H(Hören)
+I(Interpretation)
+Iq --> H
 
 subgraph Ps[Prozess]
-	H --> In
-	N
+	H --> I
+	I --> N
 end
 
 subgraph Pt[Produkt]
