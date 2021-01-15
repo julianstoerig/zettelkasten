@@ -11,6 +11,8 @@ I2(Interpretation)
 A2(Anwendung / Aufgaben)
 Iq --> H
 
+
+
 subgraph Ps[Im Unterricht]
 	H --> I
 	A --> I
