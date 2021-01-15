@@ -8,10 +8,20 @@
         "type": "leaf",
         "active": true,
         "state": {
+          "type": "pdf",
+          "state": {
+            "file": "📎 - Anhänge/The Model Thinker_ What You Nee - Scott E. Page.pdf"
+          }
+        }
+      },
+      {
+        "id": "7a694afa9228cb8f",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Untitled.md",
-            "mode": "source"
+            "file": "The Model Thinker_ What You Nee - Scott E. Page.md",
+            "mode": "preview"
           }
         }
       }
@@ -63,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "📎 - Anhänge/The Model Thinker_ What You Nee - Scott E. Page.pdf",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "📎 - Anhänge/The Model Thinker_ What You Nee - Scott E. Page.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +133,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📎 - Anhänge/The Model Thinker_ What You Nee - Scott E. Page.pdf",
+    "The Model Thinker_ What You Nee - Scott E. Page.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/th.md",
     "📝 - Arbeitsplatz/Aufschlüsselung der Effekte von Notizen.md",
@@ -130,8 +142,6 @@
     "📅 - Logbuch/2021-01-10.md",
     "System/Zettel.md",
     "System/$Morgenroutine.md",
-    "System/Informationsverarbeitung.md",
-    "System/🛠 - Methodik.md",
-    "System/📐 - Stylesheet.md"
+    "System/Informationsverarbeitung.md"
   ]
 }
