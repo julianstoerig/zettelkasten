@@ -7,12 +7,12 @@ H(Hören)
 I(Interpretation)
 Iq --> H
 
-subgraph Ps[Proze<br>ss]
+subgraph Ps[Im Unterricht]
 	H --> I
 	I --> N
 end
 
-subgraph Pt[Produkt]
+subgraph Pt[Wiederholen]
 	
 end
 
