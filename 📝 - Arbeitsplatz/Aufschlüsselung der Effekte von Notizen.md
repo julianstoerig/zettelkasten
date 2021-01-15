@@ -33,4 +33,5 @@ Ps ==> N2
 
 | Digital   | Digital     | Analog |
 | --------- | ----------- | ------ |
-| Plaintext | Handschrift       |        |
+| Tastatur | Handschrift |   Handschrift     |
+|           |             |        |
