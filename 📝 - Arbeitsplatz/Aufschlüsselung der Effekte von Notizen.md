@@ -6,7 +6,7 @@ N[Notizen]
 
 I --> N
 
-subgraph Ps[Prozess]
+subgraph Ps[rozess
 	N
 end
 

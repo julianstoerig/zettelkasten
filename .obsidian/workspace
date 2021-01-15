@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Untitled.md",
-            "mode": "preview"
+            "file": "📝 - Arbeitsplatz/Aufschlüsselung der Effekte von Notizen.md",
+            "mode": "source"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "📝 - Arbeitsplatz/Aufschlüsselung der Effekte von Notizen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "📝 - Arbeitsplatz/Aufschlüsselung der Effekte von Notizen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
