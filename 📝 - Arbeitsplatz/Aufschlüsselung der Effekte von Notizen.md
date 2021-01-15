@@ -7,7 +7,7 @@ H(Hören)
 I(Interpretation)
 Iq --> H
 
-subgraph Ps[Prozess]
+subgraph Ps[Proze<br>ss]
 	H --> I
 	I --> N
 end
