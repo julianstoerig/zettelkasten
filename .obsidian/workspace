@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4591921a209c9b5a",
+        "id": "ccb24c16d974ae08",
         "type": "leaf",
         "active": true,
         "state": {
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264
+    "width": 262
   },
   "right": {
     "id": "a3b0eee1ddc0955b",
@@ -118,6 +118,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/th.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Aufschlüsselung der Effekte von Notizen.md",
     "§Informationsverarbeitung.md",
@@ -126,7 +127,6 @@
     "System/$Morgenroutine.md",
     "System/Informationsverarbeitung.md",
     "System/🛠 - Methodik.md",
-    "System/📐 - Stylesheet.md",
-    "System/⏰ - Morgenroutine.md"
+    "System/📐 - Stylesheet.md"
   ]
 }
