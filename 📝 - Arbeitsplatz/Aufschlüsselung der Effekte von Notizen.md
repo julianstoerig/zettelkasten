@@ -5,6 +5,7 @@ Iq(Informationsquelle)
 N(Notizen)
 H(Hören)
 I(Interpretation)
+I2
 Iq --> H
 
 subgraph Ps[Im Unterricht]
@@ -13,7 +14,7 @@ subgraph Ps[Im Unterricht]
 end
 
 subgraph Pt[Wiederholen]
-	
+	N -->|lesen| 
 end
 
 Ps --> Pt
