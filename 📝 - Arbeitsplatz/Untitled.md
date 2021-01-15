@@ -1,5 +1,5 @@
 ```mermaid
-graph LR
+flowchart LR
 
 I[Informationsquelle]
 N[Notizen]
@@ -14,4 +14,5 @@ subgraph Pt[Produkt]
 	
 end
 
+Ps --> Pt
 ```
