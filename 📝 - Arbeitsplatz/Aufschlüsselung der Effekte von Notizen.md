@@ -31,7 +31,10 @@ Ps ==> N2
 
 ## Einfachheit / Schwierigkeit der verschiedenen Stufen bei verschiedenen Mitteln
 
-|                  | Digital  | Digital     | Analog      |
-| ---------------- | -------- | ----------- | ----------- |
-| Eingabe          | Tastatur | Handschrift | Handschrift |
-| Progammbeispiele | Obsidian |             |             |
+Die Quist zwischen einem und 5 Sterne
+
+|           | Digital  |        Digital        |    Analog     |
+| ---------:|:--------:|:---------------------:|:-------------:|
+|   Eingabe | Tastatur |      Handschrift      |  Handschrift  |
+| Beispiele | Obsidian | Goodnotes, Notability | Hefte, Ordner |
+|           |          |                       |               |
