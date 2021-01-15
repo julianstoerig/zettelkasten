@@ -31,14 +31,16 @@ Ps ==> N2
 
 ## Einfachheit / Schwierigkeit der verschiedenen Stufen bei verschiedenen Mitteln
 
-|                                        | Digital  |        Digital        |    Analog     |
-| --------------------------------------:|:--------:|:---------------------:|:-------------:|
-|                                Eingabe | Tastatur |      Handschrift      |  Handschrift  |
-|                              Beispiele | Remnote  | Goodnotes, Notability | Hefte, Ordner |
-|                                  ----- |  -----   |         -----         |     -----     |
-|                             Lesbarkeit |  ⭐⭐⭐  |         ⭐⭐          |      ⭐       |
-| Wie einfach ist es richtig zu arbeiten |  ⭐⭐⭐  |        ⭐⭐⭐         |      ⭐       |
-|         Einbinden verschiedener Medien |  ⭐⭐⭐  |         ⭐⭐          |      ⭐       |
-|             Wissen rekontextualisieren |  ⭐⭐⭐  |         ⭐⭐          |     ⭐⭐      |
-|                              Ablenkung |   ⭐⭐   |          ⭐           |    ⭐⭐⭐     |
-|                           Wiederholung |  ⭐⭐⭐  |         ⭐⭐          | ⭐⭐              |
+|                                        |       Digital       |        Digital        |    Analog     |
+| --------------------------------------:|:-------------------:|:---------------------:|:-------------:|
+|                                Eingabe |      Tastatur       |      Handschrift      |  Handschrift  |
+|                              Beispiele |       Remnote       | Goodnotes, Notability | Hefte, Ordner |
+|                                  ----- |        -----        |         -----         |     -----     |
+|                             Lesbarkeit |       ⭐⭐⭐        |         ⭐⭐          |      ⭐       |
+| Wie einfach ist es richtig zu arbeiten |       ⭐⭐⭐        |        ⭐⭐⭐         |      ⭐       |
+|         Einbinden verschiedener Medien |       ⭐⭐⭐        |         ⭐⭐          |      ⭐       |
+|             Wissen rekontextualisieren |       ⭐⭐⭐        |         ⭐⭐          |     ⭐⭐      |
+|                              Ablenkung |        ⭐⭐         |          ⭐           |    ⭐⭐⭐     |
+|                           Wiederholung |       ⭐⭐⭐        |          ⭐           |      ⭐       |
+|                   Wiederholung (+Anki) | ⭐⭐⭐(nicht nötig) |         ⭐⭐          |     ⭐⭐      |
+|                                        |                     |                       |               |
