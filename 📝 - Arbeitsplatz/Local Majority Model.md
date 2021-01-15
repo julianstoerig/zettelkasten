@@ -1,0 +1,17 @@
+Each cell on a two-dimensional square grid is in one of two states: on or off. Each cell has eight neighbors (shown in the diagram below).^2 In each period, a cell is chosen randomly.^3 The cell changes its state if and only if five or more of its neighbors are in the other state. 
+
+The local interactions in the local majority model includes positive feedbacks: cells match the state of other cells. Figure 15.1 shows a typical equilibrium configuration of the local majority model. In equilibrium, every cell’s state matches the state of a majority of its neighbors. Equilibrium configurations resemble the black-andwhite patchiness of a Holstein cow. While the equilibrium configuration depends on the initial configuration of the cells, the model does not exhibit extreme sensitivity to initial conditions. Switching the state of one cell results in at most small changes in the final configuration. The pattern also depends on the order in which cells are activated. Thus, the model exhibits path dependence. The number of equilibria is enormous. Two equilibria produced by the model look no more alike than two Holsteins in a field. The model was developed to capture physical systems where each cell’s state represents an atomic spin—think of each cell as a magnet with either a negative or positive charge. Each magnet resides in a local magnetic field that physically drives it to match the spins of its neighbors. The same model can also represent glasses 
+
+---
+
+and crystals. 
+
+Figure 15.1: Equilibrium Pattern in the Local Majority Model Here, we use the model to capture local coordination or conformity among people. We think of each cell as representing an individual’s action. The action could be any convention such as shaking hands or bowing, interrupting or raising one’s hand. A person wants to choose an action that matches those of her neighbors. The checkerboard represents the social network. The checkerboard would be an appropriate social network for a homeowner’s decision to maintain a clean yard, plant trees, or practice ecological landscaping or for people in an auditorium 
+
+deciding whether to give performers a standing ovation.^4 While the checkerboard is at best a crude approximation, with it we gain some core intuitions. If we run the model on a computer, we find it always goes to a patchy equilibrium configuration. In Chapter 16 , we learn why. In the physical interpretation of the local majority model, the patchy equilibrium pattern corresponds to a _frustrated state_. Many cells have some neighbors in the on state and some in the off state. If we interpret the model through a social lens, the frustrated state can be seen as a _suboptimal equilibrium._ If being on corresponds to greeting people by shaking hands and being off corresponds to greeting people by bowing, then people on the boundaries of the patches experience awkward interactions with some of their neighbors: they bow when others shake, or they shake when others bow. People would be happier overall if everyone chose the same action—that is, if they solved the coordination game. The suboptimal equilibria, the frustrated state, arises because the interaction effects apply locally. If, instead, cells matched the global majority, then very 
+
+---
+
+quickly all of the cells would be in the same state. That insight implies that creating common behaviors may require broad influence networks. If people coordinate with their local neighbors, they create pockets of diverse behaviors. Paradoxically, coordination results in diversity. 
+
+---

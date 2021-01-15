@@ -1,0 +1,27 @@
+Total output in the economy is given by the following equation: 
+
+### Output = A 
+
+ where L denotes the amount of labor, K denotes the amount of physical capital, and A represents the level of technology. The long-run equilibrium output, O ∗, is given by the equation^13 
+
+Long-run equilibrium output increases in the amount of labor, the growth in technology, and the growth in the savings rate. It decreases with a rise in the depreciation rate. None of these results is surprising. More workers, better technology, and more savings increases output, and faster depreciation reduces output. The fact that output increases linearly with labor and savings is less intuitive. Labor produces diminishing returns, so without working through the model, we might expect long-run output to be concave in the amount of labor. However, as the amount of labor increases, so too does output, which in turn increases investment, leading to more output. The positive feedback from investment exactly offsets the decreasing returns. Last, equilibrium output is convex with the depreciation rate. Lowering the depreciation by 20% increases output by 25%. Finally, long-run equilibrium output increases as the square of the technological improvements. Innovation therefore increases output more than linearly. We can use the model to show why. If we start with an economy in a long-run equilibrium and increase the technology parameter by 50%, output increases by 50%, and so too does investment. Investment then exceeds depreciation, so the 
+
+---
+
+economy continues to grow. Investment continues to outpace depreciation until the economy has grown another 50%, at which point the capital lost to depreciation offsets investment. These calculations reveal that innovation has two effects, creating an _innovation multiplier_. First, innovations directly increase outputs. Second, they indirectly lead to more capital investments creating an additional increase in output. Innovation, therefore, is the key to 
+
+sustaining growth.^14 These increases in output do not occur instantaneously. When a breakthrough occurs, the technology parameter changes slowly. The direct effects unfold over time. Old physical capital must be replaced by new physical capital with the better technology. A company’s computers do not get faster when technology changes; they get faster when technology changes and the company buys new computers. The second-order increase that results from the increased investment in physical capital takes place over an even longer time frame. Lags between technology and its effects on growth can imply that an innovation produces growth over a period of decades. Trains were invented in the early 1800s. The Gilded Age did not begin until the latter part of that century, a gap of over fifty years. The internet boom took place three decades after the creation of the ARPANET.^15 
+
+---
+
+### Why Nations Succeed and Fail 
+
+We can apply our growth models to big policy questions such as whether backward countries can catch up, why some countries succeed and some fail, and the role of government in promoting growth. Those investigations show the value and limits of our models. We can begin with the ability of low-GDP countries to achieve fast growth. The models show that building up capital can produce fast growth, as will investing in technology. A backward country with less physical capital that could jump to the technological frontier with new capital outlays could experience incredible growth.^16 The necessity of innovation for long-term growth, as shown in the second model, implies the limits of one-time imports of new technology. Continued growth requires innovation. Thus, when the Soviets dismantled German factories and rebuilt them in the Soviet Union following World War II, they could produce short-term growth, so much so that on November 18, 1956, Soviet premier Nikita Khrushchev, speaking at the Polish embassy in Moscow to ambassadors from Western nations, proclaimed, “Mi vas pokhoronim!,” or “We will be present at your funeral!” They did not. 
+
+They failed to do so because the Soviet Union did not innovate.^17 They limited freedom and stifled entrepreneurs. The models also show how extraction and corruption, the taking of output from the economy for government use, will reduce growth through reduced savings. Cross-country comparisons of growth rates support both findings: reducing extraction and corruption and promoting innovation enhance growth. Achieving those aims requires a strong but limited central government that promotes pluralism. The strong center establishes property rights and rule of law. Pluralism prevents capture by the elite, who often prefer the status quo and may not embrace innovation, which can be destructive. As an example of destructive innovation, consider the website 
+
+---
+
+Craigslist, which posts for-sale and help-wanted ads. In the early 2000s, Craigslist contributed to the loss of hundreds of thousands of newspapers jobs in the United States. At that time, Craigslist itself employed only a few dozen workers. Though people lost jobs, Craigslist made the economy more efficient by increasing the technology parameter. In a less pluralistic society, the newspaper industry might have lobbied the government to stop Craigslist. Doing so would have slowed growth. 
+
+---

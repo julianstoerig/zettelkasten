@@ -1,0 +1,15 @@
+In a market economy, we can measure an individual’s value for a good by the price she is willing to pay. An individual might value a pastrami sandwich at $7, a painting by Goya at $3 million, and a one-acre lot in Ocala, Florida, at $75,000. Many economic models ignore the source of these valuations. George Stigler famously quoted the sensualist Mitya from Dostoyevsky’s _The Brothers Karamazov,_ who said, “ _De gustibus non est disputandum”_ (In matters of taste, there can be no disputes). The models we cover say less about tastes than about how tastes translate to the monetary values people assign to goods. 
+
+**Hedonic attribute model** : This model explains a good’s value based on intrinsic attributes. Differences in valuations depend on different underlying preferences over the good’s attributes. These attributes could be the physical components of the good. A pastrami sandwich consists of rye bread, six ounces of pastrami, Swiss cheese, mustard, pickles, and onions. Its value can then be written as a weighted linear combination of those components. More elaborate hedonic models can include interaction terms. The pastrami may be even more valuable if served on grilled rye bread. 
+
+**Coordination model** : This model explains prices as socially constructed. The value of a Goya painting depends on what other people believe its value to be. Initially, people have beliefs or opinions about the value of the painting. They then interact with other people in their social network and update their beliefs. Two people could both set their values equal to the mean of their two values; one person could change her value to match the other’s value; or each person could move their valuation in the direction of the others. Given any of these three 
+
+---
+
+assumptions, valuations converge locally. People connected to one another will have similar valuations. The ultimate value assigned to a good will depend on the initial distribution of values, the social network, and the order in which pairings occurs. 
+
+**Predictive models** : This model explains prices as forecasts of future value. The value of the one-acre lot in Ocala, Bitcoin, or a stock depends on how much people will pay for them in the future. These valuations depend on predictive models, which in turn depend on attributes and categories. We might categorize Ocala as warm, low-tax, and inland. Variation in people’s valuations arises from different predictive models. Investors use multiple predictive models. These models may rely on attributes or, as in the case of valuing Bitcoin, also make assumptions about coordination. 
+
+These three models provide three distinct explanations for the value of a good. No one model will be best in all cases. Each will have cases where it works best. The models function as arrows in our quiver. The value of a pastrami sandwich most likely derives from its intrinsic properties. The value of the Goya painting may be largely socially constructed: a painting has value if people believe it has value. The price of the land in Florida likely depends on valuations derived from predictions of future real estate values. 
+
+---

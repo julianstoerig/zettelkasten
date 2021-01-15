@@ -1,0 +1,11 @@
+Create d disconnected nodes. In each period t create a new node with quality Qt drawn from a distribution F. Connect that node to d other nodes based on the degree of those nodes. If Dit denotes the degree of node i at time t , the probability of choosing node i given N nodes equals: 
+
+If the quality of new nodes has a low mean and low variance, the model resembles the standard preferential attachment model. If the quality distribution has a long tail, then new nodes of very high quality can grow to have large degree.^6 
+
+---
+
+### Why Networks Matter: Function 
+
+In Chapter 1 , we mentioned the friendship paradox, the fact that on any network, on average, people cannot have more friends than their friends do. The logic for why this holds can be shown using the huband-spoke network. In that network, twelve people have one friend and one person has twelve friends. The twelve people with one friend are all connected to the hub, and the hub has twelve friends. That feature—the fact that high-degree people are connected to more people—drives the result. On the hub network, people, on average, have fewer than two friends. Yet, on average, each person’s friends have more than eleven friends. The friendship paradox holds for any network: academic citation networks, email networks, sexual contact networks, banking networks, and international trade networks. On average, the references cited by an academic article receive more citations than the article itself; a country’s trading partners, on average, trade with more countries than the country itself; and the multiple species connected to a single species in a food network have, on average more connections than the single species itself. The disparity between the number of friends and the number of friends of friends becomes more pronounced on networks with degree distributions that are more dispersed. One analysis of friendships on Facebook found that the average person has around two hundred friends and their friends, on average, have more than six hundred friends.^7 
+
+---

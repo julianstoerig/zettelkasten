@@ -1,0 +1,9 @@
+People who fill structural holes connect communities in a network and have more influence. A variety of statistical measures of a network, such as betweenness, should correlate with occupying a structural hole. An alternative measure of influence in a network, _Myerson value_ , relies on the logic of Shapley values. To compute Myerson values, we construct a cooperative game on a network but only allow coalitions that include connected components. Consider three individuals arranged in a line. Assume that their locations represent political ideologies with person _B_ in the center, as shown below. If we restrict coalitions to immediate neighbors, then _A_ , the left-most person, cannot connect to _C_ , the right-most person, unless person _B_ also belongs to the coalition. To compute each player’s Myerson value, we first assign added values to all feasible coalitions. We then compute Shapley values for each possible coalition, treating each as a distinct game. Last, we add up the Shapley values for each coalition game to obtain Myerson values. 
+
+As an example, suppose that any coalition of two players produces an output of value 10 and all three players together produce output of value 14, we obtain the following: Players 1 and 3 have Myerson values of 3, and Player 2 has a Myerson value of 8.^18 Centrality measures such as betweenness are based only on the network. Myerson values depend on a value function. By having both measures we can disentangle the dependence of 
+
+---
+
+power on a person’s position in the network and on the functions she performs. In our example, the Myerson values for the three players, (3, 8, 3), correlate perfectly with their betweenness scores (0, 1, 0). That will not always be the case, particularly for more complicated networks and value functions. 
+
+---

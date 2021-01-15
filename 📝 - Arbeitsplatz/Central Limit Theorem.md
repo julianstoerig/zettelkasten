@@ -1,0 +1,15 @@
+The sum of N ≥ 20 random variables will be approximately a normal distribution provided that the random variables are independent, that each has finite variance, and that no small set of the variables contributes most of the variation.^2 
+
+One remarkable aspect of this theorem is that the random variables themselves need not be normally distributed. They could have any distribution so long as each has finite variance and no small subset of them contributes most of the variance. Suppose that data on the purchasing behaviors of the people in a small town of population 500 shows that each person spends on average $100 a week. Some of those people might spend $50 one week and $150 the next. Others might spend $300 every third week, while others might spend random amounts between $20 and $180 each week. So long as each person’s spending has finite variation and no small subset of people contribute most of the variation, the sum of the distributions will be normally distributed with a mean of $50,000. Aggregate weekly spending will also be symmetric: as likely to be above $55,000 as it is below $45,000. By the same logic, the number of bananas, quarts of milk, or boxes of taco shells that people buy will also be normally distributed. We can also apply the central limit theorem to explain the distribution of human heights. A person’s height is determined by a combination of genetics, the environment, and interactions between the two. The genetic contribution could be as high as 80%, so we will assume that height depends only on genes. At least 180 genes contribute to human height.^3 One gene may contribute to having a longer neck or head and another to a longer tibia. Though genes interact, to a first approximation, we can assume that each contributes independently. If height equals the sum of the 
+
+---
+
+contributions of the 180 genes, then heights will be normally distributed. By the same logic, so too will the weights of wolves and the length of pandas’ thumbs. 
+
+---
+
+### Applying Our Knowledge of Distributions: Function 
+
+Our first application of the normal distribution reveals why exceptional outcomes occur far more often in small populations, why the best schools are small, and why the counties with the highest cancer rates have small populations. Recall that in a normal distribution 95% of outcomes lie within two standard deviations and 99% lie within three standard deviations, and that by the central limit theorem, the mean of a collection of independent random variables will be normally distributed (with the caveats about variance). It follows that we can be pretty confident that population averages on test scores and the like will be normally distributed. The standard deviation of the average of the random variables, however, does not equal the average of the variables’ standard deviations, nor does the standard deviation of the sum equal the sum of the standard deviations. Instead, those formulae depend on the square roots of the population sizes (see box). 
+
+---

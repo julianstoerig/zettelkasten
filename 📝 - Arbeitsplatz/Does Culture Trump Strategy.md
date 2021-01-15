@@ -1,0 +1,17 @@
+We now apply contagion models and learning models to address the longstanding claim from organizational theory that 
+
+culture trumps strategy.^16 In brief, the claim states that strategic incentives to change behaviors fail. The pull of culture, the existing set of repertoires and beliefs, proves too powerful. Economists argue the opposite: that incentives drive behavior. To turn these opposite proverbs into conditional logic, we first apply a version of the network contagion model. In this model, the manager, or possibly the CEO, announces a new strategy and produces evidence for the benefits of the change. The CEO may even redefine the organization’s core principles to reflect this new behavior. Individuals in the organization then choose whether or not to adopt the behavior based on how compellingly the manager makes her case. Some initial proportion of people buy into the initiative. When they make contact with others in their work network, they spread their enthusiasm. There also exists a pull against the new strategy, causing people to no longer adopt the new strategy. The three features that determine if the new strategy spreads—the contact rate, the spreading rate, and the rate of abandonment— map naturally into the parameters in the basic reproduction number, _R_ 0 : 
+
+If we add in the possibility of superspreaders, then we might conclude that culture trumps strategy provided any of three conditions hold: if people do not believe in the new strategy, if they are quick to abandon it, or if the strategy’s advocates are not well connected. Otherwise, strategy may well trump culture. Our second model applies replicator dynamics to a _Culture/Strategy Game_ that models interactions between pairs 
+
+---
+
+of employees. We can represent these choices in game form as a _cultural action_ (doing what they currently do) and as an _innovative strategic action_. We assume that the manager constructs payoffs so that both players earn higher payoffs if both choose to be innovative. However, a single innovative player earns less. 
+
+### The Culture/Strategy Game 
+
+The game has two strict pure-strategy Nash equilibria: one in which both innovate (strategy trumps culture) and one in which neither innovates (culture trumps strategy). The manager appears to have constructed incentives so that the employees will take the innovative new action, as it has the higher payoff. If we write down a learning model, we see that the manager needs sufficient initial buy-in for the innovation to take hold. In the game above, it can be shown that if the initial buy-in, that the proportion that adopts the innovation in the first period, does 
+
+not exceed 20%, then culture trumps strategy.^17 If we were to increase the payoff from the innovative strategic action, then initial buy-in could be even lower yet still result in the efficient outcome. These two models show that the opposing proverbs “Culture trumps strategy” and “People respond to incentives” can both be correct conditionally. According to the first model, charismatic CEOs who can convince well-connected employees can introduce new strategies that trump culture. According to the second model, culture trumps weak incentives but not strong ones. 
+
+---

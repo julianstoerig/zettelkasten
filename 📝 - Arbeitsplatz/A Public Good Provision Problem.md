@@ -1,0 +1,21 @@
+N people each allocate an income I > N between a public good (PUBLIC) and a private good (PRIVATE) that each cost $1 per unit. Each person has the following utility function: 
+
+ Socially optimal allocation : PUBLIC = N (if N = 100, each person contributes $100). 
+
+ Equilibrium allocation : PUBLIC = (if N = 100, each person contributes $0.01).^4 
+
+In the model, we assume that utility is concave in the public good and linear in the private good. Those two assumptions require motivation. Recall that concavity corresponds to diminishing returns: as a person consumes more, she values it less. Concavity in the amount of the public good implies diminishing marginal returns to the public good. This is a standard assumption. People benefit more from adding a third lane to the highway than from adding a fourth lane. People benefit more from cleaning heavily polluted air than from removing the last few particles per billion. We assume linearity in the private good because it represents a composite of all private goods. While utility may be concave in any one good, be it chocolate, televisions, or denim jackets, it is probably closer to linear for all goods. The assumption has the added advantage of making the model easier to analyze. We first solve for the socially optimal allocation, which we define as the allocation that maximizes the sum of the utilities of the 
+
+population: the greatest happiness of the greatest number.^5 The socially optimal allocation calls for each individual to allocate $1 to the public good for each member of the population. Notice that the 
+
+---
+
+amount each person contributes to the public good increases with population size. This result does not depend on our particular function. It follows from the fact in a larger population, the non-rival public good can be enjoyed by more people. More people enjoy clean air or national defense, so more should be provided. The equilibrium contributions equal 1 divided by the population size. As the population increases, people have a greater incentive to free ride off the contributions of others. We can see why by increasing the population size by one. This new person receives the same utility from the public good as everyone else had previously. If other people’s contributions stayed the same, this new person has weaker incentives to contribute to the public good than the others had previously. Therefore, he will contribute less than the others contributed. Moreover, whatever amount he does contribute increases the total amount of the public good and creates an incentive for everyone else to contribute less than they had previously. The model thus reveals that as populations become larger, public good provision problems exacerbate. The optimal level of the good increases, while the incentives to give fall. The formulae for amounts derived in our model (the _N_ and ) do depend on the functions 
+
+assumed, but the phenomenon of underprovision holds more generally. This analysis assumes self-interested people, a common assumption in economic models. Evidence from surveys, experiments, as well as casual observations, reveals that people often have other-regarding preferences. People want good schools and roads for others as well as for themselves. We can include other regarding preferences by adding an _altruism parameter_ to our model. A value of zero for that parameter corresponds to the self-interested rational actor from economics, and a value of 1 corresponds to everyone caring as much about others as they care about themselves. As shown in the box, pure altruists, people who care about everyone equally, contribute the socially optimal level. Anything less than pure altruism leads to underprovision. 
+
+---
+
+The calculations show that in large populations, people contribute a portion of the optimal level that is (approximately) equal to the square of the altruism parameter. Though the extent of underprovision depends on the utility function, the example demonstrates the limits of altruism. People who care about others half as much as themselves contribute one-fourth of the optimal level. People who care about others a third as much as themselves contribute a mere one-ninth of the optimal level. 
+
+---
