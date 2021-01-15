@@ -37,8 +37,8 @@ Ps ==> N2
 |                              Beispiele |       Remnote       |        OneNote         | Goodnotes, Notability | Hefte, Ordner |
 |                             ---------- |     ----------      |       ----------       |      ----------       |     ----------     |
 |                             Lesbarkeit |       ⭐⭐⭐        |      ⭐⭐                  |         ⭐⭐          |      ⭐       |
-| Wie einfach ist es richtig zu arbeiten |       ⭐⭐⭐        |                        |        ⭐⭐⭐         |      ⭐       |
-|         Einbinden verschiedener Medien |       ⭐⭐⭐        |                        |         ⭐⭐          |      ⭐       |
+| Wie einfach ist es richtig zu arbeiten |       ⭐⭐⭐        |        ⭐⭐                |        ⭐⭐⭐         |      ⭐       |
+|         Einbinden verschiedener Medien |       ⭐⭐⭐        |         ⭐⭐⭐               |         ⭐⭐          |      ⭐       |
 |             Wissen rekontextualisieren |       ⭐⭐⭐        |                        |         ⭐⭐          |     ⭐⭐      |
 |                              Ablenkung |        ⭐⭐         |                        |          ⭐           |    ⭐⭐⭐     |
 |                           Wiederholung |       ⭐⭐⭐        |                        |          ⭐           |      ⭐       |
