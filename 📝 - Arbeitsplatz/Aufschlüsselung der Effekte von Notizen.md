@@ -31,6 +31,6 @@ Ps ==> N2
 
 ## Einfachheit / Schwierigkeit der verschiedenen Stufen bei verschiedenen Mitteln
 
-| Digital | Digital | Digital | Analog |
-| ------- | ------- | ------- | ------ |
-|         |         |         |        |
+| Digital   | Digital | Digital | Analog |
+| --------- | ------- | ------- | ------ |
+| Plaintext | Notizen        |         |        |
