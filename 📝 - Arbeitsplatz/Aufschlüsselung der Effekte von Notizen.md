@@ -11,7 +11,7 @@ I2(Interpretation)
 A2(Anwendung / Aufgaben)
 Iq --> H
 
-
+Na{Nachschlagen} ==> N2
 
 subgraph Ps[Im Unterricht]
 	H --> I
