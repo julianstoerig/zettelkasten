@@ -1,11 +1,11 @@
 ```mermaid
-flowchart TD
+flowchart TB
 
 Iq(Informationsquelle)
 N(Notizen)
 H(Hören)
 I(Interpretation)
-I2
+I2(Interpretation)
 Iq --> H
 
 subgraph Ps[Im Unterricht]
@@ -14,8 +14,6 @@ subgraph Ps[Im Unterricht]
 end
 
 subgraph Pt[Wiederholen]
-	N -->|lesen| 
+	N -->|lesen| I2
 end
-
-Ps --> Pt
 ```
