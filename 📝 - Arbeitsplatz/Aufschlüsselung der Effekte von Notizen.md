@@ -39,5 +39,5 @@ Ps ==> N2
 |                             Lesbarkeit |  ⭐⭐⭐  |         ⭐⭐          |      ⭐       |
 | Wie einfach ist es richtig zu arbeiten |  ⭐⭐⭐  |        ⭐⭐⭐         |      ⭐       |
 |         Einbinden verschiedener Medien |  ⭐⭐⭐  |         ⭐⭐          |      ⭐       |
-|             Wissen rekontextualisieren |  ⭐⭐⭐  |         ⭐⭐          |      ⭐       |
-|                                        |          |                       |               |
+|             Wissen rekontextualisieren |  ⭐⭐⭐  |         ⭐⭐          |     ⭐⭐      |
+|                              Ablenkung |    ⭐⭐    |          ⭐          |⭐⭐⭐               |
