@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/A Collective Action Problem.md",
+            "file": "📝 - Arbeitsplatz/Diversity Prediction Theorem.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/A Collective Action Problem.md",
+                "file": "📝 - Arbeitsplatz/Diversity Prediction Theorem.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/A Collective Action Problem.md",
+                "file": "📝 - Arbeitsplatz/Diversity Prediction Theorem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Diversity Prediction Theorem.md",
     "📝 - Arbeitsplatz/A Collective Action Problem.md",
     "📝 - Arbeitsplatz/2021-01-14.md",
     "The Model Thinker_ What You Nee - Scott E. Page.md",
@@ -131,7 +132,6 @@
     "📝 - Arbeitsplatz/th.md",
     "📝 - Arbeitsplatz/Aufschlüsselung der Effekte von Notizen.md",
     "§Informationsverarbeitung.md",
-    "📅 - Logbuch/2021-01-10.md",
-    "System/Zettel.md"
+    "📅 - Logbuch/2021-01-10.md"
   ]
 }
