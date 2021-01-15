@@ -1,3 +1,0 @@
-Understanding is not just a precondition to learning something. To a certain degree, learning is understanding. And the mechanisms are not so different, either: We can only improve our learning if we test ourselves on our progress. Here, too, rereading or reviewing does not confront us with the things we haven’t learned yet, although it makes us feel like we have. Only the actual attempt to retrieve information will clearly show us if we have learned something
-
-Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers (S.86). UNKNOWN. Kindle-Version. 
