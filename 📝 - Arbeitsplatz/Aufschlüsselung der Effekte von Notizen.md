@@ -31,8 +31,10 @@ Ps ==> N2
 
 ## Einfachheit / Schwierigkeit der verschiedenen Stufen bei verschiedenen Mitteln
 
-|           | Digital  |        Digital        |    Analog     |
-| ---------:|:--------:|:---------------------:|:-------------:|
-|   Eingabe | Tastatur |      Handschrift      |  Handschrift  |
-| Beispiele | Obsidian | Goodnotes, Notability | Hefte, Ordner |
-|           |          |                       |               |
+|            | Digital  |        Digital        |    Analog     |
+| ----------:|:--------:|:---------------------:|:-------------:|
+|    Eingabe | Tastatur |      Handschrift      |  Handschrift  |
+|  Beispiele | Obsidian | Goodnotes, Notability | Hefte, Ordner |
+|      ----- |  -----   |         -----         |     -----     |
+| Lesbarkeit |  ⭐⭐⭐  |         ⭐⭐          |      ⭐       |
+|            |          |                       |               |
