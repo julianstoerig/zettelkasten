@@ -1,3 +1,5 @@
 > I dont think that — and please do let me finish — this should be considered among the same line.
 >
 > — [[someone]]
+
+<cite> Created from [[Daily Notes Template]] </cite>
