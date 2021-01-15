@@ -35,8 +35,8 @@ Ps ==> N2
 | --------------------------------------:|:-------------------:|:----------------------:|:---------------------:|:-------------:|
 |                                Eingabe |      Tastatur       | Tastatur + Handschrift |      Handschrift      |  Handschrift  |
 |                              Beispiele |       Remnote       |        OneNote         | Goodnotes, Notability | Hefte, Ordner |
-|                                  ----- |        -----        |         -----          |         -----         |     -----     |
-|                             Lesbarkeit |       ⭐⭐⭐        |                        |         ⭐⭐          |      ⭐       |
+|                             ---------- |     ----------      |       ----------       |      ----------       |     ----------     |
+|                             Lesbarkeit |       ⭐⭐⭐        |      ⭐⭐                  |         ⭐⭐          |      ⭐       |
 | Wie einfach ist es richtig zu arbeiten |       ⭐⭐⭐        |                        |        ⭐⭐⭐         |      ⭐       |
 |         Einbinden verschiedener Medien |       ⭐⭐⭐        |                        |         ⭐⭐          |      ⭐       |
 |             Wissen rekontextualisieren |       ⭐⭐⭐        |                        |         ⭐⭐          |     ⭐⭐      |
