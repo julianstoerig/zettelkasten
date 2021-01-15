@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "33782d396ed2527d",
+        "id": "fe5d06cb32f4b1be",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Physik.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,7 +60,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
