@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7a694afa9228cb8f",
+        "id": "1976a5bef0a0b67a",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Model Thinker_ What You Nee - Scott E. Page.md",
-            "mode": "source"
+            "file": "📝 - Arbeitsplatz/A Collective Action Problem.md",
+            "mode": "preview"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Model Thinker_ What You Nee - Scott E. Page.md",
+                "file": "📝 - Arbeitsplatz/A Collective Action Problem.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Model Thinker_ What You Nee - Scott E. Page.md",
+                "file": "📝 - Arbeitsplatz/A Collective Action Problem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/A Collective Action Problem.md",
+    "📝 - Arbeitsplatz/2021-01-14.md",
     "The Model Thinker_ What You Nee - Scott E. Page.md",
     "📎 - Anhänge/The Model Thinker_ What You Nee - Scott E. Page.pdf",
     "📝 - Arbeitsplatz/Untitled.md",
@@ -130,8 +132,6 @@
     "📝 - Arbeitsplatz/Aufschlüsselung der Effekte von Notizen.md",
     "§Informationsverarbeitung.md",
     "📅 - Logbuch/2021-01-10.md",
-    "System/Zettel.md",
-    "System/$Morgenroutine.md",
-    "System/Informationsverarbeitung.md"
+    "System/Zettel.md"
   ]
 }
