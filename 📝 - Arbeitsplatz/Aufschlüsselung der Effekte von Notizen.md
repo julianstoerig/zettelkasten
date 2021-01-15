@@ -39,4 +39,4 @@ Ps ==> N2
 |                             Lesbarkeit |  ⭐⭐⭐  |         ⭐⭐          |      ⭐       |
 | Wie einfach ist es richtig zu arbeiten |  ⭐⭐⭐  |         ⭐⭐          |      ⭐       |
 |         Einbinden verschiedener Medien |  ⭐⭐⭐  |         ⭐⭐          |      ⭐       |
-| Einbinden neuen Wissens in bekannte Konte                                       |          |                       |               |
+| Wissen                                       |          |                       |               |
