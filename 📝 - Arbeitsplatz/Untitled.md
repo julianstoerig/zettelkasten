@@ -1,15 +1,17 @@
 ```mermaid
 graph LR
 
-Information
+I[Informationsquelle]
+N[Notizen]
 
+I
 
 subgraph Prozess
-
+	I --> N
 end
 
 subgraph Produkt
-
+	I
 end
 
 ```
