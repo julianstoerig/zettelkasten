@@ -6,13 +6,11 @@ N[Notizen]
 
 I --> N
 
-subgraph Prozess
+subgraph Ps[Prozess]
 	N
 end
 
-Prozess --> Produkt
-
-subgraph Produkt
+subgraph Pt[Produkt]
 	
 end
 
