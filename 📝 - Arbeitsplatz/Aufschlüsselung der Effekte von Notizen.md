@@ -1,12 +1,14 @@
 ```mermaid
 flowchart LR
 
-I[Informationsquelle]
-N[Notizen]
+I(Informationsquelle)
+N(Notizen)
+H[Hören]
 
-I --> N
+I --> H
 
-subgraph Ps[rozess
+subgraph Ps[Prozess]
+	H
 	N
 end
 
