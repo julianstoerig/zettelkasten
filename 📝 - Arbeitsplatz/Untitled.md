@@ -4,14 +4,16 @@ graph LR
 I[Informationsquelle]
 N[Notizen]
 
-I
+I --> N
 
 subgraph Prozess
-	I --> N
+	N
 end
 
+Prozess --> Produkt
+
 subgraph Produkt
-	I
+	
 end
 
 ```
