@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +123,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "§Informationsverarbeitung.md",
     "📝 - Arbeitsplatz/Untitled.md",
+    "§Informationsverarbeitung.md",
     "📅 - Logbuch/2021-01-10.md",
     "System/Zettel.md",
     "System/$Morgenroutine.md",
