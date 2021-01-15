@@ -1,14 +1,13 @@
 ```mermaid
 flowchart LR
 
-I(Informationsquelle)
+IQ(Informationsquelle)
 N(Notizen)
 H[Hören]
-
 I --> H
 
 subgraph Ps[Prozess]
-	H
+	H --> In
 	N
 end
 
