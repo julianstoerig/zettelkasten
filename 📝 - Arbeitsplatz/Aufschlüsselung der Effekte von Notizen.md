@@ -43,4 +43,4 @@ Ps ==> N2
 |                              Ablenkung |        ⭐⭐         |          ⭐           |    ⭐⭐⭐     |
 |                           Wiederholung |       ⭐⭐⭐        |          ⭐           |      ⭐       |
 |                   Wiederholung (+Anki) | ⭐⭐⭐(nicht nötig) |         ⭐⭐          |     ⭐⭐      |
-|                                        |                     |                       |               |
+|                   Arbeitserleichterung |       ⭐⭐⭐        |         ⭐⭐          | ⭐              |
