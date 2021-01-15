@@ -34,7 +34,7 @@ Ps ==> N2
 |            | Digital  |        Digital        |    Analog     |
 | ----------:|:--------:|:---------------------:|:-------------:|
 |    Eingabe | Tastatur |      Handschrift      |  Handschrift  |
-|  Beispiele | Obsidian | Goodnotes, Notability | Hefte, Ordner |
+|  Beispiele | Remnote | Goodnotes, Notability | Hefte, Ordner |
 |      ----- |  -----   |         -----         |     -----     |
 | Lesbarkeit |  ⭐⭐⭐  |         ⭐⭐          |      ⭐       |
-|            |          |                       |               |
+|        Wie    |          |                       |               |
