@@ -16,7 +16,23 @@ Hypothese/Ergebnis: [[Mathematischer Modelle sind gute Entscheidungshilfen in Al
 
 ---
 
-1 The Many-Model Thinker 2 Why Model? 3 The Science of Many Models 4 Modeling Human Actors 5 Normal Distributions: The Bell Curve 6 Power-Law Distributions: Long Tails 7 Linear Models 8 Concavity and Convexity 9 Models of Value and Power 
+1 The Many-Model Thinker
+
+2 Why Model?
+
+3 The Science of Many Models
+
+4 Modeling Human Actors
+
+5 Normal Distributions: The Bell Curve
+
+6 Power-Law Distributions: Long Tails
+
+7 Linear Models
+
+8 Concavity and Convexity
+
+9 Models of Value and Power 
 
 10 Network Models 
 
@@ -25,8 +41,6 @@ Hypothese/Ergebnis: [[Mathematischer Modelle sind gute Entscheidungshilfen in Al
 12 Entropy: Modeling Uncertainty 
 
 13 Random Walks 
-
----
 
 14 Path Dependence 
 
@@ -59,8 +73,6 @@ Hypothese/Ergebnis: [[Mathematischer Modelle sind gute Entscheidungshilfen in Al
 28 Rugged-Landscape Models 
 
 29 Opioids, Inequality, and Humility 
-
- About the Author Notes Bibliography Index 
 
 ---
 
