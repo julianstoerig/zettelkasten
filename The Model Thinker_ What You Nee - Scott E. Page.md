@@ -1,4 +1,56 @@
-First Edition: November 2018 
+# {==Nach Lesen löschen (`ctrl + D`)==: Titel für Bücher beginnen mit `%` (ohne whitespace davor oder danach)}
+[[Fachgebiet]] [[2021-01-16]]
+
+---
+
+## Metadaten
+
+Autor(-en): [[Scott ]]
+
+Veröffentlichungsjahr: [[]]
+
+Bibliographische Referenz (APA): (Zotero Referenz einfügen)
+
+Allgemeines Thema: [[]]
+
+Spezielles Thema: [[]]
+
+## Hypothese
+
+
+
+## Methodik
+
+
+
+## Ergebnisse
+
+
+
+## Zusammenfassung der wichtigsten Punkte
+
+
+
+
+## Kontext (wie das Buch im Verhältnis zu anderen Arbeiten im Feld steht; wie es zu Schlüsselproblemen und Ergebnissen des Feldes durch andere und dich selbst steht)
+
+
+
+
+## Signifikanz (in Relation zum Feld und eigener Arbeit)
+
+
+
+
+## Wichtige Grafiken und Tabellen
+
+
+
+## Referenzen im Buch (Die offensichtlich mit eigener Arbeit in Verbindung stehen und die oft in anderen Buchs zum Thema zitiert werden)
+
+
+
+## KommentareFirst Edition: November 2018 
 
 Published by Basic Books, an imprint of Perseus Books, LLC, a subsidiary of Hachette Book Group, Inc. The Basic Books name and logo is a trademark of the Hachette Book Group. 
 
