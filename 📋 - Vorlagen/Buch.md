@@ -13,7 +13,7 @@ Bibliographische Referenz (APA): (Zotero Referenz einfügen)
 
 Allgemeines Thema: [[]]
 
-Hypothese: [[]]
+Hypothese/Ergebnis: [[]]
 
 ## Methodik
 

@@ -12,11 +12,11 @@ Bibliographische Referenz (APA): (Zotero Referenz einfügen)
 
 Allgemeines Thema: [[Mathematische Modelle]] [[Denken]]
 
-Hypothese: [[Mathematischer Modelle sind gute Entscheidungshilfen in Alltagssituationen]]
+Hypothese/Ergebnis: [[Mathematischer Modelle sind gute Entscheidungshilfen in Alltagssituationen]]
 
 ## Methodik
 
-
+[[theoretisch]]
 
 ## Ergebnisse
 
