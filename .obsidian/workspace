@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "%The Model Thinker - Scott E. Page.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 262,
+    "collapsed": true
   },
   "right": {
     "id": "a3b0eee1ddc0955b",
