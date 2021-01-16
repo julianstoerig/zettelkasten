@@ -16,27 +16,7 @@ Hypothese/Ergebnis: [[Mathematischer Modelle sind gute Entscheidungshilfen in Al
 
 ---
 
-Published by Basic Books, an imprint of Perseus Books, LLC, a subsidiary of Hachette Book Group, Inc. The Basic Books name and logo is a trademark of the Hachette Book Group. 
-
-The Hachette Speakers Bureau provides a wide range of authors for speaking events. To find out more, go to [http://www.hachettespeakersbureau.com](http://www.hachettespeakersbureau.com) or call (866) 376-6591. 
-
-The publisher is not responsible for websites (or their content) that are not owned by the publisher. 
-
----
-
-Library of Congress Control Number: 2018942802 
-
-ISBNs: 978-0-465-09462-2 (hardcover); 978-0-465-09463-9 (ebook) 
-
-E3-20181019-JV-PC 
-
----
-
-# CONTENTS 
-
- Cover Title Page Copyright Dedication Epigraph 
-
- Prologue 1 The Many-Model Thinker 2 Why Model? 3 The Science of Many Models 4 Modeling Human Actors 5 Normal Distributions: The Bell Curve 6 Power-Law Distributions: Long Tails 7 Linear Models 8 Concavity and Convexity 9 Models of Value and Power 
+1 The Many-Model Thinker 2 Why Model? 3 The Science of Many Models 4 Modeling Human Actors 5 Normal Distributions: The Bell Curve 6 Power-Law Distributions: Long Tails 7 Linear Models 8 Concavity and Convexity 9 Models of Value and Power 
 
 10 Network Models 
 
