@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fe5d06cb32f4b1be",
+        "id": "9a7ea9f33352e871",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "The Model Thinker_ What You Nee - Scott E. Page.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "The Model Thinker_ What You Nee - Scott E. Page.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Model Thinker_ What You Nee - Scott E. Page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,12 +123,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "The Model Thinker_ What You Nee - Scott E. Page.md",
     "Physik.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Diversity Prediction Theorem.md",
     "📝 - Arbeitsplatz/A Collective Action Problem.md",
     "📝 - Arbeitsplatz/2021-01-14.md",
-    "The Model Thinker_ What You Nee - Scott E. Page.md",
     "📎 - Anhänge/The Model Thinker_ What You Nee - Scott E. Page.pdf",
     "📝 - Arbeitsplatz/th.md",
     "📝 - Arbeitsplatz/Aufschlüsselung der Effekte von Notizen.md",
