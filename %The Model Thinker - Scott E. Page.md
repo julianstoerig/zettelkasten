@@ -18,9 +18,7 @@ Hypothese/Ergebnis: [[Mathematischer Modelle sind gute Entscheidungshilfen in Al
 
 ## 1. The Many-Model Thinker 
 
-_To become wise you’ve got to have models in your head. And you’ve got to array your experience—both vicarious and direct—on this latticework of models._ 
-
- —Charlie Munger 
+> To become wise you’ve got to have models in your head. And you’ve got to array your experience—both vicarious and direct—on this latticework of models. —Charlie Munger 
 
 This is a book about models. It describes dozens of models in straightforward language and explains how to apply them. Models are formal structures represented in mathematics and diagrams that help us to understand the world. Mastery of models improves your ability to reason, explain, design, communicate, act, predict, and explore. This book promotes a _many-model thinking_ approach: the application of ensembles of models to make sense of complex phenomena. The core idea is that many-model thinking produces wisdom through a diverse ensemble of logical frames. The various models accentuate different causal forces. Their insights and implications overlap and interweave. By engaging many models as frames, we develop nuanced, deep understandings. The book includes formal arguments to make the case for multiple models along with myriad real-world examples. The book has a pragmatic focus. Many-model thinking has tremendous practical value. Practice it, and you will better understand complex phenomena. You will reason better. You exhibit fewer gaps in your reasoning and make more robust decisions in your career, community activities, and personal life. You may even become wise. Twenty-five years ago, a book of models would have been 
 
