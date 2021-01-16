@@ -16,3 +16,4 @@ Hypothese/Ergebnis: [[Mathematischer Modelle sind gute Entscheidungshilfen in Al
 
 ---
 
+f
