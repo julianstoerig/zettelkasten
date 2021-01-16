@@ -12,11 +12,7 @@ Bibliographische Referenz (APA): (Zotero Referenz einfügen)
 
 Allgemeines Thema: [[Mathematische Modelle]] [[Denken]]
 
-Hypothese: [[Mathematischer Modelle sind zur Alltagsbewältigung]]
-
-## Hypothese
-
-
+Hypothese: [[Mathematischer Modelle sind gute Entscheidungshilfen in Alltagssituationen]]
 
 ## Methodik
 
