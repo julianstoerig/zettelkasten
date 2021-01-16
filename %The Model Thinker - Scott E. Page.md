@@ -12,7 +12,7 @@ Bibliographische Referenz (APA): (Zotero Referenz einfügen)
 
 Allgemeines Thema: [[Mathematische Modelle]] [[Denken]]
 
-Spezielles Thema: [[]]
+Hypothese: [[Mathematischer Modelle sind zur Alltagsbewältigung]]
 
 ## Hypothese
 
