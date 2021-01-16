@@ -14,37 +14,7 @@ Allgemeines Thema: [[Mathematische Modelle]] [[Denken]]
 
 Hypothese/Ergebnis: [[Mathematischer Modelle sind gute Entscheidungshilfen in Alltagssituationen]]
 
-## Methodik
-
-[[theoretisch]]
-
-## Ergebnisse
-
-
-
-## Zusammenfassung der wichtigsten Punkte
-
-
-
-
-## Kontext (wie das Buch im Verhältnis zu anderen Arbeiten im Feld steht; wie es zu Schlüsselproblemen und Ergebnissen des Feldes durch andere und dich selbst steht)
-
-
-
-
-## Signifikanz (in Relation zum Feld und eigener Arbeit)
-
-
-
-## Wichtige Grafiken und Tabellen
-
-
-
-## Referenzen im Buch (Die offensichtlich mit eigener Arbeit in Verbindung stehen und die oft in anderen Buchs zum Thema zitiert werden)
-
-
-
-## Kommentare
+---
 
 Published by Basic Books, an imprint of Perseus Books, LLC, a subsidiary of Hachette Book Group, Inc. The Basic Books name and logo is a trademark of the Hachette Book Group. 
 
