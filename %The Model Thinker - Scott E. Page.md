@@ -6,11 +6,11 @@
 
 Autor(-en): [[Scott E. Page]]
 
-Veröffentlichungsjahr: [[]]
+Veröffentlichungsjahr: [[2018]]
 
 Bibliographische Referenz (APA): (Zotero Referenz einfügen)
 
-Allgemeines Thema: [[]]
+Allgemeines Thema: [[Mathematische Modelle]] [[Denken]]
 
 Spezielles Thema: [[]]
 
@@ -49,7 +49,7 @@ Spezielles Thema: [[]]
 
 
 
-## KommentareFirst Edition: November 2018 
+## Kommentare
 
 Published by Basic Books, an imprint of Perseus Books, LLC, a subsidiary of Hachette Book Group, Inc. The Basic Books name and logo is a trademark of the Hachette Book Group. 
 
