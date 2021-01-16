@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Model Thinker_ What You Nee - Scott E. Page.md",
-            "mode": "source"
+            "file": "%The Model Thinker - Scott E. Page.md",
+            "mode": "preview"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Model Thinker_ What You Nee - Scott E. Page.md",
+                "file": "%The Model Thinker - Scott E. Page.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Model Thinker_ What You Nee - Scott E. Page.md",
+                "file": "%The Model Thinker - Scott E. Page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "%The Model Thinker_ What You Nee - Scott E. Page.md",
     "The Model Thinker_ What You Nee - Scott E. Page.md",
     "Physik.md",
     "📝 - Arbeitsplatz/Untitled.md",
@@ -131,7 +132,6 @@
     "📝 - Arbeitsplatz/2021-01-14.md",
     "📎 - Anhänge/The Model Thinker_ What You Nee - Scott E. Page.pdf",
     "📝 - Arbeitsplatz/th.md",
-    "📝 - Arbeitsplatz/Aufschlüsselung der Effekte von Notizen.md",
-    "§Informationsverarbeitung.md"
+    "📝 - Arbeitsplatz/Aufschlüsselung der Effekte von Notizen.md"
   ]
 }

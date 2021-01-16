@@ -1,11 +1,10 @@
-# {==Nach Lesen löschen (`ctrl + D`)==: Titel für Bücher beginnen mit `%` (ohne whitespace davor oder danach)}
 [[Fachgebiet]] [[2021-01-16]]
 
 ---
 
 ## Metadaten
 
-Autor(-en): [[Scott ]]
+Autor(-en): [[Scott E. Page]]
 
 Veröffentlichungsjahr: [[]]
 
