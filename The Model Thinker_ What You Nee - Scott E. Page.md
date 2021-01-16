@@ -1,19 +1,3 @@
----
-
----
-
----
-
-### Copyright 
-
-Copyright © 2018 by Scott E. Page Cover design by Chin-Yee Lai Cover © 2018 Hachette Book Group, Inc. 
-
-Hachette Book Group supports the right to free expression and the value of copyright. The purpose of copyright is to encourage writers and artists to produce the creative works that enrich our culture. 
-
-The scanning, uploading, and distribution of this book without permission is a theft of the author’s intellectual property. If you would like permission to use material from the book (other than for review purposes), please contact permissions@hbgusa.com. Thank you for your support of the author’s rights. 
-
-Basic Books Hachette Book Group 290 Avenue of the Americas, New York, NY 10104 [http://www.basicbooks.com](http://www.basicbooks.com) 
-
 First Edition: November 2018 
 
 Published by Basic Books, an imprint of Perseus Books, LLC, a subsidiary of Hachette Book Group, Inc. The Basic Books name and logo is a trademark of the Hachette Book Group. 
