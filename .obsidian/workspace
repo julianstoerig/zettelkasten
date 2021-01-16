@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 - Vorlagen/Buch.md",
+            "file": "%The Model Thinker - Scott E. Page.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 - Vorlagen/Buch.md",
+                "file": "%The Model Thinker - Scott E. Page.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 - Vorlagen/Buch.md",
+                "file": "%The Model Thinker - Scott E. Page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +123,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📋 - Vorlagen/Buch.md",
     "%The Model Thinker - Scott E. Page.md",
+    "📋 - Vorlagen/Buch.md",
     "%The Model Thinker_ What You Nee - Scott E. Page.md",
     "The Model Thinker_ What You Nee - Scott E. Page.md",
     "Physik.md",

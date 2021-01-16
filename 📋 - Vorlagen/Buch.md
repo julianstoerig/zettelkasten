@@ -19,10 +19,6 @@ Hypothese/Ergebnis: [[]]
 
 
 
-## Ergebnisse
-
-
-
 ## Zusammenfassung der wichtigsten Punkte
 
 
