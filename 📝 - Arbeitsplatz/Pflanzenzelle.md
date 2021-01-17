@@ -2,7 +2,7 @@
 
 ---
 
-Bestand
+Bestandteile von **Pflanzenzellen**:
 Cytoplasma, umgeben von Plasmamembran (= Plasmalemma)
  - Zellkern
  - Plastiden
