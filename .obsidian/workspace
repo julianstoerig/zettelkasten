@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cbb3af8de2612041",
+        "id": "b6dc68535df17809",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📄 - Zettelstapel/Mikrobiologie/Protoplast.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,7 +60,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📄 - Zettelstapel/Mikrobiologie/Protoplast.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -90,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262,
-    "collapsed": true
+    "width": 262
   },
   "right": {
     "id": "a3b0eee1ddc0955b",
@@ -107,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📄 - Zettelstapel/Mikrobiologie/Protoplast.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +118,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📄 - Zettelstapel/Mikrobiologie/Protoplast.md",
+    "📝 - Arbeitsplatz/2021-01-14.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
+    "📄 - Zettelstapel/Mikrobiologie/Protoplast.md",
     "📄 - Zettelstapel/Mikrobiologie/Protoplasten.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "%The Model Thinker - Scott E. Page.md",
     "📋 - Vorlagen/Buch.md",
     "%The Model Thinker_ What You Nee - Scott E. Page.md",
-    "The Model Thinker_ What You Nee - Scott E. Page.md",
-    "Physik.md"
+    "The Model Thinker_ What You Nee - Scott E. Page.md"
   ]
 }
