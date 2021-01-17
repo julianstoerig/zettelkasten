@@ -1,8 +1,13 @@
 [[📝 - Arbeitsplatz/Botanik]] [[VO Botanik]] [[2021-01-17]]
 
 ---
-Die **Pflanzenzelle** gehört mit den [[Tierzelle|Tier-]] und [[Pilzzelle|PilzBestandteile von **Pflanzenzellen**:
-Cytoplasma, umgeben von Plasmamembran (= Plasmalemma)
+
+![[📎 - Anhänge/Pasted image 20210117145833.png]]
+
+Die **Pflanzenzelle** gehört mit den [[Tierzelle|Tier-]] und [[Pilzzelle|Pilzzellen]] zu den [[Eukarya]]
+
+Bestandteile:
+- Cytoplasma, umgeben von Plasmamembran (= Plasmalemma)
  - Zellkern
  - Plastiden
  - Mitochondrien
