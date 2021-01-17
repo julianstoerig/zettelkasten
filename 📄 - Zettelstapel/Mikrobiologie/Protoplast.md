@@ -1,4 +1,4 @@
-[[📄 - Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO ]] [[VO Mikrobiologie]] [[1. Semester]]
+[[📝 - Arbeitsplatz/Botanik]] [[📄 - Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Botanik]] [[VO Mikrobiologie]] [[1. Semester]]
 
 ---
 
