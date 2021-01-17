@@ -2,6 +2,8 @@
 
 ---
 
+![[📎 - Anhänge/Pasted image 20210117145833.png]]
+
 **Biomembranen** trennen Zellkompartiments voneinander und den Zellinnenraum vom Zellaußenraum .
 
 Beispielsweise trennen sie das [[Cytoplasma|Cytoplasma]] von den [[Organell|Zellorganellen]]. So können in den verschiedenen Organellen unterschiedliche Reaktionen ablaufen, die Arbeitsfähigkeit der [[Mitochondrium|Mitochondrien]] wird also durch die Arbeit der [[Chloroplast|Chloroplasten]] nicht beeinflusst.
