@@ -4,4 +4,4 @@
 
 **Biomembranen** dienen [[Organismus|Organismen]] zur Trennung verschiedener Millieus.
 
-Beispielsweise trennen sie das wässrige Zellmillieu des [[Cytoplasma|Zellplasmas]] von der Außenwelt und die 
+Beispielsweise trennen sie das wässrige Zellmillieu des [[Cytoplasma|Cytoplasmas]]  [[Organell|Zellorganellen]].
