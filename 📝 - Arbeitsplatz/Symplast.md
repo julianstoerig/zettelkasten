@@ -1,1 +1,1 @@
-Der **Symplast** ist die Gesamtheit aller Bereiche innerhalb des Plasmalemmas, untereinander verbunden über ER. In mehrzelligen Pflanzen bezeichnet es die
+Der **Symplast** ist die Gesamtheit aller Bereiche innerhalb des Plasmalemmas, untereinander verbunden über ER. In mehrzelligen Pflanzen bezeichnet es die Gesamtheit aller über [[|Plasmodesmen]] verbundenen Bereiche.
