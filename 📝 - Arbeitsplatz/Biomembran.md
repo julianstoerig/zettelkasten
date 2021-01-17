@@ -8,4 +8,4 @@ Beispielsweise trennen sie das [[Cytoplasma|Cytoplasma]] von den [[Organell|Zell
 
 ---
 
-**Biomembranen** bestehen hauptsächlich aus 
+**Biomembranen** bestehen aus zwei 
