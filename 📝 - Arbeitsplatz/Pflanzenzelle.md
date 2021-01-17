@@ -1,15 +1,5 @@
+[[📝 - Arbeitsplatz/Botanik]] [[VO Botanik]] [[2021-01-17]]
+
+---
+
  **Pflanzenzellen** bestehen im Regelfall aus  dem [[Protoplasten]], umgeben durch die Zellwand.
- - Cytoplasma, umgeben von Plasmamembran (= Plasmalemma)
- - Zellkern
- - Plastiden
- - Mitochondrien
- - Microbodies: Glyoxisomen und Peroxisomen
- - Vakuolen, umgeben vom Tonoplast (Membran)
- - Endoplasmatisches Retikulum (ER): Flexibles Membransystem, das die äußeren und internen Membranen verknüpft, verbunden mit Zellkern und anderen Zellen über Plasmodesmen
-	 - Raues ER: Ribosomen, für Proteinbiosynthese und Memrbanproduktion
-	 - Glattes ER: ohne Ribosomen, für verschiedene metabolische Prozesse, Synthese von Lipiden, Kohlehydrat-Stoffwechsel, …
- - Golgi-Apparait (Gesamtheit aller Dictyosomen)
- - Cytoskelett
- - Ribosomen
- - Speicherstoffe (Stärke, Lipidtröpfchen), Kristalle, Vesikel
- - Zellwand (liegt außerhalb der Plasmamembran auf)
