@@ -2,4 +2,6 @@
 
 ---
 
-**Biomembranen** dienen [[Organismus|Organismen]] zur Trennung verschiedener Millieus (z.B. pH-Wert, Ionen-Konzentra. 
+**Biomembranen** dienen [[Organismus|Organismen]] zur Trennung verschiedener Millieus.
+
+Beispielsweise trennen sie das wässrige Zell
