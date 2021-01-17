@@ -1,7 +1,15 @@
-- ![](https://cdn.kastatic.org/ka-perseus-images/352079e6dc783dce573875198fcb364180b01331.png)  
+![](https://cdn.kastatic.org/ka-perseus-images/352079e6dc783dce573875198fcb364180b01331.png)
+
+**Phospholipide**
+
 Schematische Darstellung eines Phospholipids
-- Glycerinphosphat und Fettsäuren sind über Esterbindungen miteinander verbunden
-- Molekül hat hydrophile/lipophobe und hydrophobe/lipophile Eigenschaften
-- bei Wasserumgebung wird eine Doppelschicht ausgebildet: apolare Fettsäuren nach innen & hydrophile Teile nach außen gerichtet
-- ![](https://images.gutefrage.net/media/fragen-antworten/bilder/237668226/0_big.png?v=1486331411000)
-- die Membran (Phospholipid-Doppelschicht) erscheint zwar starr, ist aber in Wirklichkeit flüssig $$ \rightarrow $$ **flüssige Mosaik-Struktur** (Fluid mosaic model)
+
+Glycerinphosphat und Fettsäuren sind über Esterbindungen miteinander verbunden
+
+Molekül hat hydrophile/lipophobe und hydrophobe/lipophile Eigenschaften
+
+bei Wasserumgebung wird eine Doppelschicht ausgebildet: apolare Fettsäuren nach innen & hydrophile Teile nach außen gerichtet
+
+![](https://images.gutefrage.net/media/fragen-antworten/bilder/237668226/0_big.png?v=1486331411000)
+
+die Membran (Phospholipid-Doppelschicht) erscheint zwar starr, ist aber in Wirklichkeit flüssig $\rightarrow$  **flüssige Mosaik-Struktur** (Fluid mosaic model)
