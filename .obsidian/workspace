@@ -17,12 +17,34 @@
       {
         "id": "e04ed418e355db10",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "📝 - Arbeitsplatz/Biomembran.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "67f70aa8df9aa54c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Lipid-Doppelschicht.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5cc8b8458b447755",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
+            "mode": "preview"
           }
         }
       }
@@ -74,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Biomembran.md",
+                "file": "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -117,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Biomembran.md",
+                "file": "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +156,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/Biomembran.md",
     "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
+    "📝 - Arbeitsplatz/Lipid-Doppelschicht.md",
+    "📝 - Arbeitsplatz/Biomembran.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
     "📝 - Arbeitsplatz/Symplast.md",
     "📝 - Arbeitsplatz/Apoplast.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Zellen.md",
     "📎 - Anhänge/Pasted image 20210117145833.png",
-    "📝 - Arbeitsplatz/2021-01-14.md",
-    "📄 - Zettelstapel/Mikrobiologie/Protoplast.md"
+    "📝 - Arbeitsplatz/2021-01-14.md"
   ]
 }
