@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Botanik.md",
+            "file": "📝 - Arbeitsplatz/Pflanzenzelle.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Botanik.md",
+                "file": "📝 - Arbeitsplatz/Pflanzenzelle.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Botanik.md",
+                "file": "📝 - Arbeitsplatz/Pflanzenzelle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Pflanzenzelle.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "%The Model Thinker - Scott E. Page.md",
@@ -132,7 +133,6 @@
     "The Model Thinker_ What You Nee - Scott E. Page.md",
     "Physik.md",
     "📝 - Arbeitsplatz/Diversity Prediction Theorem.md",
-    "📝 - Arbeitsplatz/A Collective Action Problem.md",
-    "📝 - Arbeitsplatz/2021-01-14.md"
+    "📝 - Arbeitsplatz/A Collective Action Problem.md"
   ]
 }
