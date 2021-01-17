@@ -15,14 +15,14 @@
         }
       },
       {
-        "id": "1913f1ec780b95a1",
+        "id": "8a098a9e47f2536b",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Apoplast.md",
-            "mode": "preview"
+            "file": "📝 - Arbeitsplatz/Symplast.md",
+            "mode": "source"
           }
         }
       }
@@ -74,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Apoplast.md",
+                "file": "📝 - Arbeitsplatz/Symplast.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Apoplast.md",
+                "file": "📝 - Arbeitsplatz/Symplast.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +134,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/Apoplast.md",
+    "📝 - Arbeitsplatz/Symplast.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
+    "📝 - Arbeitsplatz/Apoplast.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Zellen.md",
     "📎 - Anhänge/Pasted image 20210117145833.png",
     "📝 - Arbeitsplatz/2021-01-14.md",
     "📄 - Zettelstapel/Mikrobiologie/Protoplast.md",
     "📄 - Zettelstapel/Mikrobiologie/Protoplasten.md",
-    "📝 - Arbeitsplatz/Untitled.md",
-    "%The Model Thinker - Scott E. Page.md"
+    "📝 - Arbeitsplatz/Untitled.md"
   ]
 }
