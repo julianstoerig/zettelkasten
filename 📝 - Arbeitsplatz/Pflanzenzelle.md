@@ -1,8 +1,7 @@
 [[📝 - Arbeitsplatz/Botanik]] [[VO Botanik]] [[2021-01-17]]
 
 ---
-
-Bestandteile von **Pflanzenzellen**:
+Die **Pflanzenzelle** gehört mit den [[Tierzelle|Tier-]] und [[Pilzzelle|PilzBestandteile von **Pflanzenzellen**:
 Cytoplasma, umgeben von Plasmamembran (= Plasmalemma)
  - Zellkern
  - Plastiden
