@@ -1,4 +1,5 @@
-- ![](https://cdn.kastatic.org/ka-perseus-images/352079e6dc783dce573875198fcb364180b01331.png)  Schematische Darstellung eines Phospholipids
+- ![](https://cdn.kastatic.org/ka-perseus-images/352079e6dc783dce573875198fcb364180b01331.png)  
+Schematische Darstellung eines Phospholipids
 - Glycerinphosphat und Fettsäuren sind über Esterbindungen miteinander verbunden
 - Molekül hat hydrophile/lipophobe und hydrophobe/lipophile Eigenschaften
 - bei Wasserumgebung wird eine Doppelschicht ausgebildet: apolare Fettsäuren nach innen & hydrophile Teile nach außen gerichtet
