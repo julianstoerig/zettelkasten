@@ -2,4 +2,4 @@ Eine **Lipid-Doppelschicht**  bildet sich aus, wenn amphiphile Lipide sich in w�
 
 ![](https://images.gutefrage.net/media/fragen-antworten/bilder/237668226/0_big.png?v=1486331411000)
 
-erscheint zwar starr, ist aber in Wirklichkeit flüssig $\rightarrow$  **flüssige Mosaik-Struktur** (Fluid mosaic model)
+Die dabei entstehende Struktur ist zwar fest und nur semipermeabel, allerdings gleichzeitig flüssig, weshalb man vom
