@@ -28,23 +28,12 @@
       {
         "id": "67f70aa8df9aa54c",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "📝 - Arbeitsplatz/Lipid-Doppelschicht.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "5cc8b8458b447755",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
-            "mode": "preview"
           }
         }
       }
@@ -96,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
+                "file": "📝 - Arbeitsplatz/Lipid-Doppelschicht.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -139,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
+                "file": "📝 - Arbeitsplatz/Lipid-Doppelschicht.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +145,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
     "📝 - Arbeitsplatz/Lipid-Doppelschicht.md",
+    "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
     "📝 - Arbeitsplatz/Biomembran.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
     "📝 - Arbeitsplatz/Symplast.md",
