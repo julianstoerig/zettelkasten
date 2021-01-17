@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Botanik.md",
+            "file": "📝 - Arbeitsplatz/Pflanzenzelle.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Botanik.md",
+                "file": "📝 - Arbeitsplatz/Pflanzenzelle.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Botanik.md",
+                "file": "📝 - Arbeitsplatz/Pflanzenzelle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +123,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
+    "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Zellen.md",
     "📎 - Anhänge/Pasted image 20210117145833.png",
     "📝 - Arbeitsplatz/2021-01-14.md",

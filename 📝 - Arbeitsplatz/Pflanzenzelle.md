@@ -4,7 +4,7 @@
 
 ![[📎 - Anhänge/Pasted image 20210117145833.png]]
 
-Die **Pflanzenzelle** gehört mit den [[Tierzelle|Tier-]] und [[Pilzzelle|Pilzzellen]] zu den [[Eukarya]]
+Die **Pflanzenzelle** gehört mit den [[Tierzelle|Tier-]] und [[Pilzzelle|Pilzzellen]] zu den [[Eukarya|Eukaryoten]]. In Pflanzen spricht man
 
 Bestandteile:
 - Cytoplasma, umgeben von Plasmamembran (= Plasmalemma)
