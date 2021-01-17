@@ -2,4 +2,4 @@
 
 ---
 
- **Pflanzenzellen** bestehen im Regelfall aus  dem [[📄 - Zettelstapel/Mikrobiologie/Protoplast|Protoplasten]], umgeben durch die Zellwand.
+ **Pflanzenzellen** sind ähnlich
