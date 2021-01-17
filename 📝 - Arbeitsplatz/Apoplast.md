@@ -1,1 +1,1 @@
-Der **Apoplast** ist die Gesamtheit der  Bereiche einer Pflanze außerhalb des Plaz.B. Zellwände, Hohlräume, abgestorbene Zellen
+Der **Apoplast** ist die Gesamtheit der Bereiche einer Pflanze außerhalb des [[Plasmalemmas]]. z.B. Zellwände, Hohlräume, abgestorbene Zellen
