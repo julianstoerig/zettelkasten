@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9a239238c33ae1ed",
+        "id": "cbb3af8de2612041",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Botanik.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/Botanik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/Botanik.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +124,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Botanik.md",
+    "📝 - Arbeitsplatz/Untitled.md",
     "%The Model Thinker - Scott E. Page.md",
     "📋 - Vorlagen/Buch.md",
     "%The Model Thinker_ What You Nee - Scott E. Page.md",
     "The Model Thinker_ What You Nee - Scott E. Page.md",
     "Physik.md",
-    "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Diversity Prediction Theorem.md",
     "📝 - Arbeitsplatz/A Collective Action Problem.md",
-    "📝 - Arbeitsplatz/2021-01-14.md",
-    "📎 - Anhänge/The Model Thinker_ What You Nee - Scott E. Page.pdf"
+    "📝 - Arbeitsplatz/2021-01-14.md"
   ]
 }
