@@ -8,6 +8,6 @@ Beispielsweise trennen sie das [[Cytoplasma|Cytoplasma]] von den [[Organell|Zell
 
 ---
 
-**Biomembranen** bestehen aus zwei 
+**Biomembranen** bestehen aus einer Lipid-Doppelschicht, im Regelfall aus [[📄 - Zettelstapel/Mikrobiologie/Phospholipid|Phospholipiden]]
 
 Glycosylglyceride (Syn. Glycolipide): Phospholipide, aber Phosphatgruppe fehlt, Kopfgruppe aus z.B. Galactose, Digalactose

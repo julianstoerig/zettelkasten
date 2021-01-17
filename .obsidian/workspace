@@ -6,12 +6,23 @@
       {
         "id": "711cecceab2e300b",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "📝 - Arbeitsplatz/Biomembran.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e04ed418e355db10",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
+            "mode": "preview"
           }
         }
       }
@@ -63,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Biomembran.md",
+                "file": "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Biomembran.md",
+                "file": "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +134,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
     "📝 - Arbeitsplatz/Biomembran.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
     "📝 - Arbeitsplatz/Symplast.md",
@@ -131,7 +143,6 @@
     "📝 - Arbeitsplatz/Zellen.md",
     "📎 - Anhänge/Pasted image 20210117145833.png",
     "📝 - Arbeitsplatz/2021-01-14.md",
-    "📄 - Zettelstapel/Mikrobiologie/Protoplast.md",
-    "📄 - Zettelstapel/Mikrobiologie/Protoplasten.md"
+    "📄 - Zettelstapel/Mikrobiologie/Protoplast.md"
   ]
 }
