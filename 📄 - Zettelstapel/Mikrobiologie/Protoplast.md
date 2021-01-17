@@ -2,7 +2,7 @@
 
 ---
 
-**Protoplasten** sind [[Procaryota|prokaryotische]], [[📂Unfertiges/Pflanzen.md|pflanzliche]] und [[Pilze|Pilz-]]Zellen, ausgenommen ih
+**Protoplasten** sind [[Procaryota|prokaryotische]], [[📂Unfertiges/Pflanzen.md|pflanzliche]] und [[Pilze|Pilz-]]Zellen, ausgenommen ihrer [[Zellwand|Zellwände]].
  - Cytoplasma, umgeben von Plasmamembran (= Plasmalemma)
  - Zellkern
  - Plastiden
