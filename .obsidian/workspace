@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d62d8aa32f046010",
+        "id": "711cecceab2e300b",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Biomembran.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,6 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/Biomembran.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/Biomembran.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
