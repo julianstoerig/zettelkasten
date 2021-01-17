@@ -10,4 +10,4 @@ Beispielsweise trennen sie das [[Cytoplasma|Cytoplasma]] von den [[Organell|Zell
 
 **Biomembranen** bestehen aus zwei 
 
-Glycosylglyceride (Syn. Glycolipide)
+Glycosylglyceride (Syn. Glycolipide): Phospholipide, aber Phosphatgruppe fehlt, Kopfgruppe aus z.B. Galactose, Digalactose
