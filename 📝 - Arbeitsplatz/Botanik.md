@@ -1,1 +1,1 @@
-**Botanik** ist der Fachbereich der Biologie, der sich mit Pflanzen beschäftigt.
+**Botanik** ist der Fachbereich der Biologie, der sich mit beschäftigt.
