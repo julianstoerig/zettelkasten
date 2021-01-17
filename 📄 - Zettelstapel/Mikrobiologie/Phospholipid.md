@@ -1,6 +1,6 @@
 ![](https://cdn.kastatic.org/ka-perseus-images/352079e6dc783dce573875198fcb364180b01331.png)
 
-**Phospholipide**
+**Phospholipide** sind amphiphile Moleküle, die sich aus einem hydrophilen Kopf und zwei lipopho
 
 Schematische Darstellung eines Phospholipids
 
