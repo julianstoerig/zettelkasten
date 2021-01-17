@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7e8e909699477af",
+        "id": "9a239238c33ae1ed",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
