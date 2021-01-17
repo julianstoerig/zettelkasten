@@ -2,3 +2,4 @@
 
 ---
 
+**Biomembranen** dienen [[Organismus|]] zur Trennung verschiedener Millieus.
