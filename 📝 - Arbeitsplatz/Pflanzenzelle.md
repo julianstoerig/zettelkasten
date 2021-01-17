@@ -9,4 +9,6 @@
  - Plastiden
  - Mitochondrien
  - Microbodies: Glyoxisomen und Peroxisomen
- - Vakuolen, umgeben vom Tono
+ - Vakuolen, umgeben vom Tonoplast (Membran)
+ - Endoplasmatisches Retikulum (ER): Flexibles Membransystem, das die äußeren und internen Membranen verknüpft
+	 - 
