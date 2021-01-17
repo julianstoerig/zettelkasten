@@ -1,9 +1,4 @@
- Zellwand + Zellmembran + Protoplast
- 
- ## Protoplast
- 
- Alles innerhalb der Zellmembran
- 
+ Die 
  - Cytoplasma, umgeben von Plasmamembran (= Plasmalemma)
  - Zellkern
  - Plastiden
