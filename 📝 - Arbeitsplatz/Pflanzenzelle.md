@@ -2,6 +2,7 @@
 
 ---
 
+Bestand
 Cytoplasma, umgeben von Plasmamembran (= Plasmalemma)
  - Zellkern
  - Plastiden
