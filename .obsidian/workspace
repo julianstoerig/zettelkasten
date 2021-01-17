@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Symplast.md",
+            "file": "📝 - Arbeitsplatz/Biomembran.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Symplast.md",
+                "file": "📝 - Arbeitsplatz/Biomembran.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Symplast.md",
+                "file": "📝 - Arbeitsplatz/Biomembran.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,9 +123,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/Symplast.md",
-    "📝 - Arbeitsplatz/Pflanzenzelle.md",
     "📝 - Arbeitsplatz/Biomembran.md",
+    "📝 - Arbeitsplatz/Pflanzenzelle.md",
+    "📝 - Arbeitsplatz/Symplast.md",
     "📝 - Arbeitsplatz/Apoplast.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Zellen.md",
