@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Pflanzenzelle.md",
-            "mode": "source"
+            "file": "📄 - Zettelstapel/Mikrobiologie/Protoplasten.md",
+            "mode": "preview"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Pflanzenzelle.md",
+                "file": "📄 - Zettelstapel/Mikrobiologie/Protoplasten.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Pflanzenzelle.md",
+                "file": "📄 - Zettelstapel/Mikrobiologie/Protoplasten.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📄 - Zettelstapel/Mikrobiologie/Protoplasten.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Untitled.md",
@@ -132,7 +133,6 @@
     "%The Model Thinker_ What You Nee - Scott E. Page.md",
     "The Model Thinker_ What You Nee - Scott E. Page.md",
     "Physik.md",
-    "📝 - Arbeitsplatz/Diversity Prediction Theorem.md",
-    "📝 - Arbeitsplatz/A Collective Action Problem.md"
+    "📝 - Arbeitsplatz/Diversity Prediction Theorem.md"
   ]
 }
