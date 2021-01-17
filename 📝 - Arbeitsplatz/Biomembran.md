@@ -2,4 +2,4 @@
 
 ---
 
-**Biomembranen** dienen [[Organismus|]] zur Trennung verschiedener Millieus.
+**Biomembranen** dienen [[Organismus|Organismen]] zur Trennung verschiedener Millieus. So lassen sich unterschiedliche Konzentrationen
