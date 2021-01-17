@@ -2,6 +2,7 @@
 
 ---
 
+**Protoplasten** sind [[Procaryota|prokaryotische]], [[Zellen
  - Cytoplasma, umgeben von Plasmamembran (= Plasmalemma)
  - Zellkern
  - Plastiden

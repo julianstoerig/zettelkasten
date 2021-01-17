@@ -40,7 +40,7 @@ Zellen
 
 [[📝 - Arbeitsplatz/Pflanzenzelle]]
 
-[[📄 - Zettelstapel/Mikrobiologie/Protoplasten]]
+[[📄 - Zettelstapel/Mikrobiologie/Protoplast]]
 
 [[📄 - Zettelstapel/Mikrobiologie/Pseuodplasmodium]]
 

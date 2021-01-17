@@ -96,7 +96,7 @@ Die **Mikrobiologie** ist der Fachbereich der Biologie, der sich mit Mikroorgani
 						- Gramnegative [Bakterien](Bakterien.md): bis zu 5
 						- Grampositive [Bakterien](Bakterien.md): bis zu 40
 				- Spaltung der 1,4-β-glykosydischen Bindung durch:
-					- Lysierung der Zelle$$ \rightarrow $$ Zelle plat[📄 - Zettelstapel/Mikrobiologie/Protoplasten](%F0%9F%93%84%20-%20Zettelstapel/Mikrobiologie/Protoplasten.md)toplasten](Protoplasten.md)
+					- Lysierung der Zelle$$ \rightarrow $$ Zelle plat[📄 - Zettelstapel/Mikrobiologie/Protoplast](%F0%9F%93%84%20-%20Zettelstapel/Mikrobiologie/Protoplast.md)toplasten](Protoplasten.md)
 		- Oberflächenstruktur
 			- Kapseln, Schleime:
 				- ![](http://www.heynkes.de/biologie/Bilder/Average_prokaryote_cell496x404.svg)  

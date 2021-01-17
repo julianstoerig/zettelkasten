@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📄 - Zettelstapel/Mikrobiologie/Protoplasten.md",
-            "mode": "preview"
+            "file": "📄 - Zettelstapel/Mikrobiologie/Protoplast.md",
+            "mode": "source"
           }
         }
       }
@@ -63,7 +63,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📄 - Zettelstapel/Mikrobiologie/Protoplasten.md",
+                "file": "📄 - Zettelstapel/Mikrobiologie/Protoplast.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📄 - Zettelstapel/Mikrobiologie/Protoplasten.md",
+                "file": "📄 - Zettelstapel/Mikrobiologie/Protoplast.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
