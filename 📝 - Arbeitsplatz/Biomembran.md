@@ -9,3 +9,5 @@ Beispielsweise trennen sie das [[Cytoplasma|Cytoplasma]] von den [[Organell|Zell
 ---
 
 **Biomembranen** bestehen aus zwei 
+
+Glycosylglyceride (Syn. Glycolipide)
