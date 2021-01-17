@@ -7,7 +7,7 @@
 Die **Pflanzenzelle** gehört mit den [[Tierzelle|Tier-]] und [[Pilzzelle|Pilzzellen]] zu den [[Eukarya|Eukaryoten]].
 
 Bestandteile:
-- Symplast (Gesamtheit aller Bereiche innerhalb des Plasmalemmas, untereinander verbunden über ER)
+- [[Symplast]] (Gesamtheit aller Bereiche innerhalb des Plasmalemmas, untereinander verbunden über ER)
 	- Cytoplasma, umgeben von Plasmamembran (= Plasmalemma)
 	 - Zellkern
 	 - Plastiden
@@ -23,4 +23,4 @@ Bestandteile:
 	 - Cytoskelett
 	 - Ribosomen
 	 - Speicherstoffe (Stärke, Lipidtröpfchen), Kristalle, Vesikel
- - Apoplast
+ - [[Apoplast]]

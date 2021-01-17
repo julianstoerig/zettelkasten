@@ -6,11 +6,22 @@
       {
         "id": "b6dc68535df17809",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "📝 - Arbeitsplatz/Pflanzenzelle.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1913f1ec780b95a1",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Apoplast.md",
             "mode": "source"
           }
         }
@@ -63,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Pflanzenzelle.md",
+                "file": "📝 - Arbeitsplatz/Apoplast.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Pflanzenzelle.md",
+                "file": "📝 - Arbeitsplatz/Apoplast.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +134,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Apoplast.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Zellen.md",
@@ -131,7 +143,6 @@
     "📄 - Zettelstapel/Mikrobiologie/Protoplast.md",
     "📄 - Zettelstapel/Mikrobiologie/Protoplasten.md",
     "📝 - Arbeitsplatz/Untitled.md",
-    "%The Model Thinker - Scott E. Page.md",
-    "📋 - Vorlagen/Buch.md"
+    "%The Model Thinker - Scott E. Page.md"
   ]
 }
