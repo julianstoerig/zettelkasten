@@ -1,4 +1,4 @@
- **Pflanzenzellen** bestehen im Regelfall aus  dem Protoplasten, der von Zellmembran
+ **Pflanzenzellen** bestehen im Regelfall aus  dem Protoplasten, eingeschlossen in die Zellwand
  - Cytoplasma, umgeben von Plasmamembran (= Plasmalemma)
  - Zellkern
  - Plastiden
