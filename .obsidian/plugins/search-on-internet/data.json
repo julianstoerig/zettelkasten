@@ -1,1 +1,1 @@
-{"searches":[{"tags":[],"query":"https://www.ecose.de/search?&q={{title}}","name":"Ecosia"},{"tags":[],"query":"https://en.wikipedia.org/wiki/Special:Search/{{title}}","name":"Wikipedia"}]}
+{"searches":[{"tags":[],"query":"https://www.ecosia.de/search?&q={{title}}","name":"Ecosia"},{"tags":[],"query":"https://en.wikipedia.org/wiki/Special:Search/{{title}}","name":"Wikipedia"}]}
