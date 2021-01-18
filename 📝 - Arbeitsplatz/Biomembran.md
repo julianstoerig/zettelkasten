@@ -1,7 +1,7 @@
 [[📝 - Arbeitsplatz/Botanik]] [[VO Botanik]] [[2021-01-17]]
 
 ---
-[[file://C:/Users/Zettelkaste]]
+[fd](file:///C:/Users/Zettelkasten/Geschwindigkeit.md)
 ![[📎 - Anhänge/Pasted image 20210117145833.png]]
 
 **Biomembranen** trennen Zellkompartiments voneinander und den Zellinnenraum vom Zellaußenraum .
