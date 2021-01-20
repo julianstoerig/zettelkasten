@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Biomembran.md",
-            "mode": "preview"
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Biomembran.md",
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Biomembran.md",
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,7 @@
     "width": 232.4747314453125
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Biomembran.md",
     "📎 - Anhänge/Pasted image 20210117145833.png",
     "📄 - Zettelstapel/Mikrobiologie/Periplasma.md",
@@ -138,7 +139,6 @@
     "📝 - Arbeitsplatz/Lipid-Doppelschicht.md",
     "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
     "📝 - Arbeitsplatz/Pflanzenzelle.md",
-    "📝 - Arbeitsplatz/Symplast.md",
-    "📝 - Arbeitsplatz/Apoplast.md"
+    "📝 - Arbeitsplatz/Symplast.md"
   ]
 }
