@@ -1,0 +1,3 @@
+**Skepsis**, das Zweifeln an erhaltener Information, ist für uns etwas altägliches. Erzählt mir jemand etwas, dass ich mir nur schwer vorstellen kann, so zwingt mich meine Natur dazu, jene Information in Zweifel zu ziehen.
+
+Aber, ist das die beste Art zu handeln? Ist moderate Skepsis für ein gesundes Leben notwendig? Und, besonders im Lichte der aktuellen Pandemie, ist moderate Skepsis der radikalen Skepsis über- oder unterlegen? Sind die Dinge, so wie sie uns dargestellt werden nur Suggestion durch eine Weltelite? Falls ja, wie ließe sich das bestätigen? Und wie ist dieser Gedanken mit der wissenschaftlichen Methodik vereinbar? Ist er es nicht, welche der beiden Theorien behalten wir?
