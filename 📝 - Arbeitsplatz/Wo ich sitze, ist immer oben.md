@@ -2,6 +2,8 @@
 
 Dies sagte [[Otto von Bismarck]] zur Ehefrau Wilhem I. und damaliger deutscher Kaiserin, nachdem diese sich bei einem Essen beschwerte, Bismarcks Frau säße höher am Tisch, als ihr ihres Ranges nach zustehe.
 
-- [ ] this
-1. - [ ] fd
-2. - [x]  fd
+```mermaid
+pie title weekly
+"Researching" : 20
+"Reviewing/Reflecting" : 80
+```
