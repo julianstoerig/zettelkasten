@@ -1,1 +1,1 @@
-{{prompt}}
+{{tp_daily_quote}}
