@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+            "file": "%The Model Thinker - Scott E. Page.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+                "file": "%The Model Thinker - Scott E. Page.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+                "file": "%The Model Thinker - Scott E. Page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,7 @@
     "width": 232.4747314453125
   },
   "lastOpenFiles": [
+    "%The Model Thinker - Scott E. Page.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Biomembran.md",
@@ -138,7 +139,6 @@
     "📝 - Arbeitsplatz/Zellen.md",
     "📝 - Arbeitsplatz/Botanik.md",
     "📝 - Arbeitsplatz/Lipid-Doppelschicht.md",
-    "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md",
-    "📝 - Arbeitsplatz/Pflanzenzelle.md"
+    "📄 - Zettelstapel/Mikrobiologie/Phospholipid.md"
   ]
 }
