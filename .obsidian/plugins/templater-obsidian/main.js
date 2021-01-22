@@ -22079,12 +22079,12 @@ function tp_daily_quote(_app, _args) {
         var response, author, quote, new_content;
         return __generator(this, function (_a) {
             switch (_a.label) {
-                case 0: return [4 /*yield*/, axios$1.get("https://quotes.rest/qod")];
+                case 0: return [4 /*yield*/, axios$1.get("https://quotes.rest/qod?language=de")];
                 case 1:
                     response = _a.sent();
                     author = response.data.contents.quotes[0].author;
                     quote = response.data.contents.quotes[0].quote;
-                    new_content = "> " + quote + "\n> &mdash; <cite>" + author + "</cite>";
+                    new_content = "> " + quote + "\n> &mdash; " + author;
                     return [2 /*return*/, new_content];
             }
         });
