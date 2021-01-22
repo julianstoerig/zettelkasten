@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -68,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,13 +130,13 @@
     "width": 232.4747314453125
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled.md",
     "📅 - Logbuch/2021-01-22.md",
     "📋 - Vorlagen/Writing Prompt.md",
     "📋 - Vorlagen/Untitled.md",
     "Physik.md",
     "%The Model Thinker - Scott E. Page.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
-    "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Biomembran.md",
     "📎 - Anhänge/Pasted image 20210117145833.png",
     "📄 - Zettelstapel/Mikrobiologie/Periplasma.md"
