@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physik.md",
-            "mode": "preview"
+            "file": "📋 - Vorlagen/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physik.md",
+                "file": "📋 - Vorlagen/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik.md",
+                "file": "📋 - Vorlagen/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,7 @@
     "width": 232.4747314453125
   },
   "lastOpenFiles": [
+    "📋 - Vorlagen/Untitled.md",
     "Physik.md",
     "%The Model Thinker - Scott E. Page.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
@@ -138,7 +139,6 @@
     "📎 - Anhänge/Pasted image 20210117145833.png",
     "📄 - Zettelstapel/Mikrobiologie/Periplasma.md",
     "📝 - Arbeitsplatz/Zellen.md",
-    "📝 - Arbeitsplatz/Botanik.md",
-    "📝 - Arbeitsplatz/Lipid-Doppelschicht.md"
+    "📝 - Arbeitsplatz/Botanik.md"
   ]
 }
