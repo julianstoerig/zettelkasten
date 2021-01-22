@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0ba77946ba73722c",
+        "id": "8f5198f27c141049",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "%The Model Thinker - Scott E. Page.md",
-            "mode": "preview"
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "%The Model Thinker - Scott E. Page.md",
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "%The Model Thinker - Scott E. Page.md",
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,9 +131,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled.md",
     "%The Model Thinker - Scott E. Page.md",
     "Physik.md",
-    "📝 - Arbeitsplatz/Untitled.md",
     "📅 - Logbuch/2021-01-22.md",
     "📋 - Vorlagen/Writing Prompt.md",
     "📋 - Vorlagen/Untitled.md",
