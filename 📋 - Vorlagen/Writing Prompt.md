@@ -1,1 +1,1 @@
-{{prompt}}<div id="zufallszitat"><strong><a href="http://www.zitate-online.de/autor/duerrenmatt-friedrich/">Friedrich D&uuml;rrenmatt</a></strong>: &bdquo;Die Welt ist eine Tankstelle, an der das rauchen nicht verboten ist.&ldquo;<br /><span id="zufallszitatlink">von <a href="http://www.zitate-online.de/" title="Zitate und Spr&uuml;che">zitate-online.de</a></span></div>
+{{prompt}}
