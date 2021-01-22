@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Physik.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -22,7 +25,7 @@
       {
         "id": "aa9390330fbe976d",
         "type": "tabs",
-        "dimension": 58.33333333333334,
+        "dimension": 64.30635838150289,
         "children": [
           {
             "id": "71cf44860e0737fd",
@@ -58,9 +61,9 @@
         ]
       },
       {
-        "id": "3076d5943e2b5caa",
+        "id": "4e5c03e6380a39a4",
         "type": "tabs",
-        "dimension": 41.66666666666666,
+        "dimension": 35.69364161849711,
         "children": [
           {
             "id": "507982df27520917",
@@ -68,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Physik.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physik.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,9 +131,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Physik.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "%The Model Thinker - Scott E. Page.md",
-    "Physik.md",
     "📅 - Logbuch/2021-01-22.md",
     "📋 - Vorlagen/Writing Prompt.md",
     "📋 - Vorlagen/Untitled.md",
