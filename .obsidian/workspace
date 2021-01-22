@@ -127,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.4747314453125
+    "width": 232.4747314453125,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "📝 - Arbeitsplatz/Untitled.md",
