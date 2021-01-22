@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -68,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,10 +131,10 @@
   },
   "lastOpenFiles": [
     "📝 - Arbeitsplatz/Untitled.md",
+    "Physik.md",
     "📅 - Logbuch/2021-01-22.md",
     "📋 - Vorlagen/Writing Prompt.md",
     "📋 - Vorlagen/Untitled.md",
-    "Physik.md",
     "%The Model Thinker - Scott E. Page.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/Biomembran.md",
