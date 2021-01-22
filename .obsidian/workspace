@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "802062f989631820",
+        "id": "1712fd47f11a3f2a",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📋 - Vorlagen/Writing Prompt.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 - Vorlagen/Writing Prompt.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 - Vorlagen/Writing Prompt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +125,7 @@
     "width": 232.4747314453125
   },
   "lastOpenFiles": [
+    "📅 - Logbuch/2021-01-22.md",
     "📋 - Vorlagen/Writing Prompt.md",
     "📋 - Vorlagen/Untitled.md",
     "Physik.md",
@@ -138,7 +134,6 @@
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Biomembran.md",
     "📎 - Anhänge/Pasted image 20210117145833.png",
-    "📄 - Zettelstapel/Mikrobiologie/Periplasma.md",
-    "📝 - Arbeitsplatz/Zellen.md"
+    "📄 - Zettelstapel/Mikrobiologie/Periplasma.md"
   ]
 }
