@@ -2,7 +2,7 @@
 
 ---
 
-> It can scarcely be denied that the supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience. — Albert Einstein im Vortrag ‘On the Method of Theoretical Physics’, an der Oxford Universität, 1933-06-10
+> It can scarcely be denied that the supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience. — [[Albert Einstein]] im Vortrag ‘On the Method of Theoretical Physics’, an der Oxford Universität, 1933-06-10
 
 **Physik** ist die Suche nach **Gesetzmäßigkeiten** und **quantitativen Modellen** zur Erklärung **grundlegender Naturphänomene**. Ihr wesentliches Ziel ist dabei das Zurückführen aller beobachteten Phänomene auf **möglichst wenige Grundprinzipien**. 
 
