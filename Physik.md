@@ -11,3 +11,5 @@ Diese Grundprinzipien führen aber oftmals zu mathematischen Modellen, die zu ko
 Andere Wissenschaften, die versuchen Naturphänomene zu beschreiben, sind also Anwendung und Abstraktionen der physikalischen Grundprinzipien.
 
 ![[📎 - Anhänge/scientific fields arrange by 'purity'.png]]
+
+<p class="sticky">your text</p>
