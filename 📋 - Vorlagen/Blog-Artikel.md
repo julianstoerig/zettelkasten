@@ -1,4 +1,4 @@
-# {==Nach Lesen löschen (`ctrl + D`)==: Titel für Blog-Artikel beginnen mit `+` (ohne whitespace davor oder danach)}
+# {==Nach Lesen löschen (`ctrl + D`)==: Titel für Blog-Artikel beginnen mit `?` (ohne whitespace davor oder danach)}
 [[Fachgebiet]] [[Kursname]] [[1. Semester]] [[2021-01-14]]
 
 ---

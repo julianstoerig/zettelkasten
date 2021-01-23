@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Blog-Artikel.md",
+            "file": "📋 - Vorlagen/Blog-Artikel.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Blog-Artikel.md",
+                "file": "📋 - Vorlagen/Blog-Artikel.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Blog-Artikel.md",
+                "file": "📋 - Vorlagen/Blog-Artikel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +131,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/Untitled.md",
     "📋 - Vorlagen/Blog-Artikel.md",
+    "📝 - Arbeitsplatz/Untitled.md",
     "📋 - Vorlagen/Scientific Paper.md",
     "📋 - Vorlagen/Person.md",
     "%The Model Thinker - Scott E. Page.md",
