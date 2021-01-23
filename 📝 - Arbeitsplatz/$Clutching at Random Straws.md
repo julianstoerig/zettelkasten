@@ -14,7 +14,7 @@ Aufgerufen am: [[2021-01-24]]
 
 Allgemeines Thema: [[Irreführende Statistiken]]
 
-Spezielles Thema: [[Cherry Picking]]
+Spezielles Thema: [[Rosinenpickerei]]
 
 ---
 
