@@ -4,7 +4,7 @@
 }
 
 .cm-formatting-highlight + .cm-highlight {
-  border-bottom:thin solid #ff6a00;
+  border-bottom:medium solid #ffae00;
     
 }
 
@@ -15,6 +15,6 @@
 /* preview mode */
 
 mark {
-   border-bottom:thin solid #ff6a00; 
+   border-bottom:medium solid #ffae00; 
    background-color: transparent !important;
 }
