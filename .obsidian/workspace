@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fda34f8aeec424c3",
+        "id": "b4af9fe2b3c2035d",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "%The Model Thinker - Scott E. Page.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -68,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "%The Model Thinker - Scott E. Page.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "%The Model Thinker - Scott E. Page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,10 +131,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/Mathematische Modelle.md",
     "%The Model Thinker - Scott E. Page.md",
-    "📝 - Arbeitsplatz/k.md",
     "📝 - Arbeitsplatz/Untitled.md",
+    "📝 - Arbeitsplatz/Mathematische Modelle.md",
+    "📝 - Arbeitsplatz/k.md",
     "Physik.md",
     "📅 - Logbuch/2021-01-22.md",
     "📋 - Vorlagen/Writing Prompt.md",
