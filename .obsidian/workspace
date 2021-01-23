@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 - Vorlagen/Online-Kurse.md",
-            "mode": "source"
+            "file": "📝 - Arbeitsplatz/Quellen.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 - Vorlagen/Online-Kurse.md",
+                "file": "📝 - Arbeitsplatz/Quellen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 - Vorlagen/Online-Kurse.md",
+                "file": "📝 - Arbeitsplatz/Quellen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +130,15 @@
     "width": 232.4747314453125
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Quellen.md",
     "📋 - Vorlagen/Online-Kurse.md",
+    "📋 - Vorlagen/Buch.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "Papers.md",
     "Personen.md",
     "📝 - Arbeitsplatz/ISO 8601.md",
     "Größen und Einheiten.md",
     "📋 - Vorlagen/Scientific Paper.md",
-    "📋 - Vorlagen/Blog-Artikel.md",
-    "📋 - Vorlagen/Person.md",
-    "%The Model Thinker - Scott E. Page.md"
+    "📋 - Vorlagen/Blog-Artikel.md"
   ]
 }
