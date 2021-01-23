@@ -1,0 +1,3 @@
+```query
+file:(%)  line:mathe
+```

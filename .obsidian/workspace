@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Untitled.md",
-            "mode": "source"
+            "file": "📝 - Arbeitsplatz/Bücher.md",
+            "mode": "preview"
           }
         }
       }
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4e5c03e6380a39a4",
@@ -72,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "📝 - Arbeitsplatz/Bücher.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "📝 - Arbeitsplatz/Bücher.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
