@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a13ac50acc42128e",
+        "id": "e62174a53d97d4f3",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Quellen.md",
+            "file": "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe,.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Quellen.md",
+                "file": "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe,.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Quellen.md",
+                "file": "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe,.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,11 +131,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Quellen.md",
     "%The Model Thinker - Scott E. Page.md",
     "📋 - Vorlagen/Online-Kurse.md",
     "📋 - Vorlagen/Buch.md",
-    "📝 - Arbeitsplatz/Untitled.md",
     "Papers.md",
     "Personen.md",
     "📝 - Arbeitsplatz/ISO 8601.md",
