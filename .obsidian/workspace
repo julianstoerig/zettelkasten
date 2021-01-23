@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8a919ce5c47badca",
+        "id": "a13ac50acc42128e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Quellen.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -68,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/Quellen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/Quellen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +130,15 @@
     "width": 232.4747314453125
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled.md",
+    "Papers.md",
+    "Personen.md",
     "📝 - Arbeitsplatz/ISO 8601.md",
     "Größen und Einheiten.md",
-    "📝 - Arbeitsplatz/Untitled.md",
     "📋 - Vorlagen/Scientific Paper.md",
     "📋 - Vorlagen/Blog-Artikel.md",
     "📋 - Vorlagen/Person.md",
     "%The Model Thinker - Scott E. Page.md",
-    "📝 - Arbeitsplatz/Mathematische Modelle.md",
-    "📝 - Arbeitsplatz/k.md",
-    "Physik.md"
+    "📝 - Arbeitsplatz/Mathematische Modelle.md"
   ]
 }
