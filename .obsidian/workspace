@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e62174a53d97d4f3",
+        "id": "1cd9788b623d7476",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe, sind alle möglichen Konstellationen von Datenpunkten in jeder Genauigkeit vorhanden.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1eb38417735bab52",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 - Vorlagen/Online-Lecture.md",
+            "file": "📝 - Arbeitsplatz/Untitled.md",
             "mode": "source"
           }
         }
@@ -71,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 - Vorlagen/Online-Lecture.md",
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 - Vorlagen/Online-Lecture.md",
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +142,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled.md",
+    "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe, sind alle möglichen Konstellationen von Datenpunkten in jeder Genauigkeit vorhanden.md",
+    "📋 - Vorlagen/Buch.md",
+    "📋 - Vorlagen/Online-Kurse.md",
+    "📋 - Vorlagen/Lecture.md",
+    "📋 - Vorlagen/Online-Lecture.md",
     "📋 - Vorlagen/Lecture 1.md",
     "📋 - Vorlagen/Online-Kurse 1.md",
-    "📋 - Vorlagen/Online-Kurse.md",
-    "📋 - Vorlagen/Buch.md",
-    "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe, sind alle möglichen Konstellationen von Datenpunkten in jeder Genauigkeit vorhanden.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
-    "📝 - Arbeitsplatz/Untitled.md",
-    "📝 - Arbeitsplatz/Quellen.md",
-    "%The Model Thinker - Scott E. Page.md",
-    "Papers.md"
+    "📝 - Arbeitsplatz/Quellen.md"
   ]
 }
