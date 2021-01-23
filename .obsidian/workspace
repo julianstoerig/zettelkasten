@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "%The Model Thinker - Scott E. Page.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -71,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "%The Model Thinker - Scott E. Page.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "%The Model Thinker - Scott E. Page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
