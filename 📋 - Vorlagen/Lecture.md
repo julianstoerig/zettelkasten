@@ -5,11 +5,9 @@
 
 ## Metadaten
 
-Autor(-en): [[]]
+Dozent(-en): [[]]
 
-Veröffentlichungsjahr: [[]]
-
-Bibliographische Referenz (APA): (Zotero Referenz einfügen)
+Abgehalten am: [[]]
 
 Allgemeines Thema: [[]]
 
