@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "648dd61d1a663beb",
+        "id": "feaaca6fc2c0b2b3",
         "type": "leaf",
         "active": true,
         "state": {
@@ -122,23 +122,16 @@
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "4d233b2a89eacbc6",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 232.4747314453125
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/ISO 8601.md",
+    "Größen und Einheiten.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📋 - Vorlagen/Scientific Paper.md",
     "📋 - Vorlagen/Blog-Artikel.md",
@@ -146,8 +139,6 @@
     "%The Model Thinker - Scott E. Page.md",
     "📝 - Arbeitsplatz/Mathematische Modelle.md",
     "📝 - Arbeitsplatz/k.md",
-    "Physik.md",
-    "📅 - Logbuch/2021-01-22.md",
-    "📋 - Vorlagen/Writing Prompt.md"
+    "Physik.md"
   ]
 }
