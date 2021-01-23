@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Bücher.md",
-            "mode": "preview"
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Bücher.md",
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Bücher.md",
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +132,7 @@
   },
   "lastOpenFiles": [
     "📝 - Arbeitsplatz/Untitled.md",
+    "📋 - Vorlagen/Person.md",
     "%The Model Thinker - Scott E. Page.md",
     "📝 - Arbeitsplatz/Mathematische Modelle.md",
     "📝 - Arbeitsplatz/k.md",
@@ -139,7 +140,6 @@
     "📅 - Logbuch/2021-01-22.md",
     "📋 - Vorlagen/Writing Prompt.md",
     "📋 - Vorlagen/Untitled.md",
-    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
-    "📝 - Arbeitsplatz/Biomembran.md"
+    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md"
   ]
 }
