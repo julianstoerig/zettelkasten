@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 - Vorlagen/Lecture.md",
+            "file": "📋 - Vorlagen/Online-Lecture.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 - Vorlagen/Lecture.md",
+                "file": "📋 - Vorlagen/Online-Lecture.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 - Vorlagen/Lecture.md",
+                "file": "📋 - Vorlagen/Online-Lecture.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📋 - Vorlagen/Lecture 1.md",
     "📋 - Vorlagen/Online-Kurse 1.md",
     "📋 - Vorlagen/Online-Kurse.md",
     "📋 - Vorlagen/Buch.md",
@@ -139,7 +140,6 @@
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Quellen.md",
     "%The Model Thinker - Scott E. Page.md",
-    "Papers.md",
-    "Personen.md"
+    "Papers.md"
   ]
 }
