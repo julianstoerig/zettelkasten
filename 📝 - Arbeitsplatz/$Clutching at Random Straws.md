@@ -4,11 +4,11 @@
 
 ## Metadaten
 
-Reihe: [[LMS Popular Lecture Series]]
+Reihe: [[LMS Popular Lecture Series 2010]]
 
-Dozent(-en): [[]]
+Dozent(-en): [[@Parker, Matt]]
 
-Abgehalten am: [[]]
+Abgehalten am: [[2010]]
 
 Aufgerufen am: [[]]
 
