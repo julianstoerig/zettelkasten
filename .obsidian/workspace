@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "feaaca6fc2c0b2b3",
+        "id": "8a919ce5c47badca",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📝 - Arbeitsplatz/ISO 8601.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/ISO 8601.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/ISO 8601.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
