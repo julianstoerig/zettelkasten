@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Untitled.md",
-            "mode": "source"
+            "file": "Untitled.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
