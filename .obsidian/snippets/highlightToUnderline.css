@@ -1,0 +1,20 @@
+/* Editor mode */
+.cm-formatting-highlight {
+    display:none
+}
+
+.cm-formatting-highlight + .cm-highlight {
+  border-bottom:thin solid #ff6a00;
+    
+}
+
+.cm-highlight {
+    background-color: transparent !important;
+}
+
+/* preview mode */
+
+mark {
+   border-bottom:thin solid #ff6a00; 
+   background-color: transparent !important;
+}
