@@ -122,13 +122,21 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "4d233b2a89eacbc6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 232.4747314453125,
-    "collapsed": true
+    "width": 232.4747314453125
   },
   "lastOpenFiles": [
     "📝 - Arbeitsplatz/Untitled.md",
