@@ -1,3 +1,11 @@
+## Bücher
+
 ```query
-file:(% OR ~) 
+file:(%) 
+```
+
+## Kurse
+
+```query
+file:(~)
 ```
