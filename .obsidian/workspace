@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dfd99f962706ea12",
+        "id": "648dd61d1a663beb",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📋 - Vorlagen/Blog-Artikel.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 - Vorlagen/Blog-Artikel.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 - Vorlagen/Blog-Artikel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,9 +126,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📋 - Vorlagen/Scientific Paper.md",
     "📋 - Vorlagen/Blog-Artikel.md",
     "📝 - Arbeitsplatz/Untitled.md",
-    "📋 - Vorlagen/Scientific Paper.md",
     "📋 - Vorlagen/Person.md",
     "%The Model Thinker - Scott E. Page.md",
     "📝 - Arbeitsplatz/Mathematische Modelle.md",
