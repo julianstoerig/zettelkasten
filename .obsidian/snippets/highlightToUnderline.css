@@ -1,7 +1,7 @@
 /* Editor mode */
-.cm-formatting-highlight {
+/* .cm-formatting-highlight {
     display:none
-}
+} */
 
 .cm-formatting-highlight + .cm-highlight {
   border-bottom:medium solid #ffae00;
