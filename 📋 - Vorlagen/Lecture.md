@@ -5,6 +5,8 @@
 
 ## Metadaten
 
+Reihe: [[]]
+
 Dozent(-en): [[]]
 
 Abgehalten am: [[]]
