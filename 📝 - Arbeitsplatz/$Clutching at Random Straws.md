@@ -10,9 +10,9 @@ Dozent(-en): [[@Parker, Matt]]
 
 Abgehalten am: [[2010]]
 
-Aufgerufen am: [[]]
+Aufgerufen am: [[2021-01-24]]
 
-Allgemeines Thema: [[]]
+Allgemeines Thema: [[Irreführende Statistik]]
 
 Spezielles Thema: [[]]
 

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 - Vorlagen/morgen.md",
+            "file": "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 - Vorlagen/morgen.md",
+                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 - Vorlagen/morgen.md",
+                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,9 +131,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
     "📋 - Vorlagen/Untitled.md",
     "📝 - Arbeitsplatz/Untitled.md",
-    "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
     "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe, sind alle möglichen Konstellationen von Datenpunkten in jeder Genauigkeit vorhanden.md",
     "📋 - Vorlagen/Online-Kurse.md",
     "📋 - Vorlagen/Online-Lecture.md",
