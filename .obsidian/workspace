@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe, sind alle möglichen Konstellationen von Datenpunkten in jeder Genauigkeit vorhanden.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -131,6 +131,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe, sind alle möglichen Konstellationen von Datenpunkten in jeder Genauigkeit vorhanden.md",
+    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Quellen.md",
     "%The Model Thinker - Scott E. Page.md",
@@ -138,8 +140,6 @@
     "📋 - Vorlagen/Buch.md",
     "Papers.md",
     "Personen.md",
-    "📝 - Arbeitsplatz/ISO 8601.md",
-    "Größen und Einheiten.md",
-    "📋 - Vorlagen/Scientific Paper.md"
+    "📝 - Arbeitsplatz/ISO 8601.md"
   ]
 }
