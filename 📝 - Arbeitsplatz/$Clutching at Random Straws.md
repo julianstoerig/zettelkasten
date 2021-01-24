@@ -27,6 +27,6 @@ Ein Brite schrieb an verschiedenste wissenschaftliche und nicht-wissenschaftlich
 
 ## Hypothese und Widerlegbarkeit
 
-Die Hypothese lautet also, **Dass **
+Die Hypothese lautet also, **Dass aus eier Vielzahl von Orten mehrere über präzise geometrische Formen verbunden sind ist so unwahrscheinlich, dass Zufall ausgeschlossen werden kann**
 
 ![[📎 - Anhänge/Pasted image 20210124010559.png]]
