@@ -63,4 +63,8 @@ Fällt der dritte Punkt in eine der Zonen, gibt es ein gleichseitiges Dreieck un
 
 ### mehr Punkte
 
-mit mehr Punkten steigt die Chance darauf, dass neue zufällige Punkte mit anderen Punkten gleichseitige Dreiecke bilden immer stärker an, bis es unausweichlich wird
+mit mehr Punkten steigt die Chance darauf, dass neue zufällige Punkte mit anderen Punkten gleichseitige Dreiecke bilden immer stärker an, bis es unausweichlich wird. 
+
+### Schlussfolgerung
+
+Es ist also nicht nur Zufall, sondern garantiert, dass aus einem ausreichend großen, zufälligen Datensatz, 
