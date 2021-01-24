@@ -43,3 +43,5 @@ Im Vergleich mit den vorherigen, sind diese jedoch wesentlich neuer, diese Dreie
 ![[📎 - Anhänge/Pasted image 20210124011345.png]]
 
 > *Fig. 3*: Woolworth-Filialen in Großbrittannien und ausgewählte durch Verbindung derselben entstandene Dreiecke.
+
+## Abstrahierte Analyse
