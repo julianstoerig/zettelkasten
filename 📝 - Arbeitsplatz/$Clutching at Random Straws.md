@@ -67,6 +67,6 @@ mit mehr Punkten steigt die Chance darauf, dass neue zufällige Punkte mit ander
 
 ### Schlussfolgerung
 
-
+![[📎 - Anhänge/Pasted image 20210124013650.png]]
 
 Es ist also nicht nur Zufall, sondern garantiert, dass sich in einem ausreichend großen, zufälligen Graphen gleichseitige Dreiecke bilden.
