@@ -34,7 +34,7 @@ Die Hypothese lautet also, dass **aus eiber Vielzahl von Orten, mehrere über pr
 
 ![[📎 - Anhänge/Pasted image 20210124010559.png]]
 
-> *Fig. 2*: Weitere präzise Dreiecke aus Bauten einer Baugruppe in Großbrittannien
+> *Fig. 2*: Weitere präzise Dreiecke aus Bauten einer Baugruppe in Großbrittannien.
 
 Dies sind Dreiecke, die auf $\approx. 0.5-2\%$ genau sind. Auch sie basieren auf Bauten einer Baugruppe im vereinigten Königreich.
 
@@ -42,4 +42,5 @@ Im Vergleich mit den vorherigen, sind diese jedoch wesentlich neuer, diese Dreie
 
 ![[📎 - Anhänge/Pasted image 20210124011345.png]]
 
-> *Fig. 3*:
+> *Fig. 3*: Woolworth-Filialen in Großbrittannien und ausgewählte durch Verbindung derselben entstandene Dreiecke.
+
