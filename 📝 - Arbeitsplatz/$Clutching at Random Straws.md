@@ -53,3 +53,7 @@ Wir nehmen ein Rechteck an, auf dessen Oberfläche sich Punkte befinden, von den
 
 Platzieren wir zufällig zwei Punkte auf die Fläche, ergeben sich zwei "Zonen" (deren Größe abhängig von der gewünschten Präzision der gleichseitigen Dreiecke ist), in die der nächste Punkt fallen müsste, um ein gleichseitiges Dreieck zu erzeugen.
 
+![[📎 - Anhänge/Pasted image 20210124012952.png]]
+*Fig. 6*: drei Punkte auf Grundfläche
+
+Fällt der dritte Punkt in eine der Zonen, gibt es ein gleichseitiges
