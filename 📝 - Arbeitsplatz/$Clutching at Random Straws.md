@@ -27,6 +27,10 @@ Ein Brite schrieb an verschiedenste wissenschaftliche und nicht-wissenschaftlich
 
 ## Hypothese und Widerlegbarkeit
 
-Die Hypothese lautet also, dass **aus eiber Vielzahl von Orten, mehrere über präzise geometrische Formen verbunden sind, ist so unwahrscheinlich, dass Zufall ausgeschlossen werden kann**. Diese Hypothese ist widerlegba
+Die Hypothese lautet also, dass **aus eiber Vielzahl von Orten, mehrere über präzise geometrische Formen verbunden sind, ist so unwahrscheinlich, dass Zufall ausgeschlossen werden kann**. Diese Hypothese ist widerlegbar, indem man aufzeigt, dass solche Konstellationen tatsächlich zufällig auftreten.
+
+## Widerlegung der Hypothese
 
 ![[📎 - Anhänge/Pasted image 20210124010559.png]]
+
+Dies ist eine
