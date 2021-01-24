@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d4bc6b2cdf05aba8",
+        "id": "c29a65d781bde7e5",
         "type": "leaf",
         "active": true,
         "state": {
@@ -126,6 +126,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Find unlinked files plugin output.md",
     "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
     "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe, sind alle möglichen Konstellationen von Datenpunkten in jeder Genauigkeit vorhanden.md",
     "Personen.md",
@@ -134,7 +135,6 @@
     "📝 - Arbeitsplatz/Untitled.md",
     "Quellen.md",
     "Bücher.md",
-    "📋 - Vorlagen/Untitled.md",
-    "📋 - Vorlagen/Online-Kurse.md"
+    "📋 - Vorlagen/Untitled.md"
   ]
 }
