@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6fcff1c6f1d4b767",
+        "id": "5cb6475a32065c6b",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +126,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Bücher.md",
+    "Personen.md",
     "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
     "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe, sind alle möglichen Konstellationen von Datenpunkten in jeder Genauigkeit vorhanden.md",
     "📋 - Vorlagen/Untitled.md",
@@ -138,8 +135,6 @@
     "📋 - Vorlagen/Online-Kurse.md",
     "📋 - Vorlagen/Online-Lecture.md",
     "📋 - Vorlagen/Lecture.md",
-    "📋 - Vorlagen/Buch.md",
-    "📋 - Vorlagen/Lecture 1.md",
-    "📋 - Vorlagen/Online-Kurse 1.md"
+    "📋 - Vorlagen/Buch.md"
   ]
 }

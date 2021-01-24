@@ -1,3 +1,0 @@
-```query
-file:(%)  line:mathe
-```
