@@ -46,7 +46,10 @@ Im Vergleich mit den vorherigen, sind diese jedoch wesentlich neuer, diese Dreie
 
 ## Abstrahierte Analyse
 
-Wir nehmen an ein Rechteck, auf dessen Oberfläche sich Punkte befinden, von denen wir hoffen, sie ergäben gleichseitige Dreiecke.
-
 ![[📎 - Anhänge/Pasted image 20210124012428.png]]
-> *Fig. 4*: rechtecki
+> *Fig. 4*: rechteckige Grundfläche
+
+Wir nehmen ein Rechteck an, auf dessen Oberfläche sich Punkte befinden, von denen wir hoffen, sie ergäben gleichseitige Dreiecke.
+
+
+Platzieren wir zufällig zwei Punkte auf die Fläche, ergeben sich 
