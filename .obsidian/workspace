@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2fd94d017380667c",
+        "id": "4b0de76a73e7775e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+            "file": "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +131,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
+    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "Chemie.md",
     "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
     "Quellen.md",
