@@ -21,6 +21,7 @@ Spezielles Thema: [[Rosinenpickerei]]
 ## Einleitung
 
 ![[📎 - Anhänge/Pasted image 20210124003103.png]]
+
 > *Fig. 1*: Luftlinien zwischen verschiedensten ehemaligen antiken Bauten in Großbrittanien
 
 Ein Brite schrieb an verschiedenste wissenschaftliche und nicht-wissenschaftliche Verläge, die in *Fig. 1* zu sehenden Dreiecke seien so präzise gleichschenklige, gleichseitige und rechtwinklige Dreiecke, dass dies nicht zufällig der Fall sein könne. Er vermutete daher, dass diese Konstellationen absichtlich &mdash; wohl zumindest teils zum Zweck der Navigation &mdash; so plaziert wurden. Auch extraterestielle Hilfe bei der Konstruktion sei nicht auszuschließen.
@@ -33,8 +34,10 @@ Die Hypothese lautet also, dass **aus eiber Vielzahl von Orten, mehrere über pr
 
 ![[📎 - Anhänge/Pasted image 20210124010559.png]]
 
+> *Fig. 2*: Weitere 
+
 Dies sind Dreiecke, die auf $\approx. 0.5-2\%$ genau sind. Auch sie basieren auf Bauten einer Baugruppe im vereinigten Königreich.
 
-Im Vergleich mit den vorherigen, sind diese jedoch wesentlich neuer, diese aus Woolworth-Filialen gebildete 
+Im Vergleich mit den vorherigen, sind diese jedoch wesentlich neuer, diese Dreiecke wurden aus Woolworth-Filialen gebildet. 
 
 ![[📎 - Anhänge/Pasted image 20210124011345.png]]
