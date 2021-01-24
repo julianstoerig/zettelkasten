@@ -52,4 +52,4 @@ Im Vergleich mit den vorherigen, sind diese jedoch wesentlich neuer, diese Dreie
 Wir nehmen ein Rechteck an, auf dessen Oberfläche sich Punkte befinden, von denen wir hoffen, sie ergäben gleichseitige Dreiecke.
 
 
-Platzieren wir zufällig zwei Punkte auf die Fläche, ergeben sich 
+Platzieren wir zufällig zwei Punkte auf die Fläche, ergeben sich zwei "Zonen" (deren Größe abhängig von der gewünschten Präzision der gleichseitigen Dreiecke ist), in die der nächste Punkt fallen müsste, um ein gleichseitiges Dreiec
