@@ -1,4 +1,4 @@
-[[Physik]] [[1. Semester]]
+[[Physik]] 
 
 ---
 

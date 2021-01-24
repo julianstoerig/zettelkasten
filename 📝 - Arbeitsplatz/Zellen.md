@@ -1,4 +1,4 @@
-[[📝 - Arbeitsplatz/Botanik]] [[Zoologie]] [[📄 - Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Botanik]] [[VO Zoologie]] [[VO Mikrobiologie]] [[1. Semester]] [[2021-01-08]]
+[[📝 - Arbeitsplatz/Botanik]] [[Zoologie]] [[📄 - Zettelstapel/Mikrobiologie/Mikrobiologie]] [[VO Botanik]] [[VO Zoologie]] [[VO Mikrobiologie]]  [[2021-01-08]]
 
 ---
 

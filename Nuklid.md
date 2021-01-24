@@ -1,4 +1,4 @@
-[[Chemie]] [[VO allgemeine und anorganische Chemie]] [[1. Semester]] [[📖 Logbuch/2021-01-03]]
+[[Chemie]] [[VO allgemeine und anorganische Chemie]]  [[📖 Logbuch/2021-01-03]]
 
 ---
 

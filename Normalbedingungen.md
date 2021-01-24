@@ -1,5 +1,5 @@
 
-[[Chemie]] [[VO allgemeine und anorganische Chemie]] [[1. Semester]]
+[[Chemie]] [[VO allgemeine und anorganische Chemie]] 
 
 ---
 
