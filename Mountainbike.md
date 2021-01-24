@@ -1,1 +1,0 @@
-https://www.canyon.com/de-de/mountain-bikes/trail-bikes/neuron/neuron-6/2625.html?dwvar_2625_pv_rahmenfarbe=BK%2FGY&dwvar_2625_pv_rahmengroesse=M

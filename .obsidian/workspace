@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f932f89c6cabe368",
+        "id": "117826a4e94efa53",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mountainbike.md",
-            "mode": "source"
+            "file": "freie Enthalpie.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mountainbike.md",
+                "file": "freie Enthalpie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mountainbike.md",
+                "file": "freie Enthalpie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "freie Enthalpie.md",
     "Mountainbike.md",
     "Keimbahn -Soma.md",
     "Links.md",
@@ -139,7 +140,6 @@
     "📋 - Vorlagen/Online-Lecture.md",
     "📋 - Vorlagen/Buch.md",
     "📋 - Vorlagen/Beispiel.md",
-    "Quellen.md",
-    "Thought-Queue.md"
+    "Quellen.md"
   ]
 }
