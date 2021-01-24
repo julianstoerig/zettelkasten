@@ -43,17 +43,22 @@ Im Vergleich mit den vorherigen, sind diese jedoch wesentlich neuer, diese Dreie
 
 ## Abstrahierte Analyse
 
+### rechteckige Grundfläche
+
 ![[📎 - Anhänge/Pasted image 20210124012428.png]]
-*Fig. 4*: rechteckige Grundfläche
 
 Wir nehmen ein Rechteck an, auf dessen Oberfläche zufällig Punkte plaziert werden, von denen wir hoffen, sie ergeben gleichseitige Dreiecke.
 
+### erste zwei Punkte auf Grundfläche
+
 ![[📎 - Anhänge/Pasted image 20210124012716.png]]
-*Fig. 5*: erste zwei Punkte auf Grundfläche
 
 Platzieren wir zufällig zwei Punkte auf die Fläche, ergeben sich zwei "Zonen" (deren Größe abhängig von der gewünschten Präzision der gleichseitigen Dreiecke ist), in die der nächste Punkt fallen müsste, um ein gleichseitiges Dreieck zu erzeugen.
 
+### drei Punkte auf Grundfläche
+
 ![[📎 - Anhänge/Pasted image 20210124012952.png]]
-*Fig. 6*: drei Punkte auf Grundfläche
 
 Fällt der dritte Punkt in eine der Zonen, gibt es ein gleichseitiges Dreieck und unser Ziel ist erreicht. Tut es das nicht, gibt es jetzt mehr Zonen, in die der nächste Punkt fallen könnte, um ein gleichseitiges Dreieck zu erzeugen.
+
+### mehr Punkte
