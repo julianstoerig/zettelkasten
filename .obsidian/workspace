@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4b0de76a73e7775e",
+        "id": "7c89d3452fbddbc9",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ISO 8601.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ISO 8601.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISO 8601.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
