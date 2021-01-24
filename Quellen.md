@@ -9,3 +9,9 @@ file:(%)
 ```query
 file:(~)
 ```
+
+## Vorlesungen
+
+```query
+file: (# OR $)
+```

@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Quellen.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -68,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Quellen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quellen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +131,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Quellen.md",
     "Bücher.md",
     "Personen.md",
     "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
@@ -134,7 +140,6 @@
     "📝 - Arbeitsplatz/Untitled.md",
     "📋 - Vorlagen/Online-Kurse.md",
     "📋 - Vorlagen/Online-Lecture.md",
-    "📋 - Vorlagen/Lecture.md",
-    "📋 - Vorlagen/Buch.md"
+    "📋 - Vorlagen/Lecture.md"
   ]
 }
