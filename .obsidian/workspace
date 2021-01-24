@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2b27e9688e3a65b",
+        "id": "34ab8be7bbe971d3",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262,
-    "collapsed": true
+    "width": 262
   },
   "right": {
     "id": "a3b0eee1ddc0955b",
@@ -127,6 +126,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/§Graphentwicklung.md",
+    "📝 - Arbeitsplatz/Graphentwicklung.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
     "freie Enthalpie.md",
@@ -134,8 +135,6 @@
     "Keimbahn -Soma.md",
     "Links.md",
     "November-23rd,-2020.md",
-    "📋 - Vorlagen/Second Brain.md",
-    "📋 - Vorlagen/Online-Lecture.md",
-    "📋 - Vorlagen/Buch.md"
+    "📋 - Vorlagen/Second Brain.md"
   ]
 }
