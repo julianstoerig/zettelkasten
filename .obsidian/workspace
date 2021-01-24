@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7c89d3452fbddbc9",
+        "id": "57f68fae4c4af706",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Untitled.md",
-            "mode": "source"
+            "file": "%The Model Thinker - Scott E. Page.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "%The Model Thinker - Scott E. Page.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "%The Model Thinker - Scott E. Page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "%The Model Thinker - Scott E. Page.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "ISO 8601.md",
     "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
@@ -139,7 +140,6 @@
     "Chemie.md",
     "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
     "Quellen.md",
-    "Personen.md",
-    "Find unlinked files plugin output.md"
+    "Personen.md"
   ]
 }
