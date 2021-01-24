@@ -46,7 +46,7 @@ Im Vergleich mit den vorherigen, sind diese jedoch wesentlich neuer, diese Dreie
 ![[📎 - Anhänge/Pasted image 20210124012428.png]]
 *Fig. 4*: rechteckige Grundfläche
 
-Wir nehmen ein Rechteck an, auf dessen Oberfläche sich Punkte befinden, von denen wir hoffen, sie ergäben gleichseitige Dreiecke.
+Wir nehmen ein Rechteck an, auf dessen Oberfläche zufällig Punkte plaziert werden, von denen wir hoffen, sie ergeben gleichseitige Dreiecke.
 
 ![[📎 - Anhänge/Pasted image 20210124012716.png]]
 *Fig. 5*: erste zwei Punkte auf Grundfläche
