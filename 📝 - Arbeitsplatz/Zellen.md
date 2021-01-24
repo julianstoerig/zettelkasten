@@ -28,7 +28,7 @@ Zellen
 
 [[📄 - Zettelstapel/Mikrobiologie/Humanes-Mikrobiom]]
 
-[[Keimbahn -Soma.md]]
+[[Keimbahn - Soma]]
 
 [[📄 - Zettelstapel/Mikrobiologie/Magnetosomen]]
 
