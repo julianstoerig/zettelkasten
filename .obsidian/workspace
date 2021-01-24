@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quellen.md",
+            "file": "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quellen.md",
+                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quellen.md",
+                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,9 +131,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
     "Quellen.md",
     "Personen.md",
-    "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
     "Find unlinked files plugin output.md",
     "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe, sind alle möglichen Konstellationen von Datenpunkten in jeder Genauigkeit vorhanden.md",
     "📝 - Arbeitsplatz/@Parker, Matt.md",
