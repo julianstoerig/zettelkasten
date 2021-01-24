@@ -25,6 +25,6 @@ Spezielles Thema: [[Rosinenpickerei]]
 
 Ein Brite schrieb an verschiedenste wissenschaftliche und nicht-wissenschaftliche Verläge, die in *Fig. 1* zu sehenden Dreiecke seien so präzise gleichschenklige, gleichseitige und rechtwinklige Dreiecke, dass dies nicht zufällig der Fall sein könne. Er vermutete daher, dass diese Konstellationen absichtlich &mdash; wohl zumindest teils zum Zweck der Navigation &mdash; so plaziert wurden. Auch extraterestielle Hilfe bei der Konstruktion sei nicht auszuschließen.
 
-## Hat er Recht?
+## 
 
 ![[📎 - Anhänge/Pasted image 20210124010559.png]]
