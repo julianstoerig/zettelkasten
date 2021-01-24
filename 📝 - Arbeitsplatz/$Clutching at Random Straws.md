@@ -56,4 +56,4 @@ Platzieren wir zufällig zwei Punkte auf die Fläche, ergeben sich zwei "Zonen" 
 ![[📎 - Anhänge/Pasted image 20210124012952.png]]
 *Fig. 6*: drei Punkte auf Grundfläche
 
-Fällt der dritte Punkt in eine der Zonen, gibt es ein gleichseitiges
+Fällt der dritte Punkt in eine der Zonen, gibt es ein gleichseitiges Dreieck und unser Ziel ist erreicht. Tut es das nicht, gibt es jetzt mehr Zonen, in die der nächste Punkt fallen könnte, um ein gleichseitiges Dreieck zu erzeugen.
