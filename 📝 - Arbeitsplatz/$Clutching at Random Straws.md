@@ -45,3 +45,6 @@ Im Vergleich mit den vorherigen, sind diese jedoch wesentlich neuer, diese Dreie
 > *Fig. 3*: Woolworth-Filialen in Großbrittannien und ausgewählte durch Verbindung derselben entstandene Dreiecke.
 
 ## Abstrahierte Analyse
+
+Wir nehmen an ein Rechteck, auf dessen Oberfläche sich Punkte befinden, von denen wir hoffen, sie ergäben gleichseitige Dreiecke.
+
