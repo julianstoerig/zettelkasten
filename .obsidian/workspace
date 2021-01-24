@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -68,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -111,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +133,7 @@
   },
   "lastOpenFiles": [
     "📝 - Arbeitsplatz/Untitled.md",
+    "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
     "freie Enthalpie.md",
     "Mountainbike.md",
     "Keimbahn -Soma.md",
@@ -135,7 +141,6 @@
     "November-23rd,-2020.md",
     "📋 - Vorlagen/Second Brain.md",
     "📋 - Vorlagen/Online-Lecture.md",
-    "📋 - Vorlagen/Buch.md",
-    "📋 - Vorlagen/Beispiel.md"
+    "📋 - Vorlagen/Buch.md"
   ]
 }
