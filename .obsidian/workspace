@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -68,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +131,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
     "Chemie.md",
     "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
     "Quellen.md",
@@ -134,7 +140,6 @@
     "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe, sind alle möglichen Konstellationen von Datenpunkten in jeder Genauigkeit vorhanden.md",
     "📝 - Arbeitsplatz/@Parker, Matt.md",
     "📝 - Arbeitsplatz/Parker, Matt.md",
-    "📝 - Arbeitsplatz/Untitled.md",
-    "Bücher.md"
+    "📝 - Arbeitsplatz/Untitled.md"
   ]
 }
