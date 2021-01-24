@@ -67,4 +67,6 @@ mit mehr Punkten steigt die Chance darauf, dass neue zufällige Punkte mit ander
 
 ### Schlussfolgerung
 
-Es ist also nicht nur Zufall, sondern garantiert, dass aus einem ausreichend großen, zufälligen Datensatz, 
+
+
+Es ist also nicht nur Zufall, sondern garantiert, dass sich in einem ausreichend großen, zufälligen Graphen gleichseitige Dreiecke bilden.
