@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5cb6475a32065c6b",
+        "id": "d4bc6b2cdf05aba8",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Personen.md",
-            "mode": "source"
+            "file": "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Personen.md",
+                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Personen.md",
+                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +131,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
+    "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe, sind alle möglichen Konstellationen von Datenpunkten in jeder Genauigkeit vorhanden.md",
+    "Personen.md",
+    "📝 - Arbeitsplatz/@Parker, Matt.md",
+    "📝 - Arbeitsplatz/Parker, Matt.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "Quellen.md",
     "Bücher.md",
-    "Personen.md",
-    "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
-    "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe, sind alle möglichen Konstellationen von Datenpunkten in jeder Genauigkeit vorhanden.md",
     "📋 - Vorlagen/Untitled.md",
-    "📋 - Vorlagen/Online-Kurse.md",
-    "📋 - Vorlagen/Online-Lecture.md",
-    "📋 - Vorlagen/Lecture.md"
+    "📋 - Vorlagen/Online-Kurse.md"
   ]
 }
