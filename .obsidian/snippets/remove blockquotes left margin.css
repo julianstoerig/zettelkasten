@@ -1,4 +1,4 @@
 /* Remove blockquote left margin */
 blockquote {
-  margin-inline-start: 0;
+  margin-inline-start: 0 !important;
 }
