@@ -1,3 +1,9 @@
+## Vorlesungen
+
+```query
+file: (# OR $)
+```
+
 ## Bücher
 
 ```query
@@ -8,10 +14,4 @@ file:(%)
 
 ```query
 file:(~)
-```
-
-## Vorlesungen
-
-```query
-file: (# OR $)
 ```
