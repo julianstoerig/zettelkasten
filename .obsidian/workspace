@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
+            "file": "ISO 8601.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
+                "file": "ISO 8601.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
+                "file": "ISO 8601.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +131,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "ISO 8601.md",
     "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
+    "📝 - Arbeitsplatz/ISO 8601.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "Chemie.md",
     "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
     "Quellen.md",
     "Personen.md",
     "Find unlinked files plugin output.md",
-    "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe, sind alle möglichen Konstellationen von Datenpunkten in jeder Genauigkeit vorhanden.md",
-    "📝 - Arbeitsplatz/@Parker, Matt.md",
-    "📝 - Arbeitsplatz/Parker, Matt.md"
+    "📝 - Arbeitsplatz/In einem Datensatz ausreichender Größe, sind alle möglichen Konstellationen von Datenpunkten in jeder Genauigkeit vorhanden.md"
   ]
 }
