@@ -62,3 +62,5 @@ Platzieren wir zufällig zwei Punkte auf die Fläche, ergeben sich zwei "Zonen" 
 Fällt der dritte Punkt in eine der Zonen, gibt es ein gleichseitiges Dreieck und unser Ziel ist erreicht. Tut es das nicht, gibt es jetzt mehr Zonen, in die der nächste Punkt fallen könnte, um ein gleichseitiges Dreieck zu erzeugen.
 
 ### mehr Punkte
+
+mit mehr Punkten steigt die Chance darauf, dass neue zufällige Punkte mit anderen Punkten gleichseitige Dreiecke bilden immer stärker an, bis es unausweichlich wird
