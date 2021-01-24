@@ -12,7 +12,7 @@ Abgehalten am: [[2010]]
 
 Aufgerufen am: [[2021-01-24]]
 
-Allgemeines Thema: [[Irreführende Statistiken]]
+Thema: [[Irreführende Statistiken]]
 
 Spezielles Thema: [[Rosinenpickerei]]
 
