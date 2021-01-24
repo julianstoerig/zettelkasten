@@ -33,6 +33,8 @@ Die Hypothese lautet also, dass **aus eiber Vielzahl von Orten, mehrere über pr
 
 ![[📎 - Anhänge/Pasted image 20210124010559.png]]
 
-Dies sind aus Woolworth-Filialen gebildete Dreiecke, die auf $\approx. 0.5-2\%$ genau sind.
+Dies sind Dreiecke, die auf $\approx. 0.5-2\%$ genau sind. Auch sie basieren auf Bauten einer Baugruppe im vereinigten Königreich.
+
+Im Vergleich mit den vorherigen, sind diese jedoch wesentlich neuer, diese aus Woolworth-Filialen gebildete 
 
 ![[📎 - Anhänge/Pasted image 20210124011345.png]]
