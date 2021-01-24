@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "57f68fae4c4af706",
+        "id": "b4480cb6c2602035",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
+            "file": "📋 - Vorlagen/Buch.md",
             "mode": "preview"
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(+)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4e5c03e6380a39a4",
@@ -71,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
+                "file": "📋 - Vorlagen/Buch.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
+                "file": "📋 - Vorlagen/Buch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +132,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📋 - Vorlagen/Buch.md",
+    "📋 - Vorlagen/Beispiel.md",
+    "Quellen.md",
+    "Thought-Queue.md",
     "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
     "%The Model Thinker - Scott E. Page.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "ISO 8601.md",
     "📝 - Arbeitsplatz/ISO 8601.md",
-    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
-    "Chemie.md",
-    "📝 - Arbeitsplatz/$Clutching at Random Straws.md",
-    "Quellen.md",
-    "Personen.md"
+    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md"
   ]
 }
