@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "543d2bf5873a60c5",
+        "id": "06b4f682c3ba7be3",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "freie Enthalpie.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "freie Enthalpie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -115,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "freie Enthalpie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
