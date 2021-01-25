@@ -46,7 +46,7 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 		- ![[📎 - Anhänge/simple Grafik Eukaryot.png]]
 	- Prokaryoten vs Eukaryoten DNA
 		- Prokaryoten DNA
-			- ein großes kreisförmiges Molekül
+			- ein großes kreisförmiges Molekül -> Plasmid
 			- eventuell zusätzliche kleinere kreisförmige Moleküle
 		- Eukaryoten DNA
-			- mehrere lineare Moleküle &mdash; Chromosome
+			- mehrere lineare Moleküle -> Chromosome
