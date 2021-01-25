@@ -32,6 +32,7 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 		- Endosymbiontentheorie:
 			- Manche Prokaryoten nehmen Nahrung auf, indem sie sie umfließen, in sich in eine Nahrungsvakuole (Membran mit speziellem Innenmillieu) einschließen und verdauen. Manchmal können die Ziele aber nicht vollständig aufgelöst werden, so entstehen interne Membransysteme
 			- Es gibt Hinweise darauf,  dass Prokaryoten im Laufe der Geschichte andere Prokaryoten "verschluckt" haben ohne diese zu verdauen. Im Laufe der Evolution übernehmen diese gewisse Aufgaben in der Zelle (= Endosymbiose), z.B. Atmung: Mitochondrien; Photosynthese: Chloroplasten
+				- Doppelmembran: Die innere Membran stammt vom phagocytierten Organismus, die äußere von der Wirtszelle
 		- zusätzlich zur Außenmembran noch innere Membranen -> Kompartimentierung
 			- Zellkern zum Schutz der Erbinformation
 			- Mitochondrien erlauben Atmung -> effektivere Energiegewinnung
