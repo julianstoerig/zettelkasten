@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "file": "📋 - Vorlagen/Online-Vorlesung.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "📋 - Vorlagen/Online-Vorlesung.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Untitled.md",
+                "file": "📋 - Vorlagen/Online-Vorlesung.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +130,15 @@
     "width": 232.4747314453125
   },
   "lastOpenFiles": [
+    "📋 - Vorlagen/Online-Lecture.md",
+    "📝 - Arbeitsplatz/# Cytologie A.md",
+    "📋 - Vorlagen/Lecture.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "freie Enthalpie.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "📝 - Arbeitsplatz/§Graphentwicklung.md",
     "📝 - Arbeitsplatz/Graphentwicklung.md",
     "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
-    "Mountainbike.md",
-    "Keimbahn -Soma.md",
-    "Links.md",
-    "November-23rd,-2020.md"
+    "Mountainbike.md"
   ]
 }

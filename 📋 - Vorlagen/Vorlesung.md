@@ -1,4 +1,4 @@
-# {==Nach Lesen löschen (`ctrl + D`)==: Titel für Kurse beginnen mit `#` (ohne whitespace davor oder danach)}
+# {==Nach Lesen löschen (`ctrl + D`)==: Titel für Vorlesungen beginnen mit `#` (ohne whitespace davor oder danach)}
 [[Fachgebiet]] [[{{tp_today}}]]
 
 ---
