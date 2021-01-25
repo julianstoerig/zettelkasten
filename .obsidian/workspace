@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3354e8ee6be8d002",
+        "id": "8cb5e5034ac64a53",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/headerSpacing.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -68,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/headerSpacing.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/headerSpacing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +131,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Untitled.md",
+    "Edelgas.md",
     "📋 - Vorlagen/Zitat.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/§Graphentwicklung.md",
     "📝 - Arbeitsplatz/testForBug.md",
     "📝 - Arbeitsplatz/linkToFile.md",
-    "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Otto von Bismarck.md",
     "📝 - Arbeitsplatz/@Bismark, Otto von.md",
-    "§Stylesheet.md",
-    "📝 - Arbeitsplatz/# Cytologie A.md"
+    "§Stylesheet.md"
   ]
 }
