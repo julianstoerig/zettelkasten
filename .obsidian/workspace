@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6e9fd869f63ab55a",
+        "id": "8d3093057475222f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -71,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +126,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/§Graphentwicklung.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/testForBug.md",
     "📝 - Arbeitsplatz/linkToFile.md",
@@ -139,7 +135,6 @@
     "📝 - Arbeitsplatz/@Bismark, Otto von.md",
     "§Stylesheet.md",
     "📝 - Arbeitsplatz/# Cytologie A.md",
-    "Quellen.md",
-    "📋 - Vorlagen/Zitat.md"
+    "Quellen.md"
   ]
 }
