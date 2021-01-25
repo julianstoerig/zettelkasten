@@ -1,5 +1,11 @@
+/* Edit Mode */
 
+.cm-s-obsidian pre.HyperMD-header {
+    padding-top: 35px;
+}
+
+/* Preview Mode */
 
 .markdown-preview-view h2, .markdown-preview-view h3, .markdown-preview-view h4, .markdown-preview-view h5, .markdown-preview-view h6 {
-    margin-top: 35px;
+    padding-top: 35px;
 }
