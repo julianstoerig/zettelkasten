@@ -31,6 +31,7 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 		- später aus Prokaryonten entstanden
 		- Endosymbiontentheorie:
 			- Manche Prokaryoten nehmen Nahrung auf, indem sie sie umfließen, in sich in eine Nahrungsvakuole (Membran mit speziellem Innenmillieu) einschließen und verdauen. Manchmal können die Ziele aber nicht vollständig aufgelöst werden, so entstehen interne Membransysteme
+			- Es gibt Hinweise darauf,  dass Prokaryoten im Laufe der Geschichte andere P
 		- zusätzlich zur Außenmembran noch innere Membranen -> Kompartimentierung
 			- Zellkern zum Schutz der Erbinformation
 			- Mitochondrien erlauben Atmung -> effektivere Energiegewinnung
