@@ -36,7 +36,7 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 				- Chloroplasten erlauben Photosynthese
 			- jede Membran trennt eine wässrige von einer plasmatischen Phase
 				- Organellen mit Einfachmembran wie Zellvakuolen haben innen ein wässriges Millieu
-				- Organellen mit Doppelmembran wie Mitochondrien, Zellkern und Zellkern haben innen plasmatische Millieus 
+				- Organellen mit Doppelmembran wie Mitochondrien, Plastiden und Zellkern haben innen plasmatische Millieus 
 		- ![[📎 - Anhänge/simple Grafik Eukaryot.png]]
 	- Prokaryoten vs Eukaryoten DNA
 		- Prokaryoten DNA
