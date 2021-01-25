@@ -12,7 +12,9 @@ Abgehalten am: [[]]
 
 Allgemeines Thema: [[Grundlagen der Botanik]]
 
-Spezielles Thema: [[Cytologie ]]
+Spezielles Thema: [[]]
+
+Datei: [[zotero://open-pdf/0_PH2Q82N7/1]]
 
 ---
 
