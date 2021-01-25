@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quellen.md",
-            "mode": "preview"
+            "file": "📝 - Arbeitsplatz/# Cytologie A.md",
+            "mode": "source"
           }
         }
       }
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quellen.md",
+                "file": "📝 - Arbeitsplatz/# Cytologie A.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quellen.md",
+                "file": "📝 - Arbeitsplatz/# Cytologie A.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +133,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Quellen.md",
     "📝 - Arbeitsplatz/# Cytologie A.md",
+    "Quellen.md",
     "📎 - Anhänge/Pasted image 20210125095431.png",
     "📎 - Anhänge/simple Grafik Prokaryot.png",
     "📎 - Anhänge/Pasted image 20210125095016.png",
