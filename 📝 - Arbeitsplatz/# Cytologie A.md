@@ -34,8 +34,9 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 			- Mitochondrien erlauben Atmung -> effektivere Energiegewinnung
 			- Plastiden
 				- Chloroplasten erlauben Photosynthese
-			- ![[📎 - Anhänge/simple Grafik Eukaryot.png]]
-			- 
+			- jede Membran trennt eine wässrige von einer plasmatischen Phase
+				- Organellen mit Einfachmembran wie Zellvakuolen haben  
+		- ![[📎 - Anhänge/simple Grafik Eukaryot.png]]
 	- Prokaryoten vs Eukaryoten DNA
 		- Prokaryoten DNA
 			- ein großes kreisförmiges Molekül
