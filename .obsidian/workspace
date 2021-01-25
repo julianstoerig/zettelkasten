@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6918ebd4f4c1469e",
+        "id": "8d79c3ba6b799bc9",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/headerSpacing.md",
+            "file": "📝 - Arbeitsplatz/Latex Spaces.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/headerSpacing.md",
+                "file": "📝 - Arbeitsplatz/Latex Spaces.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/headerSpacing.md",
+                "file": "📝 - Arbeitsplatz/Latex Spaces.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,9 +131,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/headerSpacing.md",
-    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/Untitled.md",
+    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+    "📝 - Arbeitsplatz/headerSpacing.md",
     "Edelgas.md",
     "📋 - Vorlagen/Zitat.md",
     "📝 - Arbeitsplatz/§Graphentwicklung.md",
