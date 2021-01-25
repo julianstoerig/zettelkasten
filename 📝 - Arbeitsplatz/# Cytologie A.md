@@ -29,6 +29,8 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 		- ![[📎 - Anhänge/simple Grafik Prokaryot.png]]
 	- Eukaryonten
 		- später aus Prokaryonten entstanden
+		- Endosymbiontentheorie:
+			- Prokaryoten nehmen Nahrung auf, indem sie sie umfließen und in sich 
 		- zusätzlich zur Außenmembran noch innere Membranen -> Kompartimentierung
 			- Zellkern zum Schutz der Erbinformation
 			- Mitochondrien erlauben Atmung -> effektivere Energiegewinnung
