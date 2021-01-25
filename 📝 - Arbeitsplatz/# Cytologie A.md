@@ -14,7 +14,7 @@ Allgemeines Thema: [[Grundlagen der Botanik]]
 
 Spezielles Thema: [[]]
 
-Datei: [[zotero://open-pdf/0_PH2Q82N7/1]]
+Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 
 ---
 
