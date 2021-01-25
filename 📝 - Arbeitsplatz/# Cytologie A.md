@@ -18,11 +18,11 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 
 ---
 
-
+## Notizen
 
 - Zellen
 	- Prokaryonten	
 		- ursprüngliche, einzellige Organismen (z.B. Bakterien)
 		- Membranhülle: Umschließt Zellinhalt, Abgrenzung zur Umwelt
 		- Redoxsysteme: An Membranhülle gebundene Reaktionssysteme zur Energie-Bereitstellung
-		- Makromoleküle: Bildung von Strukturen, Katalysatoren (Enzyme, Proteine), 
+		- Makromoleküle: Bildung von Strukturen, Katalysatoren (Enzyme, Proteine), Informationsspeicherung (DNA)
