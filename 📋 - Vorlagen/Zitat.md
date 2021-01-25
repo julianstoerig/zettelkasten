@@ -1,3 +1,3 @@
 > \<zitat\>
->
-> <cite> &mdash; <Autor><\cite>
+><div></div>
+> <cite> &mdash; <Autor></cite>
