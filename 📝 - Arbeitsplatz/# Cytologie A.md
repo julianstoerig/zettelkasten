@@ -38,4 +38,7 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 	- Prokaryoten vs Eukaryoten DNA
 		- Prokaryoten DNA
 			- ein großes kreisförmiges Molekül
-			- eventuell zusätzliche kleinere Kreisf
+			- eventuell zusätzliche kleinere kreisförmige Moleküle
+		- Eukaryoten DNA
+			- mehrere lineare Moleküle &mdash; Chromosome
+			- 
