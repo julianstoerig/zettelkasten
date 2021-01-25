@@ -21,4 +21,4 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 - Zellen
 	- Prokaryonten	
 		- ursprüngliche, einzellige Organismen (z.B. Bakterien)
-		- Membranhülle
+		- Membranhülle: Umschließt Zellinhalt, Abgrenzunh zur Umwel
