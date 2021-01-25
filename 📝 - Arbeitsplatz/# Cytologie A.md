@@ -36,7 +36,7 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 				- Mitochondrien und Chloroplasten teilen sich unabhängig vom Zellkern
 				- Sie beinhalten eigene, ringförmige DNA, die keine für Eukaryoten typischen Merkmale aufweist (repetitive Sequenzen)
 				- Ihre Ribosomen ähneln denen von Prokaryoten
-				- 
+				- Bei manchen Algen gibt es Chloroplasten mit Drei- und sogar Vierfachmembranen, die durch Phagocytose anderer Eukaroten enstanden sein könnten
 		- zusätzlich zur Außenmembran noch innere Membranen -> Kompartimentierung
 			- Zellkern zum Schutz der Erbinformation
 			- Mitochondrien erlauben Atmung -> effektivere Energiegewinnung
