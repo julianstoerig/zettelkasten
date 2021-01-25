@@ -21,4 +21,6 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 - Zellen
 	- Prokaryonten	
 		- ursprüngliche, einzellige Organismen (z.B. Bakterien)
-		- Membranhülle: Umschließt Zellinhalt, Abgrenzunh zur Umwel
+		- Membranhülle: Umschließt Zellinhalt, Abgrenzung zur Umwelt
+		- Redoxsysteme: An Membranhülle gebundene Reaktionssysteme zur Energie-Bereitstellung
+		- Makromoleküle: Bi
