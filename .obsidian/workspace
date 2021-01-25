@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "§Stylesheet.md",
-            "mode": "preview"
+            "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "§Stylesheet.md",
+                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "§Stylesheet.md",
+                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +131,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "§Stylesheet.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+    "§Stylesheet.md",
     "📝 - Arbeitsplatz/# Cytologie A.md",
     "Quellen.md",
     "📋 - Vorlagen/Zitat.md",
