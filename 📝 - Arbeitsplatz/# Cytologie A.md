@@ -1,5 +1,4 @@
-# {==Nach Lesen löschen (`ctrl + D`)==: Titel für Kurse beginnen mit `#` (ohne whitespace davor oder danach)}
-[[Fachgebiet]] [[2021-01-25]]
+[[Botanik]] [[VO Botanik]] [[2021-01-25]]
 
 ---
 
@@ -7,13 +6,13 @@
 
 Reihe: [[]]
 
-Dozent(-en): [[]]
+Dozent(-en): [[@Mayr, Stefan]]
 
 Abgehalten am: [[]]
 
-Allgemeines Thema: [[]]
+Allgemeines Thema: [[Grundlagen der Botanik]]
 
-Spezielles Thema: [[]]
+Spezielles Thema: [[Cytologie ]]
 
 ---
 
