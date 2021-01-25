@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3afc7ead7891fa5d",
+        "id": "3b6e63d088b34292",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+            "file": "📝 - Arbeitsplatz/testForBug.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+                "file": "📝 - Arbeitsplatz/testForBug.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+                "file": "📝 - Arbeitsplatz/testForBug.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +131,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/testForBug.md",
+    "📝 - Arbeitsplatz/linkToFile.md",
+    "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/Otto von Bismarck.md",
     "📝 - Arbeitsplatz/@Bismark, Otto von.md",
     "§Stylesheet.md",
     "📝 - Arbeitsplatz/# Cytologie A.md",
     "Quellen.md",
-    "📋 - Vorlagen/Zitat.md",
-    "📋 - Vorlagen/Untitled.md",
-    "📎 - Anhänge/Pasted image 20210125095431.png",
-    "📎 - Anhänge/simple Grafik Prokaryot.png"
+    "📋 - Vorlagen/Zitat.md"
   ]
 }
