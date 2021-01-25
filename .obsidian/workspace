@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "freie Enthalpie.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -68,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "freie Enthalpie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "freie Enthalpie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,16 +127,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.4747314453125,
-    "collapsed": true
+    "width": 232.4747314453125
   },
   "lastOpenFiles": [
+    "freie Enthalpie.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "📝 - Arbeitsplatz/§Graphentwicklung.md",
     "📝 - Arbeitsplatz/Graphentwicklung.md",
     "📝 - Arbeitsplatz/$Clutching at Random Straws - Matt Parker.md",
-    "freie Enthalpie.md",
     "Mountainbike.md",
     "Keimbahn -Soma.md",
     "Links.md",
