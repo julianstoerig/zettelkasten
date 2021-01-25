@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
-            "mode": "source"
+            "file": "§Stylesheet.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+                "file": "§Stylesheet.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+                "file": "§Stylesheet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "§Stylesheet.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/# Cytologie A.md",
     "Quellen.md",
@@ -139,7 +140,6 @@
     "📎 - Anhänge/Pasted image 20210125095431.png",
     "📎 - Anhänge/simple Grafik Prokaryot.png",
     "📎 - Anhänge/Pasted image 20210125095016.png",
-    "📋 - Vorlagen/Online-Vorlesung.md",
-    "📋 - Vorlagen/Online-Lecture.md"
+    "📋 - Vorlagen/Online-Vorlesung.md"
   ]
 }
