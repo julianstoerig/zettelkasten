@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📝 - Arbeitsplatz/# Cytologie A.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -72,7 +69,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/# Cytologie A.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -116,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/# Cytologie A.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
