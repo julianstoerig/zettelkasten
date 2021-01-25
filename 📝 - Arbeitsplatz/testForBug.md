@@ -1,4 +1,0 @@
-[[📝 - Arbeitsplatz/linkToFile]]
-
-# [[📝 - Arbeitsplatz/linkToFile]]
-
