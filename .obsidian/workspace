@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -68,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,10 +131,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/testForBug.md",
     "📝 - Arbeitsplatz/linkToFile.md",
     "📝 - Arbeitsplatz/Untitled.md",
-    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/Otto von Bismarck.md",
     "📝 - Arbeitsplatz/@Bismark, Otto von.md",
     "§Stylesheet.md",
