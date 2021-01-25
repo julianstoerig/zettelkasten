@@ -34,7 +34,9 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 			- Es gibt Hinweise darauf,  dass Prokaryoten im Laufe der Geschichte andere Prokaryoten "verschluckt" haben ohne diese zu verdauen. Im Laufe der Evolution übernehmen diese gewisse Aufgaben in der Zelle (= Endosymbiose), z.B. Atmung: Mitochondrien; Photosynthese: Chloroplasten
 				- Doppelmembran: Die innere Membran stammt vom phagocytierten Organismus, die äußere von der Wirtszelle
 				- Mitochondrien und Chloroplasten teilen sich unabhängig vom Zellkern
-				- Sie beinhalten eigene, ringförmige
+				- Sie beinhalten eigene, ringförmige DNA, die keine für Eukaryoten typischen Merkmale aufweist (repetitive Sequenzen)
+				- Ihre Ribosomen ähneln denen von Prokaryoten
+				- 
 		- zusätzlich zur Außenmembran noch innere Membranen -> Kompartimentierung
 			- Zellkern zum Schutz der Erbinformation
 			- Mitochondrien erlauben Atmung -> effektivere Energiegewinnung
