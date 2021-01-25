@@ -29,4 +29,7 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 		- ![[📎 - Anhänge/Pasted image 20210125095016.png]]
 	- Eukaryonten
 		- später aus Prokaryonten entstanden
-		- zusätzlich zur Außenmembran noch innere Membranen 
+		- zusätzlich zur Außenmembran noch innere Membranen -> Kompartimentierung
+			- Zellkern zum Schutz der Erbinformation
+			- 
+			- 
