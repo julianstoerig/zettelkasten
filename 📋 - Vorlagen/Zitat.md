@@ -1,3 +1,3 @@
 > Zitat
 ><div></div>
-> <cite> &mdash; Autor</cite>
+> <cite> &mdash; [[@Autor]]</cite>

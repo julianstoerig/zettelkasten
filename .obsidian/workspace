@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b4543f94996668da",
+        "id": "56318e53b9ed4aa4",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📋 - Vorlagen/Zitat.md",
+            "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📋 - Vorlagen/Zitat.md",
+                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 - Vorlagen/Zitat.md",
+                "file": "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +131,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📋 - Vorlagen/Untitled.md",
+    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/# Cytologie A.md",
     "Quellen.md",
+    "📋 - Vorlagen/Zitat.md",
+    "📋 - Vorlagen/Untitled.md",
     "📎 - Anhänge/Pasted image 20210125095431.png",
     "📎 - Anhänge/simple Grafik Prokaryot.png",
     "📎 - Anhänge/Pasted image 20210125095016.png",
     "📋 - Vorlagen/Online-Vorlesung.md",
-    "📋 - Vorlagen/Online-Lecture.md",
-    "📋 - Vorlagen/Lecture.md",
-    "📝 - Arbeitsplatz/Untitled.md"
+    "📋 - Vorlagen/Online-Lecture.md"
   ]
 }
