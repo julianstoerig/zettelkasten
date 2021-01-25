@@ -1,0 +1,3 @@
+> \<zitat\>
+>
+> <cite> &mdash; <Autor>
