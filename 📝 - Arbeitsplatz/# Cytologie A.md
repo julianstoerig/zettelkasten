@@ -34,4 +34,4 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 			- Mitochondrien erlauben Atmung -> effektivere Energiegewinnung
 			- Plastiden
 				- Chloroplasten erlauben Photosynthese
-			- ![[📎 - Anhänge/Pasted image 20210125095431.png]]
+			- ![[📎 - Anhänge/simple Grafik Eukaryot.png]]

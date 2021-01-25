@@ -4,24 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "59bf8a77981c7f90",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📝 - Arbeitsplatz/# Cytologie A.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4b1f4498e423478f",
+        "id": "b4543f94996668da",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "📎 - Anhänge/simple Grafik Prokaryot.png"
+            "file": "Quellen.md",
+            "mode": "preview"
           }
         }
       }
@@ -82,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📎 - Anhänge/simple Grafik Prokaryot.png",
+                "file": "Quellen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -126,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📎 - Anhänge/simple Grafik Prokaryot.png",
+                "file": "Quellen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,15 +133,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📎 - Anhänge/Pasted image 20210125095016.png",
+    "Quellen.md",
     "📝 - Arbeitsplatz/# Cytologie A.md",
+    "📎 - Anhänge/Pasted image 20210125095431.png",
+    "📎 - Anhänge/simple Grafik Prokaryot.png",
+    "📎 - Anhänge/Pasted image 20210125095016.png",
     "📋 - Vorlagen/Online-Vorlesung.md",
     "📋 - Vorlagen/Online-Lecture.md",
     "📋 - Vorlagen/Lecture.md",
     "📝 - Arbeitsplatz/Untitled.md",
-    "freie Enthalpie.md",
-    "📝 - Arbeitsplatz/Untitled 1.md",
-    "📝 - Arbeitsplatz/§Graphentwicklung.md",
-    "📝 - Arbeitsplatz/Graphentwicklung.md"
+    "freie Enthalpie.md"
   ]
 }
