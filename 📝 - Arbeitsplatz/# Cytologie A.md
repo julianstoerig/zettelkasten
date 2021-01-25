@@ -28,4 +28,5 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 		- Makromoleküle: Bildung von Strukturen, Katalysatoren (Enzyme, Proteine), Informationsspeicherung (RNA, DNA)
 		- ![[📎 - Anhänge/Pasted image 20210125095016.png]]
 	- Eukaryonten
-		- später entstanden
+		- später aus Prokaryonten entstanden
+		- zusätzlich zur Außenmembran noch innere Membranen 
