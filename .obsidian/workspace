@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "05eeb1dc13202137",
+        "id": "6918ebd4f4c1469e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/headerSpacing.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -68,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/headerSpacing.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/headerSpacing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
