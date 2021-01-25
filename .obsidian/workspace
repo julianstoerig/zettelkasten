@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/# Cytologie A.md",
+            "file": "📋 - Vorlagen/Untitled.md",
             "mode": "source"
           }
         }
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4e5c03e6380a39a4",
@@ -72,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/# Cytologie A.md",
+                "file": "📋 - Vorlagen/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -99,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262,
-    "collapsed": true
+    "width": 262
   },
   "right": {
     "id": "a3b0eee1ddc0955b",
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/# Cytologie A.md",
+                "file": "📋 - Vorlagen/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +131,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📋 - Vorlagen/Untitled.md",
     "📝 - Arbeitsplatz/# Cytologie A.md",
     "Quellen.md",
     "📎 - Anhänge/Pasted image 20210125095431.png",
@@ -141,7 +140,6 @@
     "📋 - Vorlagen/Online-Vorlesung.md",
     "📋 - Vorlagen/Online-Lecture.md",
     "📋 - Vorlagen/Lecture.md",
-    "📝 - Arbeitsplatz/Untitled.md",
-    "freie Enthalpie.md"
+    "📝 - Arbeitsplatz/Untitled.md"
   ]
 }
