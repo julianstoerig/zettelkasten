@@ -26,7 +26,7 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 		- Membranhülle umschließt Zellinhalt, Abgrenzung zur Umwelt
 		- Redoxsysteme, An Membranhülle gebundene Reaktionssysteme zur Energie-Bereitstellung
 		- Makromoleküle zur Bildung von Strukturen, als Katalysatoren (Enzyme, Proteine) und zur Informationsspeicherung (RNA, DNA)
-		- ![[📎 - Anhänge/Pasted image 20210125095016.png]]
+		- ![[📎 - Anhänge/simple Grafik Prokaryot.png]]
 	- Eukaryonten
 		- später aus Prokaryonten entstanden
 		- zusätzlich zur Außenmembran noch innere Membranen -> Kompartimentierung
