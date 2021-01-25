@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -68,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,8 +130,8 @@
     "width": 232.4747314453125
   },
   "lastOpenFiles": [
-    "freie Enthalpie.md",
     "📝 - Arbeitsplatz/Untitled.md",
+    "freie Enthalpie.md",
     "📝 - Arbeitsplatz/Untitled 1.md",
     "📝 - Arbeitsplatz/§Graphentwicklung.md",
     "📝 - Arbeitsplatz/Graphentwicklung.md",
