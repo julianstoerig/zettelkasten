@@ -38,8 +38,8 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 				- Ihre Ribosomen ähneln denen von Prokaryoten
 				- Bei manchen Algen gibt es Chloroplasten mit Drei- und sogar Vierfachmembranen, die durch Phagocytose anderer Eukaroten enstanden sein könnten
 			- Im Laufe der Evolution bessere Koordination zwischen Wirtszelle und Mitochondrien bzw. Chloroplasten (=Symbiogenese)
+				- Spezielle Koordinationsmechanismen zwischen Zelle und Organellen (z.B. Transporter)
 			- Intrazellulärer Gentransfer zwischen Symbionten.
-			- Spezielle Koordinationsmechanismen zwischen Zelle und Organellen (z.B. Transporter)
 		- zusätzlich zur Außenmembran noch innere Membranen -> Kompartimentierung
 			- Zellkern zum Schutz der Erbinformation
 			- Mitochondrien erlauben Atmung -> effektivere Energiegewinnung
