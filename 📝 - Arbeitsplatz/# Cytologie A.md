@@ -31,4 +31,7 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 		- später aus Prokaryonten entstanden
 		- zusätzlich zur Außenmembran noch innere Membranen -> Kompartimentierung
 			- Zellkern zum Schutz der Erbinformation
-			- Mitochondrien erlauben Atmung -> effektiwere
+			- Mitochondrien erlauben Atmung -> effektivere Energiegewinnung
+			- Plastiden
+				- Chloroplasten erlauben Photosynthese
+		- 
