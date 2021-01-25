@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "📝 - Arbeitsplatz/# Cytologie A.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 262,
+    "collapsed": true
   },
   "right": {
     "id": "a3b0eee1ddc0955b",
@@ -127,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.4747314453125
+    "width": 232.4747314453125,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "📝 - Arbeitsplatz/# Cytologie A.md",
