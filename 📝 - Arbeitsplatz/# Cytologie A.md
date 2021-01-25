@@ -30,7 +30,7 @@ Datei: [PDF-Datei](zotero://open-pdf/0_PH2Q82N7)
 	- Eukaryonten
 		- später aus Prokaryonten entstanden
 		- Endosymbiontentheorie:
-			- Manche Prokaryoten nehmen Nahrung auf, indem sie sie umfließen, in sich in eine Ver einschließen, die Ziele können manchmal nicht vollständig aufgelöst werden
+			- Manche Prokaryoten nehmen Nahrung auf, indem sie sie umfließen, in sich in eine Nahrungsvakuole (Membran mit speziellem Innenmillieu) einschließen und verdauen. die Ziele können nicht vollständig aufgelöst werden
 		- zusätzlich zur Außenmembran noch innere Membranen -> Kompartimentierung
 			- Zellkern zum Schutz der Erbinformation
 			- Mitochondrien erlauben Atmung -> effektivere Energiegewinnung
