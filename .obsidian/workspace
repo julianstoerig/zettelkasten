@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8cb5e5034ac64a53",
+        "id": "fc3e4c82f4c64729",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📝 - Arbeitsplatz/headerSpacing.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/headerSpacing.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/headerSpacing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,11 +126,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/headerSpacing.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "Edelgas.md",
     "📋 - Vorlagen/Zitat.md",
-    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/§Graphentwicklung.md",
     "📝 - Arbeitsplatz/testForBug.md",
     "📝 - Arbeitsplatz/linkToFile.md",
