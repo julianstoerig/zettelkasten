@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fc3e4c82f4c64729",
+        "id": "05eeb1dc13202137",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -126,8 +126,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/headerSpacing.md",
+    "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "Edelgas.md",
     "📋 - Vorlagen/Zitat.md",
