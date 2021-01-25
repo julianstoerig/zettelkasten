@@ -3,5 +3,3 @@
 > &mdash; <cite> [[@Bismarck, Otto von]] </cite>
 
 Dies sagte er zur Ehefrau Kaiser Wilhems I., nachdem diese sich bei einem Essen beschwerte Bismarcks Frau säße höher am Tisch, als ihr ihres Ranges nach zustehe.
-
-[[📄 - Zettelstapel/Mikrobiologie/Tetanustoxin]]
