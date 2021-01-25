@@ -1,0 +1,1 @@
+Die Grundlage für Bildung sog. "in-groups" und "out-groups" ist ein effektiver Radikalisierungs-Mechanismus.
