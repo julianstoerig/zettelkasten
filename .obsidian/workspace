@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0f22f85d167ccf7d",
+        "id": "63bcf1a3dff7a6d1",
         "type": "leaf",
         "active": true,
         "state": {
@@ -54,8 +54,17 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "952c6d254941f969",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "4e5c03e6380a39a4",
@@ -126,6 +135,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Physik.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/headerSpacing.md",
@@ -134,7 +144,6 @@
     "📝 - Arbeitsplatz/§Graphentwicklung.md",
     "📝 - Arbeitsplatz/testForBug.md",
     "📝 - Arbeitsplatz/linkToFile.md",
-    "📝 - Arbeitsplatz/Otto von Bismarck.md",
-    "📝 - Arbeitsplatz/@Bismark, Otto von.md"
+    "📝 - Arbeitsplatz/Otto von Bismarck.md"
   ]
 }
