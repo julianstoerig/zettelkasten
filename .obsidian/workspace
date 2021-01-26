@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9e5e83cea0a649f4",
+        "id": "889b63ad630f4b89",
         "type": "leaf",
         "active": true,
         "state": {
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:(xid) line: (",
+                "query": "file:(xid) line: ([[)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "4e5c03e6380a39a4",
@@ -135,8 +135,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Zoologie.md",
     "Quellen.md",
+    "Zoologie.md",
     "README.md",
     "Chemie.md",
     "Physik.md",
