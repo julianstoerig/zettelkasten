@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "63bcf1a3dff7a6d1",
+        "id": "a2db78e663270d33",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📝 - Arbeitsplatz/📅 Noch Einzutragen.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -66,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "4e5c03e6380a39a4",
@@ -80,7 +76,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/📅 Noch Einzutragen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/📅 Noch Einzutragen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +134,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/📅 Noch Einzutragen.md",
-    "Chemie.md",
+    "Quellen.md",
     "README.md",
+    "Chemie.md",
     "Physik.md",
+    "Zoologie.md",
+    "📝 - Arbeitsplatz/📅 Noch Einzutragen.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/headerSpacing.md",
-    "Edelgas.md",
-    "📋 - Vorlagen/Zitat.md",
-    "📝 - Arbeitsplatz/§Graphentwicklung.md"
+    "Edelgas.md"
   ]
 }
