@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a2db78e663270d33",
+        "id": "9e5e83cea0a649f4",
         "type": "leaf",
         "active": true,
         "state": {
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(+)",
+                "query": "file:(xid) line: (",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -63,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4e5c03e6380a39a4",
@@ -134,11 +135,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Zoologie.md",
     "Quellen.md",
     "README.md",
     "Chemie.md",
     "Physik.md",
-    "Zoologie.md",
     "📝 - Arbeitsplatz/📅 Noch Einzutragen.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
