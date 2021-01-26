@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8d79c3ba6b799bc9",
+        "id": "0f22f85d167ccf7d",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📝 - Arbeitsplatz/Latex Spaces.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,7 +68,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Latex Spaces.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Latex Spaces.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
