@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝 - Arbeitsplatz/📅 Noch Einzutragen.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -77,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "📝 - Arbeitsplatz/📅 Noch Einzutragen.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -119,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 - Arbeitsplatz/📅 Noch Einzutragen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +140,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "📝 - Arbeitsplatz/📅 Noch Einzutragen.md",
+    "Chemie.md",
+    "README.md",
     "Physik.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
     "📝 - Arbeitsplatz/headerSpacing.md",
     "Edelgas.md",
     "📋 - Vorlagen/Zitat.md",
-    "📝 - Arbeitsplatz/§Graphentwicklung.md",
-    "📝 - Arbeitsplatz/testForBug.md",
-    "📝 - Arbeitsplatz/linkToFile.md",
-    "📝 - Arbeitsplatz/Otto von Bismarck.md"
+    "📝 - Arbeitsplatz/§Graphentwicklung.md"
   ]
 }
