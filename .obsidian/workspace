@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "cbb2ce3f190d4668",
+        "id": "2eb63d7660ffc8a3",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Bildung ist die Grundlage für Demokratie.md",
+            "file": "📝 - Arbeitsplatz/Zitat ohne bestätigten Autor.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Bildung ist die Grundlage für Demokratie.md",
+                "file": "📝 - Arbeitsplatz/Zitat ohne bestätigten Autor.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Bildung ist die Grundlage für Demokratie.md",
+                "file": "📝 - Arbeitsplatz/Zitat ohne bestätigten Autor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,7 @@
   },
   "lastOpenFiles": [
     "📝 - Arbeitsplatz/Untitled.md",
+    "📋 - Vorlagen/Zitat.md",
     "Quellen.md",
     "Zoologie.md",
     "README.md",
@@ -148,7 +149,6 @@
     "Physik.md",
     "📝 - Arbeitsplatz/📅 Noch Einzutragen.md",
     "📝 - Arbeitsplatz/Wo ich sitze, ist immer oben.md",
-    "📝 - Arbeitsplatz/headerSpacing.md",
-    "Edelgas.md"
+    "📝 - Arbeitsplatz/headerSpacing.md"
   ]
 }
