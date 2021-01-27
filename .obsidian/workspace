@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2eb63d7660ffc8a3",
+        "id": "ee8ebd99c991e1a9",
         "type": "leaf",
         "active": true,
         "state": {
@@ -141,6 +141,7 @@
   },
   "lastOpenFiles": [
     "📝 - Arbeitsplatz/Bildung ist die Grundlage für Demokratie.md",
+    "📝 - Arbeitsplatz/@Jefferson, Thomas.md",
     "📝 - Arbeitsplatz/Zitat ohne bestätigten Autor.md",
     "📋 - Vorlagen/Zitat.md",
     "📝 - Arbeitsplatz/Untitled.md",
@@ -148,7 +149,6 @@
     "Zoologie.md",
     "README.md",
     "Chemie.md",
-    "Physik.md",
-    "📝 - Arbeitsplatz/📅 Noch Einzutragen.md"
+    "Physik.md"
   ]
 }
