@@ -1,3 +1,3 @@
-> Zitat
+> Information is the currency of democracy.
 > <br>
-> <cite> &mdash; [[@Thomas Jefferson]]</cite>
+> <cite> &mdash; wird [[@Jefferson, Thomas]] zugeschrieben</cite>

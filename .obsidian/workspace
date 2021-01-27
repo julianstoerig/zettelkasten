@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝 - Arbeitsplatz/Zitat ohne bestätigten Autor.md",
+            "file": "📝 - Arbeitsplatz/Bildung ist die Grundlage für Demokratie.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📝 - Arbeitsplatz/Zitat ohne bestätigten Autor.md",
+                "file": "📝 - Arbeitsplatz/Bildung ist die Grundlage für Demokratie.md",
                 "options": {
                   "search": "",
                   "localJumps": 2,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 - Arbeitsplatz/Zitat ohne bestätigten Autor.md",
+                "file": "📝 - Arbeitsplatz/Bildung ist die Grundlage für Demokratie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,8 +140,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "📝 - Arbeitsplatz/Zitat ohne bestätigten Autor.md",
     "📝 - Arbeitsplatz/Bildung ist die Grundlage für Demokratie.md",
+    "📝 - Arbeitsplatz/Zitat ohne bestätigten Autor.md",
     "📋 - Vorlagen/Zitat.md",
     "📝 - Arbeitsplatz/Untitled.md",
     "Quellen.md",
