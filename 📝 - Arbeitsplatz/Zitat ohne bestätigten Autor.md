@@ -1,3 +1,3 @@
-> Zitat
+> Information is the currency of democracy.
 > <br>
-> <cite> &mdash; [[@Autor]]</cite>
+> <cite> zugeschrieben: [[@Autor]]</cite>
